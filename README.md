@@ -17,15 +17,16 @@ Container-Image kommen aus dem Kern-Repo (Aufbau einer Instanz:
 | `data/` | generiert von `fetch` (echte Termine, Stand des letzten Laufs) |
 | `docs/` | Quellenrecherche, Quellen-Checkliste, Farbsystem |
 
-## Lokal ansehen
+## Betreiben / lokal ansehen
 
-Im Ordner dieses Repos, mit gebautem Kern-Image (siehe Kern-README):
+Im Ordner dieses Repos, mit gebautem oder gezogenem Kern-Image:
 
 ```sh
-docker run --rm -v "$PWD:/instance" -w /instance openlitfass fetch .
-docker run --rm -v "$PWD:/instance" -w /instance openlitfass build-site .
-docker run --rm -p 8080:80 -v "$PWD/public:/usr/share/nginx/html:ro" nginx:alpine
+docker run -d --name weissens --restart unless-stopped -v "$PWD:/instance" -p 8080:8080 openlitfass
 ```
 
-`fetch` aktualisiert Status-Felder in `sources/` und löscht abgelaufene
-`inbox/`-Dateien, also vorher committen.
+Dann <http://localhost:8080>. Der Container ruft alle 6 Stunden ab und baut
+neu; Zustand unter <http://localhost:8080/healthz>. Er schreibt dabei in
+`data/`, die `status`-Felder in `sources/` und löscht abgelaufene
+`inbox/`-Dateien – Änderungen bei Bedarf committen. Details: Kern-Doku
+`docs/instance.md` → "Betrieb".
