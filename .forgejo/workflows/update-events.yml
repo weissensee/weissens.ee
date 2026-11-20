@@ -28,9 +28,12 @@ jobs:
     # ADJUST to your runner label (Settings > Actions > Runners).
     runs-on: docker
     container:
-      # ADJUST to the image the core repository's build-image.yml pushes.
+      # ADJUST: openLitfass image from GitHub (core repo .github/workflows/image.yml).
+      # Hosting of this instance repo is still open: this file targets a
+      # Forgejo runner; on GitHub use openlitfass/example-instance/.github/
+      # workflows/update-events.yml instead.
       # Pin a commit tag instead of :latest for reproducible runs.
-      image: codeberg.org/YOUR_USERNAME/openlitfass:latest
+      image: ghcr.io/OWNER/openlitfass:latest
     steps:
       - name: Checkout
         uses: https://code.forgejo.org/actions/checkout@v4
