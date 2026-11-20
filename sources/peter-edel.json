@@ -1,0 +1,72 @@
+{
+  "label": "Peter Edel",
+  "homepage": "https://www.peteredel.de",
+  "type": "html",
+  "url": "https://www.peteredel.de/events/",
+  "itemSelector": ".box-rc-dark-grey",
+  "extract": {
+    "beginn": {
+      "selector": ".row > div:nth-of-type(2)",
+      "regex": "Beginn[^0-9]{0,15}(\\d{1,2}:\\d{2})"
+    },
+    "date": {
+      "selector": ".row > div:nth-of-type(1) h3",
+      "regex": "(\\d{1,2}\\.\\d{1,2}\\.)"
+    },
+    "description": {
+      "selector": ".row > div:nth-of-type(2) p",
+      "html": true,
+      "all": true
+    },
+    "einlass": {
+      "selector": ".row > div:nth-of-type(2)",
+      "regex": "Einlass[^0-9]{0,15}(\\d{1,2}:\\d{2})"
+    },
+    "link": {
+      "selector": "a[href*=/events/]",
+      "attr": "href"
+    },
+    "price": {
+      "selector": ".row > div:nth-of-type(3)",
+      "regex": "(?i)tickets:\\s*(?:ab\\s*)?(\\d+(?:,\\d+)?)\\s*€|eintritt\\W{0,3}(frei)"
+    },
+    "title": ".row > div:nth-of-type(2) h3"
+  },
+  "mapping": {
+    "title": {
+      "path": "title"
+    },
+    "description": {
+      "path": "description"
+    },
+    "category": {
+      "default": "Kultur"
+    },
+    "organizer": {
+      "default": "Bildungs- und Kulturzentrum Peter Edel"
+    },
+    "url": {
+      "path": "link",
+      "default": "https://www.peteredel.de/events/"
+    },
+    "locationName": {
+      "default": "Peter Edel"
+    },
+    "locationAddress": {
+      "default": "Berliner Allee 125, 13088 Berlin"
+    },
+    "start": {
+      "format": "2.1. 15:04|2.1.",
+      "template": "{date} {beginn|einlass}"
+    },
+    "price": {
+      "amountPath": "price",
+      "unknownIfMissing": true
+    }
+  },
+  "daysAhead": 120,
+  "status": {
+    "lastAttempt": "2026-11-20T22:50:36Z",
+    "lastSuccess": "2026-11-20T22:50:36Z"
+  }
+}

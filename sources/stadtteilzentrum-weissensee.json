@@ -21,7 +21,7 @@
     "place": ".headline p:nth-of-type(3) strong",
     "price": {
       "selector": ".headline",
-      "regex": "(?:Kosten|Kostenbeitrag|Eintritt)[^:]*:\\s*(\\d+)(?:,\\d+)?\\s*€"
+      "regex": "(?i)(?:kosten|kostenbeitrag|eintritt)[^:]*:\\s*(\\d+(?:,\\d+)?)\\s*€|eintritt\\W{0,3}(frei)"
     },
     "start": {
       "selector": ".headline p:nth-of-type(2)",
@@ -78,7 +78,7 @@
     "Workshops": "Kultur"
   },
   "status": {
-    "lastAttempt": "2026-11-20T22:44:36Z",
-    "lastSuccess": "2026-11-20T22:44:36Z"
+    "lastAttempt": "2026-11-20T22:50:36Z",
+    "lastSuccess": "2026-11-20T22:50:36Z"
   }
 }

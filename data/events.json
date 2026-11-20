@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:44:36.2575204Z",
+  "generatedAt": "2026-11-20T22:50:36.8868262Z",
   "events": [
     {
       "id": "familienzentrum-weissensee-7fb051b170",
@@ -140,6 +140,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/helene-weigel-revoltionaerin-im-rampenlicht/2026-11-20/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-9675a214c3",
+      "title": "25 JAHRE MAGNET CLUB",
+      "description": "JUBILÄUMSFEIER\n\nDie Veranstaltung ist nur für geladene Gäste. Es gibt keine Tickets im Vorverkauf oder an der Abendkasse.\n\nEinlass \u0026 Beginn: 18:00 Uhr\nTickets: Nur auf Einladung\n\nUnbestuhlt Keine Sitzplatzgarantie",
+      "category": "Kultur",
+      "date": "2026-11-20",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -386,6 +410,30 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-b8e97234f3",
+      "title": "80s meets Antidepressiva",
+      "description": "Special: Karaoke-Party auf Extra-Floor\n\nDie legendäre Party „Antidepressiva“ startet am Samstag, 21.11.2026 um 21:00 Uhr (Einlass ab 20:00 Uhr). Eure Party von Freunden für Freunde. Musikalisch bleiben kaum Wünsche offen: Neben den unvergesslichen Klassikern der 80er – von Synthypop über New Wave bis hin zu Rock, NDW und Disco – gibt es die Perlen der Musikgeschichte von Euren DJs - Dan und Jensai, wie immer im Halbstundenwechsel. Dieses Mal verantwortet DJ Jensai die 80´s und DJ Dan spielt die Banger aus den anderen Jahrzehnten!\n\nUnser Special bei dieser Party: Karaoke-Party mit DJ Kevin Tones. Alle Hits, alle Genres in einem Extra Raum.\n\nEinlass: 20:00 Uhr\nBeginn: 21:00 Uhr\nPräsentiert von: www.dundj.berlin\nTickets: 15 Euro - nur an der Abendkasse erhältlich!\n\nUnbestuhlt Keine Sitzplatzgarantie",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "21:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 15
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-df3261b148",
       "title": "Übergang",
       "description": "D 2026 | 120 min | Dokumentarfilm | R: Peter Badel \u0026 Chris Wright | Ende 2023 begann Thomas Heise die Arbeit an seinem letzten Dokumentarfilm, der nach dem Tod des vielfach preisgekrönten Regisseurs im Mai 2024",
@@ -452,6 +500,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/das-land-in-dem-ich-geboren-bin-2/2026-11-22/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-f26d3c3dae",
+      "title": "SONNTAGSSCHÖN [Achtung: Terminverschiebung!]",
+      "description": "Terminverschiebung auf 29.11.2026 !\nIndie \u0026 Wave Tanzcafé - mit DJ Iron Henning\n\nBeginn \u0026 Einlass: 16:00 Uhr\nTickets: 10 Euro - Online \u0026 beim Ticketshop vor Ort (inkl. VVK-Gebühr) | 10 Euro (Abendkasse)\n\nUnbestuhlt Keine Sitzplatzgarantie",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 10
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/sonntagsschoen/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -542,7 +614,7 @@
         "address": "Pistoriusstraße 23, 13086 Berlin"
       },
       "price": {
-        "free": false,
+        "free": true,
         "amount": null
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
@@ -2113,6 +2185,54 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-b2286d49dc",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (0-18 Monate)",
+      "description": "Benito Bauses Liederwelt: Das Familien-Spezial\n\nAusgestattet nur mit seiner Gitarre und seiner warmen Stimme bringt Benito Bause einen berührenden Mix aus Pop, R\u0026B und Blue-Eyed-Soul auf die Bühne der Kinderphilharmonie. In seinen deutschen und englischen Songs besingt er die Liebe zum Leben, die leise Melancholie des Daseins und die unerwarteten Glücksmomente der Gemeinsamkeit. Es ist seine besondere emotionale Durchlässigkeit, die sofort für unheimlich viel Nähe und Intimität im Saal sorgt. Das Pure in seinen Tönen gewährt dem Publikum stets einen unmittelbaren Zugang zu den Geschichten zwischen den Zeilen.\n\n🎤 Mit Benito Bause (Gesang + Gitarre)\n🎶 Für: Familien und alle, die sich von der Musik verzaubern lassen wollen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Babies (0-18 Monate) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 08:45 Uhr\nBeginn: 09:00 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "09:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/benito-bauses-liederwelt-das-familien-spezial-bildungs-und-kulturzentrum-peter-edel-20261128-crT69/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-94560626fd",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (1 - 3 Jahre)",
+      "description": "Benito Bauses Liederwelt: Das Familien-Spezial\n\nAusgestattet nur mit seiner Gitarre und seiner warmen Stimme bringt Benito Bause einen berührenden Mix aus Pop, R\u0026B und Blue-Eyed-Soul auf die Bühne der Kinderphilharmonie. In seinen deutschen und englischen Songs besingt er die Liebe zum Leben, die leise Melancholie des Daseins und die unerwarteten Glücksmomente der Gemeinsamkeit. Es ist seine besondere emotionale Durchlässigkeit, die sofort für unheimlich viel Nähe und Intimität im Saal sorgt. Das Pure in seinen Tönen gewährt dem Publikum stets einen unmittelbaren Zugang zu den Geschichten zwischen den Zeilen.\n\n🎤 Mit Benito Bause (Gesang + Gitarre)\n🎶 Für: Familien und alle, die sich von der Musik verzaubern lassen wollen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Kleinkinder (1-3 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 09:45 Uhr\nBeginn: 10:00 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "10:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/benito-bauses-liederwelt-das-familien-spezial-bildungs-und-kulturzentrum-peter-edel-20261128-K9qOw/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-548f516430",
       "title": "Vineta Kaulača – Mapping the View",
       "description": "16.10. – 29.11.26 | 11 – 20 Uhr | Eröffnung: 16.10. | 19 Uhr | Im Rahmen des Jahresprogramms „Mixta Affectus“ | Vineta Kaulača ist eine Künstlerin aus Lettland.",
@@ -2131,6 +2251,54 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-28/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-e775645d05",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (3 - 7 Jahre)",
+      "description": "Benito Bauses Liederwelt: Das Familien-Spezial\n\nAusgestattet nur mit seiner Gitarre und seiner warmen Stimme bringt Benito Bause einen berührenden Mix aus Pop, R\u0026B und Blue-Eyed-Soul auf die Bühne der Kinderphilharmonie. In seinen deutschen und englischen Songs besingt er die Liebe zum Leben, die leise Melancholie des Daseins und die unerwarteten Glücksmomente der Gemeinsamkeit. Es ist seine besondere emotionale Durchlässigkeit, die sofort für unheimlich viel Nähe und Intimität im Saal sorgt. Das Pure in seinen Tönen gewährt dem Publikum stets einen unmittelbaren Zugang zu den Geschichten zwischen den Zeilen.\n\n🎤 Mit Benito Bause (Gesang + Gitarre)\n🎶 Für: Familien und alle, die sich von der Musik verzaubern lassen wollen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Kleinkinder (3-7 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 10:45 Uhr\nBeginn: 11:15 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "11:15",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/benito-bauses-liederwelt-das-familien-spezial-bildungs-und-kulturzentrum-peter-edel-20261128-9DPfu/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-fd8adc9d30",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (0 - 18 Monate)",
+      "description": "Duo Nominka: Musik von Piaf bis Pipapo\n\nIm Jahr des Akkordeons laden Sophie Ammann und Peter Podjavorsek Babys und ihre Eltern zu einem besonderen Musikerlebnis ein. Mit viel Gefühl und Spielfreude erzählen ihre Lieder von Freundschaft, Zusammenhalt, Heimat und vom Mut, Neues zu entdecken. Inspiriert von Balkanklängen, Chanson, Tango, spanischen Balladen und Klezmer entsteht eine bunte musikalische Reise – mal ruhig zum Träumen, mal lebendig zum Mitsingen und Tanzen. Ein Konzert für offene Ohren, neugierige Herzen und gemeinsame Momente.\n\n🎤 Mit dem Duo Nominka\n🎶 Für: Familien und alle, die sich von der Musik verzaubern lassen wollen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Babies (0-18 Monate) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 12:00 Uhr\nBeginn: 12:30 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "12:30",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/duo-nominka-musik-von-piaf-bis-pipapo-bildungs-und-kulturzentrum-peter-edel-20261128-pZHY7/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -2161,6 +2329,30 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-b64be1357e",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (1 - 3 Jahre)",
+      "description": "Duo Nominka: Musik von Piaf bis Pipapo\n\nIm Jahr des Akkordeons laden Sophie Ammann und Peter Podjavorsek Babys und ihre Eltern zu einem besonderen Musikerlebnis ein. Mit viel Gefühl und Spielfreude erzählen ihre Lieder von Freundschaft, Zusammenhalt, Heimat und vom Mut, Neues zu entdecken. Inspiriert von Balkanklängen, Chanson, Tango, spanischen Balladen und Klezmer entsteht eine bunte musikalische Reise – mal ruhig zum Träumen, mal lebendig zum Mitsingen und Tanzen. Ein Konzert für offene Ohren, neugierige Herzen und gemeinsame Momente.\n\n🎤 Mit dem Duo Nominka\n🎶 Für: Familien und alle, die sich von der Musik verzaubern lassen wollen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Babies (1-3 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 13:45 Uhr\nBeginn: 14:00 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/duo-nominka-musik-von-piaf-bis-pipapo-bildungs-und-kulturzentrum-peter-edel-20261128-H01gy/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-3e5692adc2",
       "title": "Upcycling Nähwerkstatt",
       "description": "Jeden Samstag | 14 – 18 Uhr | Upcycling Nähwerkstatt mit Stefanie Schulz. Bringt Eure Kleidungsstücke mit. Unter fachgerechter Anleitung könnt ihr Eure Kleidung ändern, upcyclen oder umgestalten.",
@@ -2179,6 +2371,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/upcycling-naehwerkstatt/2026-11-28/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-002f79f82a",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (3 - 7 Jahre)",
+      "description": "Duo Nominka: Musik von Piaf bis Pipapo\n\nIm Jahr des Akkordeons laden Sophie Ammann und Peter Podjavorsek Babys und ihre Eltern zu einem besonderen Musikerlebnis ein. Mit viel Gefühl und Spielfreude erzählen ihre Lieder von Freundschaft, Zusammenhalt, Heimat und vom Mut, Neues zu entdecken. Inspiriert von Balkanklängen, Chanson, Tango, spanischen Balladen und Klezmer entsteht eine bunte musikalische Reise – mal ruhig zum Träumen, mal lebendig zum Mitsingen und Tanzen. Ein Konzert für offene Ohren, neugierige Herzen und gemeinsame Momente.\n\n🎤 Mit dem Duo Nominka\n🎶 Für: Familien und alle, die sich von der Musik verzaubern lassen wollen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Babies (3-7 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 15:15 Uhr\nBeginn: 15:30 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "15:30",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/duo-nominka-musik-von-piaf-bis-pipapo-bildungs-und-kulturzentrum-peter-edel-20261128-lDXDI/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -2251,6 +2467,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/berlin-ben-berlin-aus-diesem-tralala-kommst-du-nicht-raus/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-8c383636f0",
+      "title": "PRACHTWORTE SPEZIAL",
+      "description": "Best Of Poetry Slam\n\nDer große Festsaal im PETER EDEL füllt sich langsam, während ein erlesenes Line-Up aus den Poetry Slammer:innen des Landes hinter der Bühne ungeduldig mit den Hufen scharrt. Der Vorhang fällt, Bühne frei für die sttärksten Poets des Landes! Mit selbst geschriebenen Texten treten die Poet:innen gegeneinander an, das Publikum entscheidet über den Sieg des Abends.\n\nEinlass: 19:00 Uhr\nBeginn: 20:00 Uhr\nPräsentiert von: Kiezpoeten\nTickets: 18,90 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Abendkasse: TBA | Es gelten die Ermäßigungsbedingungen des Veranstalters, alle Infos dazu hier\n\nBestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 18.9
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://rausgegangen.de/events/best-of-poetry-slam-229/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -2371,6 +2611,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/jeder-acker-jede-fabrik-ideen-fuer-eine-notwendige-revolution-3/2026-11-29/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-7ef1d19d9d",
+      "title": "SONNTAGSSCHÖN",
+      "description": "Terminverschiebung vom 22.11.2026 auf den 29.11.2026!\nIndie \u0026 Wave Tanzcafé - mit DJ Iron Henning\n\nBeginn \u0026 Einlass: 16:00 Uhr\nTickets: 10 Euro - Online \u0026 beim Ticketshop vor Ort (inkl. VVK-Gebühr) | 10 Euro (Abendkasse)\n\nUnbestuhlt Keine Sitzplatzgarantie",
+      "category": "Kultur",
+      "date": "2026-11-29",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 10
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/sonntagsschoen/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -3936,6 +4200,30 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-dbc8dff9b7",
+      "title": "Sip \u0026 Smash X BLVSH X-Mas PARTY Special",
+      "description": "Beginn \u0026 Einlass: 19:00 Uhr\nTickets: 11,34 Euro - Online \u0026 beim Ticketshop vor Ort (inkl. VVK-Gebühr) | 15 Euro (Abendkasse)\n\nUnbestuhlt Keine Sitzplatzgarantie",
+      "category": "Kultur",
+      "date": "2026-12-05",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 11.34
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/sipsmash/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-2af1a9f91e",
       "title": "Ein Bus voller Leben",
       "description": "Andrés (Dani Rovira) ist Musiklehrer in Madrid und träumt noch immer davon, selbst auf der Bühne zu stehen.",
@@ -4074,6 +4362,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/2m%c2%b2-wo-ist-dein-platz-fuer-die-ewigkeit/2026-12-06/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-e66669be60",
+      "title": "Tanztee im PETER EDEL",
+      "description": "Mit der Alex-Band\n\nDer Klassiker des Hauses mit über 50-jähriger Tradition! Einmal monatlich versammeln sich alle Tanzfreudigen im Großen Saal am Weißen See und erleben neben ausgesuchten DJs auch Livemusik, Motto-Parties und mehr.\n\nEine Veranstaltung, das ganz besonders denen eine Freude machen soll, die den alten Kulturhaus-Flair noch im Herzen tragen!\n\nEinlass: 14:00 Uhr\nBeginn: 15:00 Uhr\nTickets: 11,34 Euro (inkl. VVK-Gebühr) - online und beim Ticketshop vor Ort erhältlich! | 11,34 Euro (Tageskasse)\n\nBestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-12-06",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 11.34
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/tanztee-im-peter-edel/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -4722,6 +5034,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/aktzeichnen/2026-12-08/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-186590b573",
+      "title": "Neu-Zeit: Dr. Neu trifft Gabriele Gysi [VERSCHOBEN!]",
+      "description": "Hinweis: Veranstaltung verschoben auf 24.02.2027 !\n\nGabriele Gysi , die große Schwester des Politikers und Publizisten Gregor Gysi,ist eine ostdeutsche Schauspielerin, Regisseurin und Autorin. Die Volksbühne ist ihre künstlerische Heimat.\n\nFrau Gysi ist auch eine unbequeme politische Stimme im Hintergrund: Sie reflektiert ungeschminkt über die DDR und übt Kritik an den zeitgenössischen politischen Verhältnissen, bei denen andere lieber Schweigen. Und derweil gibt es viel, sehr vieles anzusprechen in der Politik, in der Außen- sowie der Innenpolitik: Krieg und Frieden, Demokratie versus Autokratie sind die aktuellen Themen, die uns bewegen und bewegen sollten. Frau Gysis letztes Werk lautet: „Die Nacht, als Soldaten Verkehrspolizisten wurden“, erschienen 2025 im Westend Verlag. Darin arbeitet sie die deutsch-deutsche Geschichte auf, ein Rückblick auf die DDR und was aus dem vereinten Deutschland wurde. „Der Fall Ulrike Guerot – Versuche einer öffentlichen Hinrichtung“, erschienen 2024 im Westend Verlag. In diesem Buch beschreibt Frau Gysi den Skandal um die Politikwissenschaftlerin Prof. Dr. Ulrike Guerot.\n\nÜber Ihre politischen Ansichten und Analysen in Zeiten von Krieg und Krisen …",
+      "category": "Kultur",
+      "date": "2026-12-08",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -5663,6 +5999,30 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-2ffbc031f2",
+      "title": "FIL - MIT NEUER SHOW - AUSVERKAUFT!",
+      "description": "Zusatzshow am 20.02.2027 - Tickets jetzt erhältlich!\n\nFil wuchs im Märkischen Viertel auf, wie Sido, entschied sich aber für eine Karriere abseits des Hip Hop. Er begann mit 15 Jahren für die Berliner Stadtzeitung \"Zitty\" Comics zu zeichnen und errang sich damit über die Jahre einen ehrlichen erdigen Ruhm bei seinen Mitbürgern. Mit 25 begann er, zusätzlich noch aufzutreten mit Gitarre und - eine Zeitlang, jetzt schon lange nicht mehr - mit einem fantastischen Stoffhai. Jetzt ist Fil über 50, sieht jünger aus (aber halt trotzdem nicht richtig gut. Er sieht aus, wie ein sehr unattraktiver 45jähriger) und - ach so, genau, hat auch bereits 2 Romane geschrieben. Nicht nur geschrieben, auch noch von einem bürgerlichen Verlag drucken lassen.\n\nFil ist eine Art alte Stefanie Sargnagel mit Penis, die Gitarre spielen und zeichnen kann. Fil ist wie ein tropfender Hahn, der sich selber nervt. Sehr unterhaltsam für andere.\n\n«Und noch etwas kommt in FIL zusammen: Professionalität und Dilettantismus. Das Resultat ist kultiviertes Chaos. (…) Und das ist lustig? Ich schwöre, das ist es.» (Titanic)\n\nEinlass: 19:00 Uhr\nBeginn: 20:00 Uhr\nTickets: Ausverkauft! Vielen Dank!\n\nBestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-12-12",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-e634c4f84b",
       "title": "Schöne Seelen",
       "description": "Sommer 1996. Der ewig jugendliche Tagelöhner Freddy, hangelt sich von einem Gelegenheitsjob zum nächsten.",
@@ -5681,6 +6041,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-12/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-0a6c2a8ccb",
+      "title": "1 DAY CHOR",
+      "description": "100% Power - 0% Commitment\n\nDu singst gerne? Vielleicht hast du früher mal im Chor gesungen oder möchtest es mal ausprobieren, aber wöchentliche Chorproben passen aktuell einfach nicht in deinen Alltag? Hast du schon mal diese Videos auf Insta gesehen, in denen Hunderte Menschen im Kreis stehen und ultra coole Pop-Songs raushauen? Lust, sowas auch mal zu erleben? Ein Chor für einen Tag, ohne langes Commitment. Unter Leitung von Constantin Gold entsteht mit anderen ein Medley aus 5 bis 7 Songs, und am Ende wird das gemeinsam Erarbeitete professionell aufgenommen\n\n🎤 Mehr Informtionen zum Ablauf auf der Webseite des Veranstalters.\n\nEinlass: 10:00 Uhr\nBeginn: 10:30 Uhr\nPräsentiert von: RAUSGEGANGEN\nTickets: 60,00 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Abendkasse: TBA\n\nBestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-12-13",
+      "startTime": "10:30",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 60
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://rausgegangen.de/events/1-day-chor-berlin-0/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -5849,6 +6233,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/das-land-in-dem-ich-geboren-bin-2/2026-12-13/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-51ef733087",
+      "title": "FIL - MIT NEUER SHOW - AUSVERKAUFT!",
+      "description": "Zusatzshow am 20.02.2027 - Tickets jetzt erhältlich!\n\nFil wuchs im Märkischen Viertel auf, wie Sido, entschied sich aber für eine Karriere abseits des Hip Hop. Er begann mit 15 Jahren für die Berliner Stadtzeitung \"Zitty\" Comics zu zeichnen und errang sich damit über die Jahre einen ehrlichen erdigen Ruhm bei seinen Mitbürgern. Mit 25 begann er, zusätzlich noch aufzutreten mit Gitarre und - eine Zeitlang, jetzt schon lange nicht mehr - mit einem fantastischen Stoffhai. Jetzt ist Fil über 50, sieht jünger aus (aber halt trotzdem nicht richtig gut. Er sieht aus, wie ein sehr unattraktiver 45jähriger) und - ach so, genau, hat auch bereits 2 Romane geschrieben. Nicht nur geschrieben, auch noch von einem bürgerlichen Verlag drucken lassen.\n\nFil ist eine Art alte Stefanie Sargnagel mit Penis, die Gitarre spielen und zeichnen kann. Fil ist wie ein tropfender Hahn, der sich selber nervt. Sehr unterhaltsam für andere.\n\n«Und noch etwas kommt in FIL zusammen: Professionalität und Dilettantismus. Das Resultat ist kultiviertes Chaos. (…) Und das ist lustig? Ich schwöre, das ist es.» (Titanic)\n\nEinlass: 19:00 Uhr\nBeginn: 20:00 Uhr\nTickets: Ausverkauft! Vielen Dank!\n\nBestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-12-13",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -6863,6 +7271,30 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-a80a58fa8e",
+      "title": "AFTER WORK im PETER EDEL präsentiert VIDEODOME",
+      "description": "Beginn \u0026 Einlass: 18:00 Uhr\nTickets: 11,34 Euro - Online \u0026 beim Ticketshop vor Ort (inkl. VVK-Gebühr) | 15 Euro (Abendkasse)\n\nUnbestuhlt Keine Sitzplatzgarantie",
+      "category": "Kultur",
+      "date": "2026-12-17",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 11.34
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/after-work-party/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "familienzentrum-weissensee-3461d1be4d",
       "title": "ElternRaum",
       "description": "Dein Raum für Austausch, Entlastung und neue Impulse im Familienalltag ​ Mit oder ohne Anmeldung ElternRaum ist eine …",
@@ -7390,6 +7822,30 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-cf1975959c",
+      "title": "Berlin Winter Hop",
+      "description": "Winter Ball 2026\n\n🎄 SATURDAY PARTY \u0026 TASTER – THE WINTER BALL 🎷✨\nOur last big swing event before the winter break. Let’s make it unforgettable! Get ready for a spectacular Saturday night of Lindy Hop, live swing music and festive dancing at the beautiful Peter Edel Ballroom! We’re bringing some international swing magic to our local dance floor: THE BIG FIVE – live as a SEPTET! Seven fantastic musicians, plenty of energy to keep you dancing all night long. Whether you're an experienced Swing Dancer or just discovering the joy of swing, come join us for a night full of music, movement and good vibes!\n\n🎶 THE EVENING PROGRAMME\n20:00–21:00 | Lindy Hop Taster Classes Intermediate Lindy Hop (Saal) Beginner Lindy Hop (Small room) A perfect way to get warmed up!\n21:00 | DJ Music\n21:30–01:00 | LIVE MUSIC 🎺 The Big Five – Live Septet!\n\n🏆 SPECIAL COMPETITION – TO BE ANNOUNCED! 💃\n\nAFTERNOON WORKSHOP\nWe're planning a special Lindy Hop workshop in the afternoon! More details coming soon. Workshop tickets are already available separately – book your spot now! Bring your dancing shoes, bring your friends and let's swing into the holidays! ❤️\n\nEinlass: 20:00 Uhr\nBeginn: 20:00 Uhr (Taster) | 21:00 …",
+      "category": "Kultur",
+      "date": "2026-12-19",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 25
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-86b55c4cba",
       "title": "Jazz am Helmholzplatz: Das Lustige Komponistinnen Quartett",
       "description": "Das Lustige Komponistinnen Quartett | Was passiert, wenn vergessene Komponistinnen auf ein Jazzquartett treffen?",
@@ -7438,6 +7894,30 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-c20d3d8078",
+      "title": "Klassische Adventsmatinée - mit Yannick Rafalimanana",
+      "description": "Vorfestliche Klänge mit Flügel und Violine\n\nEin Konzertvormittag der Extraklasse: Der Pianist Yannick Rafalimanana, dem Publikum vor Ort bereits bestens durch sein beliebtes Format „Yannicks Salon“ bekannt, geht gemeinsam mit der renommierten Violinistin Skaistė Dikšaitytė auf die große Bühne. Als feste Kammermusikpartner widmen sich die beiden klassischen Meisterwerken mit großer Sensibilität und Eleganz.\n\nSkaistė Dikšaitytė konzertiert weltweit auf den bedeutendsten Podien – von der Berliner Philharmonie über die Elbphilharmonie Hamburg bis hin zur New Yorker Carnegie Hall und der Suntory Hall in Tokio. Auch Yannick Rafalimanana ist international gefragt und gastiert regelmäßig in der Berliner Philharmonie, sowohl als Solist als auch mit dem von Mitgliedern der Berliner Philharmoniker gegründeten Pangaea Trio Berlin .\n\nDas Zusammenspiel dieser beiden hochkarätigen Musiker:innen schafft eine warme, festliche Atmosphäre, die die tiefe Verbundenheit des Duos spürbar macht. Um den Adventssonntag entspannt einzuläuten, lädt bereits ab dem Einlass um 10 Uhr ein gastronomisches Angebot zum gemütlichen Einstimmen ein, bevor um 11 Uhr die ersten Töne erklingen.\n\nEinlass: 10:00 Uhr …",
+      "category": "Kultur",
+      "date": "2026-12-20",
+      "startTime": "11:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 19
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-3b1ccf553b",
       "title": "SOFT OPENING",
       "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
@@ -7456,6 +7936,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-20/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-9cdaf4881d",
+      "title": "Rudelsingen - Das Original aus Münster [AUSVERKAUFT!]",
+      "description": "Das RUDELSINGEN in Weißensee mit Rolf Gundelach und Martin Hunger geht mit neuem Programm weiter! Wir singen gemeinsam über 2 Stunden gemeinsam die größten RUDELSINGEN Hits von gestern bis heute!\n\nWir singen im Stehen - es gibt einige Sitzplätze die hier reserviert werden können.\n\nEinlass: 15:00 Uhr\nBeginn: 16:00 Uhr\nTickets: Ausverkauft - vielen Dank! Es wird keine Abendkasse eröffnet.\nPräsentiert von: Rudelsingen - Das Original aus Münster\n\nTeilbestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-12-20",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -7528,6 +8032,222 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-20/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-91f31615d8",
+      "title": "DEFA-Filmküche - Klubgespräch im PETER EDEL",
+      "description": "Paul Werner Wagner im Gespräch mit Ursula Werner\n\nUrsula Werner wuchs in Berlin-Prenzlauer Berg auf. Nach ihrem Studium an der Staatlichen Schauspielschule Berlin führte sie ihr erste Engagements an das Landestheater Halle (Saale), wo sie u. a. 1970 als Gretchen mit Kurt Böwe als Faust in Goethes Faust auftrat. Von 1974 bis 2009 war Ursula Werner festes Ensemblemitglied des Maxim-Gorki-Theater in Berlin. Bei der DEFA bleibt besonders ihre Rolle in dem Film Ein irrer Duft von frischem Heu (1977) in Erinnerung.\n\nUrsula Werner spielte 2008 die Hauptrolle in Andreas Dresens Wolke 9. Sie verkörperte eine Frau, die mit Ende 60 ihren älteren Ehemann für einen noch älteren Mann verlässt. Der Film zeigt, dass Liebe und Sex im Alter nicht einfach so aufhören. Für diese außergewöhnliche Leistung erhielt sie 2009 den Deutschen Filmpreis für die beste weibliche Hauptrolle. 2014 erschien ihre Autobiografie im Verlag Das Neue Berlin unter dem Titel Immer geht’s weiter. Bis heute steht Ursula Werner vor der Kamera.\n\nEinlass: 18:00 Uhr\nBeginn: 19:00 Uhr\nTickets: 13,50 Euro (inkl. VVK-Gebühr) - online und beim Ticketshop vor Ort erhältlich! | Abendkasse: 15 Euro\n\nBestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2026-12-21",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 13.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-9393e01d7f",
+      "title": "SONNTAGSSCHÖN",
+      "description": "Indie \u0026 Wave Tanzcafé - mit DJane Clärchen \u0026 DJ Iron Henning\n\nBeginn \u0026 Einlass: 16:00 Uhr\nTickets: 10 Euro - Online \u0026 beim Ticketshop vor Ort (inkl. VVK-Gebühr) | 10 Euro (Abendkasse)\n\nUnbestuhlt Keine Sitzplatzgarantie",
+      "category": "Kultur",
+      "date": "2026-12-27",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 10
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/sonntagsschoen/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-fccd1a1ad2",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (1-3 Jahre)",
+      "description": "Der Winterwald und die verlorene Melodie\n\nDurch Musikvermittlung und interaktives Storytelling entdecken die Kinder die zauberhafte Klangwelt des Winterwaldes ❄️🌲.\nDabei begegnen sie verschiedenen Musikstilen – von Jazz und Klassik über Improvisation bis hin zu fernöstlichen Klängen aus Japan und China. Gemeinsam mit Johannes und Nina geht es auf eine winterliche Entdeckungstour, bei der Geige und Cello geheimnisvolle Geschichten erzählen, verschneite Landschaften zum Klingen bringen und die Fantasie auf eine musikalische Reise schicken.\n\n🎻✨ Kommt vorbei und genießt ein buntes Kinderkonzert mit wundervollen Klängen dieser zwei Streichinstrumente!\n\n🎻 Mit: Johannes und Nina\n🎶 Für: Familien, die sich nach einem verschneiten und winterlichen Waldspaziergang sehnen Generelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Kleinkinder (1-3 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 09:45 Uhr\nBeginn: 10:00 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt …",
+      "category": "Kultur",
+      "date": "2026-12-30",
+      "startTime": "10:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/der-winterwald-und-die-verlorene-melodie-bildungs-und-kulturzentrum-peter-edel-20261230-4HVgg/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-5b42e4c6e6",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (3-7 Jahre)",
+      "description": "Der Winterwald und die verlorene Melodie\n\nDurch Musikvermittlung und interaktives Storytelling entdecken die Kinder die zauberhafte Klangwelt des Winterwaldes ❄️🌲.\nDabei begegnen sie verschiedenen Musikstilen – von Jazz und Klassik über Improvisation bis hin zu fernöstlichen Klängen aus Japan und China. Gemeinsam mit Johannes und Nina geht es auf eine winterliche Entdeckungstour, bei der Geige und Cello geheimnisvolle Geschichten erzählen, verschneite Landschaften zum Klingen bringen und die Fantasie auf eine musikalische Reise schicken.\n\n🎻✨ Kommt vorbei und genießt ein buntes Kinderkonzert mit wundervollen Klängen dieser zwei Streichinstrumente!\n\n🎻 Mit: Johannes und Nina\n🎶 Für: Familien, die sich nach einem verschneiten und winterlichen Waldspaziergang sehnen Generelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Kleinkinder (3-7 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 11:00 Uhr\nBeginn: 11:15 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt …",
+      "category": "Kultur",
+      "date": "2026-12-30",
+      "startTime": "11:15",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/der-winterwald-und-die-verlorene-melodie-bildungs-und-kulturzentrum-peter-edel-20261230-Qa6ad/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-45b9710d9c",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (1-3 Jahre)",
+      "description": "Der Winterwald und die verlorene Melodie\n\nDurch Musikvermittlung und interaktives Storytelling entdecken die Kinder die zauberhafte Klangwelt des Winterwaldes ❄️🌲.\nDabei begegnen sie verschiedenen Musikstilen – von Jazz und Klassik über Improvisation bis hin zu fernöstlichen Klängen aus Japan und China. Gemeinsam mit Johannes und Nina geht es auf eine winterliche Entdeckungstour, bei der Geige und Cello geheimnisvolle Geschichten erzählen, verschneite Landschaften zum Klingen bringen und die Fantasie auf eine musikalische Reise schicken.\n\n🎻✨ Kommt vorbei und genießt ein buntes Kinderkonzert mit wundervollen Klängen dieser zwei Streichinstrumente!\n\n🎻 Mit: Johannes und Nina\n🎶 Für: Familien, die sich nach einem verschneiten und winterlichen Waldspaziergang sehnen Generelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Kleinkinder (1-3 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 12:15 Uhr\nBeginn: 12:30 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt …",
+      "category": "Kultur",
+      "date": "2026-12-30",
+      "startTime": "12:30",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/der-winterwald-und-die-verlorene-melodie-bildungs-und-kulturzentrum-peter-edel-20261230-QFwxI?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-c726f173c5",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (0-18 Monate)",
+      "description": "Mit Glitzerswing ins neue Jahr\n\nKommt mit auf eine funkelnde Zeitreise ins Berlin der 20er Jahre! Zum Ausklang des Jahres holen die vier Sängerinnen von Gretchens Antwort den Glanz der Goldenen Zwanziger zurück: Glitzerkleider, Federboas, Swing und Charleston. Ganz ohne Instrumente, nur mit ihren Stimmen, zaubern sie eine ganze Jazzband auf die Bühne. Sie singen Lieder der Comedian Harmonists und moderne Popsongs, die klingen, als kämen sie direkt aus einem Berliner Tanzsaal von damals. Da wird geschnipst, gewippt und mitgeswingt, bis die Füße nicht mehr stillhalten können. Ein glitzerndes Fest voller Stimmen, Rhythmus und Lebensfreude. Der perfekte Abschied vom alten Jahr!\n\n🎤 Mit Gretchens Antwort: Liza John und Jessica Jorgas (Mezzosopran), Laura Altmann (Sopran) und Anne Stabler (Alt)\n🎶 Für: Familien und alle, die Lust haben, mit uns ins neue Jahr zu swingen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Babies (0-18 Monate) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 13:45 Uhr\nBeginn: 14:00 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro …",
+      "category": "Kultur",
+      "date": "2026-12-30",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/mit-glitzerswing-ins-neue-jahr-bildungs-und-kulturzentrum-peter-edel-20261230-DHFlE/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-00d3347b0c",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (1-3 Jahre)",
+      "description": "Mit Glitzerswing ins neue Jahr\n\nKommt mit auf eine funkelnde Zeitreise ins Berlin der 20er Jahre! Zum Ausklang des Jahres holen die vier Sängerinnen von Gretchens Antwort den Glanz der Goldenen Zwanziger zurück: Glitzerkleider, Federboas, Swing und Charleston. Ganz ohne Instrumente, nur mit ihren Stimmen, zaubern sie eine ganze Jazzband auf die Bühne. Sie singen Lieder der Comedian Harmonists und moderne Popsongs, die klingen, als kämen sie direkt aus einem Berliner Tanzsaal von damals. Da wird geschnipst, gewippt und mitgeswingt, bis die Füße nicht mehr stillhalten können. Ein glitzerndes Fest voller Stimmen, Rhythmus und Lebensfreude. Der perfekte Abschied vom alten Jahr!\n\n🎤 Mit Gretchens Antwort: Liza John und Jessica Jorgas (Mezzosopran), Laura Altmann (Sopran) und Anne Stabler (Alt)\n🎶 Für: Familien und alle, die Lust haben, mit uns ins neue Jahr zu swingen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Kleinkinder (1-3 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 04:45 Uhr\nBeginn: 15:00 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 …",
+      "category": "Kultur",
+      "date": "2026-12-30",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/mit-glitzerswing-ins-neue-jahr-bildungs-und-kulturzentrum-peter-edel-20261230-j8oUS/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-c1d6e808c6",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (3-7 Jahre)",
+      "description": "Mit Glitzerswing ins neue Jahr\n\nKommt mit auf eine funkelnde Zeitreise ins Berlin der 20er Jahre! Zum Ausklang des Jahres holen die vier Sängerinnen von Gretchens Antwort den Glanz der Goldenen Zwanziger zurück: Glitzerkleider, Federboas, Swing und Charleston. Ganz ohne Instrumente, nur mit ihren Stimmen, zaubern sie eine ganze Jazzband auf die Bühne. Sie singen Lieder der Comedian Harmonists und moderne Popsongs, die klingen, als kämen sie direkt aus einem Berliner Tanzsaal von damals. Da wird geschnipst, gewippt und mitgeswingt, bis die Füße nicht mehr stillhalten können. Ein glitzerndes Fest voller Stimmen, Rhythmus und Lebensfreude. Der perfekte Abschied vom alten Jahr!\n\n🎤 Mit Gretchens Antwort: Liza John und Jessica Jorgas (Mezzosopran), Laura Altmann (Sopran) und Anne Stabler (Alt)\n🎶 Für: Familien und alle, die Lust haben, mit uns ins neue Jahr zu swingen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Kleinkinder (3-7 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 16:00 Uhr\nBeginn: 16:15 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 …",
+      "category": "Kultur",
+      "date": "2026-12-30",
+      "startTime": "16:15",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/mit-glitzerswing-ins-neue-jahr-bildungs-und-kulturzentrum-peter-edel-20261230-aQnVW?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-6724289a21",
+      "title": "KINDERPHILHARMONIE - Klassik für Kleine (1-3 Jahre)",
+      "description": "Mit Glitzerswing ins neue Jahr\n\nKommt mit auf eine funkelnde Zeitreise ins Berlin der 20er Jahre! Zum Ausklang des Jahres holen die vier Sängerinnen von Gretchens Antwort den Glanz der Goldenen Zwanziger zurück: Glitzerkleider, Federboas, Swing und Charleston. Ganz ohne Instrumente, nur mit ihren Stimmen, zaubern sie eine ganze Jazzband auf die Bühne. Sie singen Lieder der Comedian Harmonists und moderne Popsongs, die klingen, als kämen sie direkt aus einem Berliner Tanzsaal von damals. Da wird geschnipst, gewippt und mitgeswingt, bis die Füße nicht mehr stillhalten können. Ein glitzerndes Fest voller Stimmen, Rhythmus und Lebensfreude. Der perfekte Abschied vom alten Jahr!\n\n🎤 Mit Gretchens Antwort: Liza John und Jessica Jorgas (Mezzosopran), Laura Altmann (Sopran) und Anne Stabler (Alt)\n🎶 Für: Familien und alle, die Lust haben, mit uns ins neue Jahr zu swingen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Kleinkinder (1-3 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 16:00 Uhr\nBeginn: 17:15 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 …",
+      "category": "Kultur",
+      "date": "2026-12-30",
+      "startTime": "17:15",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 14.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://stagedates.com/events/mit-glitzerswing-ins-neue-jahr-bildungs-und-kulturzentrum-peter-edel-20261230-sSLIR/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -7726,6 +8446,30 @@
       "cancelled": false
     },
     {
+      "id": "peter-edel-3d86fb9b13",
+      "title": "MICHAEL CURSE KURTH",
+      "description": "BAD MEDIATORS CLUB - LIVE\n\nMit seinem neuen Buch lädt Bestsellerautor, Rapper, Coach und Buddhist Michael „Curse“ Kurth dazu ein, Meditation von einer anderen Seite kennenzulernen: undogmatisch, alltagstauglich und ohne Esoterik-Kitsch. Denn die gute Nachricht ist: Wir alle sind Bad Meditators. Und genau darin liegt der Schlüssel. Auf seiner Buchtour bringt Curse die Gedanken und Impulse seines Buches live auf die Bühne. Es geht um innere Unruhe, kreisende Gedanken und den Anspruch, immer alles richtig machen zu müssen – aber auch um die Frage, wie wir im Alltag mehr Klarheit, Gelassenheit und einen anderen Umgang mit uns selbst finden können. Mit Humor, persönlichen Einblicken und praktischen Perspektiven zeigt Curse, warum Meditation weder Perfektion noch besondere Fähigkeiten voraussetzt und wie sie auch dann funktionieren kann, wenn der Kopf mal wieder macht, was er will. Musikalisch begleitet wird der Abend von DJ Kool GQ. Dazu kommen ausgewählte Gäste, die in den jeweiligen Städten eigene Perspektiven und Impulse einbringen und jede Station der Tour zu einem besonderen Erlebnis machen. So wird der Bad Meditators Club mehr als eine klassische Lesung: ein Abend zwischen Buch …",
+      "category": "Kultur",
+      "date": "2027-01-18",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 39.5
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "stadtteilzentrum-weissensee-a1d6f93423",
       "title": "Buchvorstellung: Ankommen auf dem Jakobsweg",
       "description": "Buchvorstellung: Ankommen auf dem Jakobsweg\n\nIn einer abwechslungsreichen Mischung aus Lesung und persönlichem Reisebericht nimmt die Autorin Jana Krok das Publikum mit auf den Camino Francés. Aus ihrem Roman „Ankommen auf dem Jakobsweg“ erzählt sie von Mut, besonderen Begegnungen und persönlichen Erkenntnissen. Dazu teilt sie eigene Erfahrungen und gibt Einblicke in das Leben und die Herausforderungen des Pilgerns.",
@@ -7744,6 +8488,246 @@
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
       "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-b0cbd17f5f",
+      "title": "Talkshow \"Woher Wohin - Veronika Fischer persönlich\" [ZUSATZTERMIN]",
+      "description": "moderiert von Kai Suttner\n\nSie stand als Leadsängerin von Panta Rhei auf der Bühne und startete 1974 mit Veronika Fischer \u0026 Band kometenhaft durch, überzeugte mit musikalischer Vielseitigkeit und großer, unverwechselbarer Stimme. Mit Liedern wie „Dass ich eine Schneeflocke wär“ und „Auf der Wiese“ lieferte sie den Soundtrack für eine ganze Generation. Sie war ein Star in der DDR und ist eine Künstlerin mit Haltung, die sich nie verbiegen ließ. Als dies im Osten immer schwieriger wurde, weil sie sich zunehmend durch stattliche Zwänge und Repressalien eingeengt sah, entschloss sie sich 1981, die Heimat zu verlassen und in der BRD neue Wege zu suchen.\n\nSie veröffentliche sechs erfolgreiche Platten, musste aber auch hier feststellen, dass Kunst und Erfolg geschäftlichen Regeln unterliegen. Zerrieben zwischen dem Vorwurf, ihr Land und ihre Fans verlassen zu haben, und dem Gefühl, als Politikum herhalten zu müssen, wurde sie nach den Mauerfall von ihrem Publikum mit offenen Armen empfangen und konnte an ihre früheren Erfolge anknüpfen. Bis heute gehört sie unbestritten zu den ganz großen deutschsprachigen Interpretinnen.\n\nEinlass: 19:00 Uhr\nBeginn: 20:00 Uhr\nTickets: Ab 27,00 Euro …",
+      "category": "Kultur",
+      "date": "2027-01-24",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 27
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-5ce9f09f6d",
+      "title": "Yannicks Salon - Meisterwerke der Kammermusik",
+      "description": "Mit Yannick Rafalimanana\n\nDer mehrfach ausgezeichnete Pianist Yannick Rafalimanana lädt zu einem außergewöhnlichen Klavierquartett-Abend in seinen Musiksalon ein. Mit der renommierten Geigerin Viviane Hagner und dem Cellisten Mikayel Hakhnazaryan kehren zwei geschätzte Gäste zurück. Seine Premiere feiert der irische Bratschist Martin Moriarty. Viviane Hagner konzertiert weltweit mit den bedeutendsten Orchestern und wurde kürzlich mit dem Bundesverdienstkreuz ausgezeichnet. Martin Moriarty zählt zu Irlands führenden Streichern. Mikayel Hakhnazaryan ist Cellist des Kuss Quartetts, Solocellist des Münchner Kammerorchesters und regelmäßiger Gast bei den Berliner Philharmonikern. Yannick Rafalimanana gastiert international auf bedeutenden Podien, als Solist in der Berliner Philharmonie sowie mit dem Pangaea Trio Berlin.\n\nEinlass: 18:30 Uhr\nBeginn: 19:30 Uhr\nTickets: 19,62 Euro Normalpreis / 32,04 Euro Supporterpreis (inkl. VVK-Gebühr) - online und beim Ticketshop vor Ort erhältlich! | Abendkasse: 23 Euro\n\nBestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2027-02-10",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 19.62
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/yannicks-salon/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-166fbafa93",
+      "title": "FIL - \"Lieder of the world\"",
+      "description": "ZUSATZSHOW!\n\nThe World! Allen Unkenrufen zum Trotz scheint das immer noch der geilste Ort zu sein. Ich meine, schaut Euch um: die Bäume! Der Himmel! Die Jelbi-Mobilitätsstation in der Schönhauser Allee! Naturgemachtes und vom Mensch Erdachtes reichen sich die Pranken und das Ergebnis ist: the World. Wo ließe es sich besser aushalten?\n\nWeltbewohner FiL nimmt uns in seiner neuen und besten Show mit auf einen Streifzug durch diese kecke Ecke. Er singt von den Wundern der World, erklärt die Zusammenhänge, stellt uns seine Freunde Jesus und Satan vor und verhilft uns scheinbar ganz nebenbei zu der Erkenntnis, dass wir selbst auch ein Teil der World sind. Und zwar der wichtigste Teil. FIRST World sind wir, Digga. So gipfelt dieser Abend in einer Celebration of Ourselves. Orgiastisch, mitreißend und fulminant. Ist das alles noch witzig? Nein. Humor ist eine Krücke. Lachen ist das Lied der Schwachen. Als erster Komiker der Welt überwindet FiL hier sich selbst und wird pure Energie.\n\nEinlass: 19:00 Uhr\nBeginn: 20:00 Uhr\nTickets: 27,00 Euro (inkl. VVK-Gebühr) - online und beim Ticketshop vor Ort erhältlich! | Abendkasse: 32,00\n\nBestuhlt Freie Platzwahl",
+      "category": "Kultur",
+      "date": "2027-02-20",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 27
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-d05d9f83d4",
+      "title": "Neu-Zeit: Dr. Neu trifft Gabriele Gysi",
+      "description": "Verschoben vom 08.12.2026 auf 24.02.2027\n\nGabriele Gysi , die große Schwester des Politikers und Publizisten Gregor Gysi,ist eine ostdeutsche Schauspielerin, Regisseurin und Autorin. Die Volksbühne ist ihre künstlerische Heimat.\n\nFrau Gysi ist auch eine unbequeme politische Stimme im Hintergrund: Sie reflektiert ungeschminkt über die DDR und übt Kritik an den zeitgenössischen politischen Verhältnissen, bei denen andere lieber Schweigen. Und derweil gibt es viel, sehr vieles anzusprechen in der Politik, in der Außen- sowie der Innenpolitik: Krieg und Frieden, Demokratie versus Autokratie sind die aktuellen Themen, die uns bewegen und bewegen sollten. Frau Gysis letztes Werk lautet: „Die Nacht, als Soldaten Verkehrspolizisten wurden“, erschienen 2025 im Westend Verlag. Darin arbeitet sie die deutsch-deutsche Geschichte auf, ein Rückblick auf die DDR und was aus dem vereinten Deutschland wurde. „Der Fall Ulrike Guerot – Versuche einer öffentlichen Hinrichtung“, erschienen 2024 im Westend Verlag. In diesem Buch beschreibt Frau Gysi den Skandal um die Politikwissenschaftlerin Prof. Dr. Ulrike Guerot.\n\nÜber Ihre politischen Ansichten und Analysen in Zeiten von Krieg und Krisen und über …",
+      "category": "Kultur",
+      "date": "2027-02-24",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-8e3b67435f",
+      "title": "ERIKA VIKMAN",
+      "description": "ICH KOMME EUROPE\n\nKnown for her electric stage presence, Erika Vikman is a force to be reckoned with. Eurovision and the success of her empowering anthem ICH KOMME brought her widespread international recognition and a growing fanbase across Europe. Following Eurovision, Vikman continued her success with international live shows. Erika has performed abroad at the Swedish QX Gala and with a few concerts, including performances in Stockholm, Amsterdam and sold-out London alongside touring in Finland. These were the artist's first own concerts outside of Finland. Her latest release Adam \u0026 Steve arrived in the beginning of May and was a tribute to the queer community that has supported Vikman throughout her career. The new single was preceded by her English-language debut FATHER (I Will Never Confess), released in February, which was Vikman's first original release since winning the Finnish Uuden Musiikin Kilpailu (UMK) and securing a strong 11th-place finish in the Grand final of the Eurovision Song Contest. Erika Vikman is one of Finland’s brightest stars and a trailblazer in feminist pop. Vikman has redefined the modern pop diva with a bold image that has captivated an …",
+      "category": "Kultur",
+      "date": "2027-03-08",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 33.7
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-e4f04c983e",
+      "title": "Klavierfest Berlin-Weißensee 2027 - Klavierabend",
+      "description": "Von hier in die Weite - Schubert in der Zeit | Mit Eri Mantani\n\nIn Franz Schuberts Musik gibt es immer wieder jene schwer in Worte zu fassenden Momente. Sie zeigen sich in seiner großen Gesanglichkeit, in leise zum Ausdruck gebrachten inneren Empfindungen und in überraschenden harmonischen Wendungen.\n\nEine besondere Faszination liegt jedoch auch in den unaufhörlich weiterfließenden Klangfolgen und in seinem ganz eigenen Umgang mit musikalischer Zeit. Gerade in seinen späten Klavierwerken wird diese besondere Qualität deutlich spürbar. Sich auf diesen beinahe meditativen Klangraum einzulassen, ist ein wesentlicher Schlüssel, um die großen zeitlichen Dimensionen dieser Musik zu erfahren.\n\nIn diesem Konzert wird auch Musik von Schuberts „älterem Kollegen“ Ludwig van Beethoven erklingen. Durch den bewussten Kontrast zwischen den beiden Komponisten werden ihre unterschiedlichen musikalischen Welten noch klarer erfahrbar und ermöglichen einen tieferen Zugang zu ihrer jeweils eigenen musikalischen Sprache.\n\nDas Programm führt von Schuberts lyrisch-improvisatorischer Klangwelt der Vier Impromptus D 935 über Beethovens dramatische Welt der „Appassionata-Sonate“ zurück zu Schubert und …",
+      "category": "Kultur",
+      "date": "2027-03-12",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-cc1f97d7ac",
+      "title": "Klavierfest Berlin-Weißensee 2027 - Familienkonzert",
+      "description": "Schubertiade für Kinder – ein musikalisches Erkundungstheater durch Franz Schuberts Leben und seine Musik | Mit Judith Rauwald (Sprecherin) \u0026 Johannes Meyerhöfer (Klavier)\n\nWie klingt eigentlich ein Gefühl? Warum fühlen wir etwas, wenn Töne erklingen? Und was hat ein junger Komponist aus Wien damit zu tun?\n\nFranz Schubert war ein Komponist, der Gefühle direkt in Musik verwandelte. Als Pionier der romantischen Musik ließ er in seinen über 600 Liedern und Klavierwerken Freude, Angst, Sehnsucht und Traurigkeit als Musik erklingen, die bis heute berührt.\n\nIn diesem Familienkonzert nehmen wir - Judith Rauwald und Johannes Meyerhöfer - Kinder und Erwachsene mit auf eine Reise durch Schuberts kurzes, aber unglaublich reiches Leben. Wir erzählen von dem kleinen Franz, der Musik wie Atmen lernte. Wir wandern mit ihm durch Wälder und Wiesen, erleben seine Freundschaften bei den berühmten Schubertiaden und spüren, wie unterschiedlich Musik klingen kann.\n\nDas Familienkonzert ist als Erkundungstheater gestaltet: Kinder und Erwachsene sind eingeladen, selbst zu wandern, zu lauschen, Gefühle zu benennen und gemeinsam in Schuberts Welt einzutauchen.\n\nEmpfohlen für Kinder ab 7 Jahren und …",
+      "category": "Kultur",
+      "date": "2027-03-13",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-82465508e7",
+      "title": "Klavierfest Berlin-Weißensee 2027 - Liederabend",
+      "description": "Zwischen Wort und Klang - Abendröte reimagined | Mit Lars Conrad (Bariton) \u0026 Daniel Prinz (Klavier)\n\nEin wichtiger Schritt in Franz Schuberts Entwicklung hin zu seinen späteren Liederzyklen wird häufig übersehen. Lange bevor er die „Schöne Müllerin“ komponierte, inspirierte ihn eine Gedichtsammlung von Friedrich von Schlegel dazu, mehrere Gedichte daraus zu vertonen. Über einen Zeitraum von vier Jahren komponierte Schubert insgesamt 11 der 22 Gedichte aus diesem Buch.\n\nMit „Abendröte reimagined“ greift das Liedduo Conrad/Prinz (Lars Conrad und Daniel Prinz) diesen wenig bekannten Werkkomplex auf und verbinden Schuberts Lieder aus „Abendröte“ mit weiteren Liedern des Komponisten.\n\nDie beiden Musiker schreiben dazu:\n\nMit „Abendröte reimagined“ möchten wir den Versuch wagen, diesen scheinbar „gescheiterten“ Zyklus mit anderen Liedern von Franz Schubert zu neuem Leben zu erwecken. Im Anblick der Abenddämmerung öffnet sich hier ein Raum, in dem Gedanken über Vergänglichkeit, Sehnsüchte und Transzendenz ein Zuhause finden.\n\nLars Conrad und Daniel Prinz zählen zu einer jungen, vielversprechenden Generation von Liedinterpreten. Als Bariton und Liedpianist verbindet sie eine langjährige …",
+      "category": "Kultur",
+      "date": "2027-03-13",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-94d9f58a19",
+      "title": "Klavierfest Berlin-Weißensee 2027 - Vortragskonzert",
+      "description": "Schubert und Beethoven – zwei Romantiker? | Mit Florian Wilkes\n\nFür Franz Schubert war Ludwig van Beethoven ein bewundertes Vorbild und ein hochverehrter Wegbereiter. Beide verbrachten ihre Jahre im selben musikalischen Zentrum, Wien, und hinterließen Werke, die bis heute zum Kern des klassischen Repertoires gehören – von Klaviermusik und Kammermusik bis hin zur Sinfonie.\n\nIn diesem Konzert widmet sich Florian Wilkes anhand zweier ihrer bekanntesten Werke – Schuberts „Unvollendeter“ Sinfonie in der Bearbeitung für Klavier und Beethovens „Mondscheinsonate“ – den Gemeinsamkeiten und Besonderheiten ihrer musikalischen Sprache.\n\nWie lässt sich der in der Wiener Klassik entwickelte musikalische Stil in ihren Werken tatsächlich hören? Und waren beide vielleicht bereits auf dem Weg zur Romantik, noch bevor diese Epoche überhaupt begonnen hatte?\n\nBegeben Sie sich mit Florian Wilkes auf eine musikalische Zeitreise zu zwei großen Komponisten, die im Gespräch von Wort und Musik lebendig wird.\n\nEinlass: 10:00 Uhr\nBeginn: 11:00 Uhr\nPräsentiert von: Klavierfest Berlin-Weißensee\nTickets: Eintritt frei! Voranmeldung online ab 16. November über den Veranstalter Klavierfest Berlin-Weißensee …",
+      "category": "Kultur",
+      "date": "2027-03-14",
+      "startTime": "11:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "peter-edel-d66897b106",
+      "title": "Klavierfest Berlin-Weißensee 2027 - Klavierabend",
+      "description": "Wo die Geschichte neu beginnt - Die schöne Müllerin | Mit Sergei Redkin (Klavier)\n\nWie fühlt es sich an, sich zu verlieben? Und was passiert, wenn diese Liebe nicht erwidert wird?\n\nFranz Schuberts berühmter Liederzyklus „Die schöne Müllerin“ nach Gedichten von Wilhelm Müller ist weit mehr als ein bloßes Lied über den Liebeskummer eines jungen Müllergesellen. Er erzählt ein ganzes Liebesdrama – vom Augenblick des Verliebens über die Hochstimmung und die Erwartungen einer jungen Liebe, über Eifersucht und Enttäuschung bis hin zur Verzweiflung und schließlich zum Entschluss, den Tod zu wählen.\n\nEinige Lieder des Zyklus wurden bereits von Franz Liszt für Klavier bearbeitet. In diesem Konzert erleben wir jedoch die vollständige Fassung aller 20 Lieder in einer eigenen Bearbeitung für Klavier solo durch den Pianisten Sergei Redkin, die ganz neue klangliche Möglichkeiten eröffnet.\n\nRedkin gehört zu den international ausgezeichneten Pianisten seiner Generation: Bei zwei der weltweit renommiertesten internationalen Klavierwettbewerbe, dem Königin-Elisabeth-Wettbewerb und dem Internationalen Tschaikowski-Wettbewerb, erhielt er 2021 den 2. bzw. 2015 die Bronzemedaille. Zugleich ist er ein …",
+      "category": "Kultur",
+      "date": "2027-03-14",
+      "startTime": "17:00",
+      "endTime": "",
+      "location": {
+        "name": "Peter Edel",
+        "address": "Berliner Allee 125, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
+      "url": "https://www.peteredel.de/events/",
+      "source": "peter-edel",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
