@@ -78,7 +78,8 @@
     "Workshops": "Kultur"
   },
   "status": {
-    "lastAttempt": "2026-11-20T23:07:46Z",
-    "lastSuccess": "2026-11-20T23:07:46Z"
+    "lastAttempt": "2026-11-20T23:26:15Z",
+    "lastSuccess": "2026-11-20T23:07:46Z",
+    "lastError": "fetch https://www.stz-weissensee.de/veranstaltungen.html: Get \"https://www.stz-weissensee.de/veranstaltungen.html\": context deadline exceeded"
   }
 }
