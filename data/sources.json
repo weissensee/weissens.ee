@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T21:12:17.1666484Z",
+  "generatedAt": "2026-11-20T21:20:40.4508344Z",
   "sources": [
+    {
+      "name": "brotfabrik",
+      "label": "Brotfabrik",
+      "homepage": "https://brotfabrik-berlin.de",
+      "lastSuccess": "2026-11-20T21:20:37Z"
+    },
     {
       "name": "familienzentrum-weissensee",
       "label": "Familienzentrum Weißensee",
       "homepage": "https://www.familienzentrum-weissensee.de",
-      "lastSuccess": "2026-11-20T21:12:17Z"
+      "lastSuccess": "2026-11-20T21:20:40Z"
     },
     {
       "name": "inbox",

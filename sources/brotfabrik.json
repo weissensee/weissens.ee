@@ -1,0 +1,68 @@
+{
+  "label": "Brotfabrik",
+  "homepage": "https://brotfabrik-berlin.de",
+  "type": "json",
+  "url": "https://brotfabrik-berlin.de/wp-json/tribe/events/v1/events?per_page=50",
+  "itemsPath": "events",
+  "nextPath": "next_rest_url",
+  "maxPages": 8,
+  "mapping": {
+    "sourceId": {
+      "path": "id"
+    },
+    "title": {
+      "path": "title"
+    },
+    "description": {
+      "path": "excerpt"
+    },
+    "category": {
+      "path": "categories.0.name",
+      "default": "Kultur"
+    },
+    "organizer": {
+      "default": "Brotfabrik Berlin"
+    },
+    "url": {
+      "path": "url"
+    },
+    "locationName": {
+      "path": "venue.venue",
+      "default": "Brotfabrik"
+    },
+    "locationAddress": {
+      "default": "Caligariplatz 1, 13086 Berlin",
+      "template": "{venue.address}, {venue.zip} {venue.city}"
+    },
+    "start": {
+      "path": "start_date",
+      "format": "2006-01-02 15:04:05"
+    },
+    "end": {
+      "path": "end_date",
+      "format": "2006-01-02 15:04:05"
+    },
+    "price": {
+      "amountPath": "cost_details.values.0",
+      "unknownIfMissing": true
+    }
+  },
+  "daysAhead": 30,
+  "categoryMap": {
+    "Ausstellung": "Kultur",
+    "Bühne": "Kultur",
+    "Galerie": "Kultur",
+    "Kino": "Kultur",
+    "Konzert": "Kultur",
+    "Kurs": "Kultur",
+    "Lesung": "Kultur",
+    "Literatur": "Kultur",
+    "Musik": "Kultur",
+    "Theater": "Kultur",
+    "Workshop": "Kultur"
+  },
+  "status": {
+    "lastAttempt": "2026-11-20T21:20:37Z",
+    "lastSuccess": "2026-11-20T21:20:37Z"
+  }
+}
