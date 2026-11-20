@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:16:31.0170651Z",
+  "generatedAt": "2026-11-20T22:26:30.1230336Z",
   "events": [
     {
       "id": "familienzentrum-weissensee-7fb051b170",
@@ -6617,6 +6617,29 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-20/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false
+    },
+    {
+      "id": "freilichtbuehne-weissensee-1ee618dbe8",
+      "title": "Nach Haus – Die Seilschaft",
+      "description": "1997 stand „Die Seilschaft“ zum letzten Mal mit Gerhard Gundermann auf der Freilichtbühne Weißensee. Ein Jahr später, nach seinem Tod, kamen Musiker und Publikum hier noch einmal zu einem allerletzten Konzert zusammen. So dachte man.\n\nJetzt kehrt Die Seilschaft an einen besonderen Ort ihrer Geschichte zurück und unterbricht für diesen Abend die aktuelle „UNGEFILTERT“-Tour.\n\nAm 09. Juli werden Menschen im Publikum stehen, die vor 30 Jahren schon dabei waren und solche, die Gundermann nie live erleben konnten. Beides gehört zusammen.\n\nSo treffen in Weißensee zwei Zeiten aufeinander: die Erinnerung an Konzerte mit Gundermann und die Gegenwart einer Band, die ihre Geschichte kontinuierlich weiterschreibt.\n\nDie Seilschaft kommt „Nach Haus“: am 09. Juli 2027 auf die Freilichtbühne Weißensee.\nVorverkauf",
+      "category": "Kultur",
+      "date": "2027-07-09",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Große Bühne",
+        "address": "Große Seestraße 10, Berlin-Weißensee, Berlin, 13086, Deutschland"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Freilichtbühne Weißensee",
+      "url": "https://freilichtbuehne-weissensee.de/events/nach-haus-die-seilschaft/",
+      "source": "freilichtbuehne-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false

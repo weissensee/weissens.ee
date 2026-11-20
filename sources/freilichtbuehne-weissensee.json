@@ -1,0 +1,24 @@
+{
+  "label": "Freilichtbühne Weißensee",
+  "homepage": "https://freilichtbuehne-weissensee.de",
+  "type": "ical",
+  "url": "https://freilichtbuehne-weissensee.de/events.ics",
+  "daysAhead": 270,
+  "organizer": "Freilichtbühne Weißensee",
+  "locationDefault": "Freilichtbühne Weißensee, Große Seestraße 10, 13086 Berlin",
+  "categoryMap": {
+    "Comedy": "Kultur",
+    "Familie": "Kultur",
+    "Film": "Kultur",
+    "Kabarett": "Kultur",
+    "Kinder": "Kultur",
+    "Kino": "Kultur",
+    "Konzert": "Kultur",
+    "Lesung": "Kultur",
+    "Theater": "Kultur"
+  },
+  "status": {
+    "lastAttempt": "2026-11-20T22:26:30Z",
+    "lastSuccess": "2026-11-20T22:26:30Z"
+  }
+}
