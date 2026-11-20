@@ -18,9 +18,11 @@ siehe `docs/source-discovery.md` im Kern-Repo openLitfass.
 
 *(noch keine)*
 
-## Nicht machbar
+## Nicht machbar (derzeit)
 
-*(noch keine geprüft)*
+| Quelle | Geprüft | Befund |
+|---|---|---|
+| weissensee-kultur.de ("Weißenseer Kultursommer") | 20.11.2026 | WordPress mit **Modern Events Calendar (MEC)**. RSS-Feed `/feed/` ist leer (keine Items). MEC-REST-API `wp-json/mec/v1/events` liefert `[]`, auch mit `start_date`. `wp-json/wp/v2/mec-events` listet zwar Termin-Beiträge (zuletzt Ende September 2026), aber ohne Termindaten (nur Veröffentlichungsdatum). Kein iCal-Feed (`?mec-ical-feed=1` liefert HTML). Einzelne Termin-Seiten antworten mit HTTP 500. Saisonal (Kultursommer): **im Frühjahr erneut prüfen**, ob der Feed dann Items trägt oder der MEC-iCal-Export aktiviert ist; ggf. beim Betreiber anfragen. |
 
 ## Noch zu prüfen
 
