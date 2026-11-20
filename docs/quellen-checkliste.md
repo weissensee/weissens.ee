@@ -8,6 +8,7 @@ siehe `docs/source-discovery.md` im Kern-Repo openLitfass.
 | Quelle | Typ | Seit | Status |
 |---|---|---|---|
 | Familienzentrum Weißensee (Kurskalender, "Weekly Class Schedule"-Plugin) | `wcs` | 20.11.2026 | `sources/familienzentrum-weissensee.json`; erster Lauf 95 Termine (4 Wochen voraus). Kategorie-IDs 27/28/29/30, siehe Kern-Doku `docs/backend.md` → "wcs-Quellen". Etwa die Hälfte landet über `categoryMap` (austausch, beratung) in "Unkategorisiert". |
+| Brotfabrik (Kino, Bühne, Galerie, Kurse) | `json` | 20.11.2026 | `sources/brotfabrik.json`; WordPress "The Events Calendar", REST-API `wp-json/tribe/events/v1/events`, paginiert (`next_rest_url`). Erster Lauf 192 Termine in 30 Tagen, alle Kategorien per `categoryMap` auf "Kultur". Venue mit PLZ 13086. |
 
 ## Gefunden — startklar
 
