@@ -11,6 +11,7 @@ siehe `docs/source-discovery.md` im Kern-Repo openLitfass.
 | Brotfabrik (Kino, Bühne, Galerie, Kurse) | `json` | 20.11.2026 | `sources/brotfabrik.json`; WordPress "The Events Calendar", REST-API `wp-json/tribe/events/v1/events`, paginiert (`next_rest_url`). Erster Lauf 192 Termine in 30 Tagen, alle Kategorien per `categoryMap` auf "Kultur". Venue mit PLZ 13086. |
 | Freilichtbühne Weißensee | `ical` | 20.11.2026 | `sources/freilichtbuehne-weissensee.json`; Events-Manager-Export `/events.ics` mit strukturiertem Ort (Bühne + Adresse, PLZ 13086). Keine Endzeiten im Feed (DTEND = DTSTART), daher nur Beginn. Saisonbetrieb: im November nur 1 Termin (Juli 2027), daher `daysAhead` 270. |
 | Stadtteilzentrum Weißensee (FreiZeitHaus e.V.) | `html` | 20.11.2026 | `sources/stadtteilzentrum-weissensee.json`; Joomla/JEvents-Liste `/veranstaltungen.html`, rund 2 Monate voraus (35 Termine). Kein Feed brauchbar (JEvents-RSS liefert fest nur 5 Einträge). Keine Einzel-Links pro Termin, daher verlinkt jeder Termin auf die Liste. Preis per Regex aus "Kosten:/Eintritt:" im Text ("Eintritt: frei" bleibt unbekannt). Absagen über Titel ("ENTFÄLLT - …") werden erkannt. |
+| Bildungs- und Kulturzentrum Peter Edel | `html` | 20.11.2026 | `sources/peter-edel.json`; Umbraco-Seite `/events/`, Termine bis Oktober 2027 (41 im 120-Tage-Fenster). Datum ohne Jahr ("FR | 20.11."), Jahr wird ergänzt. Uhrzeit "Beginn", sonst "Einlass". Preis aus der Ticketspalte ("Ab 27,00€", "Eintritt frei!"). Links teils auf externe Ticketshops. Titel tragen Status-Hinweise ("[VERSCHOBEN!]", "AUSVERKAUFT!"), die noch nicht ausgewertet werden. |
 
 ## Gefunden — startklar
 
@@ -18,9 +19,7 @@ siehe `docs/source-discovery.md` im Kern-Repo openLitfass.
 
 ## Gefunden — braucht eigenen Parser
 
-| Quelle | Befund |
-|---|---|
-| Bildungs- und Kulturzentrum Peter Edel | `/events/` eine HTML-Seite bis Mai 2027, kein Feed, kein JSON-LD (geprüft 20.11.2026) → Kandidat für Quelltyp `html`. |
+*(derzeit keine)*
 
 ## Nicht machbar (derzeit)
 
