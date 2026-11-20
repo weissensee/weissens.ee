@@ -1,0 +1,84 @@
+{
+  "label": "Stadtteilzentrum Weißensee",
+  "homepage": "https://www.stz-weissensee.de",
+  "type": "html",
+  "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+  "itemSelector": "#jevents_body .schatten",
+  "extract": {
+    "category": "a.ev_link_cat",
+    "day": ".neulandeventDate .day",
+    "description": {
+      "selector": ".headline p",
+      "html": true,
+      "all": true,
+      "skip": 3
+    },
+    "end": {
+      "selector": ".headline p:nth-of-type(2)",
+      "regex": "-\\s*(\\d{1,2}:\\d{2})"
+    },
+    "month": ".neulandeventDate .month",
+    "place": ".headline p:nth-of-type(3) strong",
+    "price": {
+      "selector": ".headline",
+      "regex": "(?:Kosten|Kostenbeitrag|Eintritt)[^:]*:\\s*(\\d+)(?:,\\d+)?\\s*€"
+    },
+    "start": {
+      "selector": ".headline p:nth-of-type(2)",
+      "regex": "(\\d{1,2}:\\d{2})"
+    },
+    "title": ".headline h2",
+    "year": ".neulandeventDate .year"
+  },
+  "mapping": {
+    "title": {
+      "path": "title"
+    },
+    "description": {
+      "path": "description"
+    },
+    "category": {
+      "path": "category"
+    },
+    "organizer": {
+      "default": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)"
+    },
+    "url": {
+      "default": "https://www.stz-weissensee.de/veranstaltungen.html"
+    },
+    "locationName": {
+      "path": "place",
+      "default": "Stadtteilzentrum Weißensee"
+    },
+    "locationAddress": {
+      "default": "Pistoriusstraße 23, 13086 Berlin"
+    },
+    "start": {
+      "format": "2 Jan 2006 15:04|2 Jan 2006",
+      "template": "{day} {month} {year} {start}"
+    },
+    "end": {
+      "format": "2 Jan 2006 15:04",
+      "template": "{day} {month} {year} {end}"
+    },
+    "price": {
+      "amountPath": "price",
+      "unknownIfMissing": true
+    }
+  },
+  "daysAhead": 60,
+  "categoryMap": {
+    "Bühne": "Kultur",
+    "Feste": "Kultur",
+    "Markt": "Markt",
+    "Nachbarschaftstreffen": "Unkategorisiert",
+    "Spielen": "Unkategorisiert",
+    "Tanz": "Kultur",
+    "Vorträge": "Kultur",
+    "Workshops": "Kultur"
+  },
+  "status": {
+    "lastAttempt": "2026-11-20T22:44:36Z",
+    "lastSuccess": "2026-11-20T22:44:36Z"
+  }
+}

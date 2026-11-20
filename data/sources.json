@@ -1,23 +1,29 @@
 {
-  "generatedAt": "2026-11-20T22:35:31.1919532Z",
+  "generatedAt": "2026-11-20T22:44:36.3013281Z",
   "sources": [
     {
       "name": "brotfabrik",
       "label": "Brotfabrik",
       "homepage": "https://brotfabrik-berlin.de",
-      "lastSuccess": "2026-11-20T22:35:28Z"
+      "lastSuccess": "2026-11-20T22:44:32Z"
     },
     {
       "name": "familienzentrum-weissensee",
       "label": "Familienzentrum Weißensee",
       "homepage": "https://www.familienzentrum-weissensee.de",
-      "lastSuccess": "2026-11-20T22:35:29Z"
+      "lastSuccess": "2026-11-20T22:44:33Z"
     },
     {
       "name": "freilichtbuehne-weissensee",
       "label": "Freilichtbühne Weißensee",
       "homepage": "https://freilichtbuehne-weissensee.de",
-      "lastSuccess": "2026-11-20T22:35:31Z"
+      "lastSuccess": "2026-11-20T22:44:35Z"
+    },
+    {
+      "name": "stadtteilzentrum-weissensee",
+      "label": "Stadtteilzentrum Weißensee",
+      "homepage": "https://www.stz-weissensee.de",
+      "lastSuccess": "2026-11-20T22:44:36Z"
     },
     {
       "name": "inbox",

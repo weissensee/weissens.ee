@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:35:31.1476675Z",
+  "generatedAt": "2026-11-20T22:44:36.2575204Z",
   "events": [
     {
       "id": "familienzentrum-weissensee-7fb051b170",
@@ -140,6 +140,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/helene-weigel-revoltionaerin-im-rampenlicht/2026-11-20/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-d9f98dd3ce",
+      "title": "Quizabend im Stadtteilzentrum",
+      "description": "Sie sind voller nützlicher oder auch weniger nützlicher Informationen und haben Spaß daran? Wir auch! Kommen Sie und genießen das Rennen um das passende Wissen. Teams von 3 bis 6 Personen können sich im freundlichen Wettbewerb mit anderen messen. Sie können als ganzes Team oder als Einzelperson teilnehmen und sich mit anderen zusammenschließen. Der Spaß und die Schnelligkeit zählen!\nAnmeldung: Honeck21@gmail.com\nKosten: 3 € /Termin",
+      "category": "Unkategorisiert",
+      "date": "2026-11-20",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 3
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -434,6 +458,30 @@
       "cancelled": false
     },
     {
+      "id": "stadtteilzentrum-weissensee-424917de75",
+      "title": "Tanztee für alle",
+      "description": "Von Oktober bis Dezember entfällt leider unser beliebtes Angebot \"Tanztee für alle\" .\n\nIm Januar geht es wieder weiter- dann wieder mit gesundem Schwung ins neue Jahr!",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": true
+    },
+    {
       "id": "brotfabrik-6ff5651de0",
       "title": "„Langsam Langsam! – oder die schnellste Schnecke der Welt“",
       "description": "Schauspiel mit Figuren für Kinder ab vier Jahren | Spiel/Stückentwicklung: Martin Heesch | Regie/Stückentwicklung: Andreas Mihan",
@@ -476,6 +524,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/helene-weigel-revoltionaerin-im-rampenlicht/2026-11-22/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-adac27f3cc",
+      "title": "\"Chornichants\" A-cappella-Songs gegen den Herbstblues",
+      "description": "Der Herbst wird musikalisch! Die Chornichants laden zu einem stimmungsvollen Abend mit A-cappella-Gesang ins Stadtteilzentrum Weißensee ein. Mit ihren Stimmen und jeder Menge guter Laune sorgen sie für musikalische Wärme an grauen Herbsttagen und vertreiben gemeinsam mit euch den Herbstblues.\n\nWann: Sonntag, 22. November 2026, um 18:30 Uhr\nWo: Stadtteilzentrum Weißensee, Pistoriusstraße 23, 13086 Berlin\nEintritt: Frei",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "18:30",
+      "endTime": "",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -578,6 +650,30 @@
       "cancelled": false
     },
     {
+      "id": "stadtteilzentrum-weissensee-bb1fd6df89",
+      "title": "Indoorspielplatz (0- bis 3-Jährige)",
+      "description": "Kinder wollen sich bewegen, toben und unter Kindern sein – auch bei schlechtem Wetter oder mal in einem kleinen, geschützten Raum. Unser Indoorspielplatz bietet den Kleinsten die Möglichkeit, sich in geschützter Umgebung auszutoben, zu spielen und neue Freund*innen kennenzulernen. Kommt vorbei und genießt gemeinsam mit euren Kindern eine fröhliche Spielzeit drinnen, warm und wetterunabhängig. Kinderwägen können parkseitig am hinteren Eingang abgestellt und abgeschlossen werden.\nMontag, 10 – 13 Uhr im Bewegungsraum (UG)\nAnmeldung: nicht erforderlich\nKosten: 2 € pro Treffen als Spende erwünscht",
+      "category": "Unkategorisiert",
+      "date": "2026-11-23",
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 2
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-b09ca9ed7f",
       "title": "„Langsam Langsam! – oder die schnellste Schnecke der Welt“",
       "description": "Schauspiel mit Figuren für Kinder ab vier Jahren | Spiel/Stückentwicklung: Martin Heesch | Regie/Stückentwicklung: Andreas Mihan",
@@ -644,6 +740,54 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-23/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-3b1b76ef8f",
+      "title": "Mittagstisch für alle",
+      "description": "Kommen Sie vorbei und genießen Sie eine warme Suppe. Wir laden alle Nachbar*innen zum Mittagstisch ein.\nMontag von 12 - 13.30 Uhr im Saal (OG)\nKostenbeitrag: 1 €, Ermäßigung möglich\nAnmeldung: nicht erforderlich",
+      "category": "Unkategorisiert",
+      "date": "2026-11-23",
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 1
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-61a3d57c7f",
+      "title": "Karten- und Brettspiele für alle",
+      "description": "Wöchentlich findet unser geselliger Spiele-Nachmittag mit Hauscafé im Stadtteilzentrum statt.\nSchauen Sie gerne einfach vorbei, ob allein oder mit anderen Spielern im Gepäck.\nWann: Montag, 13.00 – 18.00 Uhr im Saal\nKosten: 2 € (1,50 €)",
+      "category": "Unkategorisiert",
+      "date": "2026-11-23",
+      "startTime": "13:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 2
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -964,7 +1108,7 @@
     {
       "id": "brotfabrik-3a900658be",
       "title": "Inklusive Soundwerkstatt",
-      "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\n\nmit Petra Schröck und Jörg Wesche",
+      "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\nmit Petra Schröck und Jörg Wesche",
       "category": "Kultur",
       "date": "2026-11-24",
       "startTime": "16:00",
@@ -980,6 +1124,54 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/inklusive-soundwerkstatt/2026-11-24/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-d089b196cd",
+      "title": "Kiezcafé",
+      "description": "Unser wöchentliches Café ist ein offener Treffpunkt für alle aus der Nachbarschaft. Hier könnt ihr neue Leute kennenlernen, Freund*innen treffen oder einfach entspannt den Nachmittag genießen.\n\nVor Ort gibt es Kaffee und Kuchen in unserem gemütlichen Saal. Außerdem könnt Ihr Spiele für Groß und Klein ausleihen.\n\nKommt vorbei, wir freuen uns auf Euch!\n\nWann: Jeden Dienstag von 16 - 18 Uhr\n\nWo: Im Saal",
+      "category": "Unkategorisiert",
+      "date": "2026-11-24",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-4af4deed63",
+      "title": "Vortrag: Digitalisierung für ältere Menschen",
+      "description": "Vortrag: Digitalisierung für ältere Menschen\n\nUnser Alltagsleben wird zunehmend digitaler: BVG Tickets auf dem Handy, Whatsapp und E-Mails, online-Anmeldungen bei Kulturveranstaltung oder der digitale Rentenantrag.\nWelche Kenntnisse und Fertigkeiten wird es erfordern, um im digitalen Alltag zurechtzukommen? Welche Infrastruktur gibt es und wie kann ich sie nutzen?\nWie verhindern wir, digital abgehängt zu werden und wie können wir stattdessen das digitale Alltagsleben aktiv mitgestalten ?\n\nWann: 24. November 2026, 16:30–17:30 Uhr\nWo: Gartensaal im Stadtteilzentrum Weißensee\nAnmeldung unter: info@frei-zeit-haus.de",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -1202,6 +1394,30 @@
       "cancelled": false
     },
     {
+      "id": "stadtteilzentrum-weissensee-0a53fc33a1",
+      "title": "Arbeitskreis Inklusion",
+      "description": "Im Arbeitskreis Inklusion treffen sich Menschen aus dem Stadtteil. Alle können mitmachen: Menschen mit und ohne Behinderungen, Angehörige und Nachbar*innen. Wir sind gemeinsam aktiv und planen viele Aktionen im Stadtteilzentrum.\nTermine: 25.02., 29.04., 22.06.(!), 26.08., 28.10. von 16–18 Uhr im Gartensaal (OG)\nInformation: carolin.janssen@frei-zeit-haus.de\nAnmeldung: nicht erforderlich",
+      "category": "Unkategorisiert",
+      "date": "2026-11-25",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "familienzentrum-weissensee-a5d208cc24",
       "title": "Queer Café",
       "description": "Für queere Menschen in Familien und in Familienplanung Ohne Anmeldung Das Queer Café ist ein offener Treff und ein safer space für queere …",
@@ -1268,6 +1484,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/atelierkurs-acrylmalen-malen-mit-malte-hagen-2/2026-11-25/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-905e616ba5",
+      "title": "Konzert \"Hey Sunny\" im Stadtteilzentrum",
+      "description": "Konzert \"hey Sunny\"\n\nMittwoch, 25. November 2026, um 18:30 Uhr im Saal\n\n'hey sunny' bringt good vibes auf die Bühne. Ein Folk-Pop-Duo mit zwei Stimmen, Gitarre, Ukulele und Percussion. Sunny \u0026 Marty sorgen mit ihrem ehrlichen Sound für gute Laune und Mitsing-Momente. Live kann man die Nähe zum Publikum spüren und wird mit einer warmen, positiven Atmosphäre belohnt. Mal ruhig und berührend, mal rhythmisch und mitreißend. Die Musik erzählt auf Deutsch und Englisch von den kleinen Dingen im Alltag, großen Erlebnissen und ganz viel Lebensfreude: ehrlich, lebensnah und handgemacht.\n\nAnmeldung: einfach vorbeikommen\nKosten: Hutspende",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "18:30",
+      "endTime": "22:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -1412,6 +1652,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-26/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-6e68715d50",
+      "title": "Initiative Faires.Pankow",
+      "description": "Der Faire.Donnerstag ist ein neues wöchentliches Nachbarschaftsprojekt im Stadtteilzentrum Weißensee, das ökologische Nachhaltigkeit, soziale Teilhabe und gemeinschaftliches Handeln verbindet.\nImmer donnerstags wird das Haus zum Treffpunkt für alle, die teilen, helfen, tauschen oder einfach beisammen sein möchten.\n\nDas Herzstück ist das Fair.Café – immer von 14 bis 17 Uhr . Hier gibt es kostenlosen Kaffee, gerettete Lebensmittel, nette Gespräche und Raum für neue Ideen – ganz ohne Konsumzwang und Kostendruck, getragen vom Engagement Nachbarschaftsinitiative Faires.Pankow. Bringt gerne (Stoff)-Tüten, Dosen und andere lebensmittelsichere Behälter mit, um die geretteten Lebensmittel sicher zu transportieren. Achtung: Die geretteten Lebensmittel sind möglicherweise schon vor dem Ende der Veranstaltung vergriffen, je nach Menge und Rückfrage. Beginn der Ausgabe ist um 14 Uhr.\n\nIm Anschluss an das Fair.Café finden wechselnde Workshops, Aktionen und Veranstaltungen rund um Nachhaltigkeit, Reparatur, Upcycling oder Nachbarschaftsprojekte statt. Hier können sich alle einbringen, mitmachen oder selbst etwas auf die Beine stellen. Wie mitmachen? Komm vorbei – mit deiner Idee! Ob beim …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-26",
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -1705,6 +1969,30 @@
       "cancelled": false
     },
     {
+      "id": "stadtteilzentrum-weissensee-faa1e61513",
+      "title": "Blutspende des DRK",
+      "description": "Blutspendeaktion des DRK-Blutspendedienstes.\nAnmeldung: www.drk-blutspende.de",
+      "category": "Unkategorisiert",
+      "date": "2026-11-27",
+      "startTime": "13:30",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "familienzentrum-weissensee-5c30ae1491",
       "title": "Kreative Holzwerkstatt",
       "description": "für Kinder (ab 4 Jahren) mit Eltern Ob Sägen, Feilen, Hämmern oder Schleifen…in der kreativen Holzwerkstatt können Familien das Material Holz entdecken, Formen finden und gestalten. Unter pädagogischer Anleitung könnt ihr kleine oder auch größere Objekte bauen. Als Familie könnt ihr entweder gemeinsam werkeln, oder Bezugspersonen begleiten und unterstützen ihre Kinder bei der Umsetzung ihrer Ideen. Im Vordergrund steht die Freude am Ausprobieren. Auch andere Materialen wie zum Beispiel Stoff und Farbe dürfen ergänzend zum Einsatz kommen. Dabei entstehen überraschende Werke wie Roboter, Raketen, Lolis oder Fantasiewesen.",
@@ -1843,6 +2131,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-28/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-b547921128",
+      "title": "Filzen für Groß und Klein",
+      "description": "Filzen für Groß und Klein\n\nWenn es draußen kälter wird, ist die perfekte Zeit für gemütliche Handarbeitsstunden! Ob warme Pulswärmer, selbstgemachte Weihnachtsgeschenke oder andere schöne und praktische Lieblingsstücke – hier könnt ihr das Filzen ausprobieren, Neues lernen und eurer Kreativität freien Lauf lassen. Für alle ab 8 Jahren: Kinder und Erwachsene sind herzlich willkommen, ob gemeinsam oder allein. Kinder unter 10 Jahren sollten möglichst von einer älteren Person begleitet werden – das können auch ältere Geschwister sein.\n\nTermine:\n\nSa, 28.11., 13 - 18 Uhr\nFr., 4.12., 17:30 - 20:30 Uhr\nSa, 5.12., 13 - 18 Uhr\n\n3h (Fr): 33€\n5h Kurs (Sa): 45€\n\nWer Freitag und Sonnabend (4./5.12.) kommt, zahlt insgesamt nur 65€ für beide Kurse.\n\nPreise inklusive Material\n\nErmäßigung auf Anfrage\n\nKosten:\n\nAnmeldung und Infos : Franziska 0177 3265082 (Ermäßigung auf Anfrage)",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "13:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -2499,7 +2811,7 @@
     {
       "id": "brotfabrik-8fba8caa49",
       "title": "Inklusive Soundwerkstatt",
-      "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\n\nmit Petra Schröck und Jörg Wesche",
+      "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\nmit Petra Schröck und Jörg Wesche",
       "category": "Kultur",
       "date": "2026-12-01",
       "startTime": "16:00",
@@ -2713,6 +3025,30 @@
       "cancelled": false
     },
     {
+      "id": "stadtteilzentrum-weissensee-b4f3e818db",
+      "title": "FEUERSCHALENMOMENTE MIT DER STADTNATURLOTSIN",
+      "description": "Die Stadtnaturlotsin Mubida kommt mit ihrem Aktionstisch zu uns in den Garten! Freut euch auf einen gemütlichen Nachmittag voller Naturerlebnisse, Kreativität und schöner Begegnungen.\n\nRund um die Feuerschale wollen wir gemeinsam draußen sein, basteln, entdecken und die Natur mit allen Sinnen erleben. Wenn es langsam dunkel wird, bringen wir gemeinsam Licht ins Dunkel und genießen die besondere Atmosphäre am Feuer.\n\nKommt vorbei, verbringt eine schöne gemeinsame Zeit mit uns und lasst uns zusammen die Natur genießen!\n\nEin Angebot des Projekts „Stadtnatur für alle“ der Stiftung Naturschutz Berlin, gefördert durch die Senatsverwaltung für Bildung, Jugend und Familie.",
+      "category": "Kultur",
+      "date": "2026-12-02",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "familienzentrum-weissensee-d1c6b1257a",
       "title": "Telefon-Beratung",
       "description": "Für alle die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
@@ -2734,6 +3070,30 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-bb3cd50b29",
+      "title": "Mandala zeichnen – Kreativität und Entspannung",
+      "description": "In diesem Workshop entdecken Jugendliche ab 12 Jahren und Erwachsene die faszinierende Welt des Mandalazeichnens. Schritt für Schritt werden die Grundlagen vermittelt, sodass eigene Mandalas und kreative Muster entstehen können. Dabei sind der Fantasie keine Grenzen gesetzt!\n\nDas Zeichnen bietet nicht nur Raum für Kreativität, sondern auch eine kleine Auszeit vom Alltag. Durch das konzentrierte Gestalten kannst du zur Ruhe kommen, den Moment bewusst wahrnehmen und ganz im Hier und Jetzt sein.\n\nWann: Mittwochs, 16:00–17:30 Uhr\nFür wen: Jugendliche ab 12 Jahren und Erwachsene\nKosten: 10 € pro Person und Termin\nBitte mitbringen: Bleistift, Fineliner, Lineal, Geodreieck (oder Dreieck mit Winkelmesser) und Zirkel.\nAnmeldung unter: k_bode@gmx.de\nKursleitung: Katja Bode",
+      "category": "Kultur",
+      "date": "2026-12-02",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 10
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -2803,6 +3163,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/atelierkurs-acrylmalen-malen-mit-malte-hagen-2/2026-12-02/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-9f1a9a5d94",
+      "title": "TangoGarten Weißensee",
+      "description": "Im Saal des Stadtteilzentrums Weißensee finden regelmäßig Tango-Nächte statt. Dich erwarten hier 90m² gut gepflegtes Tanzparkett und eine kleine Bar. Vor jeder Milonga gibt es die Gelegenheit, den Tango Argentino zu erlernen oder das bereits vorhandenes Tango-Können zu verfeinern. Im Sommer auch im Garten am Kreuzpfuhl.\nWeitere Informationen finden Sie hier: https://tangogartenweissensee.de",
+      "category": "Kultur",
+      "date": "2026-12-02",
+      "startTime": "18:00",
+      "endTime": "23:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -2979,7 +3363,7 @@
     {
       "id": "brotfabrik-cc155166ad",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-03",
       "startTime": "11:00",
@@ -3067,6 +3451,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/einar-schleef-ich-habe-kein-deutschland-gefunden/2026-12-03/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-e73bdb7b80",
+      "title": "Repariererei",
+      "description": "Du hast ein altes oder kaputtes Lieblingsstück zu Hause? Du möchtest es reparieren, aber dir fehlen die Werkzeuge oder das Know-How? Du tüftelst gern und hast Lust, dein Wissen mit anderen zu teilen? Dann komm doch zur Repariererei! Ob platter Reifen, Wackelkontakt oder loses Stuhlbein - unsere erfahrenen Ehrenamtlichen beraten und unterstützen Dich. Wir haben Werkzeuge vor Ort.\nJeden 1. und 3. Donnerstag von 18 – 20 Uhr Im Kreativraum (UG)\nAnsprechpersonen: Franziska, Rouven \u0026 Thomas\nInfo: 0177 3265082 oder reparierbar-stz@mail.de\nKostenbeitrag: Spenden",
+      "category": "Kultur",
+      "date": "2026-12-03",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -3290,7 +3698,7 @@
     {
       "id": "brotfabrik-bc13538491",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-04",
       "startTime": "11:00",
@@ -3384,6 +3792,30 @@
       "cancelled": false
     },
     {
+      "id": "stadtteilzentrum-weissensee-c26be67c1e",
+      "title": "Singen macht glücklich",
+      "description": "… zuhören, lauschen, mitsummen, dabei sein ebenso. SingSang mit Dörte, mit euch. Ganz ohne Noten.\n20:15 – 21.30 Uhr im Bewegungsraum (UG)\nLeitung: Dörte Badock. Musiktherapeutin, Musikgeragogin , Gitarre, Klanginstrumente\nAnmeldung/Information: SMS 0157 375 710 70\nKosten: 8–10 € / Termin",
+      "category": "Kultur",
+      "date": "2026-12-04",
+      "startTime": "20:15",
+      "endTime": "22:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "brotfabrik-b2e90332c8",
       "title": "La bola negra",
       "description": "ES/F 2026 | 155 min | Spielfilm | R: Javier Ambrossi | Javier Calvo | DF + OmU | Drei Leben, drei miteinander verwobene Schicksale, ein gemeinsames Erbe: Die Jahre 1932, 1937 und 2017 umspannend",
@@ -3410,7 +3842,7 @@
     {
       "id": "brotfabrik-31f5279326",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-05",
       "startTime": "11:00",
@@ -3578,7 +4010,7 @@
     {
       "id": "brotfabrik-70aa9c6292",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-06",
       "startTime": "11:00",
@@ -3594,6 +4026,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-06/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-e08490e8d7",
+      "title": "Queer Bake \u0026 Cake",
+      "description": "Wir kommen sonntags in entspannter Atmosphäre zum crazy Backen und Kaffee-Klatschen zusammen. Dabei stehen Spaß und Austausch für die LGBTQ+ Community im Vordergrund.\nLeitung: Mike Falk, Emanzipatorische Selbsthilfe e.V.\nAnmeldung: queerbakeandcake@gmx.de oder über Instagram @queerbakeandcake.de",
+      "category": "Unkategorisiert",
+      "date": "2026-12-06",
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -3842,7 +4298,7 @@
     {
       "id": "brotfabrik-c370031238",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-07",
       "startTime": "11:00",
@@ -4130,7 +4586,7 @@
     {
       "id": "brotfabrik-26793e18ae",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-08",
       "startTime": "11:00",
@@ -4178,7 +4634,7 @@
     {
       "id": "brotfabrik-6affa667d5",
       "title": "Inklusive Soundwerkstatt",
-      "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\n\nmit Petra Schröck und Jörg Wesche",
+      "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\nmit Petra Schröck und Jörg Wesche",
       "category": "Kultur",
       "date": "2026-12-08",
       "startTime": "16:00",
@@ -4346,7 +4802,7 @@
     {
       "id": "brotfabrik-d03a3bd6f4",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-09",
       "startTime": "11:00",
@@ -4586,7 +5042,7 @@
     {
       "id": "brotfabrik-cc25ee9789",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-10",
       "startTime": "11:00",
@@ -4897,7 +5353,7 @@
     {
       "id": "brotfabrik-3c08f47c72",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-11",
       "startTime": "11:00",
@@ -5041,7 +5497,7 @@
     {
       "id": "brotfabrik-f3edd9f882",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-12",
       "startTime": "11:00",
@@ -5057,6 +5513,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-12/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-cd6d1c59eb",
+      "title": "Elvis Club Berlin e.V.",
+      "description": "Weihnachtsfeier - Der Club und seine Mitglieder setzen sich dafür ein, dass Elvis Presley – seine Musik und Filme – nicht in Vergessenheit geraten. Monatliche Clubtreffen, Vorstellung und Austausch von verschiedenen Neuerscheinungen, Büchern, DVD’s u. a.\n\nInformation: www.elvisclubberlin.de",
+      "category": "Unkategorisiert",
+      "date": "2026-12-12",
+      "startTime": "14:00",
+      "endTime": "22:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -5209,7 +5689,7 @@
     {
       "id": "brotfabrik-6fb76abc2a",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-13",
       "startTime": "11:00",
@@ -5225,6 +5705,54 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-13/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-9da54b0daa",
+      "title": "Sozialer Trödelmarkt",
+      "description": "Besuchen Sie den Trödelmarkt des Bildungsvereins und unterstützen Sie Menschen mit Fluchtgeschichte. Bei schönem Wetter findet der Markt im Garten statt, bei Regen im Haus.\nK osten: 5 € zzgl. 5 € aus dem Verkaufserlös\nVeranstalter: Bildungsverein am Kreuzpfuhl e.V.\nAnmeldung/Infos: info@bv-kreuzpfuhl.de",
+      "category": "Markt",
+      "date": "2026-12-13",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 5
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-c229d91fac",
+      "title": "Weihnachtliches Basteln",
+      "description": "Hereinspaziert zu weihnachtlichen Basteleien aus aller Welt! Gemeinsam gestalten wir festliche Weihnachtsdekoration und individuelle Geschenke. Freut euch auf einen kreativen Nachmittag für Kinder und Erwachsene!\n\nSonntag, 13. Dezember 2026 | 15–18 Uhr\nKreativraum im Stadtteilzentrum Weißensee Ohne Anmeldung – einfach vorbeikommen.\nEine Spende ist willkommen.",
+      "category": "Kultur",
+      "date": "2026-12-13",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -5425,7 +5953,7 @@
     {
       "id": "brotfabrik-006ba0c276",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-14",
       "startTime": "11:00",
@@ -5516,6 +6044,30 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-774018f7f1",
+      "title": "Kräuterwerkstatt im Stadtteilzentrum",
+      "description": "Die Kräuterpädagogin Claudia Scholz gibt in kleiner Runde ihr Kräuterwissen weiter, z. B. beim Kräuterspaziergang oder bei der Herstellung von Kräuterwasser, Kräutersalz und Reinigungsmittel. Dieses Mal wird ein duftendes Kräuterwasser für Raumduft und Kosmetik destilliert.\nDieses Mal: Wir stellen Räucherkerzen her und genießen Wildfruchtpunsch und Kräuterkekse.\n2. Montag des Monats (außer Juni, Juli und August)\nvon 16:00-18:00 Uhr im Gartensaal\nKursleiterin: Claudia Scholz, Kräuterpädagogin\nKosten: 15 € einschließlich Material und Snack\nAnmeldung/Kontakt: cla.h.scholz@gmail.com",
+      "category": "Kultur",
+      "date": "2026-12-14",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 15
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -5713,7 +6265,7 @@
     {
       "id": "brotfabrik-627c10bd75",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-15",
       "startTime": "11:00",
@@ -5737,7 +6289,7 @@
     {
       "id": "brotfabrik-60d865b179",
       "title": "Inklusive Soundwerkstatt",
-      "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\n\nmit Petra Schröck und Jörg Wesche",
+      "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\nmit Petra Schröck und Jörg Wesche",
       "category": "Kultur",
       "date": "2026-12-15",
       "startTime": "16:00",
@@ -5929,7 +6481,7 @@
     {
       "id": "brotfabrik-b681a3da53",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-16",
       "startTime": "11:00",
@@ -5972,6 +6524,30 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-a2bb75dd6f",
+      "title": "Weihnachtsfeier für Vereinsmitglieder, Ehrenamtliche und Kursleitende",
+      "description": "Gemeinsam wollen wir das Jahr ausklingen lassen und zusammen einen gemütlichen und feierlichen Nachmittag verbringen.\nKosten: Spende\nAnmeldung: 030.92 79 94 63 oder info@frei-zeit-haus.de",
+      "category": "Kultur",
+      "date": "2026-12-16",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -6169,7 +6745,7 @@
     {
       "id": "brotfabrik-38e60d5c03",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-17",
       "startTime": "11:00",
@@ -6504,7 +7080,7 @@
     {
       "id": "brotfabrik-09aea75bce",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-18",
       "startTime": "11:00",
@@ -6520,6 +7096,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-18/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-5a88a0b506",
+      "title": "Blutspende des DRK",
+      "description": "Blutspendeaktion des DRK-Blutspendedienstes.\nAnmeldung: www.drk-blutspende.de",
+      "category": "Unkategorisiert",
+      "date": "2026-12-18",
+      "startTime": "13:30",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -6648,7 +7248,7 @@
     {
       "id": "brotfabrik-8c580d228c",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-19",
       "startTime": "11:00",
@@ -6712,6 +7312,30 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/das-land-in-dem-ich-geboren-bin-2/2026-12-19/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-52133a8e6b",
+      "title": "Weihnachtskonzert",
+      "description": "Der Chor \"Liedgut e. V.\" gibt ein Weihnachtskonzert im Stadtteilzentrum.\nEintritt: 10,00 € (Kinder 5,00 €).",
+      "category": "Kultur",
+      "date": "2026-12-19",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 10
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
@@ -6816,7 +7440,7 @@
     {
       "id": "brotfabrik-3b1ccf553b",
       "title": "SOFT OPENING",
-      "description": "3.12.26 | 14 – 20 Uhr\n\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
       "category": "Kultur",
       "date": "2026-12-20",
       "startTime": "11:00",
@@ -6904,6 +7528,222 @@
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-20/",
       "source": "brotfabrik",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-d476d57f15",
+      "title": "Indoorspielplatz (0- bis 3-Jährige)",
+      "description": "Kinder wollen sich bewegen, toben und unter Kindern sein – auch bei schlechtem Wetter oder mal in einem kleinen, geschützten Raum. Unser Indoorspielplatz bietet den Kleinsten die Möglichkeit, sich in geschützter Umgebung auszutoben, zu spielen und neue Freund*innen kennenzulernen. Kommt vorbei und genießt gemeinsam mit euren Kindern eine fröhliche Spielzeit drinnen, warm und wetterunabhängig. Kinderwägen können parkseitig am hinteren Eingang abgestellt und abgeschlossen werden.\nMontag, 10 – 13 Uhr im Bewegungsraum (UG)\nAnmeldung: nicht erforderlich\nKosten: 2 € pro Treffen als Spende erwünscht",
+      "category": "Unkategorisiert",
+      "date": "2027-01-04",
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 2
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-7e51e8c646",
+      "title": "Mittagstisch für alle",
+      "description": "Kommen Sie vorbei und genießen Sie eine warme Suppe. Wir laden alle Nachbar*innen zum Mittagstisch ein.\nMontag von 12 - 13.30 Uhr im Saal (OG)\nKostenbeitrag: 1 €, Ermäßigung möglich\nAnmeldung: nicht erforderlich",
+      "category": "Unkategorisiert",
+      "date": "2027-01-04",
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 1
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-19ef1ad9bc",
+      "title": "Karten- und Brettspiele für alle",
+      "description": "Wöchentlich findet unser geselliger Spiele-Nachmittag mit Hauscafé im Stadtteilzentrum statt.\nSchauen Sie gerne einfach vorbei, ob allein oder mit anderen Spielern im Gepäck.\nWann: Montag, 13.00 – 18.00 Uhr im Saal\nKosten: 2 € (1,50 €)",
+      "category": "Unkategorisiert",
+      "date": "2027-01-04",
+      "startTime": "13:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 2
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-73c28e692c",
+      "title": "Kiezcafé",
+      "description": "Unser wöchentliches Café ist ein offener Treffpunkt für alle aus der Nachbarschaft. Hier könnt ihr neue Leute kennenlernen, Freund*innen treffen oder einfach entspannt den Nachmittag genießen.\n\nVor Ort gibt es Kaffee und Kuchen in unserem gemütlichen Saal. Außerdem könnt Ihr Spiele für Groß und Klein ausleihen.\n\nKommt vorbei, wir freuen uns auf Euch!\n\nWann: Jeden Dienstag von 16 - 18 Uhr\n\nWo: Im Saal",
+      "category": "Unkategorisiert",
+      "date": "2027-01-05",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-7887dfb570",
+      "title": "Mandala zeichnen – Kreativität und Entspannung",
+      "description": "In diesem Workshop entdecken Jugendliche ab 12 Jahren und Erwachsene die faszinierende Welt des Mandalazeichnens. Schritt für Schritt werden die Grundlagen vermittelt, sodass eigene Mandalas und kreative Muster entstehen können. Dabei sind der Fantasie keine Grenzen gesetzt!\n\nDas Zeichnen bietet nicht nur Raum für Kreativität, sondern auch eine kleine Auszeit vom Alltag. Durch das konzentrierte Gestalten kannst du zur Ruhe kommen, den Moment bewusst wahrnehmen und ganz im Hier und Jetzt sein.\n\nWann: Mittwochs, 16:00–17:30 Uhr\nFür wen: Jugendliche ab 12 Jahren und Erwachsene\nKosten: 10 € pro Person und Termin\nBitte mitbringen: Bleistift, Fineliner, Lineal, Geodreieck (oder Dreieck mit Winkelmesser) und Zirkel.\nAnmeldung unter: k_bode@gmx.de\nKursleitung: Katja Bode",
+      "category": "Kultur",
+      "date": "2027-01-06",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 10
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-ce1baac2cf",
+      "title": "TangoGarten Weißensee",
+      "description": "Im Saal des Stadtteilzentrums Weißensee finden regelmäßig Tango-Nächte statt. Dich erwarten hier 90m² gut gepflegtes Tanzparkett und eine kleine Bar. Vor jeder Milonga gibt es die Gelegenheit, den Tango Argentino zu erlernen oder das bereits vorhandenes Tango-Können zu verfeinern. Im Sommer auch im Garten am Kreuzpfuhl.\nWeitere Informationen finden Sie hier: https://tangogartenweissensee.de",
+      "category": "Kultur",
+      "date": "2027-01-06",
+      "startTime": "18:00",
+      "endTime": "23:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-97f1d1f613",
+      "title": "Initiative Faires.Pankow",
+      "description": "Der Faire.Donnerstag ist ein neues wöchentliches Nachbarschaftsprojekt im Stadtteilzentrum Weißensee, das ökologische Nachhaltigkeit, soziale Teilhabe und gemeinschaftliches Handeln verbindet.\nImmer donnerstags wird das Haus zum Treffpunkt für alle, die teilen, helfen, tauschen oder einfach beisammen sein möchten.\n\nDas Herzstück ist das Fair.Café – immer von 14 bis 17 Uhr . Hier gibt es kostenlosen Kaffee, gerettete Lebensmittel, nette Gespräche und Raum für neue Ideen – ganz ohne Konsumzwang und Kostendruck, getragen vom Engagement Nachbarschaftsinitiative Faires.Pankow. Bringt gerne (Stoff)-Tüten, Dosen und andere lebensmittelsichere Behälter mit, um die geretteten Lebensmittel sicher zu transportieren. Achtung: Die geretteten Lebensmittel sind möglicherweise schon vor dem Ende der Veranstaltung vergriffen, je nach Menge und Rückfrage. Beginn der Ausgabe ist um 14 Uhr.\n\nIm Anschluss an das Fair.Café finden wechselnde Workshops, Aktionen und Veranstaltungen rund um Nachhaltigkeit, Reparatur, Upcycling oder Nachbarschaftsprojekte statt. Hier können sich alle einbringen, mitmachen oder selbst etwas auf die Beine stellen. Wie mitmachen? Komm vorbei – mit deiner Idee! Ob beim …",
+      "category": "Unkategorisiert",
+      "date": "2027-01-07",
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-07b9468abb",
+      "title": "Repariererei",
+      "description": "Du hast ein altes oder kaputtes Lieblingsstück zu Hause? Du möchtest es reparieren, aber dir fehlen die Werkzeuge oder das Know-How? Du tüftelst gern und hast Lust, dein Wissen mit anderen zu teilen? Dann komm doch zur Repariererei! Ob platter Reifen, Wackelkontakt oder loses Stuhlbein - unsere erfahrenen Ehrenamtlichen beraten und unterstützen Dich. Wir haben Werkzeuge vor Ort.\nJeden 1. und 3. Donnerstag von 18 – 20 Uhr Im Kreativraum (UG)\nAnsprechpersonen: Franziska, Rouven \u0026 Thomas\nInfo: 0177 3265082 oder reparierbar-stz@mail.de\nKostenbeitrag: Spenden",
+      "category": "Kultur",
+      "date": "2027-01-07",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stadtteilzentrum-weissensee-a1d6f93423",
+      "title": "Buchvorstellung: Ankommen auf dem Jakobsweg",
+      "description": "Buchvorstellung: Ankommen auf dem Jakobsweg\n\nIn einer abwechslungsreichen Mischung aus Lesung und persönlichem Reisebericht nimmt die Autorin Jana Krok das Publikum mit auf den Camino Francés. Aus ihrem Roman „Ankommen auf dem Jakobsweg“ erzählt sie von Mut, besonderen Begegnungen und persönlichen Erkenntnissen. Dazu teilt sie eigene Erfahrungen und gibt Einblicke in das Leben und die Herausforderungen des Pilgerns.",
+      "category": "Kultur",
+      "date": "2027-01-19",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
