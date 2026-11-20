@@ -1,4 +1,6 @@
 {
+  "label": "Familienzentrum Weißensee",
+  "homepage": "https://www.familienzentrum-weissensee.de",
   "type": "wcs",
   "url": "https://www.familienzentrum-weissensee.de",
   "daysAhead": 30,
