@@ -1,298 +1,2186 @@
 {
+  "generatedAt": "2026-11-20T21:12:17.1372392Z",
   "events": [
     {
-      "id": "evt-001",
-      "title": "Flohmarkt am Antonplatz",
-      "description": "Kiez-Flohmarkt mit Second-Hand-Kleidung, Vintage-Möbeln und Kunsthandwerk lokaler Anbieter:innen.",
-      "category": "Markt",
-      "date": "2026-07-05",
+      "id": "familienzentrum-weissensee-7fb051b170",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-11-20",
       "startTime": "10:00",
-      "endTime": "16:00",
+      "endTime": "10:30",
       "location": {
-        "name": "Antonplatz"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Kiezinitiative Weißensee",
-      "url": "https://weissens.ee/events/evt-001",
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false
-    },
-    {
-      "id": "evt-002",
-      "title": "Sommerkonzert am Weißen See",
-      "description": "Freiluftkonzert mit lokalen Bands auf der Seebühne – Jazz, Folk und Weltmusik bei Sonnenuntergang.",
-      "category": "Kultur",
-      "date": "2026-07-11",
-      "startTime": "19:00",
-      "endTime": "22:00",
-      "location": {
-        "name": "Weißer See"
-      },
-      "price": {
-        "free": false,
-        "amount": 12
-      },
-      "organizer": "Parkbühne Weißensee e.V.",
-      "url": "https://weissens.ee/events/evt-002",
-      "ticketRequired": true,
-      "registrationRequired": false,
-      "familyFriendly": false
-    },
-    {
-      "id": "evt-003",
-      "title": "Yoga im Volkspark",
-      "description": "Offene Yoga-Session für alle Level auf der großen Wiese. Matte selbst mitbringen.",
-      "category": "Sport",
-      "date": "2026-07-12",
-      "startTime": "09:00",
-      "endTime": "10:15",
-      "location": {
-        "name": "Volkspark Weißensee"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Nachbarschaftssport Pankow",
-      "url": "https://weissens.ee/events/evt-003",
-      "ticketRequired": false,
-      "registrationRequired": true,
-      "familyFriendly": false
-    },
-    {
-      "id": "evt-004",
-      "title": "Keramik-Workshop für Einsteiger",
-      "description": "Grundlagen der Töpferscheibe: eigene Schale oder Tasse formen und mit nach Hause nehmen.",
-      "category": "Kultur",
-      "date": "2026-07-08",
-      "startTime": "18:00",
-      "endTime": "20:30",
-      "location": {
-        "name": "Streckerstraße"
-      },
-      "price": {
-        "free": false,
-        "amount": 28
-      },
-      "organizer": "Atelier Streckerstraße",
-      "url": "https://weissens.ee/events/evt-004",
-      "ticketRequired": true,
-      "registrationRequired": true,
-      "familyFriendly": false
-    },
-    {
-      "id": "evt-005",
-      "title": "Kinderfest am Pistoriusplatz",
-      "description": "Kinderschminken, Hüpfburg und Mitmach-Theater für die ganze Familie.",
-      "category": "Kultur",
-      "date": "2026-07-11",
-      "startTime": "14:00",
-      "endTime": "18:00",
-      "location": {
-        "name": "Pistoriusplatz"
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
       },
       "price": {
         "free": true,
         "amount": null
       },
       "organizer": "Familienzentrum Weißensee",
-      "url": "https://weissens.ee/events/evt-005",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2/?wcs_timestamp=1795168830",
+      "source": "familienzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true
     },
     {
-      "id": "evt-006",
-      "title": "Lesung: Neue Berliner Stimmen",
-      "description": "Drei junge Autor:innen lesen aus ihren aktuellen Werken, moderiert Gespräch im Anschluss.",
+      "id": "familienzentrum-weissensee-b623f755c6",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
       "category": "Kultur",
-      "date": "2026-07-09",
-      "startTime": "19:30",
-      "endTime": "21:00",
+      "date": "2026-11-20",
+      "startTime": "10:45",
+      "endTime": "11:15",
       "location": {
-        "name": "Gustav-Adolf-Platz"
-      },
-      "price": {
-        "free": false,
-        "amount": 8
-      },
-      "organizer": "Literaturkreis Weißensee",
-      "url": "https://weissens.ee/events/evt-006",
-      "ticketRequired": true,
-      "registrationRequired": false,
-      "familyFriendly": false
-    },
-    {
-      "id": "evt-007",
-      "title": "Street-Food-Markt Rennbahnstraße",
-      "description": "Foodtrucks und Stände mit Spezialitäten aus aller Welt, live begleitet von DJ-Sets.",
-      "category": "Kulinarik",
-      "date": "2026-07-12",
-      "startTime": "12:00",
-      "endTime": "20:00",
-      "location": {
-        "name": "Rennbahnstraße"
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
       },
       "price": {
         "free": true,
         "amount": null
       },
-      "organizer": "Kiezverein Rennbahn",
-      "url": "https://weissens.ee/events/evt-007",
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-3/?wcs_timestamp=1795171530",
+      "source": "familienzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
-      "familyFriendly": false
+      "familyFriendly": true
     },
     {
-      "id": "evt-008",
-      "title": "Vogelkundlicher Spaziergang",
-      "description": "Geführte Tour rund um den Weißen See mit Fokus auf heimische Wasservögel.",
-      "category": "Natur",
-      "date": "2026-07-19",
+      "id": "familienzentrum-weissensee-3f398356e0",
+      "title": "Kita-Sprechstunde",
+      "description": "Für alle Menschen mit Fragen und Sorgen rund um Kita, Eingewöhnung und Einschulung Mit Anmeldung Ihr habt Sorgen oder Unsicherheiten rund um das Thema …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-20",
+      "startTime": "11:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/kita-sprechstunde/?wcs_timestamp=1795172400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-ae847ffb9b",
+      "title": "Kreative Holzwerkstatt",
+      "description": "für Kinder (ab 4 Jahren) mit Eltern Ob Sägen, Feilen, Hämmern oder Schleifen…in der kreativen Holzwerkstatt können Familien das Material Holz entdecken, Formen finden und gestalten. Unter pädagogischer Anleitung könnt ihr kleine oder auch größere Objekte bauen. Als Familie könnt ihr entweder gemeinsam werkeln, oder Bezugspersonen begleiten und unterstützen ihre Kinder bei der Umsetzung ihrer Ideen. Im Vordergrund steht die Freude am Ausprobieren. Auch andere Materialen wie zum Beispiel Stoff und Farbe dürfen ergänzend zum Einsatz kommen. Dabei entstehen überraschende Werke wie Roboter, Raketen, Lolis oder Fantasiewesen.",
+      "category": "Kultur",
+      "date": "2026-11-20",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-holzwerkstatt/?wcs_timestamp=1795186800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-89f54083fc",
+      "title": "Babysprechstunde",
+      "description": "Für Familien mit Babys und Kleinkindern bis 1,5 Jahre Mit Anmeldung Euer Baby schreit sehr viel oder schläft sehr wenig?​",
+      "category": "Unkategorisiert",
+      "date": "2026-11-23",
       "startTime": "08:00",
-      "endTime": "10:00",
+      "endTime": "14:00",
       "location": {
-        "name": "Weißer See"
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
       },
       "price": {
         "free": true,
         "amount": null
       },
-      "organizer": "NABU Pankow",
-      "url": "https://weissens.ee/events/evt-008",
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/babysprechstunde/?wcs_timestamp=1795420815",
+      "source": "familienzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
-      "familyFriendly": false
+      "familyFriendly": true
     },
     {
-      "id": "evt-009",
-      "title": "Freiluftkino: Klassiker unter Sternen",
-      "description": "Open-Air-Filmabend auf der Parkbühne, diesmal ein Berlin-Filmklassiker der 90er.",
-      "category": "Kultur",
-      "date": "2026-07-18",
-      "startTime": "21:00",
-      "endTime": "23:15",
+      "id": "familienzentrum-weissensee-013c263862",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-23",
+      "startTime": "09:30",
+      "endTime": "10:30",
       "location": {
-        "name": "Volkspark Weißensee"
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
       },
       "price": {
-        "free": false,
-        "amount": 7
+        "free": true,
+        "amount": null
       },
-      "organizer": "Parkbühne Weißensee e.V.",
-      "url": "https://weissens.ee/events/evt-009",
-      "ticketRequired": true,
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung-2/?wcs_timestamp=1795426200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
       "registrationRequired": false,
-      "familyFriendly": false
+      "familyFriendly": true
     },
     {
-      "id": "evt-010",
-      "title": "Boule-Turnier Amalienpark",
-      "description": "Offenes Turnier für Anfänger:innen und Fortgeschrittene, Kugeln können ausgeliehen werden.",
-      "category": "Sport",
-      "date": "2026-07-25",
+      "id": "familienzentrum-weissensee-cb48dc6a8f",
+      "title": "Unser Dorf",
+      "description": "Austauschgruppe für Eltern und Bezugspersonen von Babys, die viel Begleitung brauchen Ohne Anmeldung Dein Baby weint viel, schläft schlecht oder lässt sich schwer …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-23",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/regulations-gruppe/?wcs_timestamp=1795429800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-15aa649faa",
+      "title": "Baby-Massage-Kurs",
+      "description": "Für Bezugspersonen mit Babys zwischen 6 Wochen und 5 Monaten Mit Anmeldung Im Baby-Massage-Kurs lernen Bezugspersonen mit Kindern im Alter von 6 Wochen bis 5 Monaten bei unserer erfahrenen …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-23",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/selbstorganisierter-babytreff/?wcs_timestamp=1795442400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-6184331ecf",
+      "title": "Kreative Holzwerkstatt",
+      "description": "Für Kinder ab 4 Jahren in Begleitung einer erwachsenen Person Ohne Anmeldung Kosten : Solidarische Materialkostenspende 1-5€",
+      "category": "Kultur",
+      "date": "2026-11-23",
       "startTime": "15:00",
       "endTime": "18:00",
       "location": {
-        "name": "Amalienpark"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Boule-Club Weißensee",
-      "url": "https://weissens.ee/events/evt-010",
-      "ticketRequired": false,
-      "registrationRequired": true,
-      "familyFriendly": false
-    },
-    {
-      "id": "evt-011",
-      "title": "Repair-Café am Antonplatz",
-      "description": "Elektrogeräte, Fahrräder und Kleidung gemeinsam mit Ehrenamtlichen reparieren statt wegwerfen.",
-      "category": "Natur",
-      "date": "2026-07-05",
-      "startTime": "13:00",
-      "endTime": "17:00",
-      "location": {
-        "name": "Antonplatz"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Repair-Café Pankow",
-      "url": "https://weissens.ee/events/evt-011",
-      "ticketRequired": false,
-      "registrationRequired": true,
-      "familyFriendly": false
-    },
-    {
-      "id": "evt-012",
-      "title": "Jazz-Brunch im Kiez",
-      "description": "Live-Jazz-Trio begleitet den sonntäglichen Brunch mit regionalen Produkten.",
-      "category": "Kulinarik",
-      "date": "2026-08-02",
-      "startTime": "11:00",
-      "endTime": "14:00",
-      "location": {
-        "name": "Pistoriusplatz"
-      },
-      "price": {
-        "free": false,
-        "amount": 15
-      },
-      "organizer": "Café Kiezperle",
-      "url": "https://weissens.ee/events/evt-012",
-      "ticketRequired": true,
-      "registrationRequired": false,
-      "familyFriendly": false
-    },
-    {
-      "id": "evt-013",
-      "title": "Second-Hand-Kindersachen-Basar",
-      "description": "Kleidung, Spielzeug und Bücher rund ums Kind – Verkauf und Tausch.",
-      "category": "Markt",
-      "date": "2026-08-08",
-      "startTime": "10:00",
-      "endTime": "14:00",
-      "location": {
-        "name": "Gustav-Adolf-Platz"
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
       },
       "price": {
         "free": true,
         "amount": null
       },
       "organizer": "Familienzentrum Weißensee",
-      "url": "https://weissens.ee/events/evt-013",
+      "url": "https://www.familienzentrum-weissensee.de/class/winterliches-werken-und-gestalten/?wcs_timestamp=1795446000",
+      "source": "familienzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true
     },
     {
-      "id": "evt-014",
-      "title": "Nachbarschafts-Grillfest",
-      "description": "Gemeinsames Grillen, Musik und Spiele – jede:r bringt etwas zum Teilen mit.",
-      "category": "Kulinarik",
-      "date": "2026-07-11",
-      "startTime": "16:00",
-      "endTime": "22:00",
+      "id": "familienzentrum-weissensee-544a55bebf",
+      "title": "Strick-Café",
+      "description": "Für alle, die Freude am Stricken haben Ohne Anmeldung Hast du Freude am Stricken und suchst Gleichgesinnte? Liegt bei dir zu Hause vielleicht ein angefangenes …",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "15:00",
+      "endTime": "17:00",
       "location": {
-        "name": "Volkspark Weißensee"
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
       },
       "price": {
         "free": true,
         "amount": null
       },
-      "organizer": "Nachbarschaftsinitiative Weißensee",
-      "url": "https://weissens.ee/events/evt-014",
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/strickcafe/?wcs_timestamp=1795446000",
+      "source": "familienzentrum-weissensee",
       "ticketRequired": false,
       "registrationRequired": false,
-      "familyFriendly": false
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-b3bcc7c3c9",
+      "title": "Pilates mit Baby",
+      "description": "Mit Anmeldung , es gibt noch freie Plätze! Bringe Deinen Körper in Bewegung und kräftige Deine Muskulatur, besonders die von Beckenboden, Bauch und Rücken.",
+      "category": "Sport",
+      "date": "2026-11-24",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/pilates-mit-baby/?wcs_timestamp=1795510835",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-cfda68913b",
+      "title": "Familienfrühstück",
+      "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
+      "category": "Unkategorisiert",
+      "date": "2026-11-24",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/familienfruehstueck/?wcs_timestamp=1795514400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-0ea8efece8",
+      "title": "Bewegungsbaustelle",
+      "description": "Offenes Bewegungsangebot für Kinder von 1 bis 3 Jahren mit Bezugspersonen Ohne Anmeldung Jeden Dienstag bauen wir eine kleine Bewegungsbaustelle auf, die euch zur freien Nutzung zur …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-24",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/gemeinsam-malen/?wcs_timestamp=1795516200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-cba1edfe31",
+      "title": "Hatha Yoga",
+      "description": "Mit Anmeldung Schön, dass du da bist und Lust hast Yoga zu praktizieren. Meine Stunden legen den Fokus auf Ausrichtung, Körperbewusstsein und innere Balance. Ich integriere Elemente wie Pranayama (Atemarbeit), Meditation und Mantras, um die Reise …",
+      "category": "Sport",
+      "date": "2026-11-24",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/hatha-yoga/?wcs_timestamp=1795545000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-0fdf4f68fe",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-11-25",
+      "startTime": "10:00",
+      "endTime": "10:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2/?wcs_timestamp=1795600800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-8fa0037b1e",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-11-25",
+      "startTime": "11:00",
+      "endTime": "11:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2-2/?wcs_timestamp=1795604400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-6364e2944a",
+      "title": "Telefon-Beratung",
+      "description": "Für alle die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-25",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht-2/?wcs_timestamp=1795615200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-a5d208cc24",
+      "title": "Queer Café",
+      "description": "Für queere Menschen in Familien und in Familienplanung Ohne Anmeldung Das Queer Café ist ein offener Treff und ein safer space für queere …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-25",
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/queer-cafe/?wcs_timestamp=1795624210",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-a6b95b8f5d",
+      "title": "Baby-Café",
+      "description": "Für Menschen mit Babys in allen Familienkonstellationen Ohne Anmeldung Das Babycafé ist ein offenes Austauschformat für frisch gewordene oder werdende Eltern. Hier …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-26",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/baby-cafe/?wcs_timestamp=1795687200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-b47b6fb83b",
+      "title": "Singen mit Kleinkind",
+      "description": "Für Erwachsene mit Kleinkindern von 1-2 Jahren Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Es gibt klingendes Spielzeug und Percussion-Instrumente. Noten und Texte sind vorhanden, bringt aber gerne eure Liedideen mit.",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-2/?wcs_timestamp=1795687230",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-456794abd7",
+      "title": "Aus der Tonne",
+      "description": "Ein Upcycling- und Kreativangebot für Kinder ab 4 Jahren und Bezugspersonen Ohne Anmeldung Holt euren Müll, Rammsch und Schrott aus der Tonne! Gemeinsam machen wir …",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": {
+        "name": "Kreativwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht/?wcs_timestamp=1795708800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-0ef63105eb",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-26",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung/?wcs_timestamp=1795708800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-c2a7949698",
+      "title": "Schwangerengruppe",
+      "description": "Austausch und Impulse für alle schwangere Menschen Mit Anmeldung Kostenfrei Die Schwangerengruppe bietet …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-26",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/schwangerengruppe/?wcs_timestamp=1795716000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-45f5b58c0c",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-11-27",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2/?wcs_timestamp=1795773630",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-ef0b088694",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-11-27",
+      "startTime": "10:45",
+      "endTime": "11:15",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-3/?wcs_timestamp=1795776330",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-678294dbbc",
+      "title": "Kita-Sprechstunde",
+      "description": "Für alle Menschen mit Fragen und Sorgen rund um Kita, Eingewöhnung und Einschulung Mit Anmeldung Ihr habt Sorgen oder Unsicherheiten rund um das Thema …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-27",
+      "startTime": "11:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/kita-sprechstunde/?wcs_timestamp=1795777200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-5c30ae1491",
+      "title": "Kreative Holzwerkstatt",
+      "description": "für Kinder (ab 4 Jahren) mit Eltern Ob Sägen, Feilen, Hämmern oder Schleifen…in der kreativen Holzwerkstatt können Familien das Material Holz entdecken, Formen finden und gestalten. Unter pädagogischer Anleitung könnt ihr kleine oder auch größere Objekte bauen. Als Familie könnt ihr entweder gemeinsam werkeln, oder Bezugspersonen begleiten und unterstützen ihre Kinder bei der Umsetzung ihrer Ideen. Im Vordergrund steht die Freude am Ausprobieren. Auch andere Materialen wie zum Beispiel Stoff und Farbe dürfen ergänzend zum Einsatz kommen. Dabei entstehen überraschende Werke wie Roboter, Raketen, Lolis oder Fantasiewesen.",
+      "category": "Kultur",
+      "date": "2026-11-27",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-holzwerkstatt/?wcs_timestamp=1795791600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-79368f15ea",
+      "title": "Babysprechstunde",
+      "description": "Für Familien mit Babys und Kleinkindern bis 1,5 Jahre Mit Anmeldung Euer Baby schreit sehr viel oder schläft sehr wenig?​",
+      "category": "Unkategorisiert",
+      "date": "2026-11-30",
+      "startTime": "08:00",
+      "endTime": "14:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/babysprechstunde/?wcs_timestamp=1796025615",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-551b096fcb",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-30",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung-2/?wcs_timestamp=1796031000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-58ce0666cf",
+      "title": "Baby-Massage-Kurs",
+      "description": "Für Bezugspersonen mit Babys zwischen 6 Wochen und 5 Monaten Mit Anmeldung Im Baby-Massage-Kurs lernen Bezugspersonen mit Kindern im Alter von 6 Wochen bis 5 Monaten bei unserer erfahrenen …",
+      "category": "Unkategorisiert",
+      "date": "2026-11-30",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/selbstorganisierter-babytreff/?wcs_timestamp=1796047200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-4769efbece",
+      "title": "Kreative Holzwerkstatt",
+      "description": "Für Kinder ab 4 Jahren in Begleitung einer erwachsenen Person Ohne Anmeldung Kosten : Solidarische Materialkostenspende 1-5€",
+      "category": "Kultur",
+      "date": "2026-11-30",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/winterliches-werken-und-gestalten/?wcs_timestamp=1796050800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-398c628706",
+      "title": "Strick-Café",
+      "description": "Für alle, die Freude am Stricken haben Ohne Anmeldung Hast du Freude am Stricken und suchst Gleichgesinnte? Liegt bei dir zu Hause vielleicht ein angefangenes …",
+      "category": "Kultur",
+      "date": "2026-11-30",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/strickcafe/?wcs_timestamp=1796050800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-cfb5a1fe3c",
+      "title": "Pilates mit Baby",
+      "description": "Mit Anmeldung , es gibt noch freie Plätze! Bringe Deinen Körper in Bewegung und kräftige Deine Muskulatur, besonders die von Beckenboden, Bauch und Rücken.",
+      "category": "Sport",
+      "date": "2026-12-01",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/pilates-mit-baby/?wcs_timestamp=1796115635",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-d83440fe12",
+      "title": "Familienfrühstück",
+      "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
+      "category": "Unkategorisiert",
+      "date": "2026-12-01",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/familienfruehstueck/?wcs_timestamp=1796119200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-d03e9a13b1",
+      "title": "Bewegungsbaustelle",
+      "description": "Offenes Bewegungsangebot für Kinder von 1 bis 3 Jahren mit Bezugspersonen Ohne Anmeldung Jeden Dienstag bauen wir eine kleine Bewegungsbaustelle auf, die euch zur freien Nutzung zur …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-01",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/gemeinsam-malen/?wcs_timestamp=1796121000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-1c865bbe81",
+      "title": "Hatha Yoga",
+      "description": "Mit Anmeldung Schön, dass du da bist und Lust hast Yoga zu praktizieren. Meine Stunden legen den Fokus auf Ausrichtung, Körperbewusstsein und innere Balance. Ich integriere Elemente wie Pranayama (Atemarbeit), Meditation und Mantras, um die Reise …",
+      "category": "Sport",
+      "date": "2026-12-01",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/hatha-yoga/?wcs_timestamp=1796149800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-c502151e53",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-12-02",
+      "startTime": "10:00",
+      "endTime": "10:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2/?wcs_timestamp=1796205600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-da3de4dc76",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-12-02",
+      "startTime": "11:00",
+      "endTime": "11:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2-2/?wcs_timestamp=1796209200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-d1c6b1257a",
+      "title": "Telefon-Beratung",
+      "description": "Für alle die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-02",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht-2/?wcs_timestamp=1796220000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-1ea4f68caa",
+      "title": "Queer Café",
+      "description": "Für queere Menschen in Familien und in Familienplanung Ohne Anmeldung Das Queer Café ist ein offener Treff und ein safer space für queere …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-02",
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/queer-cafe/?wcs_timestamp=1796229010",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-85cd6b5c2b",
+      "title": "Baby-Café",
+      "description": "Für Menschen mit Babys in allen Familienkonstellationen Ohne Anmeldung Das Babycafé ist ein offenes Austauschformat für frisch gewordene oder werdende Eltern. Hier …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-03",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/baby-cafe/?wcs_timestamp=1796292000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-ec784b0e82",
+      "title": "Singen mit Kleinkind",
+      "description": "Für Erwachsene mit Kleinkindern von 1-2 Jahren Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Es gibt klingendes Spielzeug und Percussion-Instrumente. Noten und Texte sind vorhanden, bringt aber gerne eure Liedideen mit.",
+      "category": "Kultur",
+      "date": "2026-12-03",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-2/?wcs_timestamp=1796292030",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-f0a642af5c",
+      "title": "Aus der Tonne",
+      "description": "Ein Upcycling- und Kreativangebot für Kinder ab 4 Jahren und Bezugspersonen Ohne Anmeldung Holt euren Müll, Rammsch und Schrott aus der Tonne! Gemeinsam machen wir …",
+      "category": "Kultur",
+      "date": "2026-12-03",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": {
+        "name": "Kreativwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht/?wcs_timestamp=1796313600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-a48300ed41",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-03",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung/?wcs_timestamp=1796313600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-6c67edaa7a",
+      "title": "Schwangerengruppe",
+      "description": "Austausch und Impulse für alle schwangere Menschen Mit Anmeldung Kostenfrei Die Schwangerengruppe bietet …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-03",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/schwangerengruppe/?wcs_timestamp=1796320800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-dd0c2f66e2",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-12-04",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2/?wcs_timestamp=1796378430",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-e706627cef",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-12-04",
+      "startTime": "10:45",
+      "endTime": "11:15",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-3/?wcs_timestamp=1796381130",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-6f6993a7d3",
+      "title": "Kita-Sprechstunde",
+      "description": "Für alle Menschen mit Fragen und Sorgen rund um Kita, Eingewöhnung und Einschulung Mit Anmeldung Ihr habt Sorgen oder Unsicherheiten rund um das Thema …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-04",
+      "startTime": "11:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/kita-sprechstunde/?wcs_timestamp=1796382000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-70c5dcd667",
+      "title": "Kreative Holzwerkstatt",
+      "description": "für Kinder (ab 4 Jahren) mit Eltern Ob Sägen, Feilen, Hämmern oder Schleifen…in der kreativen Holzwerkstatt können Familien das Material Holz entdecken, Formen finden und gestalten. Unter pädagogischer Anleitung könnt ihr kleine oder auch größere Objekte bauen. Als Familie könnt ihr entweder gemeinsam werkeln, oder Bezugspersonen begleiten und unterstützen ihre Kinder bei der Umsetzung ihrer Ideen. Im Vordergrund steht die Freude am Ausprobieren. Auch andere Materialen wie zum Beispiel Stoff und Farbe dürfen ergänzend zum Einsatz kommen. Dabei entstehen überraschende Werke wie Roboter, Raketen, Lolis oder Fantasiewesen.",
+      "category": "Kultur",
+      "date": "2026-12-04",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-holzwerkstatt/?wcs_timestamp=1796396400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-c65fd03f10",
+      "title": "Babysprechstunde",
+      "description": "Für Familien mit Babys und Kleinkindern bis 1,5 Jahre Mit Anmeldung Euer Baby schreit sehr viel oder schläft sehr wenig?​",
+      "category": "Unkategorisiert",
+      "date": "2026-12-07",
+      "startTime": "08:00",
+      "endTime": "14:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/babysprechstunde/?wcs_timestamp=1796630415",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-a06feb98d4",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-07",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung-2/?wcs_timestamp=1796635800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-17feb21e52",
+      "title": "Unser Dorf",
+      "description": "Austauschgruppe für Eltern und Bezugspersonen von Babys, die viel Begleitung brauchen Ohne Anmeldung Dein Baby weint viel, schläft schlecht oder lässt sich schwer …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-07",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/regulations-gruppe/?wcs_timestamp=1796639400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-2c407a08f4",
+      "title": "Baby-Massage-Kurs",
+      "description": "Für Bezugspersonen mit Babys zwischen 6 Wochen und 5 Monaten Mit Anmeldung Im Baby-Massage-Kurs lernen Bezugspersonen mit Kindern im Alter von 6 Wochen bis 5 Monaten bei unserer erfahrenen …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-07",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/selbstorganisierter-babytreff/?wcs_timestamp=1796652000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-8e6f43f7b0",
+      "title": "Kreative Holzwerkstatt",
+      "description": "Für Kinder ab 4 Jahren in Begleitung einer erwachsenen Person Ohne Anmeldung Kosten : Solidarische Materialkostenspende 1-5€",
+      "category": "Kultur",
+      "date": "2026-12-07",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/winterliches-werken-und-gestalten/?wcs_timestamp=1796655600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-67d2174010",
+      "title": "Strick-Café",
+      "description": "Für alle, die Freude am Stricken haben Ohne Anmeldung Hast du Freude am Stricken und suchst Gleichgesinnte? Liegt bei dir zu Hause vielleicht ein angefangenes …",
+      "category": "Kultur",
+      "date": "2026-12-07",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/strickcafe/?wcs_timestamp=1796655600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-90a95a3566",
+      "title": "Pilates mit Baby",
+      "description": "Mit Anmeldung , es gibt noch freie Plätze! Bringe Deinen Körper in Bewegung und kräftige Deine Muskulatur, besonders die von Beckenboden, Bauch und Rücken.",
+      "category": "Sport",
+      "date": "2026-12-08",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/pilates-mit-baby/?wcs_timestamp=1796720435",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-26a0f3f04f",
+      "title": "Familienfrühstück",
+      "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
+      "category": "Unkategorisiert",
+      "date": "2026-12-08",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/familienfruehstueck/?wcs_timestamp=1796724000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-e99ccdce6e",
+      "title": "Bewegungsbaustelle",
+      "description": "Offenes Bewegungsangebot für Kinder von 1 bis 3 Jahren mit Bezugspersonen Ohne Anmeldung Jeden Dienstag bauen wir eine kleine Bewegungsbaustelle auf, die euch zur freien Nutzung zur …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-08",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/gemeinsam-malen/?wcs_timestamp=1796725800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-0505062278",
+      "title": "Hatha Yoga",
+      "description": "Mit Anmeldung Schön, dass du da bist und Lust hast Yoga zu praktizieren. Meine Stunden legen den Fokus auf Ausrichtung, Körperbewusstsein und innere Balance. Ich integriere Elemente wie Pranayama (Atemarbeit), Meditation und Mantras, um die Reise …",
+      "category": "Sport",
+      "date": "2026-12-08",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/hatha-yoga/?wcs_timestamp=1796754600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-87779878b4",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-12-09",
+      "startTime": "10:00",
+      "endTime": "10:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2/?wcs_timestamp=1796810400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-1a6835dcbd",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-12-09",
+      "startTime": "11:00",
+      "endTime": "11:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2-2/?wcs_timestamp=1796814000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-785e6c3c3a",
+      "title": "Telefon-Beratung",
+      "description": "Für alle die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-09",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht-2/?wcs_timestamp=1796824800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-82ab737c58",
+      "title": "Queer Café",
+      "description": "Für queere Menschen in Familien und in Familienplanung Ohne Anmeldung Das Queer Café ist ein offener Treff und ein safer space für queere …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-09",
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/queer-cafe/?wcs_timestamp=1796833810",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-bdb7770c6b",
+      "title": "Baby-Café",
+      "description": "Für Menschen mit Babys in allen Familienkonstellationen Ohne Anmeldung Das Babycafé ist ein offenes Austauschformat für frisch gewordene oder werdende Eltern. Hier …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-10",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/baby-cafe/?wcs_timestamp=1796896800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-aaede5484d",
+      "title": "Singen mit Kleinkind",
+      "description": "Für Erwachsene mit Kleinkindern von 1-2 Jahren Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Es gibt klingendes Spielzeug und Percussion-Instrumente. Noten und Texte sind vorhanden, bringt aber gerne eure Liedideen mit.",
+      "category": "Kultur",
+      "date": "2026-12-10",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-2/?wcs_timestamp=1796896830",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-995bc3c353",
+      "title": "Aus der Tonne",
+      "description": "Ein Upcycling- und Kreativangebot für Kinder ab 4 Jahren und Bezugspersonen Ohne Anmeldung Holt euren Müll, Rammsch und Schrott aus der Tonne! Gemeinsam machen wir …",
+      "category": "Kultur",
+      "date": "2026-12-10",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": {
+        "name": "Kreativwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht/?wcs_timestamp=1796918400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-da577a25ac",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-10",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung/?wcs_timestamp=1796918400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-1bde598550",
+      "title": "Schwangerengruppe",
+      "description": "Austausch und Impulse für alle schwangere Menschen Mit Anmeldung Kostenfrei Die Schwangerengruppe bietet …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-10",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/schwangerengruppe/?wcs_timestamp=1796925600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-43e80b9558",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-12-11",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2/?wcs_timestamp=1796983230",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-a22880ae4d",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-12-11",
+      "startTime": "10:45",
+      "endTime": "11:15",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-3/?wcs_timestamp=1796985930",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-491902907d",
+      "title": "Kita-Sprechstunde",
+      "description": "Für alle Menschen mit Fragen und Sorgen rund um Kita, Eingewöhnung und Einschulung Mit Anmeldung Ihr habt Sorgen oder Unsicherheiten rund um das Thema …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-11",
+      "startTime": "11:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/kita-sprechstunde/?wcs_timestamp=1796986800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-9dde21e1a0",
+      "title": "Kreative Holzwerkstatt",
+      "description": "für Kinder (ab 4 Jahren) mit Eltern Ob Sägen, Feilen, Hämmern oder Schleifen…in der kreativen Holzwerkstatt können Familien das Material Holz entdecken, Formen finden und gestalten. Unter pädagogischer Anleitung könnt ihr kleine oder auch größere Objekte bauen. Als Familie könnt ihr entweder gemeinsam werkeln, oder Bezugspersonen begleiten und unterstützen ihre Kinder bei der Umsetzung ihrer Ideen. Im Vordergrund steht die Freude am Ausprobieren. Auch andere Materialen wie zum Beispiel Stoff und Farbe dürfen ergänzend zum Einsatz kommen. Dabei entstehen überraschende Werke wie Roboter, Raketen, Lolis oder Fantasiewesen.",
+      "category": "Kultur",
+      "date": "2026-12-11",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-holzwerkstatt/?wcs_timestamp=1797001200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-4aeced863a",
+      "title": "Babysprechstunde",
+      "description": "Für Familien mit Babys und Kleinkindern bis 1,5 Jahre Mit Anmeldung Euer Baby schreit sehr viel oder schläft sehr wenig?​",
+      "category": "Unkategorisiert",
+      "date": "2026-12-14",
+      "startTime": "08:00",
+      "endTime": "14:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/babysprechstunde/?wcs_timestamp=1797235215",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-987834db07",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-14",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung-2/?wcs_timestamp=1797240600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-486efa12bb",
+      "title": "Baby-Massage-Kurs",
+      "description": "Für Bezugspersonen mit Babys zwischen 6 Wochen und 5 Monaten Mit Anmeldung Im Baby-Massage-Kurs lernen Bezugspersonen mit Kindern im Alter von 6 Wochen bis 5 Monaten bei unserer erfahrenen …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-14",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/selbstorganisierter-babytreff/?wcs_timestamp=1797256800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-5d988015e8",
+      "title": "Kreative Holzwerkstatt",
+      "description": "Für Kinder ab 4 Jahren in Begleitung einer erwachsenen Person Ohne Anmeldung Kosten : Solidarische Materialkostenspende 1-5€",
+      "category": "Kultur",
+      "date": "2026-12-14",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/winterliches-werken-und-gestalten/?wcs_timestamp=1797260400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-e602053e1b",
+      "title": "Strick-Café",
+      "description": "Für alle, die Freude am Stricken haben Ohne Anmeldung Hast du Freude am Stricken und suchst Gleichgesinnte? Liegt bei dir zu Hause vielleicht ein angefangenes …",
+      "category": "Kultur",
+      "date": "2026-12-14",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/strickcafe/?wcs_timestamp=1797260400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-c289ce3ed2",
+      "title": "Pilates mit Baby",
+      "description": "Mit Anmeldung , es gibt noch freie Plätze! Bringe Deinen Körper in Bewegung und kräftige Deine Muskulatur, besonders die von Beckenboden, Bauch und Rücken.",
+      "category": "Sport",
+      "date": "2026-12-15",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/pilates-mit-baby/?wcs_timestamp=1797325235",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-e5f9212029",
+      "title": "Familienfrühstück",
+      "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
+      "category": "Unkategorisiert",
+      "date": "2026-12-15",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/familienfruehstueck/?wcs_timestamp=1797328800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-875324308a",
+      "title": "Bewegungsbaustelle",
+      "description": "Offenes Bewegungsangebot für Kinder von 1 bis 3 Jahren mit Bezugspersonen Ohne Anmeldung Jeden Dienstag bauen wir eine kleine Bewegungsbaustelle auf, die euch zur freien Nutzung zur …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-15",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/gemeinsam-malen/?wcs_timestamp=1797330600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-72488661d6",
+      "title": "Hatha Yoga",
+      "description": "Mit Anmeldung Schön, dass du da bist und Lust hast Yoga zu praktizieren. Meine Stunden legen den Fokus auf Ausrichtung, Körperbewusstsein und innere Balance. Ich integriere Elemente wie Pranayama (Atemarbeit), Meditation und Mantras, um die Reise …",
+      "category": "Sport",
+      "date": "2026-12-15",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/hatha-yoga/?wcs_timestamp=1797359400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-9c8932bfe2",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-12-16",
+      "startTime": "10:00",
+      "endTime": "10:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2/?wcs_timestamp=1797415200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-4fd8c97985",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-12-16",
+      "startTime": "11:00",
+      "endTime": "11:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2-2/?wcs_timestamp=1797418800",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-7740810970",
+      "title": "Telefon-Beratung",
+      "description": "Für alle die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-16",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht-2/?wcs_timestamp=1797429600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-4c7240a2f7",
+      "title": "Queer Café",
+      "description": "Für queere Menschen in Familien und in Familienplanung Ohne Anmeldung Das Queer Café ist ein offener Treff und ein safer space für queere …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-16",
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/queer-cafe/?wcs_timestamp=1797438610",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-3cec249fff",
+      "title": "Baby-Café",
+      "description": "Für Menschen mit Babys in allen Familienkonstellationen Ohne Anmeldung Das Babycafé ist ein offenes Austauschformat für frisch gewordene oder werdende Eltern. Hier …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-17",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/baby-cafe/?wcs_timestamp=1797501600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-05a221936e",
+      "title": "Singen mit Kleinkind",
+      "description": "Für Erwachsene mit Kleinkindern von 1-2 Jahren Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Es gibt klingendes Spielzeug und Percussion-Instrumente. Noten und Texte sind vorhanden, bringt aber gerne eure Liedideen mit.",
+      "category": "Kultur",
+      "date": "2026-12-17",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-2/?wcs_timestamp=1797501630",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-121442c99c",
+      "title": "Aus der Tonne",
+      "description": "Ein Upcycling- und Kreativangebot für Kinder ab 4 Jahren und Bezugspersonen Ohne Anmeldung Holt euren Müll, Rammsch und Schrott aus der Tonne! Gemeinsam machen wir …",
+      "category": "Kultur",
+      "date": "2026-12-17",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": {
+        "name": "Kreativwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht/?wcs_timestamp=1797523200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-07fb01deeb",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-17",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung/?wcs_timestamp=1797523200",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-3461d1be4d",
+      "title": "ElternRaum",
+      "description": "Dein Raum für Austausch, Entlastung und neue Impulse im Familienalltag ​ Mit oder ohne Anmeldung ElternRaum ist eine …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-17",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/durchatmen/?wcs_timestamp=1797530400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-dd4d15733b",
+      "title": "Schwangerengruppe",
+      "description": "Austausch und Impulse für alle schwangere Menschen Mit Anmeldung Kostenfrei Die Schwangerengruppe bietet …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-17",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/schwangerengruppe/?wcs_timestamp=1797530400",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-32f75f72ff",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-12-18",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2/?wcs_timestamp=1797588030",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-23df44b9f8",
+      "title": "Singen mit Baby",
+      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
+      "category": "Kultur",
+      "date": "2026-12-18",
+      "startTime": "10:45",
+      "endTime": "11:15",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-3/?wcs_timestamp=1797590730",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-1169d8d6cd",
+      "title": "Kita-Sprechstunde",
+      "description": "Für alle Menschen mit Fragen und Sorgen rund um Kita, Eingewöhnung und Einschulung Mit Anmeldung Ihr habt Sorgen oder Unsicherheiten rund um das Thema …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-18",
+      "startTime": "11:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/kita-sprechstunde/?wcs_timestamp=1797591600",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "familienzentrum-weissensee-4fee91491e",
+      "title": "Kreative Holzwerkstatt",
+      "description": "für Kinder (ab 4 Jahren) mit Eltern Ob Sägen, Feilen, Hämmern oder Schleifen…in der kreativen Holzwerkstatt können Familien das Material Holz entdecken, Formen finden und gestalten. Unter pädagogischer Anleitung könnt ihr kleine oder auch größere Objekte bauen. Als Familie könnt ihr entweder gemeinsam werkeln, oder Bezugspersonen begleiten und unterstützen ihre Kinder bei der Umsetzung ihrer Ideen. Im Vordergrund steht die Freude am Ausprobieren. Auch andere Materialen wie zum Beispiel Stoff und Farbe dürfen ergänzend zum Einsatz kommen. Dabei entstehen überraschende Werke wie Roboter, Raketen, Lolis oder Fantasiewesen.",
+      "category": "Kultur",
+      "date": "2026-12-18",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Holzwerkstatt (Untergeschoss)",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-holzwerkstatt/?wcs_timestamp=1797606000",
+      "source": "familienzentrum-weissensee",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
     }
   ]
 }

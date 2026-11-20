@@ -4,14 +4,23 @@
   "type": "wcs",
   "url": "https://www.familienzentrum-weissensee.de",
   "daysAhead": 30,
+  "wcsTypeIds": [
+    27,
+    28,
+    29,
+    30
+  ],
   "organizer": "Familienzentrum Weißensee",
   "locationDefault": "Familienzentrum Weißensee, Mahlerstraße 4",
-  "wcsTypeIds": [27, 28, 29, 30],
-  "familyFriendly": true,
   "categoryMap": {
     "austausch": "Unkategorisiert",
     "beratung": "Unkategorisiert",
     "bewegung": "Sport",
     "kreatives": "Kultur"
+  },
+  "familyFriendly": true,
+  "status": {
+    "lastAttempt": "2026-11-20T21:12:17Z",
+    "lastSuccess": "2026-11-20T21:12:17Z"
   }
 }
