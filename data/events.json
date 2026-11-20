@@ -1,0 +1,298 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "title": "Flohmarkt am Antonplatz",
+      "description": "Kiez-Flohmarkt mit Second-Hand-Kleidung, Vintage-Möbeln und Kunsthandwerk lokaler Anbieter:innen.",
+      "category": "Markt",
+      "date": "2026-07-05",
+      "startTime": "10:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Antonplatz"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Kiezinitiative Weißensee",
+      "url": "https://weissens.ee/events/evt-001",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-002",
+      "title": "Sommerkonzert am Weißen See",
+      "description": "Freiluftkonzert mit lokalen Bands auf der Seebühne – Jazz, Folk und Weltmusik bei Sonnenuntergang.",
+      "category": "Kultur",
+      "date": "2026-07-11",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "location": {
+        "name": "Weißer See"
+      },
+      "price": {
+        "free": false,
+        "amount": 12
+      },
+      "organizer": "Parkbühne Weißensee e.V.",
+      "url": "https://weissens.ee/events/evt-002",
+      "ticketRequired": true,
+      "registrationRequired": false,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-003",
+      "title": "Yoga im Volkspark",
+      "description": "Offene Yoga-Session für alle Level auf der großen Wiese. Matte selbst mitbringen.",
+      "category": "Sport",
+      "date": "2026-07-12",
+      "startTime": "09:00",
+      "endTime": "10:15",
+      "location": {
+        "name": "Volkspark Weißensee"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Nachbarschaftssport Pankow",
+      "url": "https://weissens.ee/events/evt-003",
+      "ticketRequired": false,
+      "registrationRequired": true,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-004",
+      "title": "Keramik-Workshop für Einsteiger",
+      "description": "Grundlagen der Töpferscheibe: eigene Schale oder Tasse formen und mit nach Hause nehmen.",
+      "category": "Kultur",
+      "date": "2026-07-08",
+      "startTime": "18:00",
+      "endTime": "20:30",
+      "location": {
+        "name": "Streckerstraße"
+      },
+      "price": {
+        "free": false,
+        "amount": 28
+      },
+      "organizer": "Atelier Streckerstraße",
+      "url": "https://weissens.ee/events/evt-004",
+      "ticketRequired": true,
+      "registrationRequired": true,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-005",
+      "title": "Kinderfest am Pistoriusplatz",
+      "description": "Kinderschminken, Hüpfburg und Mitmach-Theater für die ganze Familie.",
+      "category": "Kultur",
+      "date": "2026-07-11",
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Pistoriusplatz"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://weissens.ee/events/evt-005",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "evt-006",
+      "title": "Lesung: Neue Berliner Stimmen",
+      "description": "Drei junge Autor:innen lesen aus ihren aktuellen Werken, moderiert Gespräch im Anschluss.",
+      "category": "Kultur",
+      "date": "2026-07-09",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "location": {
+        "name": "Gustav-Adolf-Platz"
+      },
+      "price": {
+        "free": false,
+        "amount": 8
+      },
+      "organizer": "Literaturkreis Weißensee",
+      "url": "https://weissens.ee/events/evt-006",
+      "ticketRequired": true,
+      "registrationRequired": false,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-007",
+      "title": "Street-Food-Markt Rennbahnstraße",
+      "description": "Foodtrucks und Stände mit Spezialitäten aus aller Welt, live begleitet von DJ-Sets.",
+      "category": "Kulinarik",
+      "date": "2026-07-12",
+      "startTime": "12:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "Rennbahnstraße"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Kiezverein Rennbahn",
+      "url": "https://weissens.ee/events/evt-007",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-008",
+      "title": "Vogelkundlicher Spaziergang",
+      "description": "Geführte Tour rund um den Weißen See mit Fokus auf heimische Wasservögel.",
+      "category": "Natur",
+      "date": "2026-07-19",
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "location": {
+        "name": "Weißer See"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "NABU Pankow",
+      "url": "https://weissens.ee/events/evt-008",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-009",
+      "title": "Freiluftkino: Klassiker unter Sternen",
+      "description": "Open-Air-Filmabend auf der Parkbühne, diesmal ein Berlin-Filmklassiker der 90er.",
+      "category": "Kultur",
+      "date": "2026-07-18",
+      "startTime": "21:00",
+      "endTime": "23:15",
+      "location": {
+        "name": "Volkspark Weißensee"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Parkbühne Weißensee e.V.",
+      "url": "https://weissens.ee/events/evt-009",
+      "ticketRequired": true,
+      "registrationRequired": false,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-010",
+      "title": "Boule-Turnier Amalienpark",
+      "description": "Offenes Turnier für Anfänger:innen und Fortgeschrittene, Kugeln können ausgeliehen werden.",
+      "category": "Sport",
+      "date": "2026-07-25",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Amalienpark"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Boule-Club Weißensee",
+      "url": "https://weissens.ee/events/evt-010",
+      "ticketRequired": false,
+      "registrationRequired": true,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-011",
+      "title": "Repair-Café am Antonplatz",
+      "description": "Elektrogeräte, Fahrräder und Kleidung gemeinsam mit Ehrenamtlichen reparieren statt wegwerfen.",
+      "category": "Natur",
+      "date": "2026-07-05",
+      "startTime": "13:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Antonplatz"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Repair-Café Pankow",
+      "url": "https://weissens.ee/events/evt-011",
+      "ticketRequired": false,
+      "registrationRequired": true,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-012",
+      "title": "Jazz-Brunch im Kiez",
+      "description": "Live-Jazz-Trio begleitet den sonntäglichen Brunch mit regionalen Produkten.",
+      "category": "Kulinarik",
+      "date": "2026-08-02",
+      "startTime": "11:00",
+      "endTime": "14:00",
+      "location": {
+        "name": "Pistoriusplatz"
+      },
+      "price": {
+        "free": false,
+        "amount": 15
+      },
+      "organizer": "Café Kiezperle",
+      "url": "https://weissens.ee/events/evt-012",
+      "ticketRequired": true,
+      "registrationRequired": false,
+      "familyFriendly": false
+    },
+    {
+      "id": "evt-013",
+      "title": "Second-Hand-Kindersachen-Basar",
+      "description": "Kleidung, Spielzeug und Bücher rund ums Kind – Verkauf und Tausch.",
+      "category": "Markt",
+      "date": "2026-08-08",
+      "startTime": "10:00",
+      "endTime": "14:00",
+      "location": {
+        "name": "Gustav-Adolf-Platz"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://weissens.ee/events/evt-013",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true
+    },
+    {
+      "id": "evt-014",
+      "title": "Nachbarschafts-Grillfest",
+      "description": "Gemeinsames Grillen, Musik und Spiele – jede:r bringt etwas zum Teilen mit.",
+      "category": "Kulinarik",
+      "date": "2026-07-11",
+      "startTime": "16:00",
+      "endTime": "22:00",
+      "location": {
+        "name": "Volkspark Weißensee"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Nachbarschaftsinitiative Weißensee",
+      "url": "https://weissens.ee/events/evt-014",
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false
+    }
+  ]
+}

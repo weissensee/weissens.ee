@@ -1,0 +1,9 @@
+{
+  "name": "weissens.ee",
+  "title": "weissens.ee – Events in Weißensee",
+  "description": "Der Event-Kalender für Berlin-Weißensee. Finde Märkte, Konzerte, Workshops und mehr in deinem Kiez.",
+  "baseUrl": "https://weissens.ee",
+  "timezone": "Europe/Berlin",
+  "language": "de",
+  "themeColor": "#17383D"
+}

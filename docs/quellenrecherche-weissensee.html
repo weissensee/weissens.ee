@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Quellenrecherche Weißensee (Berlin)</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #1c1c1c;
+    --muted: #5b5b5b;
+    --border: #dcdcdc;
+    --accent: #0a6b5c;
+    --accent-bg: #eef7f5;
+    --code-bg: #f2f2f2;
+    --stripe: #fafafa;
+    --maxw: 1400px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--fg);
+    background: var(--bg);
+    margin: 0;
+    padding: 2rem clamp(1rem, 4vw, 3rem);
+    line-height: 1.55;
+  }
+  .wrap { max-width: var(--maxw); margin: 0 auto; }
+  h1 { font-size: 1.8rem; margin-bottom: 0.3rem; }
+  h2 {
+    font-size: 1.3rem;
+    margin-top: 2.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid var(--accent);
+    color: var(--accent);
+  }
+  h3 { font-size: 1.05rem; margin-top: 1.5rem; }
+  .meta {
+    color: var(--muted);
+    font-size: 0.92rem;
+    margin-bottom: 0.5rem;
+  }
+  .architektur {
+    background: var(--accent-bg);
+    border-left: 4px solid var(--accent);
+    padding: 0.8rem 1rem;
+    border-radius: 4px;
+    font-size: 0.92rem;
+    margin: 1rem 0 2rem;
+  }
+  code {
+    background: var(--code-bg);
+    padding: 0.1rem 0.35rem;
+    border-radius: 3px;
+    font-size: 0.88em;
+    font-family: "SF Mono", Consolas, Menlo, monospace;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0 1.5rem;
+    font-size: 0.92rem;
+  }
+  caption {
+    caption-side: top;
+    text-align: left;
+    font-weight: 600;
+    color: var(--muted);
+    padding-bottom: 0.4rem;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 0.55rem 0.7rem;
+    text-align: left;
+    vertical-align: top;
+  }
+  th {
+    background: var(--accent-bg);
+    color: var(--accent);
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  tr:nth-child(even) td { background: var(--stripe); }
+  td.name { font-weight: 600; white-space: nowrap; }
+  td.tag {
+    white-space: nowrap;
+  }
+  .badge {
+    display: inline-block;
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+  .badge.gut { background: #e3f6e5; color: #1a7a2e; }
+  .badge.mittel { background: #fff4d6; color: #8a6100; }
+  .badge.schlecht { background: #fde4e1; color: #a3271b; }
+  ul.plain { margin: 0.4rem 0 1rem; padding-left: 1.3rem; }
+  ul.plain li { margin-bottom: 0.3rem; }
+  .note {
+    font-size: 0.9rem;
+    color: var(--muted);
+    margin-top: 0.3rem;
+  }
+  .callout {
+    background: #fff4d6;
+    border-left: 4px solid #c99a00;
+    padding: 0.8rem 1rem;
+    border-radius: 4px;
+    margin: 1rem 0;
+    font-size: 0.93rem;
+  }
+  .source-detail {
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    border-radius: 4px;
+    padding: 0.8rem 1rem;
+    margin: 0.8rem 0;
+    font-size: 0.92rem;
+  }
+  .source-detail h4 {
+    margin: 0 0 0.4rem;
+    font-size: 1rem;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  ol.steps { padding-left: 1.3rem; }
+  ol.steps li { margin-bottom: 0.5rem; }
+  .toc {
+    background: var(--accent-bg);
+    border-radius: 6px;
+    padding: 1rem 1.4rem;
+    margin: 1.5rem 0 2rem;
+    font-size: 0.92rem;
+  }
+  .toc a { display: block; padding: 0.15rem 0; }
+  @media (max-width: 640px) {
+    table, thead, tbody, th, td, tr { display: block; }
+    th { display: none; }
+    td { border: none; border-bottom: 1px solid var(--border); padding: 0.3rem 0; }
+    td::before {
+      content: attr(data-label);
+      display: block;
+      font-weight: 600;
+      color: var(--accent);
+      font-size: 0.78rem;
+      text-transform: uppercase;
+    }
+    tr { display: block; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--border); }
+    tr:nth-child(even) td { background: transparent; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>Quellenrecherche Weißensee (Berlin)</h1>
+<div class="meta">Stand: 13.07.2026 — solide Grundabdeckung je Kategorie (keine erschöpfende Liste). Fokus: Quellen mit Aussicht auf strukturierte/regelmäßig aktualisierte Daten (Homepage, Kalender, Feed), die für <code>weissens.ee</code> (Frontend) bzw. <code>sources/</code> nutzbar sind.</div>
+
+<div class="architektur">
+Hinweis zur Architektur: Das Backend liest pro Quelle eine JSON-Datei (<code>sources/*.json</code>) mit Typ <code>json</code> | <code>rss</code> | <code>wcs</code> | <code>generic</code>. Drei Beispiele existieren bereits: <code>kulturzentrum-tiefgrund.example.json</code> (RSS), <code>berlin-de-veranstaltungen-pankow.example.json</code> (JSON-API), <code>familienzentrum-weissensee.example.json</code> (WCS). Die unten gefundenen Quellen sind entsprechend markiert, wo ein Feed/API erkennbar ist.
+</div>
+
+<div class="toc">
+<strong>Inhalt</strong>
+<a href="#veranstaltungsorte">1. Veranstaltungsorte</a>
+<a href="#einrichtungen">2. Öffentliche Einrichtungen (Öffnungszeiten)</a>
+<a href="#spielplaetze">3. Spielplätze</a>
+<a href="#vereine">4. Vereine</a>
+<a href="#dienstleister">5. Dienstleister aller Art</a>
+<a href="#technik">Technische Einschätzung für die Backend-Integration</a>
+<a href="#standort">Standort &amp; Filterung auf Weißensee</a>
+<a href="#naechste-schritte">Nächste Schritte</a>
+</div>
+
+<h2 id="veranstaltungsorte">1. Veranstaltungsorte</h2>
+<table>
+<thead><tr><th>Name</th><th>Homepage</th><th>Kalender / Programm</th><th>Format-Hinweis</th></tr></thead>
+<tbody>
+<tr>
+  <td class="name" data-label="Name">Bildungs- und Kulturzentrum Peter Edel</td>
+  <td data-label="Homepage"><a href="https://www.peteredel.de/">peteredel.de</a> (eigene Seite nutzen, nicht kbw.de)</td>
+  <td data-label="Kalender"><a href="https://www.peteredel.de/events/">peteredel.de/events</a></td>
+  <td data-label="Format">HTML, kein Feed/API (Umbraco-CMS, kein WordPress) — s. u.</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">Freilichtbühne Weißensee</td>
+  <td data-label="Homepage"><a href="https://freilichtbuehne-weissensee.de/">freilichtbuehne-weissensee.de</a></td>
+  <td data-label="Kalender"><a href="https://freilichtbuehne-weissensee.de/events.ics">events.ics</a></td>
+  <td data-label="Format"><span class="badge gut">bester Fund</span> echtes iCal (Events Manager Pro) — Standard-ICS mit <code>SUMMARY</code>, <code>DESCRIPTION</code>, <code>DTSTART</code>, <code>CATEGORIES</code>, <code>URL</code>, Bild via <code>ATTACH</code>, volles <code>LOCATION</code> inkl. PLZ (s. u.)</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">Brotfabrik Berlin (Kino, Theater, Galerie, Kneipe)</td>
+  <td data-label="Homepage"><a href="https://brotfabrik-berlin.de/">brotfabrik-berlin.de</a></td>
+  <td data-label="Kalender"><a href="https://brotfabrik-berlin.de/wp-json/tribe/events/v1/events">wp-json/tribe/events/v1/events</a></td>
+  <td data-label="Format"><span class="badge gut">JSON-API</span> (The Events Calendar Plugin) — liefert title, start_date, end_date, url, description (HTML), venue, organizer, Bilder</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">Kulturzentrum Tiefgrund</td>
+  <td data-label="Homepage"><a href="https://tiefgrund-berlin.de/">tiefgrund-berlin.de</a></td>
+  <td data-label="Kalender"><a href="https://tiefgrund-berlin.de/events/feed">Feed</a></td>
+  <td data-label="Format"><span class="badge gut">RSS</span> — bereits als Beispiel im Repo</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">Familienzentrum Weißensee</td>
+  <td data-label="Homepage"><a href="https://www.familienzentrum-weissensee.de">familienzentrum-weissensee.de</a></td>
+  <td data-label="Kalender">–</td>
+  <td data-label="Format"><span class="badge gut">WCS</span> — bereits als Beispiel im Repo</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">Stadtteilzentrum Weissensee (FreiZeitHaus e.V.)</td>
+  <td data-label="Homepage"><a href="https://www.stz-weissensee.de/">stz-weissensee.de</a></td>
+  <td data-label="Kalender"><a href="https://www.stz-weissensee.de/veranstaltungen.html">veranstaltungen.html</a> (beste Quelle, s. u.) bzw. <a href="https://www.stz-weissensee.de/component/jevents/eventsnachtag/2026/7/14/281,263,264,265,270,266,267,271,268,269,286,287.html?Itemid=563">Tagesansicht</a></td>
+  <td data-label="Format">Joomla + <strong>JEvents</strong>-Komponente. Kein sauberes ICS/JSON öffentlich erreichbar, aber <code>/veranstaltungen.html</code> ist gut scrapbar (s. u.)</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">weißensee-kultur.de (Nachbarschaftsinitiative „Weißenseer Kultursommer")</td>
+  <td data-label="Homepage"><a href="https://weissensee-kultur.de/">weissensee-kultur.de</a></td>
+  <td data-label="Kalender"><a href="https://weissensee-kultur.de/programm/">Programm</a></td>
+  <td data-label="Format"><span class="badge mittel">RSS vorhanden</span> (<code>/feed</code>) — sammelt bereits Events mehrerer Weißenseer Orte, ggf. ergiebige Einzelquelle</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">Kulturverein Weißensee e.V. (Kaufmuseum, Berliner Allee)</td>
+  <td data-label="Homepage"><a href="https://kulturvereinweissensee.de/">kulturvereinweissensee.de</a></td>
+  <td data-label="Kalender">auf Homepage</td>
+  <td data-label="Format"><span class="badge schlecht">HTML</span>, kein erkennbarer Feed</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">Strandbad Weißensee (Sommer-Events/Strandbar)</td>
+  <td data-label="Homepage"><a href="https://www.strandbadweissensee.de/">strandbadweissensee.de</a></td>
+  <td data-label="Kalender">–</td>
+  <td data-label="Format">HTML</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">OC23 – Jugendfreizeiteinrichtung</td>
+  <td data-label="Homepage"><a href="https://jup.berlin/orte/jugendfreizeiteinrichtung-oc23">jup.berlin-Eintrag</a> / <a href="https://www.kinderring-berlin.org/oc23/">kinderring-berlin.org/oc23</a></td>
+  <td data-label="Kalender">–</td>
+  <td data-label="Format">HTML</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">Berlin.de Bezirkskalender Pankow (inkl. Weißensee)</td>
+  <td data-label="Homepage"><a href="https://www.berlin.de/land/kalender/?b=8">berlin.de/land/kalender/?b=8</a></td>
+  <td data-label="Kalender">–</td>
+  <td data-label="Format"><span class="badge mittel">JSON-API</span> — bereits als Beispiel im Repo, liefert ganz Pankow (Filterung auf Weißensee nötig)</td>
+</tr>
+<tr>
+  <td class="name" data-label="Name">pankow-weissensee-prenzlauerberg.berlin (Kiez-/BID-Portal)</td>
+  <td data-label="Homepage"><a href="https://www.pankow-weissensee-prenzlauerberg.berlin/de/events">Seite</a></td>
+  <td data-label="Kalender">–</td>
+  <td data-label="Format">HTML, evtl. eigene Veranstaltungsdatenbank — lohnt technische Prüfung</td>
+</tr>
+</tbody>
+</table>
+<p class="note">Weitere reine Aggregator-Portale (keine Primärquelle, aber nützlich zum Abgleich): <a href="https://www.berlin.de/special/stadtteile/weissensee/veranstaltungen/">berlin.de/special/stadtteile/weissensee/veranstaltungen</a>, <a href="https://veranstaltungen.meinestadt.de/berlin-weissensee">veranstaltungen.meinestadt.de/berlin-weissensee</a>, <a href="https://berlin.city-map.de/01100000/berlin/weissensee/events">berlin.city-map.de Events</a>.</p>
+
+<h2 id="einrichtungen">2. Öffentliche Einrichtungen (Öffnungszeiten)</h2>
+<table>
+<thead><tr><th>Einrichtung</th><th>Adresse</th><th>Öffnungszeiten</th><th>Quelle</th></tr></thead>
+<tbody>
+<tr>
+  <td class="name" data-label="Einrichtung">Bürgeramt Pankow – Standort Weißensee</td>
+  <td data-label="Adresse">Berliner Allee 252–260, 13088 Berlin</td>
+  <td data-label="Öffnungszeiten">Mo 08–15, Di 11–18, Mi 08–14, Do 11–18, Fr 08–13 (nur Termin, buchbar über 115)</td>
+  <td data-label="Quelle"><a href="https://www.berlinstadtservice.de/aemter-und_behoerden_berlin/buergeramt/Buergeramt_Pankow-Prenzlauer_Berg-Weissensee.html">berlinstadtservice.de</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">Wolfdietrich-Schnurre-Bibliothek (Antonplatz)</td>
+  <td data-label="Adresse">Bizetstraße 41, 13088 Berlin</td>
+  <td data-label="Öffnungszeiten">Mo 10–19, Di 10–17, Mi 13–19, Do 10–19, Fr 10–17, Sa/So 10–16</td>
+  <td data-label="Quelle"><a href="https://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/">berlin.de Stadtbibliothek Pankow</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">Strandbad Weißensee (Berliner Bäder-Betriebe)</td>
+  <td data-label="Adresse">Uferpromenade am Weißen See, 13088 Berlin</td>
+  <td data-label="Öffnungszeiten">Saison Mai–Aug, Mai 13–19, Jun–Aug 10–20 (wetterabhängig)</td>
+  <td data-label="Quelle"><a href="https://www.berlinerbaeder.de/baeder/detail/strandbad-weissensee/">berlinerbaeder.de</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">Stadtteilzentrum Weißensee / FreiZeitHaus e.V. (u. a. Seniorenfreizeitstätte)</td>
+  <td data-label="Adresse">Pistoriusstr. 23, 13086 Berlin</td>
+  <td data-label="Öffnungszeiten">Mo–Fr 09–18 (Termine abends/Wochenende nach Vereinbarung)</td>
+  <td data-label="Quelle"><a href="https://www.hilfelotse-berlin.de/detail/stadtteilzentrum-weissensee-freizeithaus-e-v">hilfelotse-berlin.de</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">OC23 – Jugendfreizeiteinrichtung (12–27 Jahre)</td>
+  <td data-label="Adresse">Charlottenburger Str./Gäblerstr. Bereich</td>
+  <td data-label="Öffnungszeiten">Mo–Do 14–20, So 12–18</td>
+  <td data-label="Quelle"><a href="https://jup.berlin/orte/jugendfreizeiteinrichtung-oc23">jup.berlin</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">Kinder- und Jugendklub Maxim</td>
+  <td data-label="Adresse">Charlottenburger Straße 117, 13086 Berlin</td>
+  <td data-label="Öffnungszeiten">– (Tel. 030 92376457)</td>
+  <td data-label="Quelle"><a href="https://berlin.kauperts.de/eintrag/Kinder-und-Jugendklub-Maxim-Charlottenburger-Strasse-117-13086-Berlin">kauperts.de</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">FiPP-Nische &amp; FreiRaum (Kinder-/Mädchentreff)</td>
+  <td data-label="Adresse">–</td>
+  <td data-label="Öffnungszeiten">–</td>
+  <td data-label="Quelle"><a href="https://www.fippev.de/fipp-nischefreiraum">fippev.de</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">Bildungszentrum Antonplatz (Bibliothek, VHS Pankow, Musikschule Béla Bartók)</td>
+  <td data-label="Adresse">Antonplatz</td>
+  <td data-label="Öffnungszeiten">je Einrichtung unterschiedlich</td>
+  <td data-label="Quelle"><a href="https://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/">berlin.de Bibliothek</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">Kita-Navigator / Kita-Suche Berlin (Verzeichnis, keine Einzeleinrichtung)</td>
+  <td data-label="Adresse">–</td>
+  <td data-label="Öffnungszeiten">–</td>
+  <td data-label="Quelle"><a href="https://kita-navigator.berlin.de/">kita-navigator.berlin.de</a>, <a href="https://kita-suche.berlin/">kita-suche.berlin</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Einrichtung">Grundschulen Weißensee (u. a. Picasso-Grundschule, Grundschule an der Rennbahn)</td>
+  <td data-label="Adresse">Gounodstr. 71 / Rennbahnstr. 45</td>
+  <td data-label="Öffnungszeiten">–</td>
+  <td data-label="Quelle"><a href="https://www.gemeinschaftsschulen-berlin.de/grundschulen/ortsteil/weissensee">gemeinschaftsschulen-berlin.de</a></td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="spielplaetze">3. Spielplätze</h2>
+<p>Genannt werden u. a.: Großer Spielplatz am Weißensee, Plantsche am Weißen See, Parkstraße, Mahlerstraße, Tassostraße, Fuchsspielplatz, Wackelhaus-Spielplatz, Borodin-Spielplatz, Lehderstraße, Spielplatz an der Pistoriusstraße (insgesamt über 40 Spielplätze im Ortsteil).</p>
+<p>Primärquellen für eine vollständige, adressgenaue Liste:</p>
+<ul class="plain">
+  <li><a href="https://www.berlin.de/adressen/spielplatz/district/weissensee/">berlin.de – Spielplätze Weißensee</a> (amtliches Verzeichnis)</li>
+  <li><a href="https://www.spielplatztreff.de/spielplaetze/berlin_wei%C3%9Fensee">spielplatztreff.de – Weißensee</a> (mit Bewertungen/Fotos)</li>
+  <li><a href="https://spielplatznet.de/spielplaetze/Berlin/Wei%C3%9Fensee">spielplatznet.de – Weißensee</a></li>
+</ul>
+<p class="note">Hinweis: Spielplätze haben keine „Events" im engeren Sinne – eher als statische Orte-Liste (z. B. eigenes <code>data/</code>-JSON) statt als Event-Quelle relevant.</p>
+
+<h2 id="vereine">4. Vereine</h2>
+<table>
+<thead><tr><th>Verein</th><th>Bereich</th><th>Homepage</th><th>Hinweis</th></tr></thead>
+<tbody>
+<tr>
+  <td class="name" data-label="Verein">Kulturverein Weißensee e.V.</td>
+  <td data-label="Bereich">Kultur (Kaufmuseum, Berliner Allee)</td>
+  <td data-label="Homepage"><a href="https://kulturvereinweissensee.de/">kulturvereinweissensee.de</a></td>
+  <td data-label="Hinweis">Konzerte, Lesungen, interkulturelle Formate</td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">Bezirksverband der Kleingärtner Berlin-Weißensee e.V.</td>
+  <td data-label="Bereich">Kleingärten (Dachverband, 28 Anlagen)</td>
+  <td data-label="Homepage"><a href="https://www.kleingaertner-weissensee.de/">kleingaertner-weissensee.de</a></td>
+  <td data-label="Hinweis"><a href="https://www.kleingaertner-weissensee.de/Vereine/VereineListe.html">Vereinsliste</a></td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">KGA „Frieden" e.V.</td>
+  <td data-label="Bereich">Kleingarten</td>
+  <td data-label="Homepage"><a href="http://www.kga-frieden.de/">kga-frieden.de</a></td>
+  <td data-label="Hinweis">Einzelanlage</td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">Kleingartenverein Hansastraße</td>
+  <td data-label="Bereich">Kleingarten</td>
+  <td data-label="Homepage"><a href="http://www.kleingaertner-weissensee-hansastrasse.de/">kleingaertner-weissensee-hansastrasse.de</a></td>
+  <td data-label="Hinweis">Einzelanlage</td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">SV Preußen Berlin</td>
+  <td data-label="Bereich">Kinder-/Jugendsport (Hohenschönhausen/Weißensee/Pankow)</td>
+  <td data-label="Homepage">–</td>
+  <td data-label="Hinweis">gegr. 1990</td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">Tennis-Club Berlin-Weißensee</td>
+  <td data-label="Bereich">Sport</td>
+  <td data-label="Homepage">–</td>
+  <td data-label="Hinweis">über Branchenverzeichnisse auffindbar</td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">Berliner SV 63 „Chemie" Weißensee</td>
+  <td data-label="Bereich">Sport</td>
+  <td data-label="Homepage">–</td>
+  <td data-label="Hinweis">über Branchenverzeichnisse auffindbar</td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">Weißenseer Sportverein „Rot-Weiß"</td>
+  <td data-label="Bereich">Sport</td>
+  <td data-label="Homepage">–</td>
+  <td data-label="Hinweis">über Branchenverzeichnisse auffindbar</td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">SV Weißensee</td>
+  <td data-label="Bereich">Fußball</td>
+  <td data-label="Homepage"><a href="https://www.bfv.de/vereine/sv-weissensee/00ES8GNJFC00000NVV0AG08LVUPGND5I">BFV-Eintrag</a></td>
+  <td data-label="Hinweis">Verbandsprofil</td>
+</tr>
+<tr>
+  <td class="name" data-label="Verein">Familienzentrum Weißensee</td>
+  <td data-label="Bereich">Familie/Kurse</td>
+  <td data-label="Homepage"><a href="https://www.familienzentrum-weissensee.de">familienzentrum-weissensee.de</a></td>
+  <td data-label="Hinweis">s. Kat. 1 (bereits als Quelle im Repo)</td>
+</tr>
+</tbody>
+</table>
+<p class="note">Directory-Quellen für weitere/aktuelle Vereine: <a href="https://www.wegweiser-aktuell.de/berlin/21_weissensee_672_vereine-verbaende-organisationen.htm">WEGWEISER aktuell – Vereine Weißensee</a>, <a href="https://berlin.city-map.de/01100000/berlin/weissensee/vereine">city-map.de – Vereine Weißensee</a>, <a href="https://www.dasoertliche.de/Themen/Vereine/Berlin-Wei%C3%9Fensee.html">Das Örtliche – Vereine Weißensee</a>.</p>
+<div class="callout">Achtung: <code>weissensee.de</code> (mit „Bürger &amp; Stadt"-Bereich) ist die Stadt <strong>Weißensee in Thüringen</strong> – nicht der Berliner Ortsteil. In den Suchergebnissen aufgetaucht, aber nicht relevant und daher hier ausgeschlossen.</div>
+
+<h2 id="dienstleister">5. Dienstleister aller Art</h2>
+<p>Eine erschöpfende Einzelaufstellung ist hier wenig sinnvoll (Hunderte Einträge, hohe Fluktuation). Stattdessen: Ankerpunkte + Verzeichnisse.</p>
+
+<h3>Wochenmarkt</h3>
+<ul class="plain">
+  <li>Weißenseer Frischemarkt / Wochenmarkt Antonplatz — Di &amp; Fr 9–18 Uhr, Do 11–16 Uhr (Street-Food) — Berliner Allee/Ecke Langhansstraße — <a href="https://berlinecho.de/maerkte/wochenmarkt-antonplatz-weissensee/">berlinecho.de</a></li>
+</ul>
+
+<h3>Apotheken (Beispiele)</h3>
+<ul class="plain">
+  <li>Weissenseer Apotheke, Schönstr. 5–7 — <a href="https://www.weissenseer-apotheke.de/">weissenseer-apotheke.de</a></li>
+  <li>Rennbahn Apotheke, Rennbahnstraße 22–23 — Mo–Fr 08–18:30 — <a href="https://www.rennbahn-apotheke.de/">rennbahn-apotheke.de</a></li>
+  <li>Apotheke am Weißen See — <a href="https://www.apotheke-am-weissen-see.de/">apotheke-am-weissen-see.de</a></li>
+  <li>Dr. Bäder &amp; Dr. Kemmritz Apotheken — Mo–Fr 08:30–19, Sa 08:30–13 — <a href="https://bk-apo.de/">bk-apo.de</a></li>
+</ul>
+
+<h3>Verzeichnisse/Branchenbücher (für Handwerk, Gastronomie, Gesundheit, Beauty etc.)</h3>
+<ul class="plain">
+  <li><a href="https://branchenbuch.meinestadt.de/weissensee">Branchenbuch Weißensee – meinestadt.de</a></li>
+  <li><a href="https://www.golocal.de/berlin-weissensee/handwerker/">golocal.de – Handwerker Weißensee</a></li>
+  <li><a href="https://www.dasoertliche.de/Themen/Vereine/Berlin-Wei%C3%9Fensee.html">Das Örtliche – Weißensee</a></li>
+  <li><a href="https://www.wegweiser-aktuell.de/berlin/21_weissensee_672_vereine-verbaende-organisationen.htm">WEGWEISER aktuell – Weißensee</a></li>
+</ul>
+<p class="note">Notfall/Bereitschaft: Ärztlicher Bereitschaftsdienst bundesweit <strong>116 117</strong>.</p>
+
+<h2 id="technik">Technische Einschätzung für die Backend-Integration</h2>
+
+<div class="source-detail">
+<h4>Sofort ergiebig für <code>sources/</code></h4>
+<ul class="plain">
+<li><code>weissensee-kultur.de</code> — aktiver RSS-Feed (<code>/feed</code>), bündelt bereits mehrere Weißenseer Veranstalter. Mapping analog zum bestehenden Tiefgrund-Beispiel.</li>
+<li><code>brotfabrik-berlin.de</code> — läuft auf WordPress mit dem Plugin <strong>The Events Calendar</strong>; REST-API unter <code>wp-json/tribe/events/v1/events</code> liefert sauberes JSON (getestet, live abgerufen): pro Event u. a. <code>title</code>, <code>start_date</code>, <code>end_date</code>, <code>url</code> (Permalink), <code>description</code> (HTML), <code>venue</code> (Objekt inkl. <code>address</code>/<code>zip</code>), <code>organizer</code> (Objekt), Bild-URLs in mehreren Größen. Kein API-Key nötig. Mapping könnte fast 1:1 dem <code>berlin-de-veranstaltungen-pankow.example.json</code>-Muster folgen (Typ <code>json</code>, <code>itemsPath</code> auf die Ergebnisliste, <code>mapping.start</code>/<code>mapping.end</code> mit Format <code>2006-01-02 15:04:05</code>).</li>
+<li><code>freilichtbuehne-weissensee.de</code> — läuft auf <strong>Events Manager Pro</strong> (wp-events-plugin.com); die REST-API des Plugins (Namespace <code>events-manager/v1</code>) ist zwar in <code>/wp-json/</code> registriert, aber ohne öffentlich erreichbare <code>/events</code>-Route (nur ein Zahlungs-Gateway-Endpunkt sichtbar) — stattdessen liefert der eingebaute <strong>iCal-Export unter <code>/events.ics</code></strong> (getestet, live abgerufen, ~36 Termine bis weit in den Herbst) sauberes Standard-ICS: <code>SUMMARY</code>, <code>DESCRIPTION</code>, <code>DTSTART</code>/<code>DTEND</code>, <code>CATEGORIES</code>, <code>URL</code>, <code>ATTACH</code> (Bild) und ein volles <code>LOCATION</code>-Feld mit Saalname + Adresse + PLZ (z. B. „Kleine Bühne, Große Seestraße 10, Berlin-Weißensee, 13086, Deutschland" – drei Spielstätten: Kleine Bühne, Große Bühne, Kinderbühne, alle an derselben Adresse). Bekannte Eigenart: <code>DTEND</code> ist in jedem geprüften Eintrag identisch mit <code>DTSTART</code> (keine echte Endzeit im Feed) – Enddatum müsste im Backend über eine Default-Dauer oder gar nicht befüllt werden. Für den Import bräuchte es entweder einen ICS-Parser (kein bestehender Typ im Repo – wäre ein vierter Source-Typ neben <code>rss</code>/<code>json</code>/<code>wcs</code>) oder einen handgeschriebenen Source wie bei <code>wcs.go</code>.</li>
+</ul>
+</div>
+
+<div class="source-detail">
+<h4>Bereits abgedeckt</h4>
+<p>Tiefgrund (RSS), Familienzentrum (WCS), Berlin.de Pankow-API (JSON, <code>berlin-de-veranstaltungen-pankow.example.json</code>) — Achtung: der im Beispiel hinterlegte Endpunkt (<code>berlin.de/api/veranstaltungen?bezirk=pankow</code>) hat beim Testabruf <strong>kein Ergebnis geliefert</strong> (leere Antwort), müsste vor Aktivierung neu verifiziert werden (Parameter/URL evtl. veraltet). Unabhängig davon gilt: die API deckt den ganzen <em>Bezirk</em> Pankow ab (Prenzlauer Berg, Pankow, Weißensee, Buch, Karow, Blankenburg …), nicht nur den <em>Ortsteil</em> Weißensee — Filterung zwingend nötig, s. Abschnitt „Standort &amp; Filterung" unten.</p>
+</div>
+
+<div class="source-detail">
+<h4>Peter Edel (<code>peteredel.de</code>, nicht <code>kbw.de</code>) — geprüft</h4>
+<p>Eigene Seite, läuft auf <strong>Umbraco</strong> (.NET-CMS, erkennbar an <code>/media/…</code>-Pfaden), nicht WordPress — entsprechend kein <code>/wp-json/</code>, kein <code>/events.ics</code>, keine RSS gefunden. <code>/events/</code> ist aber genau wie bei <code>stz-weissensee.de/veranstaltungen.html</code> <strong>eine einzige statische HTML-Seite mit allen Terminen von Juli 2026 bis Mai 2027</strong> am Stück (Monatsüberschrift → Datum → Bild → Titel+Link → Beschreibung → „Beginn &amp; Einlass"/„Tickets"), gut scrapbar. Die Adresse steht sowohl im Seiten-Footer als auch auf jeder Event-Detailseite als Freitext („PETER EDEL, Berliner Allee 125, 13088 Berlin") — da Single-Venue-Quelle ist die Weißensee-Zugehörigkeit trivial (kein Filterbedarf), im Mapping einfach als <code>default</code>-Wert hinterlegbar wie bei Tiefgrund/Familienzentrum.</p>
+</div>
+
+<div class="source-detail">
+<h4>Prüfenswert, aber ohne erkennbaren Feed</h4>
+<p>Kulturverein Weißensee, pankow-weissensee-prenzlauerberg.berlin (BID-Portal, evtl. eigene Struktur — lohnt einen Blick in den Seitenquelltext). Tipp: bei WordPress-Seiten immer zuerst <code>/wp-json/</code> (Namespaces wie <code>tribe</code>, <code>events-manager</code> etc.) und zusätzlich <code>/events.ics</code> bzw. <code>/?ical=1</code> prüfen, wie bei Brotfabrik und Freilichtbühne gefunden — bei Nicht-WordPress-Seiten (wie Peter Edel) bleibt meist nur HTML-Scraping.</p>
+</div>
+
+<div class="source-detail">
+<h4>Stadtteilzentrum Weißensee (Joomla + JEvents) — drei geprüfte Varianten</h4>
+<ol class="steps">
+<li><strong>Tagesansicht</strong> (<code>/component/jevents/eventsnachtag/{jahr}/{monat}/{tag}/{catids}.html?Itemid=563</code>): HTML, zeigt v. a. die wöchentlich wiederkehrenden <strong>Kurse</strong> (Tanzen, Keramik, Nähsalon …), bräuchte täglichen Durchlauf über viele Tages-URLs.</li>
+<li><strong><code>/veranstaltungen.html</code> — beste Option:</strong> eine einzige statische HTML-Seite, die beim Testabruf <strong>alle „echten" Einzel-Veranstaltungen von Juli 2026 bis Januar 2027</strong> (Blutspende des DRK, Quizabend, Elvis Club Berlin, MachArt-Markt, Konzerte, Feste …) am Stück enthält — kein JavaScript/Pagination nötig. Pro Termin wiederkehrendes Muster: Bild, Titel, Kategorie-Link(s) (Vorträge/Feste/Bühne/Workshops/Tanz/Nachbarschaftstreffen/Markt/Spielen), Uhrzeit, <strong>fett gesetzter Ort</strong>, Freitext-Beschreibung. Kein JSON-LD, aber die Regelmäßigkeit macht einen Regex-/HTML-Parser gut machbar (Muster: <code>wcs.go</code> im Repo als Vorbild für einen handgeschriebenen Source).</li>
+<li><strong>RSS-Endpunkt</strong> <code>index.php?option=com_jevents&amp;task=modlatest.rss&amp;format=feed&amp;type=rss&amp;Itemid=495&amp;modid=0</code>: Header bestätigen <code>Content-Type: application/rss+xml</code> — es ist ein echter JEvents-„Latest Events"-RSS-Feed (Quellcode: <code>component/site/views/modlatest/tmpl/rss.php</code>). Der Payload war beim Abruf zu klein/leer, um ihn mit den verfügbaren Tools als Text auszulesen. Wichtiger Verdachtspunkt: <strong><code>modid=0</code> ist vermutlich keine echte Modul-ID</strong> — laut JEvents-Doku hängt der Feed-Inhalt (Datumsfenster, Kategorie-Filter, Anzahl Einträge) am jeweiligen <code>modid</code> eines im Joomla-Backend angelegten „Latest Events"-Moduls; mit <code>modid=0</code> liefert der Feed vermutlich nichts Sinnvolles. Die echte Modul-ID steht normalerweise im RSS-Icon-Link auf der Live-Seite oder ist beim Site-Betreiber zu erfragen. Falls eine gültige <code>modid</code> gefunden wird: Feed-Items enthalten laut Plugin-Code nur <code>title</code> (mit vorangestelltem Datum/Uhrzeit als Text, z. B. „13.07.2026 10:00 : Titel"), <code>link</code>, <code>description</code> (Intro-Text), <code>category</code> — <strong>kein separates Orts-/Organizer-Feld</strong> (im Plugin vorhanden, aber standardmäßig auskommentiert). Damit wäre selbst ein funktionierender Feed dünner als <code>/veranstaltungen.html</code>.</li>
+</ol>
+<p class="note"><strong>Empfehlung:</strong> <code>/veranstaltungen.html</code> als Quelle nehmen (Option 2), die RSS-Variante nur falls die echte <code>modid</code> auffindbar ist und Ort/Datum-Parsing aus dem Titel-String akzeptabel ist.</p>
+</div>
+
+<div class="source-detail">
+<p><strong>Öffentliche Einrichtungen &amp; Spielplätze sind keine „Event"-Quellen</strong> im Sinne von <code>internal/sources</code> — eher statische Referenzdaten (Adresse, Öffnungszeiten). Empfehlung: separates statisches JSON (z. B. <code>data/orte.json</code>) statt Event-Source-Config, falls das Frontend das anzeigen soll.</p>
+<p><strong>Vereine/Dienstleister:</strong> am ehesten einzeln zu erschließen, sofern sie eigene Homepages mit Terminen haben (z. B. Kulturverein Weißensee, Kleingärtner-Bezirksverband); reine Branchenbücher taugen nicht als Fetch-Quelle, nur zur manuellen Recherche weiterer Kandidaten.</p>
+</div>
+
+<h2 id="standort">Standort &amp; Filterung auf Weißensee</h2>
+<p>Wichtige Anforderung: wir brauchen die <strong>Location der Veranstaltung selbst</strong> (nicht nur „Bezirk" oder „Anbieter"), sowohl zur Anzeige als auch um Aggregator-Quellen, die mehr als nur Weißensee abdecken, korrekt zu filtern.</p>
+
+<div class="callout">
+<strong>Korrektur:</strong> Weißensee liegt in den Postleitzahlen <strong>13086</strong> und <strong>13088</strong> (13088 teilt sich Weißensee mit Hohenschönhausen). <strong>13089 gehört zu Pankow (Ortsteil), nicht zu Weißensee</strong> — das war in einer früheren Version dieses Dokuments falsch als Weißensee-PLZ gelistet und ist hier korrigiert. Für einen reinen PLZ-Filter reichen also <code>13086</code> + <code>13088</code>, wobei 13088 händisch nachgefiltert werden sollte (Straßenabschnitte, die zu Hohenschönhausen gehören).
+</div>
+
+<table>
+<thead><tr><th>Quelle</th><th>Strukturiertes Orts-Feld?</th><th>Details</th></tr></thead>
+<tbody>
+<tr>
+  <td class="name" data-label="Quelle">Brotfabrik (<code>wp-json/tribe/events/v1/events</code>)</td>
+  <td data-label="Orts-Feld"><span class="badge gut">Ja</span></td>
+  <td data-label="Details">Eigenes <code>venue</code>-Objekt pro Event mit <code>venue</code>, <code>address</code> (Caligariplatz 1), <code>city</code>, <code>zip</code> (<strong>13086</strong>, live verifiziert) — direkt per PLZ filterbar.</td>
+</tr>
+<tr>
+  <td class="name" data-label="Quelle">Freilichtbühne (<code>/events.ics</code>)</td>
+  <td data-label="Orts-Feld"><span class="badge gut">Ja</span></td>
+  <td data-label="Details">ICS-<code>LOCATION</code>-Feld pro Termin mit Saalname, Straße, Stadtteil („Berlin-Weißensee") und <strong>PLZ 13086</strong> (live verifiziert, 3 Spielstätten, alle gleiche Adresse) — direkt per PLZ filterbar, sogar ohne Zusatzaufwand, da diese Quelle ohnehin nur einen Ort kennt.</td>
+</tr>
+<tr>
+  <td class="name" data-label="Quelle">Peter Edel (<code>peteredel.de/events</code>)</td>
+  <td data-label="Orts-Feld"><span class="badge mittel">Nein, nur Freitext</span></td>
+  <td data-label="Details">Adresse steht als Text im Footer/auf Detailseiten („Berliner Allee 125, 13088 Berlin"), aber Single-Venue-Quelle — kein Filterbedarf, da per Definition in Weißensee.</td>
+</tr>
+<tr>
+  <td class="name" data-label="Quelle">Berlin.de Pankow-API (Beispiel-Config)</td>
+  <td data-label="Orts-Feld"><span class="badge mittel">Vorgesehen, unverifiziert</span></td>
+  <td data-label="Details">Mapping sieht <code>locationName</code>/<code>locationAddress</code> vor — Endpunkt selbst lieferte beim Test aber keine Antwort, muss vor Nutzung neu geprüft werden. Falls funktionsfähig: Filterung über Adresse/PLZ zwingend, da API bezirksweit ist.</td>
+</tr>
+<tr>
+  <td class="name" data-label="Quelle">weissensee-kultur.de (RSS)</td>
+  <td data-label="Orts-Feld"><span class="badge schlecht">Unklar/vermutlich nein</span></td>
+  <td data-label="Details">Nutzt kein Events-Plugin mit eigener REST-Struktur (kein <code>tribe</code>-Namespace o. ä. in <code>/wp-json/</code> gefunden) — der Feed ist wahrscheinlich der normale WordPress-Beitrags-Feed (Titel/Beschreibung/Link), Ort dürfte nur als Freitext im Beschreibungstext stehen, wenn überhaupt. Muss am echten Feed-Inhalt geprüft werden, sobald der lesbar vorliegt (aktuell technisch nicht auslesbar). Da die Seite ohnehin ausschließlich Weißensee-Events kuratiert, ist eine Ortsfilterung hier vermutlich weniger kritisch als die Ortsanzeige selbst.</td>
+</tr>
+<tr>
+  <td class="name" data-label="Quelle">Stadtteilzentrum <code>/veranstaltungen.html</code></td>
+  <td data-label="Orts-Feld"><span class="badge mittel">Ja, als Text</span></td>
+  <td data-label="Details">Jeder Termin hat einen fett gesetzten Ort (z. B. „Stadtteilzentrum Weißensee, Pistoriusstraße 23", aber auch Ausreißer wie „FreiwilligenAgentur Pankow, Berliner Allee 124" — liegt an der Straße, die durch Weißensee verläuft, PLZ dort prüfen). Kein separates PLZ-Feld — Adresse müsste geparst/geocodiert werden.</td>
+</tr>
+<tr>
+  <td class="name" data-label="Quelle">Tiefgrund, Familienzentrum (bestehende Beispiele)</td>
+  <td data-label="Orts-Feld">Nein (fix hinterlegt)</td>
+  <td data-label="Details">Single-Venue-Quellen — Ort ist im Mapping als <code>default</code>-Wert hinterlegt, da die Quelle ohnehin nur einen Ort kennt. Kein Filterproblem, da per Definition in Weißensee.</td>
+</tr>
+</tbody>
+</table>
+
+<div class="source-detail">
+<h4>Empfehlung fürs Backend</h4>
+<ol class="steps">
+<li><code>model.Event</code> sollte ein strukturiertes Location-Feld führen (mind. <code>name</code>, <code>address</code>, idealerweise <code>zip</code>), nicht nur einen Freitext-String — genau das sieht die bestehende Mapping-Syntax (<code>locationName</code>/<code>locationAddress</code>) ja schon vor.</li>
+<li>Als Filterregel: PLZ <code>13086</code>/<code>13088</code> als primäres Kriterium, ergänzt um eine kleine Allowlist bekannter Weißensee-Straßen/Orte (aus der Venue-Liste in Kategorie 1 dieses Dokuments) für Fälle, in denen eine Quelle keine PLZ liefert oder eine Adresse an der Ortsteilgrenze liegt (Berliner Allee, Prenzlauer Promenade u. ä.).</li>
+<li>Bei Aggregator-Quellen ohne PLZ (z. B. falls weissensee-kultur.de sich als reiner Text-Feed bestätigt) reicht ggf. Vertrauen in die redaktionelle Kuratierung der Quelle selbst, sollte aber im Zweifel stichprobenartig gegengeprüft werden.</li>
+<li>Mit dem Freilichtbühnen-Fund lohnt sich ein vierter generischer Source-Typ <code>ical</code> (neben <code>rss</code>/<code>json</code>/<code>wcs</code>) — Events Manager Pro ist ein verbreitetes Plugin, es ist plausibel, dass weitere noch ungeprüfte Weißenseer Seiten ebenfalls über <code>/events.ics</code> oder <code>/?ical=1</code> exportieren (lohnt sich als Standard-Check bei jeder neuen WordPress-Quelle). Das <code>LOCATION</code>-Feld im ICS-Standard ist ein einzelner String (kein getrenntes Adress-/PLZ-Feld) — für den PLZ-Filter müsste die 5-stellige Zahl per Regex aus dem String extrahiert werden.</li>
+</ol>
+</div>
+
+<h2 id="naechste-schritte">Nächste Schritte (Vorschlag)</h2>
+<ol class="steps">
+<li><code>weissensee-kultur.de/feed</code> strukturell prüfen (Felder, Kategorien) und als aktive Source-Config anlegen.</li>
+<li>Kulturverein Weißensee / pankow-weissensee-prenzlauerberg.berlin auf HTML-Struktur bzw. versteckte APIs prüfen (Netzwerk-Tab). Peter Edel, Freilichtbühne und Brotfabrik sind bereits geprüft (s. o.).</li>
+<li>Entscheiden, ob „Orte" (Spielplätze, öffentliche Einrichtungen) als eigener Datentyp ins Frontend sollen — falls ja, Datenmodell dafür festlegen.</li>
+<li>Vereins-/Dienstleisterliste nur bei Bedarf vertiefen (aktuell nur Grundabdeckung).</li>
+<li>Berlin.de-Pankow-Endpunkt neu verifizieren (aktuell keine Antwort) und, falls funktionsfähig, PLZ-/Adressfilter auf Weißensee (13086/13088 + Straßen-Allowlist) ergänzen.</li>
+<li>Location-Datenmodell im Backend prüfen: strukturiertes Feld (<code>name</code>/<code>address</code>/<code>zip</code>) statt Freitext, damit die Weißensee-Filterung konsistent über alle Quellen funktioniert.</li>
+</ol>
+
+</div>
+</body>
+</html>

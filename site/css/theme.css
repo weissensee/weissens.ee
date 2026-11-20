@@ -1,0 +1,108 @@
+/* weissens.ee — Instanz-Theme (überschreibt openLitfass web/css/tokens.css)
+   Herleitung: siehe docs/media/farbpalette.png
+   Kontraste gegen WCAG AA (4.5:1) geprüft. */
+
+:root {
+  /* Primary — Seeblau-Petrol */
+  --color-primary-50: #E3E7E8;
+  --color-primary-200: #9EABAE;
+  --color-primary-500: #17383D;
+  --color-primary-700: #112A2E;
+  --color-primary-900: #0A1B1E;
+
+  /* Neutrale (Sandton-Unterton) */
+  --color-neutral-0: #FFFFFF;
+  --color-neutral-50: #F3ECDD;
+  --color-neutral-200: #494541;
+  --color-neutral-400: #878481;
+  --color-neutral-600: #BDBCBA;
+  --color-neutral-900: #1E1C19;
+
+  /* Sekundär — Backsteinrot */
+  --color-backstein-100: #F3E3DE;
+  --color-backstein-300: #E0B6A8;
+  --color-backstein-500: #B5502F;
+  --color-backstein-700: #883C23;
+
+  /* Akzent-Slot des Kerns (style.css nutzt --color-accent-500) */
+  --color-accent-500: var(--color-backstein-500);
+
+  /* Sekundär — Parkgrün */
+  --color-parkgruen-100: #E0E5E1;
+  --color-parkgruen-300: #AEBBB0;
+  --color-parkgruen-500: #3F5C43;
+  --color-parkgruen-700: #2F4532;
+
+  /* Sekundär — Ockergelb */
+  --color-ocker-100: #F6EFE0;
+  --color-ocker-300: #E8D5AE;
+  --color-ocker-500: #C99A3E;
+  --color-ocker-700: #97742E;
+
+  /* Semantisch (Text-Farbe pro Status geprüft) */
+  --color-erfolg-100: #E2EBE4;
+  --color-erfolg-500: #4B8058;
+  --color-erfolg-text-on-500: #FFFFFF;   /* Kontrast 4.64 */
+
+  --color-warnung-100: #F6ECDE;
+  --color-warnung-500: #C98A2E;
+  --color-warnung-text-on-500: #1E1C19;  /* Weiß fällt durch (2.93) -> dunkler Text */
+
+  --color-fehler-100: #F5DFDD;
+  --color-fehler-500: #C1392B;
+  --color-fehler-text-on-500: #FFFFFF;   /* Kontrast 5.40 */
+
+  --color-info-100: #E0EAEE;
+  --color-info-500: #3B7A94;
+  --color-info-text-on-500: #FFFFFF;     /* Kontrast 4.78 */
+
+  /* Event-Kategorien */
+  --color-kategorie-kultur: var(--color-primary-500);
+  --color-kategorie-musik: var(--color-backstein-500);
+  --color-kategorie-sport: var(--color-parkgruen-500);
+  --color-kategorie-markt: var(--color-ocker-500);
+  --color-kategorie-markt-text: #1E1C19; /* Weiß fällt durch (2.57) -> dunkler Text */
+
+  /* Theme-Tokens (Hell, Standard) */
+  --bg-page: var(--color-neutral-50);
+  --bg-surface: var(--color-neutral-0);
+  --text-primary: var(--color-neutral-900);
+  --text-secondary: #747270;
+  --border-color: #DFDFDF;
+  --accent-primary: var(--color-primary-500);
+  --accent-primary-text: #FFFFFF;
+  --focus-ring: var(--color-info-500);
+  --focus-ring-text: #FFFFFF;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-page: var(--color-primary-900);
+    --bg-surface: var(--color-primary-700);
+    --text-primary: var(--color-neutral-50);
+    --text-secondary: var(--color-primary-200);
+    --border-color: #2B4448;
+    --accent-primary: var(--color-primary-200);
+    --accent-primary-text: var(--color-primary-900);
+    --focus-ring: #93B6C4;
+    --focus-ring-text: var(--color-primary-900);
+  }
+}
+
+/* Optionaler manueller Dark-Mode-Schalter statt/zusätzlich zu prefers-color-scheme */
+[data-theme="dark"] {
+  --bg-page: var(--color-primary-900);
+  --bg-surface: var(--color-primary-700);
+  --text-primary: var(--color-neutral-50);
+  --text-secondary: var(--color-primary-200);
+  --border-color: #2B4448;
+  --accent-primary: var(--color-primary-200);
+  --accent-primary-text: var(--color-primary-900);
+  --focus-ring: #93B6C4;
+  --focus-ring-text: var(--color-primary-900);
+}
+
+/* PWA / manifest.json Referenzwerte (manuell übertragen, CSS kann JSON nicht befüllen):
+   theme_color:       #17383D
+   background_color:  #F3ECDD
+*/

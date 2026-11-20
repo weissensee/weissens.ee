@@ -1,0 +1,11 @@
+{
+  "title": "Herbstfest im Antonplatz-Kiez",
+  "description": "Kleines Nachbarschaftsfest mit Kaffee und Kuchen, spontan organisiert - kein offizieller Feed dafür vorhanden.",
+  "category": "Kultur",
+  "date": "2026-09-12",
+  "startTime": "15:00",
+  "endTime": "18:00",
+  "location": { "name": "Antonplatz" },
+  "organizer": "Nachbarschaftsinitiative Weißensee",
+  "familyFriendly": true
+}
