@@ -10,11 +10,11 @@ Container-Image kommen aus dem Kern-Repo (Aufbau einer Instanz:
 | Datei/Ordner | Inhalt |
 |---|---|
 | `instance.json` | Name, Titel, Zeitzone, Base-URL |
-| `sources/` | Quellen (aktuell nur Vorlage `familienzentrum-weissensee.example.json`) |
+| `sources/` | Quellen (aktiv: Familienzentrum Weißensee, siehe `docs/quellen-checkliste.md`) |
 | `inbox/` | Einzel-Events von Hand |
 | `categories.json` | Kategorien + Piktogramme |
 | `site/` | Theme (Seeblau-Petrol/Backstein), Logo |
-| `data/` | generiert von `fetch` (aktuell noch Demo-Daten vom Juli 2026) |
+| `data/` | generiert von `fetch` (echte Termine, Stand des letzten Laufs) |
 | `docs/` | Quellenrecherche, Quellen-Checkliste, Farbsystem |
 
 ## Lokal ansehen

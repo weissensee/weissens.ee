@@ -5,14 +5,13 @@ siehe `docs/source-discovery.md` im Kern-Repo openLitfass.
 
 ## Aktiv
 
-*(noch keine — in `sources/` liegt nur `familienzentrum-weissensee.example.json`,
-noch nicht aktiviert)*
+| Quelle | Typ | Seit | Status |
+|---|---|---|---|
+| Familienzentrum Weißensee (Kurskalender, "Weekly Class Schedule"-Plugin) | `wcs` | 20.11.2026 | `sources/familienzentrum-weissensee.json`; erster Lauf 95 Termine (4 Wochen voraus). Kategorie-IDs 27/28/29/30, siehe Kern-Doku `docs/backend.md` → "wcs-Quellen". Etwa die Hälfte landet über `categoryMap` (austausch, beratung) in "Unkategorisiert". |
 
 ## Gefunden — startklar
 
-| Quelle | Typ | Status |
-|---|---|---|
-| Familienzentrum Weißensee (Kurskalender, "Weekly Class Schedule"-Plugin) | `wcs` | Endpoint + Kategorie-IDs (27/28/29/30) live verifiziert, siehe Kern-Doku `docs/backend.md` → "wcs-Quellen". Liegt als `sources/familienzentrum-weissensee.example.json` — noch nicht aktiviert. |
+*(derzeit keine weitere)*
 
 ## Gefunden — braucht eigenen Parser
 
