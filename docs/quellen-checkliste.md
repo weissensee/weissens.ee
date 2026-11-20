@@ -10,6 +10,7 @@ siehe `docs/source-discovery.md` im Kern-Repo openLitfass.
 | Familienzentrum Weißensee (Kurskalender, "Weekly Class Schedule"-Plugin) | `wcs` | 20.11.2026 | `sources/familienzentrum-weissensee.json`; erster Lauf 95 Termine (4 Wochen voraus). Kategorie-IDs 27/28/29/30, siehe Kern-Doku `docs/backend.md` → "wcs-Quellen". Etwa die Hälfte landet über `categoryMap` (austausch, beratung) in "Unkategorisiert". |
 | Brotfabrik (Kino, Bühne, Galerie, Kurse) | `json` | 20.11.2026 | `sources/brotfabrik.json`; WordPress "The Events Calendar", REST-API `wp-json/tribe/events/v1/events`, paginiert (`next_rest_url`). Erster Lauf 192 Termine in 30 Tagen, alle Kategorien per `categoryMap` auf "Kultur". Venue mit PLZ 13086. |
 | Freilichtbühne Weißensee | `ical` | 20.11.2026 | `sources/freilichtbuehne-weissensee.json`; Events-Manager-Export `/events.ics` mit strukturiertem Ort (Bühne + Adresse, PLZ 13086). Keine Endzeiten im Feed (DTEND = DTSTART), daher nur Beginn. Saisonbetrieb: im November nur 1 Termin (Juli 2027), daher `daysAhead` 270. |
+| Stadtteilzentrum Weißensee (FreiZeitHaus e.V.) | `html` | 20.11.2026 | `sources/stadtteilzentrum-weissensee.json`; Joomla/JEvents-Liste `/veranstaltungen.html`, rund 2 Monate voraus (35 Termine). Kein Feed brauchbar (JEvents-RSS liefert fest nur 5 Einträge). Keine Einzel-Links pro Termin, daher verlinkt jeder Termin auf die Liste. Preis per Regex aus "Kosten:/Eintritt:" im Text ("Eintritt: frei" bleibt unbekannt). Absagen über Titel ("ENTFÄLLT - …") werden erkannt. |
 
 ## Gefunden — startklar
 
@@ -17,7 +18,9 @@ siehe `docs/source-discovery.md` im Kern-Repo openLitfass.
 
 ## Gefunden — braucht eigenen Parser
 
-*(noch keine)*
+| Quelle | Befund |
+|---|---|
+| Bildungs- und Kulturzentrum Peter Edel | `/events/` eine HTML-Seite bis Mai 2027, kein Feed, kein JSON-LD (geprüft 20.11.2026) → Kandidat für Quelltyp `html`. |
 
 ## Nicht machbar (derzeit)
 
