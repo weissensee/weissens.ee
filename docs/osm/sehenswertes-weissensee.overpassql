@@ -1,0 +1,10 @@
+[out:json][timeout:90];
+area["boundary"="administrative"]["name"="Weißensee"]["admin_level"="10"]->.w;
+(nwr(area.w)["tourism"~"^(attraction|museum|artwork|viewpoint|gallery)$"];
+ nwr(area.w)["historic"];
+ nwr(area.w)["amenity"~"^(place_of_worship|theatre|cinema|arts_centre|fountain)$"];
+ nwr(area.w)["landuse"="cemetery"]["name"];
+ nwr(area.w)["amenity"="grave_yard"]["name"];
+ nwr(area.w)["leisure"~"^(park|garden|nature_reserve)$"]["name"];
+ nwr(area.w)["heritage"]["name"];);
+out tags center;

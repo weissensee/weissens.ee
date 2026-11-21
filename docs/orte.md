@@ -35,7 +35,149 @@ Kalender holen, wie die Knirpsenfarm.
 
 Nicht aufgenommen: Tommys turbulente Tobewelt (rein kommerziell).
 
-## Aus OpenStreetMap (21.11.2026)
+### Sehenswürdigkeiten
+
+| Ort | Was | Quelle |
+|---|---|---|
+| Jüdischer Friedhof Berlin-Weißensee, Herbert-Baum-Straße | Flächenmäßig größter jüdischer Friedhof Europas, eröffnet 1880, rund 115.000 Gräber; Gartendenkmal, UNESCO-Welterbe angestrebt | [berlin.de](https://www.berlin.de/sehenswuerdigkeiten/3560738-3558930-juedischer-friedhof-weissensee.html), [Landesdenkmalamt](https://www.berlin.de/landesdenkmalamt/denkmale/highlight-gartendenkmale/juedischer-friedhof-weissensee/) |
+| Park am Weißen See | See mit Fontäne, Park, Freilichtbühne, Milchhäuschen (s. o.) | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
+| Theater im Delphi (ehem. Stummfilmkino Delphi), Gustav-Adolf-Straße 2 | Einst größtes und luxuriösestes Stummfilmkino Berlins (870 Plätze); Drehort des Nachtclubs "Moka Efti" in "Babylon Berlin" | [berlin.de Highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
+| Brotfabrik / Caligariplatz | Kulturzentrum; der Platz erinnert an die Weißenseer Filmstadt ("Klein-Hollywood", Stummfilmzeit) | [berlin.de Highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
+| Brecht-Haus, Berliner Allee 185 | Wohnhaus Bertolt Brechts 1949–1953 (Gründung des Berliner Ensembles); unsaniert, nur von außen | [berlin.de Highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
+| Komponistenviertel | Altbauviertel zwischen Jüdischem Friedhof und Berliner Allee, Straßen nach Komponisten benannt (Bizet, Smetana …) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Berlin-Wei%C3%9Fensee) |
+| Kunsthalle am Hamburger Platz / weißensee kunsthochschule | Ausstellungen der Kunsthochschule (eigene Quelle) | [kh-berlin.de](https://kh-berlin.de/kalender) |
+| Bethanienkirche, Pfarrkirche Weißensee | Kirchen, teils mit Konzerten (Landeskalender) | OSM, Wikipedia (s. u.) |
+| Naturschutzgebiet Fauler See | s. "Natur und Parks" | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Fauler_See.html) |
+
+Weitere Hinweise: [Merian – Sehenswürdigkeiten Weißensee](https://www.merian.de/deutschland/berlin/sehenswuerdigkeiten-tipps-berlin-weissensee), [berlin.de – Sehenswürdigkeiten Pankow](https://www.berlin.de/sehenswuerdigkeiten/bezirk/pankow/).
+
+### Sehenswertes aus OpenStreetMap
+
+Zweite Overpass-Abfrage (`docs/osm/sehenswertes-weissensee.overpassql`):
+`tourism=attraction|museum|artwork|viewpoint|gallery`, `historic=*`,
+`amenity=place_of_worship|theatre|cinema|arts_centre|fountain`, benannte
+Friedhöfe, Parks und Naturschutzgebiete. Daten © OpenStreetMap-Mitwirkende, ODbL.
+
+#### Friedhöfe (9)
+
+| Name | Art | Lage | Links |
+|---|---|---|---|
+| Jüdischer Friedhof Berlin-Weißensee |  | 52.54205, 13.46245 | [way/6197783](https://www.openstreetmap.org/way/6197783) · [Wikipedia](https://de.wikipedia.org/wiki/J%C3%BCdischer_Friedhof_Berlin-Wei%C3%9Fensee) |
+| Städtischer Friedhof Weißensee |  | 52.55639, 13.45292 | [way/25768161](https://www.openstreetmap.org/way/25768161) · [Wikipedia](https://de.wikipedia.org/wiki/Friedhof_Wei%C3%9Fensee) |
+| Georgen-Parochial-Friedhof III |  | 52.55610, 13.44358 | [way/25960318](https://www.openstreetmap.org/way/25960318) |
+| Auferstehungskirchhof |  | 52.54890, 13.47043 | [way/44393777](https://www.openstreetmap.org/way/44393777) |
+| Friedhof der Segenskirchengemeinde |  | 52.55939, 13.45197 | [way/47391017](https://www.openstreetmap.org/way/47391017) |
+| St. Bartholomäus-Friedhof |  | 52.55917, 13.48232 | [way/51316591](https://www.openstreetmap.org/way/51316591) · [Wikipedia](https://de.wikipedia.org/wiki/Kirchhof_St._Bartholom%C3%A4us) |
+| Evangelischer Friedhof Weißensee |  | 52.55864, 13.47912 | [way/51316688](https://www.openstreetmap.org/way/51316688) |
+| Adass Jisroel Gemeindefriedhof |  | 52.55800, 13.47711 | [way/51316739](https://www.openstreetmap.org/way/51316739) · [Wikipedia](https://de.wikipedia.org/wiki/Adass-Jisroel-Friedhof) |
+| St.-Hedwigs-Friedhof |  | 52.54558, 13.45983 | [way/156138102](https://www.openstreetmap.org/way/156138102) |
+
+#### Kirchen und Gotteshäuser (14)
+
+| Name | Art | Lage | Links |
+|---|---|---|---|
+| Baptisten-Gemeinde | christian | 52.55269, 13.44040 | [node/1556403863](https://www.openstreetmap.org/node/1556403863) |
+| Jagannatha Tempel Berlin | hindu | 52.55688, 13.46666 | [node/3039050111](https://www.openstreetmap.org/node/3039050111) |
+| Stadtmission Gemeinde Bizetstraße | christian | 52.54860, 13.45686 | [node/3039050989](https://www.openstreetmap.org/node/3039050989) |
+| Buddhistisches Zentrum Berlin der Karma Kagyü Linie | buddhist | 52.55255, 13.44525 | [node/6147582386](https://www.openstreetmap.org/node/6147582386) |
+| diekreative | christian | 52.56406, 13.46126 | [node/11214170388](https://www.openstreetmap.org/node/11214170388) |
+| Friedhofskapelle | christian | 52.54886, 13.46990 | [node/12092147346](https://www.openstreetmap.org/node/12092147346) |
+| St. Josef | christian | 52.55088, 13.44648 | [way/108243577](https://www.openstreetmap.org/way/108243577) |
+| Bethanien-Kirche |  | 52.55279, 13.44910 | [way/117855555](https://www.openstreetmap.org/way/117855555) · [Wikipedia](https://de.wikipedia.org/wiki/Bethanienkirche_(Berlin-Wei%C3%9Fensee)) |
+| Kapelle des Georgen-Parochial-Friedhof III | christian | 52.55560, 13.44449 | [way/132876050](https://www.openstreetmap.org/way/132876050) |
+| Friedenskirche | christian | 52.55218, 13.45852 | [way/289150196](https://www.openstreetmap.org/way/289150196) |
+| Königreichssaal Jehovas Zeugen | christian | 52.55955, 13.47256 | [way/296999883](https://www.openstreetmap.org/way/296999883) |
+| Evangelische Kirche | christian | 52.55477, 13.46833 | [way/326566954](https://www.openstreetmap.org/way/326566954) · [Wikipedia](https://de.wikipedia.org/wiki/Pfarrkirche_Wei%C3%9Fensee) |
+| C3.NYC Berlin | christian | 52.55169, 13.46770 | [way/326610460](https://www.openstreetmap.org/way/326610460) · [Wikipedia](https://de.wikipedia.org/wiki/Neuapostolische_Kirche_(Berlin-Wei%C3%9Fensee)) |
+| Kapelle | christian | 52.55780, 13.47865 | [way/378441390](https://www.openstreetmap.org/way/378441390) |
+
+#### Museen, Galerien, Kultur (11)
+
+| Name | Art | Lage | Links |
+|---|---|---|---|
+| Kino Toni & Tonino | cinema | 52.54882, 13.45093 | [node/281887442](https://www.openstreetmap.org/node/281887442) |
+| Brotfabrik | cinema | 52.55256, 13.43058 | [node/447078290](https://www.openstreetmap.org/node/447078290) |
+| BrotfabrikBühne | theatre | 52.55256, 13.43073 | [node/945402693](https://www.openstreetmap.org/node/945402693) |
+| Kunstgießerei & Galerie Flierl | gallery | 52.55322, 13.44054 | [node/2565247202](https://www.openstreetmap.org/node/2565247202) |
+| Sexauer Gallery | gallery | 52.55107, 13.43887 | [node/2853902146](https://www.openstreetmap.org/node/2853902146) |
+| Theater im Delphi | theatre | 52.55190, 13.43116 | [node/4456147960](https://www.openstreetmap.org/node/4456147960) · [Wikipedia](https://de.wikipedia.org/wiki/Kino_Delphi_(Berlin-Wei%C3%9Fensee)) |
+| Kühlspot Social Club | gallery | 52.55040, 13.43653 | [node/9517825120](https://www.openstreetmap.org/node/9517825120) |
+| Galerie kunstWerkstatt Weißensee | gallery | 52.54933, 13.44788 | [node/12323856459](https://www.openstreetmap.org/node/12323856459) |
+| Freilichtbühne Weißensee | cinema | 52.55619, 13.46327 | [way/20131071](https://www.openstreetmap.org/way/20131071) |
+| Brotfabrik | arts_centre | 52.55261, 13.43059 | [way/81127025](https://www.openstreetmap.org/way/81127025) · [Wikipedia](https://de.wikipedia.org/wiki/Brotfabrik_(Berlin)) |
+| Kunsthalle Berlin-Weißensee | museum | 52.55611, 13.43936 | [way/138516180](https://www.openstreetmap.org/way/138516180) |
+
+#### Kunst im öffentlichen Raum (25)
+
+| Name | Art | Lage | Links |
+|---|---|---|---|
+| Emma T. |  | 52.55202, 13.43165 | [node/1486087545](https://www.openstreetmap.org/node/1486087545) |
+| Feuerwehrmann | statue | 52.55641, 13.45959 | [node/2927313833](https://www.openstreetmap.org/node/2927313833) |
+| Feuerwehrmann | statue | 52.55662, 13.45981 | [node/2927314654](https://www.openstreetmap.org/node/2927314654) |
+| Seelöwe | statue, Willy Ernst Schade | 52.55539, 13.46130 | [node/3181885304](https://www.openstreetmap.org/node/3181885304) |
+| Vater mit zwei Kindern | statue, Stephan Horota | 52.55235, 13.47006 | [node/3413849132](https://www.openstreetmap.org/node/3413849132) |
+| Junger Arbeiter | statue, Christa Sammler | 52.55573, 13.46253 | [node/3711007085](https://www.openstreetmap.org/node/3711007085) |
+| Orang-Utan-Kinder | sculpture, Stephan Horota | 52.54942, 13.46236 | [node/7502777456](https://www.openstreetmap.org/node/7502777456) |
+| Jaguar | statue, Heinrich Drake | 52.55482, 13.45918 | [node/7502919754](https://www.openstreetmap.org/node/7502919754) |
+| Frauenstatue | statue, Eberhard Bachmann | 52.55397, 13.45949 | [node/8042118223](https://www.openstreetmap.org/node/8042118223) |
+| Lesender Knabe | statue, Siegfried Krepp, Gertrud Claasen | 52.55202, 13.45282 | [node/9583445935](https://www.openstreetmap.org/node/9583445935) |
+| Christus | statue, Bertel Thorvaldsen | 52.55932, 13.45143 | [node/9583448463](https://www.openstreetmap.org/node/9583448463) |
+| Grüner Hering | statue | 52.54975, 13.45221 | [node/9613470858](https://www.openstreetmap.org/node/9613470858) |
+| Seelöwe | statue, Willy Ernst Schade | 52.55546, 13.46125 | [node/10038850411](https://www.openstreetmap.org/node/10038850411) |
+| Till Eulenspiegel | statue, Stephan Horota | 52.55378, 13.47604 | [node/11148701824](https://www.openstreetmap.org/node/11148701824) |
+| Sich umarmendes Paar | statue, Martin Wilke | 52.55394, 13.47337 | [node/11153701958](https://www.openstreetmap.org/node/11153701958) |
+| Sich Sonnende | statue, Martin Wilke | 52.55397, 13.47245 | [node/11153712703](https://www.openstreetmap.org/node/11153712703) |
+| Caritas | sculpture, Gottlieb Elster | 52.55222, 13.45693 | [node/11273067087](https://www.openstreetmap.org/node/11273067087) |
+| Vogel-Haus | installation, Sergej Alexander Dott | 52.56032, 13.44876 | [node/12914372275](https://www.openstreetmap.org/node/12914372275) |
+| Fisch-Haus | installation, Sergej Alexander Dott | 52.56007, 13.44905 | [node/12914372276](https://www.openstreetmap.org/node/12914372276) |
+| Hasen-Haus | installation, Sergej Alexander Dott | 52.56111, 13.45057 | [node/12914372277](https://www.openstreetmap.org/node/12914372277) |
+| Schmetterlings-Haus | installation, Sergej Alexander Dott | 52.56092, 13.45101 | [node/12914372278](https://www.openstreetmap.org/node/12914372278) |
+| Chaussee-Haus | installation, Sergej Alexander Dott | 52.56108, 13.45142 | [node/12914372279](https://www.openstreetmap.org/node/12914372279) |
+| Rollerkinder | statue, Stephan Horota | 52.55590, 13.43920 | [node/13049087633](https://www.openstreetmap.org/node/13049087633) |
+| Triton | statue, Hans Schellhorn | 52.55537, 13.46196 | [node/13057790219](https://www.openstreetmap.org/node/13057790219) |
+| Triton | statue, Hans Schellhorn | 52.55531, 13.46176 | [node/13057790220](https://www.openstreetmap.org/node/13057790220) |
+
+#### Denkmäler und Gedenkorte (10)
+
+| Name | Art | Lage | Links |
+|---|---|---|---|
+| Herbert Baum | tomb | 52.54444, 13.45794 | [node/281756556](https://www.openstreetmap.org/node/281756556) |
+| Gedenkstein an die Erbauer des Parks | plaque | 52.55629, 13.46264 | [node/2607888430](https://www.openstreetmap.org/node/2607888430) |
+| Bismarckstein | stone | 52.55723, 13.46643 | [node/3181885303](https://www.openstreetmap.org/node/3181885303) |
+| Mahnmal zum Gedenken an die 6 Millionen jüdischen Opfer der faschistischen Verfolgung | grave | 52.54519, 13.45806 | [node/9504326858](https://www.openstreetmap.org/node/9504326858) |
+| Denkmal der antifaschistischen Widerstandskämpfer | statue | 52.55129, 13.46268 | [node/9600143600](https://www.openstreetmap.org/node/9600143600) |
+| Spartakusaufstand | stone | 52.56444, 13.44897 | [node/11621925134](https://www.openstreetmap.org/node/11621925134) |
+| Werner Klemke | plaque | 52.54915, 13.45253 | [node/12190258386](https://www.openstreetmap.org/node/12190258386) |
+| Erich Boltze | plaque | 52.55228, 13.45175 | [node/12768039989](https://www.openstreetmap.org/node/12768039989) |
+| Carl James Bühring | plaque | 52.55242, 13.45117 | [node/12768039990](https://www.openstreetmap.org/node/12768039990) |
+| Erbbegräbnis Lewinsohn Netter | tomb | 52.54381, 13.46063 | [node/12785757520](https://www.openstreetmap.org/node/12785757520) |
+
+Dazu 28 Stolpersteine (OSM `memorial=stolperstein`), hier nicht einzeln aufgeführt.
+
+#### Parks und Plätze (9)
+
+| Name | Art | Lage | Links |
+|---|---|---|---|
+| NSG Fauler See |  | 52.55410, 13.49141 | [way/4788729](https://www.openstreetmap.org/way/4788729) |
+| Solonplatz |  | 52.54919, 13.46249 | [way/25822455](https://www.openstreetmap.org/way/25822455) |
+| Arnold-Schönberg-Platz |  | 52.54879, 13.45939 | [way/25911017](https://www.openstreetmap.org/way/25911017) |
+| Jürgen-Kuczynski-Park |  | 52.55298, 13.45252 | [way/37130787](https://www.openstreetmap.org/way/37130787) |
+| Orankeseepark |  | 52.54880, 13.48108 | [way/111400097](https://www.openstreetmap.org/way/111400097) |
+| Werner-Klemke-Park |  | 52.55442, 13.45604 | [way/111489919](https://www.openstreetmap.org/way/111489919) |
+| Park am Weißen See |  | 52.55392, 13.46270 | [way/111489921](https://www.openstreetmap.org/way/111489921) |
+| Antonplatz |  | 52.54777, 13.45115 | [way/126559143](https://www.openstreetmap.org/way/126559143) · [Wikipedia](https://de.wikipedia.org/wiki/Antonplatz) |
+| Wohnungsnahe Grünanlage |  | 52.56013, 13.45395 | [way/1183858582](https://www.openstreetmap.org/way/1183858582) |
+
+#### Sonstiges (historisch, Brunnen, Industrie) (5)
+
+| Name | Art | Lage | Links |
+|---|---|---|---|
+| VEB Isokond |  | 52.55050, 13.43846 | [node/2030883817](https://www.openstreetmap.org/node/2030883817) |
+| Seelöwe |  | 52.55539, 13.46130 | [node/3181885304](https://www.openstreetmap.org/node/3181885304) |
+| Seelöwe |  | 52.55546, 13.46125 | [node/10038850411](https://www.openstreetmap.org/node/10038850411) |
+| Motorwerk Berlin |  | 52.56359, 13.46177 | [way/288253333](https://www.openstreetmap.org/way/288253333) · [Wikipedia](https://de.wikipedia.org/wiki/Motorwerk) |
+| DGZ Brunnen |  | 52.55846, 13.44122 | [way/490757360](https://www.openstreetmap.org/way/490757360) |
+## Aus OpenStreetMap: Spiel, Sport, Märkte (21.11.2026)
 
 Abfrage über die Overpass-API, alle Objekte innerhalb der Ortsteilgrenze
 Weißensee (`admin_level=10`) mit `leisure=playground|pitch|sports_centre|
