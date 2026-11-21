@@ -25,7 +25,7 @@
       "path": "title"
     },
     "category": {
-      "default": "Kultur"
+      "default": "Kino"
     },
     "organizer": {
       "default": "Kino Toni"
@@ -52,7 +52,7 @@
   },
   "daysAhead": 120,
   "status": {
-    "lastAttempt": "2026-11-21T19:47:34Z",
-    "lastSuccess": "2026-11-21T19:47:34Z"
+    "lastAttempt": "2026-11-21T19:50:55Z",
+    "lastSuccess": "2026-11-21T19:50:55Z"
   }
 }
