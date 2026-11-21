@@ -10,7 +10,7 @@ Container-Image kommen aus dem Kern-Repo (Aufbau einer Instanz:
 | Datei/Ordner | Inhalt |
 |---|---|
 | `instance.json` | Name, Titel, Zeitzone, Base-URL |
-| `sources/` | Quellen (aktiv: Familienzentrum, Brotfabrik, Freilichtbühne, Stadtteilzentrum, Peter Edel, KuBiZ; siehe `docs/quellen-checkliste.md`) |
+| `sources/` | Quellen (aktiv: Familienzentrum, Brotfabrik, Freilichtbühne, Stadtteilzentrum, Peter Edel, KuBiZ, Kino Toni; siehe `docs/quellen-checkliste.md`) |
 | `inbox/` | Einzel-Events von Hand |
 | `categories.json` | Kategorien + Piktogramme |
 | `site/` | Theme (Seeblau-Petrol/Backstein), Logo |

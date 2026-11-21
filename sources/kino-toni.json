@@ -1,0 +1,57 @@
+{
+  "label": "Kino Toni",
+  "homepage": "https://kino-toni.de",
+  "type": "html",
+  "url": "https://kino-toni.de/programm/",
+  "itemSelector": "div.program_entry",
+  "sectionSelector": "h3.program_date1",
+  "extract": {
+    "link": {
+      "selector": "a",
+      "attr": "href"
+    },
+    "time": {
+      "selector": "a",
+      "regex": "^\\s*(\\d{1,2}:\\d{2})"
+    },
+    "title": {
+      "selector": "a",
+      "regex": "^\\s*\\d{1,2}:\\d{2}\\s+(.+?)\\s*$"
+    }
+  },
+  "mapping": {
+    "title": {
+      "path": "title"
+    },
+    "category": {
+      "default": "Kultur"
+    },
+    "organizer": {
+      "default": "Kino Toni"
+    },
+    "url": {
+      "path": "link",
+      "default": "https://kino-toni.de/programm/"
+    },
+    "locationName": {
+      "default": "Kino Toni"
+    },
+    "locationAddress": {
+      "default": "Antonplatz 1, 13086 Berlin"
+    },
+    "start": {
+      "regex": "(\\d{2}\\.\\d{2}\\.\\d{4})[^|]*[|]\\s*(\\d{1,2}:\\d{2})?",
+      "format": "02.01.2006 15:04|02.01.2006",
+      "template": "{section} | {time}"
+    },
+    "price": {
+      "amountPath": "price",
+      "unknownIfMissing": true
+    }
+  },
+  "daysAhead": 120,
+  "status": {
+    "lastAttempt": "2026-11-21T11:07:58Z",
+    "lastSuccess": "2026-11-21T11:07:58Z"
+  }
+}
