@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:38:17.969162673Z",
+  "generatedAt": "2026-11-21T19:20:20.295172954Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-db64a6fd",
@@ -29,6 +29,58 @@
       "cancelled": false
     },
     {
+      "id": "im-maerchen-versteckt-malen-in-5c3b7de7",
+      "title": "Im Märchen versteckt - Malen in der Bibliothek",
+      "description": "Geht das, dass sich Jungen und Mädchen in einem Märchen verstecken?\nIch verrate es euch - das geschieht beim Malen.\n\nWenn wir malen, versenken wir uns in die Poesie der Märchen. Wir stehen plötzlich neben Rotkäppchen, als sie Blumen pflückt. Wir schauen uns um und sehen, wie die Sonne durch die Bäume funkelt. Wir riechen den Duft der Blumen und das harzige Aroma der Fichten und Tannen.\nIst dort im dunklen Busch etwa jemand versteckt? Könnte das ein Wolf sein? Oder ist es der Jäger, der nach dem Rechten sieht? Oder die Großmutter?\nAll das geschieht, während wir malen. Vor unseren Augen durch unsere eigenen Hände entsteht ein Bild, was es noch nie gab. Was wir selbst gemalt haben.\n\nDamit das auch super gelingt, ist die Künstlerin Christine Klemke dabei. Die zeigt uns z.B. wie Rotkäppchen aussehen könnte, oder der Wolf, oder wie richtige schöne starke Bäume gemalt werden.\nSo wird jeder ein wunderschönes Märchenbild mit nach Hause nehmen können. Eure Familie wird staunen, was ihr schon alles könnt.\n\nFür Kinder\nIn der Kinderbibliothek (1. OG)\nOhne Anmeldung, kommt einfach vorbei!\n\nDie kommenden Termine:\n\n*21.11.26 - Rapunzel*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier …",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "10:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#im-maerchen-versteckt-malen-in-5c3b7de7",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "ausgebucht-ukrainische-petrykiwka-malere-f0af56ef",
+      "title": "AUSGEBUCHT! Ukrainische Petrykiwka-Malerei – Weihnachtsworkshop mit Oleksandra Tkachova",
+      "description": "Entdeckt die traditionelle ukrainische Petrykiwka-Malerei, die seit 2013 zum immateriellen UNESCO-Kulturerbe gehört.\n\nIn diesem Workshop lernt ihr grundlegende Maltechniken und typische Ornamente kennen. Anschließend gestaltet ihr eure eigenen Weihnachtskugeln mit traditionellen Petrykiwka-Motiven.\n\nKeine Vorkenntnisse erforderlich. Alle Materialien werden zur Verfügung gestellt.\nLasst euch von den farbenfrohen Ornamenten der Petrykiwka-Malerei inspirieren und gestaltet eure ganz persönlichen Weihnachtsstücke.\nSprachen der Veranstaltung: Deutsch, Ukrainisch, Englisch\nDie Plätze sind begrenzt. Anmeldung erforderlich.\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=295955",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "11:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#ausgebucht-ukrainische-petrykiwka-malere-f0af56ef",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "vineta-kaula-a-mapping-the-15170751",
       "title": "Vineta Kaulača – Mapping the View",
       "description": "16.10. – 29.11.26 | 11 – 20 Uhr | Eröffnung: 16.10. | 19 Uhr | Im Rahmen des Jahresprogramms „Mixta Affectus“ | Vineta Kaulača ist eine Künstlerin aus Lettland.",
@@ -49,6 +101,32 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "schreibwerkstatt-mit-kathrin-schrader-2bb6b126",
+      "title": "Schreibwerkstatt mit Kathrin Schrader",
+      "description": "*Was Du brauchst, um eine gute Geschichte zu schreiben*\n\nIn dem kleinen Workshop erfährst Du, was eine Geschichte wirklich spannend macht, welche Superkräfte junge Autor:innen brauchen (haben) und wie Du sie trainieren kannst. Mit einer kleinen Schreibübung steigen wir in die Praxis des Erzählens ein und probieren es aus. Du benötigst keine Vorkenntnisse. Mitbringen solltest Du einen Schreibblock und Stifte, Neugier und die Lust am Erzählen. Wenn Du magst, kannst Du gern einen eigenen Text mitbringen und lesen.\n\nDer Workshop wird geleitet von der Autorin Kathrin Schrader, die seit ihrer Kindheit schreibt und nicht mehr damit aufhören kann. Sie arbeitet für die Zeitschrift Das Magazin und hat auch schon einen Roman veröffentlicht.\n\nFür alle ab 12 Jahren.\nKostenfrei und ohne Anmeldung\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294601",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#schreibwerkstatt-mit-kathrin-schrader-2bb6b126",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -83,6 +161,32 @@
       "cancelled": false
     },
     {
+      "id": "waeschekorbtheater-zum-mitmachen-mit-ann-cee06939",
+      "title": "Wäschekorbtheater zum Mitmachen mit Anna Srivastava",
+      "description": "Wäschekorbtheater zum Mitmachen mit Anna Srivastava für Kinder und Familien in der Kinderbibliothek am Podest. Ohne Anmeldung, kommt einfach vorbei!\n\nDie nächsten Termine:\n\n*26.09.2026\n14:00 Uhr\nAschenputtel*\n\nAschenputtel hat es nicht leicht: Ihre Stiefmutter Camambert und ihre Stiefschwester Baguette meckern den ganzen Tag nur an ihr herum. Sie will sich das aber nicht mehr gefallen lassen und bittet die Fee Lakritzia und den Prinz Duplo um Hilfe. Ein Mitmach-Stück über Mut und Selbstvertrauen.\n\n*21.11.2026\n14:00 Uhr\nFrau Holle*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=289574",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#waeschekorbtheater-zum-mitmachen-mit-ann-cee06939",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "jeder-acker-jede-fabrik-ideen-c558d0b2",
       "title": "Jeder Acker, Jede Fabrik – Ideen für eine notwendige Revolution",
       "description": "D 2026 | 67 min | Dokumentarfilm | R: Labournet TV \u0026 AngryWorkers | Die Art und Weise, wie wir unser Leben produzieren, ist dumm, gefährlich und grausam.",
@@ -110,6 +214,33 @@
       "cancelled": false
     },
     {
+      "id": "romancero-del-baile-flamenco-e2c1ce04",
+      "title": "ROMANCERO DEL BAILE FLAMENCO",
+      "description": "Die renommierten Flamenco-Meister Mercedes Ruiz (Choreografie und Tanz) und Santiago Lara (Flamenco-Gitarre und Komposition) kehren mit ihrem neuen Stück „Romancero del Baile Flamenco“ („Balladen des Flamenco-Tanzes“), nach Berlin zurück. „One of the most exciting dancers working today\" (The New York Times)",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "15:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=535",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "hiddensee-19174df2",
       "title": "Hiddensee",
       "description": "D 2026 | 119 min | Dokumentarfilm | R: Annekatrin Hendel | Hiddensee, ein nur 17 Kilometer langer Streifen Land in der Ostsee, geliebt als Sehnsuchtsort der Freiheit.",
@@ -130,6 +261,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "romancero-del-baile-flamenco-808f3be2",
+      "title": "ROMANCERO DEL BAILE FLAMENCO",
+      "description": "Die renommierten Flamenco-Meister Mercedes Ruiz (Choreografie und Tanz) und Santiago Lara (Flamenco-Gitarre und Komposition) kehren mit ihrem neuen Stück „Romancero del Baile Flamenco“ („Balladen des Flamenco-Tanzes“), nach Berlin zurück. „One of the most exciting dancers working today\" (The New York Times)",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "18:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=535",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -184,33 +342,6 @@
       "source": "kubiz-wallenberg",
       "sources": [
         "kubiz-wallenberg"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "heimsuchung-eine-jahrhundertgeschichte-df8778ea",
-      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "20:00",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/heimsuchung",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -677,6 +808,33 @@
       "cancelled": false
     },
     {
+      "id": "donna-the-show-e2cbc1ee",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "chornichants-a-cappella-songs-gegen-859f3e3e",
       "title": "\"Chornichants\" A-cappella-Songs gegen den Herbstblues",
       "description": "Der Herbst wird musikalisch! Die Chornichants laden zu einem stimmungsvollen Abend mit A-cappella-Gesang ins Stadtteilzentrum Weißensee ein. Mit ihren Stimmen und jeder Menge guter Laune sorgen sie für musikalische Wärme an grauen Herbsttagen und vertreiben gemeinsam mit euch den Herbstblues.\n\nWann: Sonntag, 22. November 2026, um 18:30 Uhr\nWo: Stadtteilzentrum Weißensee, Pistoriusstraße 23, 13086 Berlin\nEintritt: Frei",
@@ -778,6 +936,33 @@
       "source": "kino-toni",
       "sources": [
         "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "donna-the-show-46be8b06",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "20:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -1055,6 +1240,32 @@
       "cancelled": false
     },
     {
+      "id": "digital-zebra-c9ba60b1",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-c9ba60b1",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "karten-und-brettspiele-fuer-alle-4862c436",
       "title": "Karten- und Brettspiele für alle",
       "description": "Wöchentlich findet unser geselliger Spiele-Nachmittag mit Hauscafé im Stadtteilzentrum statt.\nSchauen Sie gerne einfach vorbei, ob allein oder mit anderen Spielern im Gepäck.\nWann: Montag, 13.00 – 18.00 Uhr im Saal\nKosten: 2 € (1,50 €)",
@@ -1210,6 +1421,58 @@
       "source": "kino-toni",
       "sources": [
         "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "montags-spielrunde-c1419912",
+      "title": "Montags-Spielrunde",
+      "description": "Hast du Lust auf einen gemütlichen Nachmittag in guter Gesellschaft? Egal ob Klassiker oder moderne Strategiespiele - bei uns kommen alle auf ihre Kosten!\n\n*Was euch erwartet:*\n- *für Erwachsene*: Spannende Gesellschaftsspiele und neue Kontakte\n- *für Familien und Kinder*: Pädagogisch wertvolle Spiele, die Spaß machen und fördern\n- *für alle Generationen*: Jung und alt spielen gemeinsam - für einen lebendigen Austausch\n\nUnser Angebot: Wir nutzen Spiele aus unserem vielfältigen Bibliotheksbestand. Gerne könnt ihr aber auch euer eigenes Lieblingsspiel mitbringen und mit anderen teilen!\n\nKommt einfach vorbei - wir freuen uns auf euch!\n\n*Jeden 1. und 3. Montag in der KreativLounge in der 1. Etage der Bibliothek*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=279082",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#montags-spielrunde-c1419912",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kamishibai-erzaehltheater-264e60d3",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-264e60d3",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -1649,6 +1912,32 @@
       "cancelled": false
     },
     {
+      "id": "geschichten-kiste-a72e6fa0",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-a72e6fa0",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "emil-und-die-detektive-2aed4820",
       "title": "Emil und die Detektive",
       "description": "",
@@ -1919,6 +2208,32 @@
       "cancelled": false
     },
     {
+      "id": "dialog-in-deutsch-8505b22b",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-8505b22b",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "heimsuchung-eine-jahrhundertgeschichte-fd041dad",
       "title": "Heimsuchung - Eine Jahrhundertgeschichte",
       "description": "",
@@ -2024,6 +2339,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "bilderbuchkino-77ea5b38",
+      "title": "Bilderbuchkino",
+      "description": "Jeden 1. und 3. Mittwoch um 10:00 Uhr (außer im Juli + August) findet unser Bilderbuchkino für Kinder statt - empfohlen ab 4 Jahren.\nDas Bilderbuchkino wird gezeigt im Veranstaltungsraum der Bibliothek in der 3. Etage, Raum 310.\n\nFür einzelne Familien/Begleitpersonen mit Kind(ern) ist keine Anmeldung nötig, kommt gern einfach vorbei!\n\n*Gruppen (KiTas, Schulklassen...) melden sich bitte am 1. Werktag des Vormonats an* über (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*November\n04.11. \u0026 18.11.*\n*Das schönste Martinslicht* von Ursula Wölfel\nMartin ist so stolz auf seine Laterne, die er extra für den Umzug gebastelt hat. Da trifft er Thomas, der keine Laterne mehr hat und ziemlich traurig ist. Ob Martin etwas einfällt, um Thomas wieder aufzumuntern?\n\n*Dezember\n02.12. \u0026 16.12.*\n*Das Weihnachtswunschtraumbett* von Wolfram Hänel\nWas soll sich Marie nur wünschen? Egal was es ist, immer sagen ihre Eltern, dass es unmöglich wäre. Doch was hat Papa auf einmal für eine Idee?\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241912",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "10:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#bilderbuchkino-77ea5b38",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -2263,6 +2604,58 @@
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "gemeinsam-stricken-375d6b91",
+      "title": "Gemeinsam Stricken",
+      "description": "Wir treffen uns in der Bibliothek, um gemeinsam zu Stricken! Das Angebot richtet sich an *alle Altersgruppen*, für Anfänger_innen und Fortgeschrittene.\n\nGerne können eigene Materialien mitgebracht werden, ein Grundstock zum Einstieg ist vorhanden.\n\nWir Stricken in der KreativLounge in der 1. Etage\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=253708",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#gemeinsam-stricken-375d6b91",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "repair-cafe-11f44c81",
+      "title": "Repair-Café",
+      "description": "*Hilfe zur Selbsthilfe bei der Reparatur kleiner Haushaltsgeräte*\nWer technische und handwerkliche Fähigkeiten hat, kann sie weitergeben – wer sie nicht hat, kann sich das Wissen der Expert_innen zunutze machen. Reparieren macht Spaß und ist oft einfacher, als man denkt! In lockerer Atmosphäre heißt es wieder gemeinsam Tüfteln, Reparieren oder sein Wissen weitergeben – darum geht es beim Repair-Café.\n\nWir helfen Ihnen das Problem zu finden und das defekte Gerät zu reparieren.\n\nDas Angebot richtet sich an alle Altersgruppen\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=267133",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#repair-cafe-11f44c81",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -2783,6 +3176,84 @@
       "cancelled": false
     },
     {
+      "id": "upcycling-workshop-mit-amina-8b5cdccd",
+      "title": "Upcycling Workshop mit Amina",
+      "description": "In diesem Workshop habt ihr die Möglichkeit, individuelle Postkarten und Collagen zu gestalten. Mit einer breiten Auswahl an Zeitschriften, Kartons und alten Postkarten könnt ihr eigene Kunstwerke erschaffen und diese als Erinnerung behalten oder als Grußbotschaft versenden.\n\nOhne Anmeldung\nIn der KreativLounge (1. OG)\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=286582",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#upcycling-workshop-mit-amina-8b5cdccd",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "workshop-upcycling-postkarten-collagen-79e9bcf4",
+      "title": "Workshop Upcycling-Postkarten. Collagen",
+      "description": "*Aktionen „Reparieren statt wegwerfen!“*\n\nIn diesem Workshop haben Besucherinnen die Möglichkeit, individuelle Postkarten und Collagen zu gestalten. Mit einer breiten Auswahl an Zeitschriften, Kartons und alten Postkarten können sie eigene Kunstwerke schaffen und diese als Erinnerung behalten oder Grußbotschaft versenden. Allen Teilnehmenden soll ein kreativer Moment gewährt werden, in dem jede und jeder kurz in sich kehren und etwas schönes ausarbeiten kann.\n\nIm KreativLounge im 1. OG\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=295397",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#workshop-upcycling-postkarten-collagen-79e9bcf4",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "workshop-upcycling-kreative-ideen-fuer-53c2982b",
+      "title": "Workshop Upcycling: Kreative Ideen für alte Kleidung",
+      "description": "*Aktionen „Reparieren statt wegwerfen!“*\n\nDo, 26.11.2026, 16:00 Uhr, KreativLounge (1. OG)\n\nAlte Lieblingsstücke im Schrank? Aus alt mach neu! Mit einfachen DIY-Techniken zeigen wir dir, wie du getragener Kleidung neues Leben einhauchst.\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=295400",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#workshop-upcycling-kreative-ideen-fuer-53c2982b",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "helene-weigel-revolutionaerin-im-rampenl-370581a7",
       "title": "Helene Weigel – Revolutionärin im Rampenlicht",
       "description": "D/A 2026 | 102 min | Dokumentarfilm | R: Maria Wischnewski | Bis heute bedeutet sie die Welt für jene Bretter, die die Welt bedeuten.",
@@ -2830,6 +3301,32 @@
       "source": "kino-toni",
       "sources": [
         "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "workshop-licht-an-leuchtfiguren-mit-371f4016",
+      "title": "Workshop Licht an! Leuchtfiguren mit dem 3D-Stift",
+      "description": "Mit dem 3D-Stift wird aus einem flachen Template im Handumdrehen eine echte Skulptur: Die Kinder zeichnen ihre Figur in die Luft, setzen sie Schicht für Schicht zusammen und bauen dabei ein kleines „Throwie“ ein, eine LED mit Knopfzelle, das ihr Werk zum Leuchten bringt. So entsteht in 60 Minuten eine ganz eigene Leuchte, die die Kinder selbst entworfen und gebaut haben und mit nach Hause nehmen dürfen. Nebenbei üben Sie räumliches Denken, den Umgang mit dem Stift und erleben praktisch, wie ein einfacher Stromkreis funktioniert.\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=295403",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "17:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#workshop-licht-an-leuchtfiguren-mit-371f4016",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -3160,6 +3657,32 @@
       "cancelled": false
     },
     {
+      "id": "pokemon-nachmittag-8a00c539",
+      "title": "Pokémon-Nachmittag",
+      "description": "Ein Nachmittag, gemacht für alle Fans des Pokémon Franchise!\nKommt vorbei, tauscht untereinander eure Karten, spielt miteinander oder vernetzt euch.\nAuch, wenn ihr euch zum Pokémon Go! spielen verabreden wollt, findet ihr hierfür einen Platz.\nKeine Anmeldung nötig, kommt einfach vorbei!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=297266",
+      "category": "Kultur",
+      "date": "2026-11-27",
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#pokemon-nachmittag-8a00c539",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "helene-weigel-revolutionaerin-im-rampenl-8ee693fc",
       "title": "Helene Weigel – Revolutionärin im Rampenlicht",
       "description": "D/A 2026 | 102 min | Dokumentarfilm | R: Maria Wischnewski | Bis heute bedeutet sie die Welt für jene Bretter, die die Welt bedeuten.",
@@ -3207,6 +3730,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "the-luxorium-grand-variete-faa36a3a",
+      "title": "The Luxorium – Grand Varieté",
+      "description": "Auf der Bühne entfaltet sich ein wahres Feuerwerk der Artistik, von meisterhafter Jonglage und Kraft raubender Handstandakrobatik bis hin zu wirbelnden Diabolos und rasanten Hula Hoops. Eine Liveband sorgt für den perfekten musikalischen Herzschlag.",
+      "category": "Kultur",
+      "date": "2026-11-27",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=553",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -3347,6 +3897,32 @@
       "registrationRequired": false,
       "familyFriendly": false,
       "cancelled": false
+    },
+    {
+      "id": "podcast-mit-paul-01cfd9ce",
+      "title": "Podcast mit Paul [ABGESAGT]",
+      "description": "h2. *Die Veranstaltung ist leider bis Ende des Jahres abgesagt*\n\nWorkshop mit Paul-Vincent Roll\n\nDu wolltest schon immer mal einen Podcast starten, weißt aber nicht genau, womit du anfangen sollst? Dann ist dieser Workshop genau das Richtige für dich: Zusammen mit Paul lernst du, wie du deine Idee in einen Podcast verwandelst. Vom ersten Konzept bis zur Aufnahme - Bühne frei für deinen Podcast!\n\nFür Jugendliche ab 15 Jahren\nKeine eigene Technik notwendig\nOhne Anmeldung\nIm Veranstaltungsraum (3. OG)\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=283378",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "10:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#podcast-mit-paul-01cfd9ce",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": true
     },
     {
       "id": "vineta-kaula-a-mapping-the-954294a5",
@@ -3538,6 +4114,32 @@
       "cancelled": false
     },
     {
+      "id": "ach-mein-sohn-eine-spurensuche-a57c7592",
+      "title": "„Ach mein Sohn...\" – Eine Spurensuche - Vorlese-Ensemble präsentiert",
+      "description": "Was ist das, diese Sache zwischen Müttern und Söhnen? Diese ganz\nspezielle Beziehung. Diese tiefe Verbundenheit, während man sich\ngleichzeitig so fremd ist. Mütter werden dazu angehalten, ihre Söhne zu\n\"guten Männern\" zu erziehen, nicht zu Tätern. Und das bevor sie\nüberhaupt krabbeln können. Ist das nicht absurd?\nSicher ist: Es scheint in diesen Zeiten dringender zu sein als eh und je\nund bleibt so komplex, wie es vermutlich schon immer gewesen ist.\n\nWeil es auf keine der Fragen, die sich in diesem Kontext auftun,\neinfache Antworten gibt, haben die Schauspielerinnen Elisabeth Müller\nund Franziska Endres die vermeintlich erfahrenste aller Mütter zu Rate\ngezogen, die Literatur.\n\nTexte von Simone Buchholz, Joachim Meyerhoff, Emilia Roig u.a.\nPräsentiert vom Vorlese-Ensemble\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294673",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#ach-mein-sohn-eine-spurensuche-a57c7592",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderphilharmonie-klassik-fuer-kleine-3-ad6889f8",
       "title": "KINDERPHILHARMONIE - Klassik für Kleine (3 - 7 Jahre)",
       "description": "Duo Nominka: Musik von Piaf bis Pipapo\n\nIm Jahr des Akkordeons laden Sophie Ammann und Peter Podjavorsek Babys und ihre Eltern zu einem besonderen Musikerlebnis ein. Mit viel Gefühl und Spielfreude erzählen ihre Lieder von Freundschaft, Zusammenhalt, Heimat und vom Mut, Neues zu entdecken. Inspiriert von Balkanklängen, Chanson, Tango, spanischen Balladen und Klezmer entsteht eine bunte musikalische Reise – mal ruhig zum Träumen, mal lebendig zum Mitsingen und Tanzen. Ein Konzert für offene Ohren, neugierige Herzen und gemeinsame Momente.\n\n🎤 Mit dem Duo Nominka\n🎶 Für: Familien und alle, die sich von der Musik verzaubern lassen wollen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Babies (3-7 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 15:15 Uhr\nBeginn: 15:30 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt Freie Platzwahl",
@@ -3639,6 +4241,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "the-luxorium-grand-variete-6aecd473",
+      "title": "The Luxorium – Grand Varieté",
+      "description": "Auf der Bühne entfaltet sich ein wahres Feuerwerk der Artistik, von meisterhafter Jonglage und Kraft raubender Handstandakrobatik bis hin zu wirbelnden Diabolos und rasanten Hula Hoops. Eine Liveband sorgt für den perfekten musikalischen Herzschlag.",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=553",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -3808,6 +4437,32 @@
       "cancelled": false
     },
     {
+      "id": "nikolaustagskonzert-mit-natalia-natalevy-41fb6b22",
+      "title": "Nikolaustagskonzert mit Natalia Natalevych",
+      "description": "Wir singen Deutsch und Ukrainisch,\nwir spielen Gitarre und Klavier.\nLasst uns gemeinsam musizieren,\nden Nikolaus loben wir!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=295973",
+      "category": "Kultur",
+      "date": "2026-11-29",
+      "startTime": "12:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#nikolaustagskonzert-mit-natalia-natalevy-41fb6b22",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "musikinstrumente-bauen-fuer-kinder-79ee7653",
       "title": "Musikinstrumente bauen für Kinder",
       "description": "Jeden letzten Sonntag im Monat | 13 – 15 Uhr | nur nach Voranmeldung: 5 € | Aus Recyclingmaterial werden Klangkörper gebastelt.",
@@ -3828,6 +4483,84 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "falz-fein-und-askania-nova-d89dbc40",
+      "title": "Falz-Fein und Askania-Nova: wie ein deutscher Name zum ukrainischen Symbol wurde",
+      "description": "*Lesung mit Dr. Yuliia Nesterenko*\n\nFriedrich von Falz-Fein – ein Name, der hinter dem Askania-Nova Naturschutzgebiet steht, dem ersten Naturschutzgebiet der Ukraine. Ein „Tierparadies“, das von Menschenhand erschaffen wurde, dessen Wurzeln bis ins ferne deutsche Sachsen zurückreichen. Heute teilen Deutschland und die Ukraine ein gemeinsames wissenschaftliches Erbe in ihrer Geschichte.\n\nWir möchten Sie herzlich zu einem historischen Vortrag von Dr. Yuliia Nesterenko einladen, in dessen Rahmen Sie in die geheimnisvolle Geschichte von Askania-Nova eintauchen, wenig bekannte Fakten kennenlernen und erleben werden, wie zwei Nationen in einem wissenschaftlichen Wunder miteinander verwoben sind.\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=297431",
+      "category": "Kultur",
+      "date": "2026-11-29",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#falz-fein-und-askania-nova-d89dbc40",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "weihnachtsbasteln-mit-maike-doelp-b739e090",
+      "title": "Weihnachtsbasteln mit Maike Dölp",
+      "description": "Juchuuh, es ist schon der 1. Advent! Perfekt für einen Weihnachtsbastelnachmittag.\nGesucht werden Kreativ-Wichtel und Elfen-Phantasie. Dann können wir loslegen und tolle Weihnachtsgeschenke und Christbaumschmuck basteln. Kugeln zum Beispiel.\nBuntpapier, Scheren, Klebestifte und ganz viel Glitzer ausgepackt und los geht’s!\n\nIn der KreativLounge im 1. OG\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=299045",
+      "category": "Kultur",
+      "date": "2026-11-29",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#weihnachtsbasteln-mit-maike-doelp-b739e090",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "weihnachtsworkshop-mit-meike-doelp-46565953",
+      "title": "Weihnachtsworkshop mit Meike Dölp",
+      "description": "Juchuuh, es ist schon der 1. Advent! Perfekt für einen Weihnachtsbastelnachmittag.\nGesucht werden Kreativ-Wichtel und Elfen-Phantasie. Dann können wir loslegen und tolle Weihnachtsgeschenke und Christbaumschmuck basteln. Kugeln zum Beispiel.\nBuntpapier, Scheren, Klebestifte und ganz viel Glitzer ausgepackt und los geht’s!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=297212",
+      "category": "Kultur",
+      "date": "2026-11-29",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#weihnachtsworkshop-mit-meike-doelp-46565953",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -3909,6 +4642,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "the-luxorium-grand-variete-cc358ee0",
+      "title": "The Luxorium – Grand Varieté",
+      "description": "Auf der Bühne entfaltet sich ein wahres Feuerwerk der Artistik, von meisterhafter Jonglage und Kraft raubender Handstandakrobatik bis hin zu wirbelnden Diabolos und rasanten Hula Hoops. Eine Liveband sorgt für den perfekten musikalischen Herzschlag.",
+      "category": "Kultur",
+      "date": "2026-11-29",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=553",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -4159,6 +4919,32 @@
       "cancelled": false
     },
     {
+      "id": "coding-co-af14a92c",
+      "title": "Coding \u0026 Co.",
+      "description": "MINT-Workshops in der Bibliothek für Kinder - die Altersempfehlung richtet sich je nach Thema\n\n*Bitte meldet euch an*unter (030) 90295 3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow. berlin.de\n\nDie nächsten Termine:\n\n*23.11. Advents-Special*\n*30.11. Scratch mit Ozobots*\nab 8 Jahre\n*14.12. BlueBots*\nab 6 Jahre\n*21.12. Osmo*\nab 6 Jahre\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270247",
+      "category": "Kultur",
+      "date": "2026-11-30",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#coding-co-af14a92c",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "inklusiver-musikalischer-salon-48788303",
       "title": "Inklusiver Musikalischer Salon",
       "description": "",
@@ -4233,6 +5019,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "stiletto-opera-nova-4ac0004b",
+      "title": "STILETTO - Opera Nova",
+      "description": "Ein Musiktheater über Freiheit, Körper und Widerstand. Ausgehend von den Erfahrungen der iranisch-deutschen Komponistin Fojan Gharibnejad und anhand des doppeldeutigen Begriffs „Stiletto“ als eleganter Absatzschuh und historische Stichwaffe, entsteht eine vielschichtige Auseinandersetzung mit Macht, Geschlechterrollen und gesellschaftlichen Zuschreibungen.",
+      "category": "Kultur",
+      "date": "2026-11-30",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=544",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -5589,6 +6402,33 @@
       "cancelled": false
     },
     {
+      "id": "a-berlin-drag-queens-christmas-b1421cc0",
+      "title": "A Berlin Drag Queens CHRISTMAS SHOW by DUCT TAPE",
+      "description": "Dieses Weihnachten bringt DUCT TAPE die Berliner Drag-Szene für zwei ganz besondere Abende im Theater im Delphi zusammen.\nAm 4. und 5. Dezember wird Weihnachten gefeiert mit zwei unterschiedlichen gigantischen Berlin Allstars Line-ups.",
+      "category": "Kultur",
+      "date": "2026-12-04",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=561",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "ein-bus-voller-leben-440a49d1",
       "title": "Ein Bus voller Leben",
       "description": "Andrés (Dani Rovira) ist Musiklehrer in Madrid und träumt noch immer davon, selbst auf der Bühne zu stehen.",
@@ -5879,6 +6719,33 @@
       "source": "kino-toni",
       "sources": [
         "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "a-berlin-drag-queens-christmas-5f0931cc",
+      "title": "A Berlin Drag Queens CHRISTMAS SHOW by DUCT TAPE",
+      "description": "Dieses Weihnachten bringt DUCT TAPE die Berliner Drag-Szene für zwei ganz besondere Abende im Theater im Delphi zusammen.\nAm 4. und 5. Dezember wird Weihnachten gefeiert mit zwei unterschiedlichen gigantischen Berlin Allstars Line-ups.",
+      "category": "Kultur",
+      "date": "2026-12-05",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=561",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -6284,6 +7151,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "donna-the-show-f4d46ff1",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Kultur",
+      "date": "2026-12-06",
+      "startTime": "18:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -6966,6 +7860,33 @@
       "cancelled": false
     },
     {
+      "id": "delphis-orakel-x-tristano-d456359b",
+      "title": "Delphis Orakel x TRISTANO",
+      "description": "Der Elektro-Funk Kosmonaut TRISTANO gibt sich die Ehre für unser Dezember-Orakel. Eingängige Hooks mit Retro-Flair: Tristanos Live-Auftritte bringen die Tanzfläche zum Glühen, wenn analoge Instrumente zu elektronischen Beats eine energiegeladene Jam-Session entfachen.",
+      "category": "Kultur",
+      "date": "2026-12-08",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=569",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "hatha-yoga-1a801dd6",
       "title": "Hatha Yoga",
       "description": "Mit Anmeldung Schön, dass du da bist und Lust hast Yoga zu praktizieren. Meine Stunden legen den Fokus auf Ausrichtung, Körperbewusstsein und innere Balance. Ich integriere Elemente wie Pranayama (Atemarbeit), Meditation und Mantras, um die Reise …",
@@ -7233,6 +8154,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "buchclub-9e334c8c",
+      "title": "BuchClub",
+      "description": "Monatlicher Literaturkreis in entspannter Atmosphäre\n\n*Bitte melden Sie sich an* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241990",
+      "category": "Kultur",
+      "date": "2026-12-09",
+      "startTime": "17:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#buchclub-9e334c8c",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -7533,6 +8480,32 @@
       "cancelled": false
     },
     {
+      "id": "kartenspiel-kanasta-d1745a8d",
+      "title": "Kartenspiel Kanasta",
+      "description": "Lust auf eine gemütliche Runde Kanasta?\nDann seid ihr herzlich eingeladen, mit uns Karten zu spielen! Freut euch auf spannende Spielrunden, nette Gespräche und gesellige Stunden in angenehmer Atmosphäre.\nJeden 2. Donnerstag im Monat\nUm 16:00 Uhr\nWir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=297269",
+      "category": "Kultur",
+      "date": "2026-12-10",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kartenspiel-kanasta-d1745a8d",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "offene-beratung-782e131e",
       "title": "Offene Beratung",
       "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
@@ -7633,6 +8606,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "jake-xerxes-fussell-704e9cab",
+      "title": "Jake Xerxes Fussell",
+      "description": "Jake Xerxes Fussell hat sich als begeisterter Zuhörer und nachdenklicher Interpret einer Vielzahl sogenannter Folksongs etabliert, die er liebevoll aus seinem persönlichen Fundus an Lieblingsstücken zusammenstellt.",
+      "category": "Kultur",
+      "date": "2026-12-10",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=519",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -7957,6 +8957,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "william-arcuri-be5d04cc",
+      "title": "William Arcuri",
+      "description": "Ein Abend voller musikalischer Tiefe: William Arcuri präsentiert seine originären Kompositionen über die Liebe – intensiv, aufrichtig und nahbar.",
+      "category": "Kultur",
+      "date": "2026-12-11",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=527",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -8497,6 +9524,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "happy-jubilee-eine-tanzrevue-zum-cb49c38e",
+      "title": "Happy Jubilee – Eine Tanzrevue zum Jubiläum",
+      "description": "Anlässlich seines 30jährigen Jubiläums lässt das Studio für Historischen Tanz Jubiläumsfeiern aus der Geschichte in Tanz und Erzählung lebendig werden.",
+      "category": "Kultur",
+      "date": "2026-12-13",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=534",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -9530,6 +10584,33 @@
       "cancelled": false
     },
     {
+      "id": "tiefbohrungen-5d605d01",
+      "title": "Tiefbohrungen",
+      "description": "Eine exklusive Meisterklasse mit Jörg Widmann für die Stipendiat:innen der Orchesterakademie.",
+      "category": "Kultur",
+      "date": "2026-12-16",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=545",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "la-bola-negra-9db7daaf",
       "title": "La bola negra",
       "description": "ES/F 2026 | 155 min | Spielfilm | R: Javier Ambrossi | Javier Calvo | DF + OmU | Drei Leben, drei miteinander verwobene Schicksale, ein gemeinsames Erbe: Die Jahre 1932, 1937 und 2017 umspannend",
@@ -9766,6 +10847,32 @@
       "source": "inbox",
       "sources": [
         "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "schach-fuer-alle-521c72c0",
+      "title": "Schach für alle!",
+      "description": "*Aufruf: Hast du auch Lust ab und zu die Schachgruppe zu leiten? Melde dich gern bei uns, wir suchen noch ehrenamtliche Unterstützung!*\n\nAngebot für Anfänger_innen und Fortgeschrittene *aller Altersgruppen*\n\nWir treffen uns in der Bibliothek um spannende Partien gegeneinander zu spielen und Neues zu lernen.\nDas Angebot hat einen ehrenamtlichen Leiter der gerne seine Expertise mit euch teilt. Gespielt wird in der LernLounge in der 2. Etage der Bibliothek\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=253702",
+      "category": "Kultur",
+      "date": "2026-12-17",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#schach-fuer-alle-521c72c0",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -10231,6 +11338,33 @@
       "cancelled": false
     },
     {
+      "id": "fit-ballet-presents-a-christmas-7430804a",
+      "title": "Fit'Ballet Presents: A Christmas Paquita",
+      "description": "Dieses Weihnachten erweckt Fit’Ballet Berlin „Paquita“ zum Leben: eine klassische Ballettvorstellung mit Amateur-Tänzer:innen aller Leistungsstufen, vom Anfänger bis zum Fortgeschrittenen.",
+      "category": "Kultur",
+      "date": "2026-12-18",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=533",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "zwischen-den-welten-a92c3285",
       "title": "Zwischen den Welten",
       "description": "D 2026 | 103 min | Spielfilm | R: Nader Saeivar | Murad lebt mit seiner Frau Leyla und dem gemeinsamen Sohn in Berlin.",
@@ -10278,6 +11412,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "fit-ballet-presents-a-christmas-319ec27d",
+      "title": "Fit'Ballet Presents: A Christmas Paquita",
+      "description": "Dieses Weihnachten erweckt Fit’Ballet Berlin „Paquita“ zum Leben: eine klassische Ballettvorstellung mit Amateur-Tänzer:innen aller Leistungsstufen, vom Anfänger bis zum Fortgeschrittenen.",
+      "category": "Kultur",
+      "date": "2026-12-18",
+      "startTime": "20:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=533",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -10764,6 +11925,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "patrick-wolf-yulenite-ausverkauft-4efdedb6",
+      "title": "Patrick Wolf - Yulenite (Ausverkauft)",
+      "description": "Patrick Wolfs mittlerweile traditionelles, jährliches Wintersonnenwende-Konzert mit akustische Neuinterpretationen einiger seiner beliebtesten Werke neben traditionellen Winter- und Weihnachtsliedern, die zusammen einen weitreichenden, ganzheitlichen Liederzyklus aus Glocken, Klavier und Streichern bilden.",
+      "category": "Kultur",
+      "date": "2026-12-20",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=563",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -11635,6 +12823,33 @@
       "cancelled": false
     },
     {
+      "id": "roadmap-to-my-heartchamber-e52421c2",
+      "title": "Roadmap to my Heartchamber",
+      "description": "Roadmap to my Heartchamber ist eine bunte Hitliste, die sich dem wohl beliebtesten Thema in der Musik widmet: Der Liebe. Die lautten compagney BERLIN spielt Arien, Chansons und Schlager, die direkt ins Herz gehen, mit Laute und mit der unverwechselbaren Stimme der Sopranistin Josefine Göhmann!",
+      "category": "Kultur",
+      "date": "2026-12-31",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=560",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-40530342",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -11689,6 +12904,33 @@
       "cancelled": false
     },
     {
+      "id": "100-jahre-stan-ollie-fc4ef48b",
+      "title": "100 Jahre Stan \u0026 Ollie",
+      "description": "Filmkonzert mit dem METROPOLIS ORCHESTER BERLIN und Knut Elstermann. Richard Siedhoff und Manuel Rösler komponierten brandneue und witzige Musiken exklusiv für dieses Konzert.",
+      "category": "Kultur",
+      "date": "2027-01-02",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=570",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-1a84f385",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -11713,6 +12955,33 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "100-jahre-stan-ollie-6b51c9e2",
+      "title": "100 Jahre Stan \u0026 Ollie",
+      "description": "Filmkonzert mit dem METROPOLIS ORCHESTER BERLIN und Knut Elstermann. Richard Siedhoff und Manuel Rösler komponierten brandneue und witzige Musiken exklusiv für dieses Konzert.",
+      "category": "Kultur",
+      "date": "2027-01-03",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=570",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -12094,6 +13363,33 @@
       "cancelled": false
     },
     {
+      "id": "savoy-satellites-all-stars-feat-25da683e",
+      "title": "SAVOY SATELLITES – All Stars feat. Emil Wahlgren",
+      "description": "Eskapismus für Feinschmecker: Auf der Bühne stehen die All Stars, sieben Musiker, die gemeinsam mit dem Sänger Emil Wahlgren die Musik von Count Basie, Fats Waller und anderen zum Leben erwecken. Mit Tanzeinführung von Swing Patrol Berlin und DJ Sets mit DJ VibeKey",
+      "category": "Kultur",
+      "date": "2027-01-09",
+      "startTime": "18:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=558",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-869417cd",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -12310,6 +13606,60 @@
       "cancelled": false
     },
     {
+      "id": "candlelight-coldplay-imagine-dragons-roc-a7219c69",
+      "title": "Candlelight: Coldplay \u0026 Imagine Dragons | Rock-Hymnen",
+      "description": "Zwei Ausgaben der beliebten Candlelight-Konzerte an einem Abend!",
+      "category": "Kultur",
+      "date": "2027-01-16",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=565",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "candlelight-coldplay-imagine-dragons-roc-a74284c4",
+      "title": "Candlelight: Coldplay \u0026 Imagine Dragons | Rock-Hymnen",
+      "description": "Zwei Ausgaben der beliebten Candlelight-Konzerte an einem Abend!",
+      "category": "Kultur",
+      "date": "2027-01-16",
+      "startTime": "20:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=565",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-b9159d4f",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -12472,6 +13822,87 @@
       "cancelled": false
     },
     {
+      "id": "odeum-pro-wrestling-5395e608",
+      "title": "Odeum Pro Wrestling",
+      "description": "Odeum Pro Wrestling und WrestlingSports begrüßen das Neue Jahr mit ihrer 15. Show OPW Kick in the Doors !",
+      "category": "Kultur",
+      "date": "2027-01-23",
+      "startTime": "17:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=562",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "ballet-of-lights-cinderella-017b5bcc",
+      "title": "Ballet of Lights: Cinderella",
+      "description": "Das klassische Märchen trifft auf modernes Ballett – mit leuchtenden Kostümen, beeindruckender Lichtinszenierung und einer Show, die Magie neu definiert. Cinderella als strahlende Ballettshow neu interpretiert zur Musik der größten klassischen Komponist:innen!",
+      "category": "Kultur",
+      "date": "2027-01-24",
+      "startTime": "15:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=564",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "ballet-of-lights-cinderella-4a54eb1b",
+      "title": "Ballet of Lights: Cinderella",
+      "description": "Das klassische Märchen trifft auf modernes Ballett – mit leuchtenden Kostümen, beeindruckender Lichtinszenierung und einer Show, die Magie neu definiert. Cinderella als strahlende Ballettshow neu interpretiert zur Musik der größten klassischen Komponist:innen!",
+      "category": "Kultur",
+      "date": "2027-01-24",
+      "startTime": "18:15",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=564",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "talkshow-woher-wohin-veronika-fischer-a323da44",
       "title": "Talkshow \"Woher Wohin - Veronika Fischer persönlich\" [ZUSATZTERMIN]",
       "description": "moderiert von Kai Suttner\n\nSie stand als Leadsängerin von Panta Rhei auf der Bühne und startete 1974 mit Veronika Fischer \u0026 Band kometenhaft durch, überzeugte mit musikalischer Vielseitigkeit und großer, unverwechselbarer Stimme. Mit Liedern wie „Dass ich eine Schneeflocke wär“ und „Auf der Wiese“ lieferte sie den Soundtrack für eine ganze Generation. Sie war ein Star in der DDR und ist eine Künstlerin mit Haltung, die sich nie verbiegen ließ. Als dies im Osten immer schwieriger wurde, weil sie sich zunehmend durch stattliche Zwänge und Repressalien eingeengt sah, entschloss sie sich 1981, die Heimat zu verlassen und in der BRD neue Wege zu suchen.\n\nSie veröffentliche sechs erfolgreiche Platten, musste aber auch hier feststellen, dass Kunst und Erfolg geschäftlichen Regeln unterliegen. Zerrieben zwischen dem Vorwurf, ihr Land und ihre Fans verlassen zu haben, und dem Gefühl, als Politikum herhalten zu müssen, wurde sie nach den Mauerfall von ihrem Publikum mit offenen Armen empfangen und konnte an ihre früheren Erfolge anknüpfen. Bis heute gehört sie unbestritten zu den ganz großen deutschsprachigen Interpretinnen.\n\nEinlass: 19:00 Uhr\nBeginn: 20:00 Uhr\nTickets: Ab 27,00 Euro …",
@@ -12526,6 +13957,60 @@
       "cancelled": false
     },
     {
+      "id": "donna-the-show-3ef199d8",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Kultur",
+      "date": "2027-02-18",
+      "startTime": "18:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "donna-the-show-84288f04",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Kultur",
+      "date": "2027-02-18",
+      "startTime": "21:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinogold-berlin-ecke-schoenhauser-8832fd38",
       "title": "Kinogold: Berlin, Ecke Schönhauser",
       "description": "",
@@ -12553,6 +14038,60 @@
       "cancelled": false
     },
     {
+      "id": "donna-the-show-f85cb9f7",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Kultur",
+      "date": "2027-02-19",
+      "startTime": "18:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "donna-the-show-c214a5f5",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Kultur",
+      "date": "2027-02-19",
+      "startTime": "21:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "fil-lieder-of-the-world-99f9e4a2",
       "title": "FIL - \"Lieder of the world\"",
       "description": "ZUSATZSHOW!\n\nThe World! Allen Unkenrufen zum Trotz scheint das immer noch der geilste Ort zu sein. Ich meine, schaut Euch um: die Bäume! Der Himmel! Die Jelbi-Mobilitätsstation in der Schönhauser Allee! Naturgemachtes und vom Mensch Erdachtes reichen sich die Pranken und das Ergebnis ist: the World. Wo ließe es sich besser aushalten?\n\nWeltbewohner FiL nimmt uns in seiner neuen und besten Show mit auf einen Streifzug durch diese kecke Ecke. Er singt von den Wundern der World, erklärt die Zusammenhänge, stellt uns seine Freunde Jesus und Satan vor und verhilft uns scheinbar ganz nebenbei zu der Erkenntnis, dass wir selbst auch ein Teil der World sind. Und zwar der wichtigste Teil. FIRST World sind wir, Digga. So gipfelt dieser Abend in einer Celebration of Ourselves. Orgiastisch, mitreißend und fulminant. Ist das alles noch witzig? Nein. Humor ist eine Krücke. Lachen ist das Lied der Schwachen. Als erster Komiker der Welt überwindet FiL hier sich selbst und wird pure Energie.\n\nEinlass: 19:00 Uhr\nBeginn: 20:00 Uhr\nTickets: 27,00 Euro (inkl. VVK-Gebühr) - online und beim Ticketshop vor Ort erhältlich! | Abendkasse: 32,00\n\nBestuhlt Freie Platzwahl",
@@ -12573,6 +14112,60 @@
       "source": "peter-edel",
       "sources": [
         "peter-edel"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "ballet-of-lights-cinderella-472d9abc",
+      "title": "Ballet of Lights: Cinderella",
+      "description": "Das klassische Märchen trifft auf modernes Ballett – mit leuchtenden Kostümen, beeindruckender Lichtinszenierung und einer Show, die Magie neu definiert. Cinderella als strahlende Ballettshow neu interpretiert zur Musik der größten klassischen Komponist:innen!",
+      "category": "Kultur",
+      "date": "2027-02-21",
+      "startTime": "15:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=564",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "ballet-of-lights-cinderella-bf55c4f9",
+      "title": "Ballet of Lights: Cinderella",
+      "description": "Das klassische Märchen trifft auf modernes Ballett – mit leuchtenden Kostümen, beeindruckender Lichtinszenierung und einer Show, die Magie neu definiert. Cinderella als strahlende Ballettshow neu interpretiert zur Musik der größten klassischen Komponist:innen!",
+      "category": "Kultur",
+      "date": "2027-02-21",
+      "startTime": "18:15",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=564",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -12762,6 +14355,33 @@
       "source": "peter-edel",
       "sources": [
         "peter-edel"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "mark-eitzel-our-man-in-e4937194",
+      "title": "Mark Eitzel (+ Our Man In The Field)",
+      "description": "Mark Eitzel (American Music Club) kommt für seine erste Tournee seit zehn Jahren nach Deutschland. Neben älteren Klassikern des American Music Club, die auf einem neuen Box-Set erscheinen werden, wird Mark Songs aus früheren Soloalben und einer neuen Vinyl-EP spielen.",
+      "category": "Kultur",
+      "date": "2027-03-16",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=566",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
