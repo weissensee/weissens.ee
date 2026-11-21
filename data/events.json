@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:58:28.8951543Z",
+  "generatedAt": "2026-11-21T11:07:59.4099156Z",
   "events": [
     {
       "id": "vineta-kaula-a-mapping-the-15170751",
@@ -22,6 +22,60 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "emil-und-die-detektive-2e46b6f8",
+      "title": "Emil und die Detektive",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "12:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026/3719051086",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-f0d99ef0",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "13:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719050281",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -56,6 +110,33 @@
       "cancelled": false
     },
     {
+      "id": "die-gangster-gang-2-0958bb92",
+      "title": "Die Gangster Gang 2",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/die-gangster-gang-2/3712054067",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "jeder-acker-jede-fabrik-ideen-c558d0b2",
       "title": "Jeder Acker, Jede Fabrik – Ideen für eine notwendige Revolution",
       "description": "D 2026 | 67 min | Dokumentarfilm | R: Labournet TV \u0026 AngryWorkers | Die Art und Weise, wie wir unser Leben produzieren, ist dumm, gefährlich und grausam.",
@@ -83,6 +164,33 @@
       "cancelled": false
     },
     {
+      "id": "der-frechste-troll-der-welt-8294b5d2",
+      "title": "Der frechste Troll der Welt",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt/3719051118",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "hiddensee-19174df2",
       "title": "Hiddensee",
       "description": "D 2026 | 119 min | Dokumentarfilm | R: Annekatrin Hendel | Hiddensee, ein nur 17 Kilometer langer Streifen Land in der Ostsee, geliebt als Sehnsuchtsort der Freiheit.",
@@ -103,6 +211,60 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "biermann-c520bdca",
+      "title": "Biermann",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "17:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/biermann/3719049587",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-3f053f60",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719049814",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -164,6 +326,33 @@
       "cancelled": false
     },
     {
+      "id": "heimsuchung-eine-jahrhundertgeschichte-df8778ea",
+      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/heimsuchung/3719049633",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "tagtraeumer-1433b17b",
       "title": "Tagträumer",
       "description": "Sie spricht in Bildern. Er spricht Klartext. Und trotzdem verstehen sie einander – manchmal.",
@@ -184,6 +373,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-ad11d68c",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "20:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719049854",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -265,6 +481,114 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "alte-liebe-e0c8109c",
+      "title": "Alte Liebe",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "11:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/alte-liebe/3719051629",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-f12ba40b",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "12:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719051584",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "der-frechste-troll-der-welt-2b2533d6",
+      "title": "Der frechste Troll der Welt",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "14:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt/3719051308",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "emil-und-die-detektive-a6c2059b",
+      "title": "Emil und die Detektive",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "14:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026/3719051215",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -380,6 +704,33 @@
       "cancelled": false
     },
     {
+      "id": "biermann-dbc83435",
+      "title": "Biermann",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "16:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/biermann/3719051342",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "helene-weigel-revolutionaerin-im-rampenl-45b6ed6f",
       "title": "Helene Weigel – Revolutionärin im Rampenlicht",
       "description": "D/A 2026 | 102 min | Dokumentarfilm | R: Maria Wischnewski | Bis heute bedeutet sie die Welt für jene Bretter, die die Welt bedeuten.",
@@ -400,6 +751,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-0d08c8d4",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "17:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719051246",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -454,6 +832,60 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "heimsuchung-eine-jahrhundertgeschichte-3d9e13b4",
+      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/heimsuchung/3719051377",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-cca2b6ea",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-22",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719051277",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -677,6 +1109,33 @@
       "cancelled": false
     },
     {
+      "id": "alte-liebe-f4a125e1",
+      "title": "Alte Liebe",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "12:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/alte-liebe/3719298797",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "karten-und-brettspiele-fuer-alle-4862c436",
       "title": "Karten- und Brettspiele für alle",
       "description": "Wöchentlich findet unser geselliger Spiele-Nachmittag mit Hauscafé im Stadtteilzentrum statt.\nSchauen Sie gerne einfach vorbei, ob allein oder mit anderen Spielern im Gepäck.\nWann: Montag, 13.00 – 18.00 Uhr im Saal\nKosten: 2 € (1,50 €)",
@@ -728,6 +1187,33 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "der-frechste-troll-der-welt-9e0c81d5",
+      "title": "Der frechste Troll der Welt",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "14:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt/3719052187",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -785,6 +1271,60 @@
       "cancelled": false
     },
     {
+      "id": "emil-und-die-detektive-9934d1f0",
+      "title": "Emil und die Detektive",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "15:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026/3719052086",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "biermann-58bd0084",
+      "title": "Biermann",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "16:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/biermann/3719052232",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "inklusiver-musikalischer-salon-e53ba335",
       "title": "Inklusiver Musikalischer Salon",
       "description": "",
@@ -839,6 +1379,33 @@
       "cancelled": false
     },
     {
+      "id": "wild-horse-nine-78b913f4",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "17:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719052118",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "uebergang-25b70d5a",
       "title": "Übergang",
       "description": "D 2026 | 120 min | Dokumentarfilm | R: Peter Badel \u0026 Chris Wright | Ende 2023 begann Thomas Heise die Arbeit an seinem letzten Dokumentarfilm, der nach dem Tod des vielfach preisgekrönten Regisseurs im Mai 2024",
@@ -859,6 +1426,60 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "heimsuchung-eine-jahrhundertgeschichte-be37afdd",
+      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/heimsuchung/3719052288",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-5c451caf",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-23",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719052151",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -1055,6 +1676,60 @@
       "cancelled": false
     },
     {
+      "id": "der-frechste-troll-der-welt-57df0aff",
+      "title": "Der frechste Troll der Welt",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "14:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt/3719051936",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "emil-und-die-detektive-2aed4820",
+      "title": "Emil und die Detektive",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "15:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026/3719051838",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "inklusive-soundwerkstatt-91277d6a",
       "title": "Inklusive Soundwerkstatt",
       "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\nmit Petra Schröck und Jörg Wesche",
@@ -1136,6 +1811,33 @@
       "cancelled": false
     },
     {
+      "id": "biermann-8d3cef0d",
+      "title": "Biermann",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "16:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/biermann/3719051968",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "naza-0547ea09",
       "title": "Naza",
       "description": "UK 2026 | 80 min | Dokumentarfilm | R: Yuval Abraham \u0026 Rachel Szor | OmU | Über drei Jahre hinweg sprachen die Filmemacher Abraham und Szor mit Angehörigen des israelischen Militärs und der Geheimdienste.",
@@ -1156,6 +1858,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-774f92b2",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "17:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719051872",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -1237,6 +1966,60 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "heimsuchung-eine-jahrhundertgeschichte-fd041dad",
+      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/heimsuchung/3719052003",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-f32a0f6f",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-24",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719051904",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -1352,6 +2135,60 @@
       "cancelled": false
     },
     {
+      "id": "der-frechste-troll-der-welt-916c4ccd",
+      "title": "Der frechste Troll der Welt",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "12:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt/3719052890",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "alte-liebe-241c890e",
+      "title": "Alte Liebe",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "13:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/alte-liebe/3719299240",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "telefon-beratung-e0f569cd",
       "title": "Telefon-Beratung",
       "description": "Für alle die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
@@ -1376,6 +2213,60 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "biermann-aa828d78",
+      "title": "Biermann",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "14:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/biermann/3719052921",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "emil-und-die-detektive-9cc6029e",
+      "title": "Emil und die Detektive",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "15:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026/3719052825",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -1460,6 +2351,33 @@
       "cancelled": false
     },
     {
+      "id": "wild-horse-nine-9376acb0",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "17:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719052858",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "atelierkurs-acrylmalen-malen-mit-malte-caab1680",
       "title": "ATELIERKURS ACRYLMALEN – Malen mit Malte Hagen",
       "description": "Jeden Mittwoch | 18 – 20:15 Uhr | 5 Termine: 160 Euro | Atelierkurs „Malen mit Acrylfarben“, figurativ, experimentell, abstrakt, alle Levels mit Malte Hagen",
@@ -1480,6 +2398,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "toni-filmclub-90-jahrestag-des-64f98907",
+      "title": "Toni Filmclub: 90. Jahrestag des spanischen Bürgerkrieges: Fünf Patronenhülsen",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/fuenf-patronenhuelsen/3590272552",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -1534,6 +2479,60 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "heimsuchung-eine-jahrhundertgeschichte-157ae471",
+      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/heimsuchung/3719052952",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wild-horse-nine-e09e7428",
+      "title": "Wild Horse Nine",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-25",
+      "startTime": "20:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wild-horse-nine/3719052991",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -1703,6 +2702,33 @@
       "cancelled": false
     },
     {
+      "id": "wie-verhext-fdbf6807",
+      "title": "Wie verhext",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "14:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wie-verhext/3719056510",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "aus-der-tonne-1a4e50b1",
       "title": "Aus der Tonne",
       "description": "Ein Upcycling- und Kreativangebot für Kinder ab 4 Jahren und Bezugspersonen Ohne Anmeldung Holt euren Müll, Rammsch und Schrott aus der Tonne! Gemeinsam machen wir …",
@@ -1777,6 +2803,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wie-verhext-57abd4df",
+      "title": "Wie verhext",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "17:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wie-verhext/3719056479",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -2404,6 +3457,33 @@
       "cancelled": false
     },
     {
+      "id": "wie-verhext-d8ee3488",
+      "title": "Wie verhext",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wie-verhext/3719063221",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderphilharmonie-klassik-fuer-kleine-3-ad6889f8",
       "title": "KINDERPHILHARMONIE - Klassik für Kleine (3 - 7 Jahre)",
       "description": "Duo Nominka: Musik von Piaf bis Pipapo\n\nIm Jahr des Akkordeons laden Sophie Ammann und Peter Podjavorsek Babys und ihre Eltern zu einem besonderen Musikerlebnis ein. Mit viel Gefühl und Spielfreude erzählen ihre Lieder von Freundschaft, Zusammenhalt, Heimat und vom Mut, Neues zu entdecken. Inspiriert von Balkanklängen, Chanson, Tango, spanischen Balladen und Klezmer entsteht eine bunte musikalische Reise – mal ruhig zum Träumen, mal lebendig zum Mitsingen und Tanzen. Ein Konzert für offene Ohren, neugierige Herzen und gemeinsame Momente.\n\n🎤 Mit dem Duo Nominka\n🎶 Für: Familien und alle, die sich von der Musik verzaubern lassen wollen\n\nGenerelle Infos: Wir bitten zu beachten, dass sich dieses Konzert an Babies (3-7 Jahre) richtet. Geschwisterkinder sind natürlich erlaubt. Ihr nehmt auf Teppichen und Matten Platz, bringt gern für eure Kinder Stoppersocken mit.\n\nEinlass: 15:15 Uhr\nBeginn: 15:30 Uhr\nPräsentiert von: Kinderphilharmonie\nTickets: 14,50 Euro (inkl. VVK-Gebühr) - online über den Veranstalter erhältlich! | Kein Tageskassenverkauf\n\nTeilbestuhlt Freie Platzwahl",
@@ -2451,6 +3531,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "wie-verhext-4f9b0621",
+      "title": "Wie verhext",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "16:45",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wie-verhext/3719063260",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -4374,6 +5481,33 @@
       "cancelled": false
     },
     {
+      "id": "berlin-im-film-wolf-unter-b1665358",
+      "title": "Berlin im Film: Wolf unter Wölfen - Die Stadt und ihre Ruhelosen",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-05",
+      "startTime": "12:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film-ticket/3594263247",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "upcycling-naehwerkstatt-eb8a4dd7",
       "title": "Upcycling Nähwerkstatt",
       "description": "Jeden Samstag | 14 – 18 Uhr | Upcycling Nähwerkstatt mit Stefanie Schulz. Bringt Eure Kleidungsstücke mit. Unter fachgerechter Anleitung könnt ihr Eure Kleidung ändern, upcyclen oder umgestalten.",
@@ -4394,6 +5528,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "berlin-im-film-wolf-unter-06627475",
+      "title": "Berlin im Film: Wolf unter Wölfen - Schwüle über dem Land",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-05",
+      "startTime": "15:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film-ticket/3594263280",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -4455,6 +5616,33 @@
       "cancelled": false
     },
     {
+      "id": "berlin-im-film-wolf-unter-c9481c57",
+      "title": "Berlin im Film: Wolf unter Wölfen - Es kommen des Teufels Husaren",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-05",
+      "startTime": "17:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film-ticket/3594263321",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "sip-smash-x-blvsh-x-57a81c50",
       "title": "Sip \u0026 Smash X BLVSH X-Mas PARTY Special",
       "description": "Beginn \u0026 Einlass: 19:00 Uhr\nTickets: 11,34 Euro - Online \u0026 beim Ticketshop vor Ort (inkl. VVK-Gebühr) | 15 Euro (Abendkasse)\n\nUnbestuhlt Keine Sitzplatzgarantie",
@@ -4475,6 +5663,33 @@
       "source": "peter-edel",
       "sources": [
         "peter-edel"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "berlin-im-film-wolf-unter-3de7ceb7",
+      "title": "Berlin im Film: Wolf unter Wölfen - Ende und Anfang",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-05",
+      "startTime": "19:15",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film-ticket/3594263392",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -4563,6 +5778,33 @@
       "cancelled": false
     },
     {
+      "id": "adventskino-die-legende-vom-weihnachtsst-b14549cb",
+      "title": "Adventskino: Die Legende vom Weihnachtsstern",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-06",
+      "startTime": "10:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/die-legende-vom-weihnachtsstern/3685578805",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "soft-opening-a9fc24ba",
       "title": "SOFT OPENING",
       "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
@@ -4617,6 +5859,33 @@
       "cancelled": false
     },
     {
+      "id": "adventskino-auf-der-suche-nach-eea2e928",
+      "title": "Adventskino: Auf der Suche nach der Weihnachtswerkstatt",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-06",
+      "startTime": "13:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/auf-der-suche-nach-der-weihnachtswerkstatt/3685578814",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "2m-wo-ist-dein-platz-f041b9b0",
       "title": "2m² – Wo ist dein Platz für die Ewigkeit",
       "description": "D/B/TR 2026 | 82 min | Dokumentarfilm | R: Volkan Üce | Tayfun, ein Bestatter für die belgisch-türkische Gemeinschaft, muss Familien dabei helfen, zu entscheiden, wo ihre Angehörigen beigesetzt werden sollen.",
@@ -4664,6 +5933,33 @@
       "source": "peter-edel",
       "sources": [
         "peter-edel"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "adventskino-ein-junge-namens-weihnacht-6da0c801",
+      "title": "Adventskino: Ein Junge namens Weihnacht",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-06",
+      "startTime": "15:30",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/ein-junge-namens-weihnacht/3685578823",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -5636,6 +6932,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "toni-filmclub-wege-in-die-370f5b1d",
+      "title": "Toni Filmclub: Wege in die Nacht",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-09",
+      "startTime": "18:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film/wege-in-die-nacht/3592421019",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -8233,6 +9556,33 @@
       "cancelled": false
     },
     {
+      "id": "kinogold-jakob-der-luegner-0d350ef0",
+      "title": "Kinogold: Jakob der Lügner",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-18",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film-ticket/3693413375",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kreative-holzwerkstatt-eaa0a707",
       "title": "Kreative Holzwerkstatt",
       "description": "für Kinder (ab 4 Jahren) mit Eltern Ob Sägen, Feilen, Hämmern oder Schleifen…in der kreativen Holzwerkstatt können Familien das Material Holz entdecken, Formen finden und gestalten. Unter pädagogischer Anleitung könnt ihr kleine oder auch größere Objekte bauen. Als Familie könnt ihr entweder gemeinsam werkeln, oder Bezugspersonen begleiten und unterstützen ihre Kinder bei der Umsetzung ihrer Ideen. Im Vordergrund steht die Freude am Ausprobieren. Auch andere Materialen wie zum Beispiel Stoff und Farbe dürfen ergänzend zum Einsatz kommen. Dabei entstehen überraschende Werke wie Roboter, Raketen, Lolis oder Fantasiewesen.",
@@ -8658,6 +10008,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "spatzenkino-am-wochenende-tierisches-fes-477a20a0",
+      "title": "Spatzenkino am Wochenende: Tierisches Fest",
+      "description": "",
+      "category": "Kultur",
+      "date": "2026-12-20",
+      "startTime": "11:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film-ticket/3615208309",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -9529,6 +10906,33 @@
       "cancelled": false
     },
     {
+      "id": "kinogold-lieblingsmenschen-efec2abd",
+      "title": "Kinogold: Lieblingsmenschen",
+      "description": "",
+      "category": "Kultur",
+      "date": "2027-01-15",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film-ticket/3693421713",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "michael-curse-kurth-aaae7cb1",
       "title": "MICHAEL CURSE KURTH",
       "description": "BAD MEDIATORS CLUB - LIVE\n\nMit seinem neuen Buch lädt Bestsellerautor, Rapper, Coach und Buddhist Michael „Curse“ Kurth dazu ein, Meditation von einer anderen Seite kennenzulernen: undogmatisch, alltagstauglich und ohne Esoterik-Kitsch. Denn die gute Nachricht ist: Wir alle sind Bad Meditators. Und genau darin liegt der Schlüssel. Auf seiner Buchtour bringt Curse die Gedanken und Impulse seines Buches live auf die Bühne. Es geht um innere Unruhe, kreisende Gedanken und den Anspruch, immer alles richtig machen zu müssen – aber auch um die Frage, wie wir im Alltag mehr Klarheit, Gelassenheit und einen anderen Umgang mit uns selbst finden können. Mit Humor, persönlichen Einblicken und praktischen Perspektiven zeigt Curse, warum Meditation weder Perfektion noch besondere Fähigkeiten voraussetzt und wie sie auch dann funktionieren kann, wenn der Kopf mal wieder macht, was er will. Musikalisch begleitet wird der Abend von DJ Kool GQ. Dazu kommen ausgewählte Gäste, die in den jeweiligen Städten eigene Perspektiven und Impulse einbringen und jede Station der Tour zu einem besonderen Erlebnis machen. So wird der Bad Meditators Club mehr als eine klassische Lesung: ein Abend zwischen Buch …",
@@ -9630,6 +11034,33 @@
       "source": "peter-edel",
       "sources": [
         "peter-edel"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kinogold-berlin-ecke-schoenhauser-8832fd38",
+      "title": "Kinogold: Berlin, Ecke Schönhauser",
+      "description": "",
+      "category": "Kultur",
+      "date": "2027-02-19",
+      "startTime": "14:00",
+      "endTime": "",
+      "location": {
+        "name": "Kino Toni",
+        "address": "Antonplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Kino Toni",
+      "url": "https://kino-toni.de/film-ticket/3694707605",
+      "source": "kino-toni",
+      "sources": [
+        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
