@@ -1,0 +1,232 @@
+{
+  "types": [
+    { "name": "Sehenswürdigkeit", "icon": ["M8 18l2 -13l2 -2l2 2l2 13", "M5 21v-3h14v3", "M3 21l18 0"] },
+    { "name": "Natur & Parks", "icon": ["M12 13l-2 -2", "M12 12l2 -2", "M12 21v-13", "M9.824 16a3 3 0 0 1 -2.743 -3.69a3 3 0 0 1 .304 -4.833a3 3 0 0 1 4.615 -3.707a3 3 0 0 1 4.614 3.707a3 3 0 0 1 .305 4.833a3 3 0 0 1 -2.919 3.695h-4l-.176 -.005"] },
+    { "name": "Baden", "icon": ["M16 9m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0", "M6 11l4 -2l3.5 3l-1.5 2", "M3 16.75a2.4 2.4 0 0 0 1 .25a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 1 -.25"] },
+    { "name": "Kultur & Bühne", "icon": ["M12 21a9 9 0 0 1 0 -18c4.97 0 9 3.582 9 8c0 1.06 -.474 2.078 -1.318 2.828c-.844 .75 -1.989 1.172 -3.182 1.172h-2.5a2 2 0 0 0 -1 3.75a1.3 1.3 0 0 1 -1 2.25", "M7.5 10.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0", "M11.5 7.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0", "M15.5 10.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"] },
+    { "name": "Treffpunkte", "icon": ["M8 9l5 5v7h-5v-4m0 4h-5v-7l5 -5m1 1v-6a1 1 0 0 1 1 -1h10a1 1 0 0 1 1 1v17h-8", "M13 7l0 .01", "M17 7l0 .01", "M17 11l0 .01", "M17 15l0 .01"] },
+    { "name": "Märkte", "icon": ["M6.331 8h11.339a2 2 0 0 1 1.977 2.304l-1.255 8.152a3 3 0 0 1 -2.966 2.544h-6.852a3 3 0 0 1 -2.965 -2.544l-1.255 -8.152a2 2 0 0 1 1.977 -2.304", "M9 11v-5a3 3 0 0 1 6 0v5"] },
+    { "name": "Tiere & Spiel", "icon": ["M14.7 13.5c-1.1 -2 -1.441 -2.5 -2.7 -2.5c-1.259 0 -1.736 .755 -2.836 2.747c-.942 1.703 -2.846 1.845 -3.321 3.291c-.097 .265 -.145 .677 -.143 .962c0 1.176 .787 2 1.8 2c1.259 0 3 -1 4.5 -1s3.241 1 4.5 1c1.013 0 1.8 -.823 1.8 -2c0 -.285 -.049 -.697 -.146 -.962c-.475 -1.451 -2.512 -1.835 -3.454 -3.538z", "M20.188 8.082a1.039 1.039 0 0 0 -.406 -.082h-.015c-.735 .012 -1.56 .75 -1.993 1.866c-.519 1.335 -.28 2.7 .538 3.052c.129 .055 .267 .082 .406 .082c.739 0 1.575 -.742 2.011 -1.866c.516 -1.335 .273 -2.7 -.54 -3.052z", "M9.474 9c.055 0 .109 0 .163 -.011c.944 -.128 1.533 -1.346 1.32 -2.722c-.203 -1.297 -1.047 -2.267 -1.932 -2.267c-.055 0 -.109 0 -.163 .011c-.944 .128 -1.533 1.346 -1.32 2.722c.204 1.293 1.048 2.267 1.933 2.267z", "M16.456 6.733c.214 -1.376 -.375 -2.594 -1.32 -2.722a1.164 1.164 0 0 0 -.162 -.011c-.885 0 -1.728 .97 -1.93 2.267c-.214 1.376 .375 2.594 1.32 2.722c.054 .007 .108 .011 .162 .011c.885 0 1.73 -.974 1.93 -2.267z", "M5.69 12.918c.816 -.352 1.054 -1.719 .536 -3.052c-.436 -1.124 -1.271 -1.866 -2.009 -1.866c-.14 0 -.277 .027 -.407 .082c-.816 .352 -1.054 1.719 -.536 3.052c.436 1.124 1.271 1.866 2.009 1.866c.14 0 .277 -.027 .407 -.082z"] }
+  ],
+  "places": [
+    {
+      "id": "juedischer-friedhof",
+      "name": "Jüdischer Friedhof Weißensee",
+      "type": "Sehenswürdigkeit",
+      "description": "Flächenmäßig der größte jüdische Friedhof Europas, eröffnet 1880, mit rund 115.000 Gräbern. Gartendenkmal; das Land Berlin und die Jüdische Gemeinde streben den UNESCO-Welterbestatus an. Männer werden gebeten, eine Kopfbedeckung zu tragen.",
+      "address": "Herbert-Baum-Straße 45, 13088 Berlin",
+      "lat": 52.54205, "lon": 13.46245,
+      "url": "https://www.berlin.de/sehenswuerdigkeiten/3560738-3558930-juedischer-friedhof-weissensee.html",
+      "openingHours": "laut OpenStreetMap April–September Mo–Do 7:30–17, Fr 7:30–14:30, So 8–17 Uhr; Oktober–März Mo–Do 7:30–16, Fr 7:30–14:30, So 8–16 Uhr; samstags und an Feiertagen geschlossen",
+      "match": ["Jüdischer Friedhof"]
+    },
+    {
+      "id": "park-am-weissen-see",
+      "name": "Park am Weißen See",
+      "type": "Natur & Parks",
+      "description": "See mit Fontäne und Park, 1,3 km Rundweg, Rosengarten, Liegewiesen, kleines Wildgehege, Kinderspielplätze und Planschwiese. Am Ufer: Milchhäuschen (Café, ganzjährig), Bootsverleih mit Ruderbooten an den Seeterrassen (Sommer), Strandbad und Freilichtbühne.",
+      "address": "Berliner Allee, 13086 Berlin",
+      "lat": 52.55392, "lon": 13.46270,
+      "match": ["Weißer See", "Weißen See", "Milchhäuschen"]
+    },
+    {
+      "id": "strandbad-weissensee",
+      "name": "Strandbad Weißensee",
+      "type": "Baden",
+      "description": "Naturbad am Weißen See.",
+      "address": "Berliner Allee 155, 13088 Berlin",
+      "lat": 52.55393, "lon": 13.46548,
+      "url": "https://www.strandbadweissensee.de",
+      "season": "Sommer (ab Mai)",
+      "openingHours": "laut OpenStreetMap 10–20 Uhr; Angaben je nach Quelle verschieden",
+      "match": ["Strandbad Weißensee"]
+    },
+    {
+      "id": "freilichtbuehne-weissensee",
+      "name": "Freilichtbühne Weißensee",
+      "type": "Kultur & Bühne",
+      "description": "Open-Air-Bühne am Weißen See: Konzerte, Kino und Kabarett in den Sommermonaten.",
+      "address": "Große Seestraße 10, 13086 Berlin",
+      "lat": 52.55619, "lon": 13.46327,
+      "url": "https://freilichtbuehne-weissensee.de/",
+      "season": "Sommer",
+      "match": ["Freilichtbühne Weißensee"]
+    },
+    {
+      "id": "fauler-see",
+      "name": "Naturschutzgebiet Fauler See",
+      "type": "Natur & Parks",
+      "description": "Rund 24 Hektar Grün um den Faulen See mit Wegen, Liegewiese, Sträuchern und hohen Bäumen; rund 40 Brutvogelarten.",
+      "lat": 52.55410, "lon": 13.49141,
+      "match": ["Fauler See", "Faulen See"]
+    },
+    {
+      "id": "orankesee",
+      "name": "Orankesee mit Strandbad",
+      "type": "Baden",
+      "description": "Strandbad Orankesee und Orankeseepark mit Grün zum Erholen, an der Grenze zu Alt-Hohenschönhausen.",
+      "lat": 52.54880, "lon": 13.48108,
+      "season": "Strandbad im Sommer",
+      "match": ["Orankesee"]
+    },
+    {
+      "id": "obersee-wasserturm",
+      "name": "Obersee mit Wasserturm",
+      "type": "Natur & Parks",
+      "description": "See mit Wasserturm, knapp außerhalb Weißensees in Alt-Hohenschönhausen.",
+      "address": "Obersee, 13053 Berlin",
+      "match": ["Obersee"]
+    },
+    {
+      "id": "theater-im-delphi",
+      "name": "Theater im Delphi",
+      "type": "Kultur & Bühne",
+      "description": "Einst das größte und luxuriöseste Stummfilmkino Berlins (870 Plätze), heute Spielstätte für Theater, Konzerte, Tanz und Film. Drehort des Nachtclubs „Moka Efti“ in der Serie „Babylon Berlin“.",
+      "address": "Gustav-Adolf-Straße 2, 13086 Berlin",
+      "lat": 52.55190, "lon": 13.43116,
+      "url": "https://theater-im-delphi.de",
+      "match": ["Delphi"]
+    },
+    {
+      "id": "brotfabrik",
+      "name": "Brotfabrik",
+      "type": "Kultur & Bühne",
+      "description": "Kulturzentrum mit Kino, Bühne, Galerie und Ateliers. Der Caligariplatz davor erinnert an die Weißenseer Filmstadt der Stummfilmzeit („Klein-Hollywood“).",
+      "address": "Caligariplatz 1, 13086 Berlin",
+      "lat": 52.55261, "lon": 13.43059,
+      "url": "https://brotfabrik-berlin.de",
+      "match": ["Brotfabrik", "Caligariplatz"]
+    },
+    {
+      "id": "kino-toni",
+      "name": "Kino Toni",
+      "type": "Kultur & Bühne",
+      "description": "Kino am Antonplatz.",
+      "address": "Antonplatz 1, 13086 Berlin",
+      "lat": 52.54882, "lon": 13.45093,
+      "url": "https://kino-toni.de",
+      "match": ["Kino Toni"]
+    },
+    {
+      "id": "peter-edel",
+      "name": "Bildungs- und Kulturzentrum Peter Edel",
+      "type": "Kultur & Bühne",
+      "description": "Kulturzentrum mit Konzerten, Partys, Tanztee, Lesungen und Kursen.",
+      "address": "Berliner Allee 125, 13088 Berlin",
+      "url": "https://www.peteredel.de",
+      "match": ["Peter Edel"]
+    },
+    {
+      "id": "kunsthalle-hamburger-platz",
+      "name": "Kunsthalle am Hamburger Platz",
+      "type": "Kultur & Bühne",
+      "description": "Ausstellungsraum der weißensee kunsthochschule berlin.",
+      "address": "Gustav-Adolf-Straße 140, 13086 Berlin",
+      "lat": 52.55611, "lon": 13.43936,
+      "url": "https://kh-berlin.de",
+      "match": ["Kunsthalle am Hamburger Platz", "Hamburger Platz"]
+    },
+    {
+      "id": "brecht-haus",
+      "name": "Brecht-Haus",
+      "type": "Sehenswürdigkeit",
+      "description": "Wohnhaus Bertolt Brechts von 1949 bis 1953, in der Zeit der Gründung des Berliner Ensembles. Unsaniert, nur von außen zu sehen.",
+      "address": "Berliner Allee 185, 13088 Berlin",
+      "match": ["Brecht-Haus", "Berliner Allee 185"]
+    },
+    {
+      "id": "komponistenviertel",
+      "name": "Komponistenviertel",
+      "type": "Sehenswürdigkeit",
+      "description": "Altbauviertel zwischen Jüdischem Friedhof und Berliner Allee; die Straßen sind nach Komponisten benannt (Bizet, Smetana, Mahler …).",
+      "address": "Komponistenviertel, Berlin-Weißensee",
+      "match": ["Komponistenviertel"]
+    },
+    {
+      "id": "bethanienkirche",
+      "name": "Bethanienkirche",
+      "type": "Sehenswürdigkeit",
+      "description": "Evangelische Kirche am Mirbachplatz.",
+      "address": "Mirbachplatz, 13086 Berlin",
+      "lat": 52.55279, "lon": 13.44910,
+      "match": ["Bethanienkirche", "Bethanien-Kirche"]
+    },
+    {
+      "id": "pfarrkirche-weissensee",
+      "name": "Pfarrkirche Weißensee",
+      "type": "Sehenswürdigkeit",
+      "description": "Evangelische Dorfkirche an der Berliner Allee, mit Konzerten.",
+      "address": "Berliner Allee 182, 13088 Berlin",
+      "lat": 52.55477, "lon": 13.46833,
+      "url": "https://www.kirchengemeinde-weissensee.de/",
+      "match": ["Pfarrkirche Weißensee"]
+    },
+    {
+      "id": "kubiz",
+      "name": "KuBiZ Raoul Wallenberg",
+      "type": "Treffpunkte",
+      "description": "Kultur- und Bildungszentrum mit Jazzkonzerten, Filmabenden, Fahrradwerkstatt, Umsonstladen und offenem Garten.",
+      "address": "Bernkasteler Straße 78, 13088 Berlin",
+      "url": "https://www.kubiz-wallenberg.de",
+      "match": ["KuBiZ"]
+    },
+    {
+      "id": "stadtteilzentrum-weissensee",
+      "name": "Stadtteilzentrum Weißensee",
+      "type": "Treffpunkte",
+      "description": "Nachbarschaftszentrum des FreiZeitHaus e.V. mit Kursen, Beratung, Tanz und Festen.",
+      "address": "Pistoriusstraße 23, 13086 Berlin",
+      "url": "https://www.stz-weissensee.de",
+      "match": ["Stadtteilzentrum Weißensee", "Pistoriusstraße 23"]
+    },
+    {
+      "id": "familienzentrum-weissensee",
+      "name": "Familienzentrum Weißensee",
+      "type": "Treffpunkte",
+      "description": "Offener Treffpunkt für Familien mit Kursen und Beratung.",
+      "address": "Mahlerstraße 4, 13088 Berlin",
+      "url": "https://www.familienzentrum-weissensee.de",
+      "match": ["Familienzentrum Weißensee", "Mahlerstraße 4"]
+    },
+    {
+      "id": "schnurre-bibliothek",
+      "name": "Wolfdietrich-Schnurre-Bibliothek",
+      "type": "Treffpunkte",
+      "description": "Stadtteilbibliothek der Stadtbibliothek Pankow mit Lesungen, Workshops und Angeboten für Kinder.",
+      "address": "Bizetstraße 41, 13088 Berlin",
+      "url": "https://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/",
+      "match": ["Wolfdietrich-Schnurre"]
+    },
+    {
+      "id": "wochenmarkt-antonplatz",
+      "name": "Wochenmarkt Antonplatz",
+      "type": "Märkte",
+      "description": "Wochenmarkt auf dem Antonplatz.",
+      "address": "Antonplatz, 13086 Berlin",
+      "lat": 52.54863, "lon": 13.45100,
+      "openingHours": "laut OpenStreetMap Di und Fr 9–18 Uhr (nicht weiter bestätigt)",
+      "match": ["Wochenmarkt Antonplatz"]
+    },
+    {
+      "id": "hansamarkt",
+      "name": "HansaMarkt – Trödelmarkt Weißensee",
+      "type": "Märkte",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße.",
+      "address": "Hansastraße 188, 13088 Berlin",
+      "lat": 52.55550, "lon": 13.48572,
+      "url": "https://www.hansamarkt.de/",
+      "openingHours": "sonntags; Uhrzeit je nach Quelle verschieden (OpenStreetMap: 9–16 Uhr)",
+      "match": ["HansaMarkt"]
+    },
+    {
+      "id": "knirpsenfarm",
+      "name": "Kinderbauernhof Knirpsenfarm",
+      "type": "Tiere & Spiel",
+      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden. In Malchow, knapp außerhalb Weißensees.",
+      "address": "Malchower Chaussee 2, 13051 Berlin",
+      "url": "https://knirpsenfarm-berlin.de/",
+      "openingHours": "April–September Mo–Fr 9–17:30, Oktober–März Mo–Fr 9–16:30, Wochenende und Feiertage 9–16 Uhr",
+      "match": ["Knirpsenfarm"]
+    }
+  ]
+}
