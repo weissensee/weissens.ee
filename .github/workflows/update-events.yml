@@ -1,0 +1,62 @@
+name: Update events
+
+# Runs the openLitfass image against this instance repository:
+#   fetch       -> data/events.json, categories.json, sources.json; status
+#                  fields in sources/*.json; removes past inbox/ files
+#   build-site  -> public/ (complete static site; not committed - publish
+#                  it from here once hosting is decided)
+# and commits the changed data back into the repository.
+#
+# The image is started with `docker run` on a normal Ubuntu runner rather
+# than as a job container: GitHub's JavaScript actions (checkout) don't run
+# inside Alpine containers. The same workflow also works on Forgejo/Gitea
+# runners that provide Docker.
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - 'instance.json'
+      - 'categories.json'
+      - 'sources/**'
+      - 'inbox/**'
+      - 'site/**'
+      - '.github/workflows/update-events.yml'
+
+permissions:
+  contents: write
+
+env:
+  # ADJUST: the openLitfass image. Pin a tag (e.g. :sha-abc1234 or :1.0)
+  # instead of :latest for reproducible runs.
+  IMAGE: ghcr.io/OWNER/openlitfass:latest
+  # weissens.ee nutzt die SEO-Extras (im Kern standardmäßig aus): statische
+  # Terminseiten + vorgerenderte Startseite, Sitemap.
+  OL_STATIC_PAGES: "true"
+  OL_SITEMAP_GENERATOR: "true"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch events
+        run: docker run --rm -v "$PWD:/instance" -w /instance --user "$(id -u):$(id -g)" "$IMAGE" fetch .
+
+      - name: Build site
+        run: docker run --rm -v "$PWD:/instance" -w /instance --user "$(id -u):$(id -g)" -e OL_STATIC_PAGES -e OL_SITEMAP_GENERATOR "$IMAGE" build-site -out public .
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "weissens-bot"
+          git config user.email "bot@weissens.ee"
+          git add -A data sources inbox
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "chore: update events data"
+            git push
+          fi

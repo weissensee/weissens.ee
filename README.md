@@ -30,7 +30,7 @@ weissens.ee nutzt beide SEO-Extras des Kerns (dort standardmäßig aus):
 `OL_STATIC_PAGES` (statische Terminseiten unter `termine/`, heutige
 Termine schon im HTML der Startseite) und `OL_SITEMAP_GENERATOR`
 (`sitemap.xml`, `robots.txt`). Dieselben Werte stehen im Workflow
-`.forgejo/workflows/update-events.yml`.
+`.github/workflows/update-events.yml`.
 
 Dann <http://localhost:8080>. Der Container ruft alle 6 Stunden ab und baut
 neu; Zustand unter <http://localhost:8080/healthz>. Er schreibt dabei in
