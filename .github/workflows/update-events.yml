@@ -29,9 +29,9 @@ permissions:
   contents: write
 
 env:
-  # ADJUST: the openLitfass image. Pin a tag (e.g. :sha-abc1234 or :1.0)
+  # The openLitfass image. Pin a tag (e.g. :sha-abc1234 or :1.0)
   # instead of :latest for reproducible runs.
-  IMAGE: ghcr.io/OWNER/openlitfass:latest
+  IMAGE: ghcr.io/schreibtischhelden/openlitfass:latest
   # weissens.ee nutzt die SEO-Extras (im Kern standardmäßig aus): statische
   # Terminseiten + vorgerenderte Startseite, Sitemap.
   OL_STATIC_PAGES: "true"
