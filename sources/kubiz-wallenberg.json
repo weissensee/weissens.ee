@@ -1,42 +1,17 @@
 {
   "label": "KuBiZ Raoul Wallenberg",
   "homepage": "https://www.kubiz-wallenberg.de",
-  "type": "html",
-  "url": "https://www.kubiz-wallenberg.de/",
-  "itemSelector": "article.post-content",
-  "extract": {
-    "date": {
-      "selector": "h2.entry-title a",
-      "regex": "(\\d{1,2}\\.\\d{1,2}\\.\\d{2,4})"
-    },
-    "description": {
-      "selector": ".entry-content",
-      "html": true
-    },
-    "link": {
-      "selector": "h2.entry-title a",
-      "attr": "href"
-    },
-    "price": {
-      "selector": ".entry-content",
-      "regex": "(?i)eintritt\\W{0,3}(frei)"
-    },
-    "room": {
-      "selector": ".entry-content h4",
-      "regex": "Uhr\\s*,?\\s*(.+)$"
-    },
-    "time": {
-      "selector": ".entry-content h4",
-      "regex": "(\\d{1,2}(?:[:.]\\d{2})?)\\s*Uhr"
-    },
-    "title": "h2.entry-title a"
-  },
+  "type": "rss",
+  "url": "https://www.kubiz-wallenberg.de/?feed=rss2",
   "mapping": {
+    "sourceId": {
+      "path": "guid"
+    },
     "title": {
       "path": "title"
     },
     "description": {
-      "path": "description"
+      "path": "encoded"
     },
     "category": {
       "default": "Kultur"
@@ -45,27 +20,30 @@
       "default": "KuBiZ Raoul Wallenberg"
     },
     "url": {
-      "path": "link",
-      "default": "https://www.kubiz-wallenberg.de/"
+      "path": "link"
     },
     "locationName": {
-      "template": "KuBiZ, {room}"
+      "regex": "(?s)^(KuBiZ) [|](?:.*?Uhr\\s*,\\s*([^<\\n]+))?",
+      "default": "KuBiZ",
+      "template": "KuBiZ | {encoded}"
     },
     "locationAddress": {
       "default": "Bernkasteler Str. 78, 13088 Berlin"
     },
     "start": {
+      "regex": "(?s)(\\d{1,2}\\.\\d{1,2}\\.\\d{2,4}).*?[|](?:.*?(\\d{1,2}(?:[:.]\\d{2})?)\\s*Uhr)?",
       "format": "2.1.06 15:04|2.1.06 15.04|2.1.06 15|2.1.2006 15:04|2.1.2006 15.04|2.1.2006 15|2.1.06|2.1.2006",
-      "template": "{date} {time}"
+      "template": "{title} | {encoded}"
     },
     "price": {
-      "amountPath": "price",
-      "unknownIfMissing": true
+      "amountPath": "encoded",
+      "unknownIfMissing": true,
+      "amountRegex": "(?i)eintritt\\W{0,3}(frei)"
     }
   },
   "daysAhead": 120,
   "status": {
-    "lastAttempt": "2026-11-21T10:45:44Z",
-    "lastSuccess": "2026-11-21T10:45:44Z"
+    "lastAttempt": "2026-11-21T10:58:28Z",
+    "lastSuccess": "2026-11-21T10:58:28Z"
   }
 }
