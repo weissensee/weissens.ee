@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:12:32.6249421Z",
+  "generatedAt": "2026-11-21T12:08:40.477109722Z",
   "events": [
     {
       "id": "vineta-kaula-a-mapping-the-15170751",
@@ -22,33 +22,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "emil-und-die-detektive-2e46b6f8",
-      "title": "Emil und die Detektive",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "12:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
