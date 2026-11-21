@@ -1,0 +1,73 @@
+{
+  "label": "weißensee kunsthochschule berlin",
+  "homepage": "https://kh-berlin.de",
+  "type": "html",
+  "url": "https://kh-berlin.de/kalender",
+  "itemSelector": ".vevent",
+  "extract": {
+    "description": {
+      "selector": "p.description",
+      "html": true
+    },
+    "dtstart": {
+      "selector": "time.dtstart",
+      "attr": "datetime"
+    },
+    "location": ".location",
+    "path": {
+      "selector": "h2.summary",
+      "html": true,
+      "regex": "href=\"(/kalender/\\d+)\""
+    },
+    "title": "h2.summary"
+  },
+  "mapping": {
+    "title": {
+      "path": "title"
+    },
+    "description": {
+      "path": "description"
+    },
+    "category": {
+      "default": "Kultur"
+    },
+    "organizer": {
+      "default": "weißensee kunsthochschule berlin"
+    },
+    "url": {
+      "default": "https://kh-berlin.de/kalender",
+      "template": "https://kh-berlin.de{path}"
+    },
+    "locationName": {
+      "path": "location",
+      "regex": "^(.+?)(?:\\s+room\\b|\\s+[A-ZÄÖÜ][\\wäöüß.-]*(?:straße|str\\.|platz|allee)\\s+\\d|$)"
+    },
+    "locationAddress": {
+      "path": "location",
+      "regex": "([A-ZÄÖÜ][\\wäöüß.-]*(?:straße|str\\.|platz|allee)\\s+\\d+[a-z]?,?\\s+\\d{5}\\s+Berlin)"
+    },
+    "date": {
+      "path": "dtstart",
+      "regex": "(\\d{4}-\\d{2}-\\d{2})"
+    },
+    "startTime": {
+      "path": "dtstart",
+      "regex": " ((?:0[1-9]|1[0-9]|2[0-3]):[0-5][0-9])"
+    },
+    "price": {
+      "amountPath": "price",
+      "unknownIfMissing": true
+    }
+  },
+  "daysAhead": 120,
+  "include": [
+    {
+      "field": "location",
+      "regex": "(?i)weißensee|weissensee|bühringstr|hamburger platz|1308[68]"
+    }
+  ],
+  "status": {
+    "lastAttempt": "2026-11-21T19:40:21Z",
+    "lastSuccess": "2026-11-21T19:40:21Z"
+  }
+}
