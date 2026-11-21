@@ -8,7 +8,6 @@
     "name": "Kinderbauernhof Knirpsenfarm",
     "address": "Malchower Chaussee 2, 13051 Berlin"
   },
-  "price": { "free": false },
   "organizer": "Malchower Grashüpfer e.V.",
   "url": "https://knirpsenfarm-berlin.de/",
   "familyFriendly": true,
