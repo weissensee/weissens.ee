@@ -1,0 +1,62 @@
+{
+  "label": "Theater im Delphi",
+  "homepage": "https://theater-im-delphi.de",
+  "type": "html",
+  "url": "https://theater-im-delphi.de/programm/",
+  "itemSelector": "table.program_table tr",
+  "sectionSelector": "h2.month",
+  "extract": {
+    "category": ".eventLabel span",
+    "day": ".eventHeader h3 big",
+    "description": {
+      "selector": "p.teaserText",
+      "html": true
+    },
+    "link": {
+      "selector": "h3.eventTitel a",
+      "attr": "href"
+    },
+    "time": {
+      "selector": ".eventHeader p",
+      "regex": "(\\d{1,2}:\\d{2})"
+    },
+    "title": "h3.eventTitel a"
+  },
+  "mapping": {
+    "title": {
+      "path": "title"
+    },
+    "description": {
+      "path": "description"
+    },
+    "category": {
+      "default": "Kultur"
+    },
+    "organizer": {
+      "default": "Theater im Delphi"
+    },
+    "url": {
+      "path": "link",
+      "default": "https://theater-im-delphi.de/programm/"
+    },
+    "locationName": {
+      "default": "Theater im Delphi"
+    },
+    "locationAddress": {
+      "default": "Gustav-Adolf-Straße 2, 13086 Berlin"
+    },
+    "start": {
+      "format": "2. Jan 2006 15:04|2. Jan 2006",
+      "template": "{day}. {section} {time}"
+    },
+    "price": {
+      "amountPath": "price",
+      "unknownIfMissing": true
+    }
+  },
+  "daysAhead": 120,
+  "status": {
+    "lastAttempt": "2026-11-21T19:10:32Z",
+    "lastSuccess": "2026-11-21T19:10:32Z"
+  }
+}
