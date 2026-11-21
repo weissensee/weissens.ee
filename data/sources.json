@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-11-21T22:41:15.473057983Z",
+  "generatedAt": "2026-11-21T23:26:00.417551371Z",
   "sources": [
     {
       "name": "brotfabrik",
       "label": "Brotfabrik",
       "homepage": "https://brotfabrik-berlin.de",
-      "lastSuccess": "2026-11-21T22:41:03Z"
+      "lastSuccess": "2026-11-21T23:25:25Z"
     },
     {
       "name": "familienzentrum-weissensee",
       "label": "Familienzentrum Weißensee",
       "homepage": "https://www.familienzentrum-weissensee.de",
-      "lastSuccess": "2026-11-21T22:41:06Z"
+      "lastSuccess": "2026-11-21T23:25:28Z"
     },
     {
       "name": "freilichtbuehne-weissensee",
       "label": "Freilichtbühne Weißensee",
       "homepage": "https://freilichtbuehne-weissensee.de",
-      "lastSuccess": "2026-11-21T22:41:07Z"
+      "lastSuccess": "2026-11-21T23:25:30Z"
     },
     {
       "name": "kino-toni",
       "label": "Kino Toni",
       "homepage": "https://kino-toni.de",
-      "lastSuccess": "2026-11-21T22:41:09Z"
+      "lastSuccess": "2026-11-21T23:25:32Z"
     },
     {
       "name": "kubiz-wallenberg",
       "label": "KuBiZ Raoul Wallenberg",
       "homepage": "https://www.kubiz-wallenberg.de",
-      "lastSuccess": "2026-11-21T22:41:10Z"
+      "lastSuccess": "2026-11-21T23:25:33Z"
     },
     {
       "name": "kunsthochschule-weissensee",
       "label": "weißensee kunsthochschule berlin",
       "homepage": "https://kh-berlin.de",
-      "lastSuccess": "2026-11-21T22:41:10Z"
+      "lastSuccess": "2026-11-21T23:25:34Z"
     },
     {
       "name": "peter-edel",
       "label": "Peter Edel",
       "homepage": "https://www.peteredel.de",
-      "lastSuccess": "2026-11-21T22:41:11Z"
+      "lastSuccess": "2026-11-21T23:25:35Z"
     },
     {
       "name": "stadtteilzentrum-weissensee",
@@ -53,13 +53,13 @@
       "name": "theater-im-delphi",
       "label": "Theater im Delphi",
       "homepage": "https://theater-im-delphi.de",
-      "lastSuccess": "2026-11-21T22:41:13Z"
+      "lastSuccess": "2026-11-21T23:25:57Z"
     },
     {
       "name": "wolfdietrich-schnurre-bibliothek",
       "label": "Wolfdietrich-Schnurre-Bibliothek",
       "homepage": "https://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/",
-      "lastSuccess": "2026-11-21T22:41:15Z"
+      "lastSuccess": "2026-11-21T23:26:00Z"
     },
     {
       "name": "inbox",

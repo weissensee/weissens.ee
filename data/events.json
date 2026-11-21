@@ -1,380 +1,6 @@
 {
-  "generatedAt": "2026-11-21T22:41:15.465961012Z",
+  "generatedAt": "2026-11-21T23:26:00.411783692Z",
   "events": [
-    {
-      "id": "kinderbauernhof-knirpsenfarm-geoeffnet-db64a6fd",
-      "title": "Kinderbauernhof Knirpsenfarm geöffnet",
-      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
-      "category": "Natur",
-      "date": "2026-11-21",
-      "startTime": "09:00",
-      "endTime": "16:00",
-      "location": {
-        "name": "Kinderbauernhof Knirpsenfarm",
-        "address": "Malchower Chaussee 2, 13051 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Malchower Grashüpfer e.V.",
-      "url": "https://knirpsenfarm-berlin.de/",
-      "source": "inbox",
-      "sources": [
-        "inbox"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "im-maerchen-versteckt-malen-in-5c3b7de7",
-      "title": "Im Märchen versteckt - Malen in der Bibliothek",
-      "description": "Geht das, dass sich Jungen und Mädchen in einem Märchen verstecken?\nIch verrate es euch - das geschieht beim Malen.\n\nWenn wir malen, versenken wir uns in die Poesie der Märchen. Wir stehen plötzlich neben Rotkäppchen, als sie Blumen pflückt. Wir schauen uns um und sehen, wie die Sonne durch die Bäume funkelt. Wir riechen den Duft der Blumen und das harzige Aroma der Fichten und Tannen.\nIst dort im dunklen Busch etwa jemand versteckt? Könnte das ein Wolf sein? Oder ist es der Jäger, der nach dem Rechten sieht? Oder die Großmutter?\nAll das geschieht, während wir malen. Vor unseren Augen durch unsere eigenen Hände entsteht ein Bild, was es noch nie gab. Was wir selbst gemalt haben.\n\nDamit das auch super gelingt, ist die Künstlerin Christine Klemke dabei. Die zeigt uns z.B. wie Rotkäppchen aussehen könnte, oder der Wolf, oder wie richtige schöne starke Bäume gemalt werden.\nSo wird jeder ein wunderschönes Märchenbild mit nach Hause nehmen können. Eure Familie wird staunen, was ihr schon alles könnt.\n\nFür Kinder\nIn der Kinderbibliothek (1. OG)\nOhne Anmeldung, kommt einfach vorbei!\n\nDie kommenden Termine:\n\n*21.11.26 - Rapunzel*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier …",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "10:30",
-      "endTime": "",
-      "location": {
-        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtbibliothek Pankow",
-      "url": "https://weissens.ee/#im-maerchen-versteckt-malen-in-5c3b7de7",
-      "source": "wolfdietrich-schnurre-bibliothek",
-      "sources": [
-        "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "ausgebucht-ukrainische-petrykiwka-malere-f0af56ef",
-      "title": "AUSGEBUCHT! Ukrainische Petrykiwka-Malerei – Weihnachtsworkshop mit Oleksandra Tkachova",
-      "description": "Entdeckt die traditionelle ukrainische Petrykiwka-Malerei, die seit 2013 zum immateriellen UNESCO-Kulturerbe gehört.\n\nIn diesem Workshop lernt ihr grundlegende Maltechniken und typische Ornamente kennen. Anschließend gestaltet ihr eure eigenen Weihnachtskugeln mit traditionellen Petrykiwka-Motiven.\n\nKeine Vorkenntnisse erforderlich. Alle Materialien werden zur Verfügung gestellt.\nLasst euch von den farbenfrohen Ornamenten der Petrykiwka-Malerei inspirieren und gestaltet eure ganz persönlichen Weihnachtsstücke.\nSprachen der Veranstaltung: Deutsch, Ukrainisch, Englisch\nDie Plätze sind begrenzt. Anmeldung erforderlich.\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=295955",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "11:00",
-      "endTime": "",
-      "location": {
-        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtbibliothek Pankow",
-      "url": "https://weissens.ee/#ausgebucht-ukrainische-petrykiwka-malere-f0af56ef",
-      "source": "wolfdietrich-schnurre-bibliothek",
-      "sources": [
-        "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "vineta-kaula-a-mapping-the-15170751",
-      "title": "Vineta Kaulača – Mapping the View",
-      "description": "16.10. – 29.11.26 | 11 – 20 Uhr | Eröffnung: 16.10. | 19 Uhr | Im Rahmen des Jahresprogramms „Mixta Affectus“ | Vineta Kaulača ist eine Künstlerin aus Lettland.",
-      "category": "Kunst",
-      "date": "2026-11-21",
-      "startTime": "11:00",
-      "endTime": "20:00",
-      "location": {
-        "name": "GALERIE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-21/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "schreibwerkstatt-mit-kathrin-schrader-2bb6b126",
-      "title": "Schreibwerkstatt mit Kathrin Schrader",
-      "description": "*Was Du brauchst, um eine gute Geschichte zu schreiben*\n\nIn dem kleinen Workshop erfährst Du, was eine Geschichte wirklich spannend macht, welche Superkräfte junge Autor:innen brauchen (haben) und wie Du sie trainieren kannst. Mit einer kleinen Schreibübung steigen wir in die Praxis des Erzählens ein und probieren es aus. Du benötigst keine Vorkenntnisse. Mitbringen solltest Du einen Schreibblock und Stifte, Neugier und die Lust am Erzählen. Wenn Du magst, kannst Du gern einen eigenen Text mitbringen und lesen.\n\nDer Workshop wird geleitet von der Autorin Kathrin Schrader, die seit ihrer Kindheit schreibt und nicht mehr damit aufhören kann. Sie arbeitet für die Zeitschrift Das Magazin und hat auch schon einen Roman veröffentlicht.\n\nFür alle ab 12 Jahren.\nKostenfrei und ohne Anmeldung\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294601",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "14:00",
-      "endTime": "",
-      "location": {
-        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtbibliothek Pankow",
-      "url": "https://weissens.ee/#schreibwerkstatt-mit-kathrin-schrader-2bb6b126",
-      "source": "wolfdietrich-schnurre-bibliothek",
-      "sources": [
-        "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "upcycling-naehwerkstatt-f2799168",
-      "title": "Upcycling Nähwerkstatt",
-      "description": "Jeden Samstag | 14 – 18 Uhr | Upcycling Nähwerkstatt mit Stefanie Schulz. Bringt Eure Kleidungsstücke mit. Unter fachgerechter Anleitung könnt ihr Eure Kleidung ändern, upcyclen oder umgestalten.",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "14:00",
-      "endTime": "18:00",
-      "location": {
-        "name": "ATELIER Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/upcycling-naehwerkstatt/2026-11-21/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "waeschekorbtheater-zum-mitmachen-mit-ann-cee06939",
-      "title": "Wäschekorbtheater zum Mitmachen mit Anna Srivastava",
-      "description": "Wäschekorbtheater zum Mitmachen mit Anna Srivastava für Kinder und Familien in der Kinderbibliothek am Podest. Ohne Anmeldung, kommt einfach vorbei!\n\nDie nächsten Termine:\n\n*26.09.2026\n14:00 Uhr\nAschenputtel*\n\nAschenputtel hat es nicht leicht: Ihre Stiefmutter Camambert und ihre Stiefschwester Baguette meckern den ganzen Tag nur an ihr herum. Sie will sich das aber nicht mehr gefallen lassen und bittet die Fee Lakritzia und den Prinz Duplo um Hilfe. Ein Mitmach-Stück über Mut und Selbstvertrauen.\n\n*21.11.2026\n14:00 Uhr\nFrau Holle*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=289574",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "14:00",
-      "endTime": "",
-      "location": {
-        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtbibliothek Pankow",
-      "url": "https://weissens.ee/#waeschekorbtheater-zum-mitmachen-mit-ann-cee06939",
-      "source": "wolfdietrich-schnurre-bibliothek",
-      "sources": [
-        "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "jeder-acker-jede-fabrik-ideen-c558d0b2",
-      "title": "Jeder Acker, Jede Fabrik – Ideen für eine notwendige Revolution",
-      "description": "D 2026 | 67 min | Dokumentarfilm | R: Labournet TV \u0026 AngryWorkers | Die Art und Weise, wie wir unser Leben produzieren, ist dumm, gefährlich und grausam.",
-      "category": "Kino",
-      "date": "2026-11-21",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/jeder-acker-jede-fabrik-ideen-fuer-eine-notwendige-revolution-3/2026-11-21/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "hiddensee-19174df2",
-      "title": "Hiddensee",
-      "description": "D 2026 | 119 min | Dokumentarfilm | R: Annekatrin Hendel | Hiddensee, ein nur 17 Kilometer langer Streifen Land in der Ostsee, geliebt als Sehnsuchtsort der Freiheit.",
-      "category": "Kino",
-      "date": "2026-11-21",
-      "startTime": "16:15",
-      "endTime": "18:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/hiddensee/2026-11-21/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "stummfilmkonzert-the-lost-world-c63f3221",
-      "title": "Stummfilmkonzert: The Lost World",
-      "description": "USA 1925 | 65 min | Spielfilm | R: Harry O. Hoyt | Stummfilm | In London sorgt der Wissenschaftler Challenger für Aufruhr, als er verkündet, im Amazonasgebiet gebe es noch lebende prähistorische Tiere.",
-      "category": "Kino",
-      "date": "2026-11-21",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/stummfilmkonzert-the-lost-world/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "21-11-26-jazz-im-27f294c4",
-      "title": "21.11.26 jazz im kubiz: HERMETO PASCOAL TRIBUTE",
-      "description": "20 Uhr, Aula\n\nAus der Reihe „Hot Tropical Nights“:\n\nHERMETO PASCOAL TRIBUTE\n\nSteffen Schorn – flute, sax, clarinet\nDaniel Glatzel – clarinet, sax\nJohannes Böhmer – trumpet\nBertram Burkert – guitar\nJohannes Lauer – fender rhodes, trombone, percussion\nThiago Duarte – bass\nFelix Astor – drums\n\n***\nMit diesem Konzert erinnert Hot Tropical Nights an den 2025 verstorbenen brasilianischen Komponisten, Multiinstrumentalisten und\nImprovisationskünstler Hermeto Pascoal (1936–2025), einen der visionärsten Musiker der internationalen Jazzgeschichte.\nAusgehend von den Traditionen des Samba-Jazz und der brasilianischen Instrumentalmusik entwickelte Hermeto Pascoal eine unverwechselbare Klangsprache, in der Jazz, Folklore, freie Improvisation und ungewöhnliche Klänge zu etwas völlig Neuem verschmolzen. Miles Davis bezeichnete ihn als „den beeindruckendsten Musiker der Welt“.\n\nFür dieses Tribute-Konzert haben sich einige der profiliertesten Musiker der Berliner Jazzszene zusammengefunden, um Hermeto Pascoals außergewöhnliches Werk neu zu interpretieren. Ein Abend voller überraschender Klangfarben und eine Würdigung an einen Künstler, der die Grenzen des Jazz immer wieder neu definiert hat.\n*** …",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "20:00",
-      "endTime": "",
-      "location": {
-        "name": "KuBiZ Aula",
-        "address": "Bernkasteler Str. 78, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "KuBiZ Raoul Wallenberg",
-      "url": "https://www.kubiz-wallenberg.de/?p=9283",
-      "source": "kubiz-wallenberg",
-      "sources": [
-        "kubiz-wallenberg"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "tagtraeumer-1433b17b",
-      "title": "Tagträumer",
-      "description": "Sie spricht in Bildern. Er spricht Klartext. Und trotzdem verstehen sie einander – manchmal.",
-      "category": "Theater",
-      "date": "2026-11-21",
-      "startTime": "20:00",
-      "endTime": "22:00",
-      "location": {
-        "name": "BÜHNE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 12
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/tagtraeumer/2026-11-21/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "80s-meets-antidepressiva-6b14f2a4",
-      "title": "80s meets Antidepressiva",
-      "description": "Special: Karaoke-Party auf Extra-Floor\n\nDie legendäre Party „Antidepressiva“ startet am Samstag, 21.11.2026 um 21:00 Uhr (Einlass ab 20:00 Uhr). Eure Party von Freunden für Freunde. Musikalisch bleiben kaum Wünsche offen: Neben den unvergesslichen Klassikern der 80er – von Synthypop über New Wave bis hin zu Rock, NDW und Disco – gibt es die Perlen der Musikgeschichte von Euren DJs - Dan und Jensai, wie immer im Halbstundenwechsel. Dieses Mal verantwortet DJ Jensai die 80´s und DJ Dan spielt die Banger aus den anderen Jahrzehnten!\n\nUnser Special bei dieser Party: Karaoke-Party mit DJ Kevin Tones. Alle Hits, alle Genres in einem Extra Raum.\n\nEinlass: 20:00 Uhr\nBeginn: 21:00 Uhr\nPräsentiert von: www.dundj.berlin\nTickets: 15 Euro - nur an der Abendkasse erhältlich!\n\nUnbestuhlt Keine Sitzplatzgarantie",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "21:00",
-      "endTime": "",
-      "location": {
-        "name": "Peter Edel",
-        "address": "Berliner Allee 125, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 15
-      },
-      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
-      "url": "https://www.peteredel.de/events/",
-      "source": "peter-edel",
-      "sources": [
-        "peter-edel"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "uebergang-234d0c98",
-      "title": "Übergang",
-      "description": "D 2026 | 120 min | Dokumentarfilm | R: Peter Badel \u0026 Chris Wright | Ende 2023 begann Thomas Heise die Arbeit an seinem letzten Dokumentarfilm, der nach dem Tod des vielfach preisgekrönten Regisseurs im Mai 2024",
-      "category": "Kino",
-      "date": "2026-11-21",
-      "startTime": "21:00",
-      "endTime": "23:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/uebergang/2026-11-21/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-d0756107",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
@@ -13064,6 +12690,114 @@
       "cancelled": false
     },
     {
+      "id": "pilates-mit-baby-6e8cfdaf",
+      "title": "Pilates mit Baby",
+      "description": "Mit Anmeldung , es gibt noch freie Plätze! Bringe Deinen Körper in Bewegung und kräftige Deine Muskulatur, besonders die von Beckenboden, Bauch und Rücken.",
+      "category": "Sport",
+      "date": "2026-12-22",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/pilates-mit-baby/?wcs_timestamp=1797930035",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "familienfruehstueck-1e6e8ca4",
+      "title": "Familienfrühstück",
+      "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
+      "category": "Unkategorisiert",
+      "date": "2026-12-22",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/familienfruehstueck/?wcs_timestamp=1797933600",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "bewegungsbaustelle-ab98ca28",
+      "title": "Bewegungsbaustelle",
+      "description": "Offenes Bewegungsangebot für Kinder von 1 bis 3 Jahren mit Bezugspersonen Ohne Anmeldung Jeden Dienstag bauen wir eine kleine Bewegungsbaustelle auf, die euch zur freien Nutzung zur …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-22",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/gemeinsam-malen/?wcs_timestamp=1797935400",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "soft-opening-659f61e4",
+      "title": "SOFT OPENING",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "category": "Kunst",
+      "date": "2026-12-22",
+      "startTime": "11:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "GALERIE Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-22/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "geschichten-kiste-b4704bff",
       "title": "Geschichten-Kiste",
       "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
@@ -13090,6 +12824,60 @@
       "cancelled": false
     },
     {
+      "id": "broken-english-64719205",
+      "title": "Broken English",
+      "description": "GB 2025 | 98 min | Dokumentarfilm | R: Jane Pollard und Iain Forsyth | OmU | Eine außergewöhnliche Künstlerin bekommt eine außergewöhnliche Doku: »Broken English« über und mit der Musikerin und Schauspielerin Marianne Faithful",
+      "category": "Kino",
+      "date": "2026-12-22",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/broken-english/2026-12-22/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "hatha-yoga-55c534e3",
+      "title": "Hatha Yoga",
+      "description": "Mit Anmeldung Schön, dass du da bist und Lust hast Yoga zu praktizieren. Meine Stunden legen den Fokus auf Ausrichtung, Körperbewusstsein und innere Balance. Ich integriere Elemente wie Pranayama (Atemarbeit), Meditation und Mantras, um die Reise …",
+      "category": "Sport",
+      "date": "2026-12-22",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/hatha-yoga/?wcs_timestamp=1797964200",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
       "id": "dialog-in-deutsch-cc98151c",
       "title": "Dialog in Deutsch",
       "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
@@ -13109,6 +12897,60 @@
       "source": "wolfdietrich-schnurre-bibliothek",
       "sources": [
         "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "zwischen-den-welten-b10981dc",
+      "title": "Zwischen den Welten",
+      "description": "D 2026 | 103 min | Spielfilm | R: Nader Saeivar | Murad lebt mit seiner Frau Leyla und dem gemeinsamen Sohn in Berlin.",
+      "category": "Kino",
+      "date": "2026-12-22",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/zwischen-den-welten/2026-12-22/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "nur-getraeumt-18dcb3ff",
+      "title": "Nur geträumt",
+      "description": "F 2026 | 119 min | Spielfilm | R: Olivier Nakache | Éric Toledano | DF | 1985, ein Vorort von Paris: Bei Familie Dayan herrscht der ganz normale Wahnsinn.",
+      "category": "Kino",
+      "date": "2026-12-22",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-22/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -15221,6 +15063,33 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kinderbauernhof-knirpsenfarm-geoeffnet-f8b8bd57",
+      "title": "Kinderbauernhof Knirpsenfarm geöffnet",
+      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
+      "category": "Natur",
+      "date": "2027-01-21",
+      "startTime": "09:00",
+      "endTime": "16:30",
+      "location": {
+        "name": "Kinderbauernhof Knirpsenfarm",
+        "address": "Malchower Chaussee 2, 13051 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Malchower Grashüpfer e.V.",
+      "url": "https://knirpsenfarm-berlin.de/",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
       "cancelled": false
     },
     {
