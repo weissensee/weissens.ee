@@ -1,0 +1,71 @@
+{
+  "label": "KuBiZ Raoul Wallenberg",
+  "homepage": "https://www.kubiz-wallenberg.de",
+  "type": "html",
+  "url": "https://www.kubiz-wallenberg.de/",
+  "itemSelector": "article.post-content",
+  "extract": {
+    "date": {
+      "selector": "h2.entry-title a",
+      "regex": "(\\d{1,2}\\.\\d{1,2}\\.\\d{2,4})"
+    },
+    "description": {
+      "selector": ".entry-content",
+      "html": true
+    },
+    "link": {
+      "selector": "h2.entry-title a",
+      "attr": "href"
+    },
+    "price": {
+      "selector": ".entry-content",
+      "regex": "(?i)eintritt\\W{0,3}(frei)"
+    },
+    "room": {
+      "selector": ".entry-content h4",
+      "regex": "Uhr\\s*,?\\s*(.+)$"
+    },
+    "time": {
+      "selector": ".entry-content h4",
+      "regex": "(\\d{1,2}(?:[:.]\\d{2})?)\\s*Uhr"
+    },
+    "title": "h2.entry-title a"
+  },
+  "mapping": {
+    "title": {
+      "path": "title"
+    },
+    "description": {
+      "path": "description"
+    },
+    "category": {
+      "default": "Kultur"
+    },
+    "organizer": {
+      "default": "KuBiZ Raoul Wallenberg"
+    },
+    "url": {
+      "path": "link",
+      "default": "https://www.kubiz-wallenberg.de/"
+    },
+    "locationName": {
+      "template": "KuBiZ, {room}"
+    },
+    "locationAddress": {
+      "default": "Bernkasteler Str. 78, 13088 Berlin"
+    },
+    "start": {
+      "format": "2.1.06 15:04|2.1.06 15.04|2.1.06 15|2.1.2006 15:04|2.1.2006 15.04|2.1.2006 15|2.1.06|2.1.2006",
+      "template": "{date} {time}"
+    },
+    "price": {
+      "amountPath": "price",
+      "unknownIfMissing": true
+    }
+  },
+  "daysAhead": 120,
+  "status": {
+    "lastAttempt": "2026-11-21T10:45:44Z",
+    "lastSuccess": "2026-11-21T10:45:44Z"
+  }
+}
