@@ -1,66 +1,68 @@
-# Orte in Weißensee (Sammlung)
+# Places in Weißensee (collection)
 
-Orte ohne feste Termine: Spielplätze, Sportstätten, Natur, Baden, Märkte.
-**Stand: Sammlung, noch nicht in der App** (Entscheidung 21.11.2026: erst
-sammeln, Darstellung später). Termine mit Öffnungszeiten (z. B. Strandbad,
-Bootsverleih, Märkte) ließen sich als wiederkehrende Inbox-Einträge in den
-Kalender holen, wie die Knirpsenfarm.
+Places without fixed dates: playgrounds, sports facilities, nature, bathing
+and markets. **Status: collection only, not yet in the app** (decision of
+21 November 2026: collect first, decide on the presentation later). Places
+with opening hours (for example the lido, boat hire or markets) could be
+brought into the calendar as recurring inbox entries, as was done for the
+Knirpsenfarm.
 
-## Von Hand gesammelt
+## Collected by hand
 
-### Natur und Parks
+### Nature and parks
 
-| Ort | Was | Hinweise | Quelle |
+| Place | What | Notes | Source |
 |---|---|---|---|
-| Weißer See und Park | See mit Park, 1,3 km Rundweg, Rosengarten, Liegewiesen, kleines Wildgehege, Kinderspielplätze, Planschwiese (Kinderbad) | Freilichtbühne (eigene Quelle) und Strandbad am Ufer | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
-| Fauler See | Naturschutzgebiet, rund 24 ha Park mit Wegen und Liegewiese, rund 40 Brutvogelarten | Natur zum Begehen | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Fauler_See.html) |
-| Orankesee | Strandbad mit Grünanlage zum Erholen | liegt knapp außerhalb (Alt-Hohenschönhausen, Lichtenberg) | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Orankesee.html) |
-| Obersee mit Wasserturm | See und Wasserturm | liegt knapp außerhalb (Alt-Hohenschönhausen) | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Wasserturm_Obersee_Berlin.html) |
+| Weißer See and park | Lake with park, 1.3 km circular path, rose garden, sunbathing lawns, small game enclosure, playgrounds, paddling area for children | Freilichtbühne (own source) and lido on the shore | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
+| Fauler See | Nature reserve, about 24 ha of parkland with paths and a sunbathing lawn, about 40 breeding bird species | Nature to walk through | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Fauler_See.html) |
+| Orankesee | Lido with green space for relaxing | Just outside Weißensee (Alt-Hohenschönhausen, Lichtenberg) | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Orankesee.html) |
+| Obersee with water tower | Lake and water tower | Just outside Weißensee (Alt-Hohenschönhausen) | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Wasserturm_Obersee_Berlin.html) |
 
-### Baden, Boote, Einkehr am Weißen See
+### Bathing, boats and refreshments at the Weißer See
 
-| Ort | Was | Saison / Zeiten | Quelle |
+| Place | What | Season / times | Source |
 |---|---|---|---|
-| Strandbad Weißensee, Berliner Allee 155 | Naturbad | Sommer (Saison ab Mai); Zeiten je nach Quelle verschieden, OSM: 10–20 Uhr | OSM [way/20130679](https://www.openstreetmap.org/way/20130679) |
-| Bootsverleih an den Seeterrassen | Ruderboote | Sommer | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
-| Milchhäuschen | Café/Restaurant mit Terrasse am See | ganzjährig | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
-| Strandbad Orankesee | Naturbad | Sommer | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Orankesee.html) |
+| Strandbad Weißensee, Berliner Allee 155 | Natural lido | Summer (season from May); times differ between sources, OSM: 10:00–20:00 | OSM [way/20130679](https://www.openstreetmap.org/way/20130679) |
+| Boat hire at the Seeterrassen | Rowing boats | Summer | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
+| Milchhäuschen | Café and restaurant with a terrace by the lake | All year | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
+| Strandbad Orankesee | Natural lido | Summer | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Orankesee.html) |
 
-### Märkte
+### Markets
 
-| Markt | Zeiten | Hinweise |
+| Market | Times | Notes |
 |---|---|---|
-| HansaMarkt – Trödelmarkt Weißensee, Hansastraße 188 (Parkplatz Fressnapf) | jeden Sonntag; Uhrzeit unklar (Quellen: 8–16, 9–16, 10–16, 10–18; teils auch Sa) | Keine eigene Website gefunden. Betreiber laut Verzeichnis Hansamarkt GmbH & Co. KG. Vor dem Eintragen Zeiten klären. OSM [way/505312521](https://www.openstreetmap.org/way/505312521) |
-| Wochenmarkt Antonplatz | laut OSM Di, Fr 9–18 Uhr | Nicht bestätigt (keine weitere Quelle gefunden). OSM [node/12356318726](https://www.openstreetmap.org/node/12356318726) |
+| HansaMarkt – Trödelmarkt Weißensee (flea market), Hansastraße 188 (Fressnapf car park) | Every Sunday; time unclear (sources say 8–16, 9–16, 10–16 or 10–18; some also Saturdays) | No website of its own found. Operator according to a directory: Hansamarkt GmbH & Co. KG. Clarify the times before adding it. OSM [way/505312521](https://www.openstreetmap.org/way/505312521) |
+| Wochenmarkt Antonplatz (weekly market) | According to OSM Tue and Fri 9:00–18:00 | Not confirmed (no other source found). OSM [node/12356318726](https://www.openstreetmap.org/node/12356318726) |
 
-Nicht aufgenommen: Tommys turbulente Tobewelt (rein kommerziell).
+Not included: Tommys turbulente Tobewelt (purely commercial).
 
-### Sehenswürdigkeiten
+### Sights
 
-| Ort | Was | Quelle |
+| Place | What | Source |
 |---|---|---|
-| Jüdischer Friedhof Berlin-Weißensee, Herbert-Baum-Straße | Flächenmäßig größter jüdischer Friedhof Europas, eröffnet 1880, rund 115.000 Gräber; Gartendenkmal, UNESCO-Welterbe angestrebt | [berlin.de](https://www.berlin.de/sehenswuerdigkeiten/3560738-3558930-juedischer-friedhof-weissensee.html), [Landesdenkmalamt](https://www.berlin.de/landesdenkmalamt/denkmale/highlight-gartendenkmale/juedischer-friedhof-weissensee/) |
-| Park am Weißen See | See mit Fontäne, Park, Freilichtbühne, Milchhäuschen (s. o.) | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
-| Theater im Delphi (ehem. Stummfilmkino Delphi), Gustav-Adolf-Straße 2 | Einst größtes und luxuriösestes Stummfilmkino Berlins (870 Plätze); Drehort des Nachtclubs "Moka Efti" in "Babylon Berlin" | [berlin.de Highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
-| Brotfabrik / Caligariplatz | Kulturzentrum; der Platz erinnert an die Weißenseer Filmstadt ("Klein-Hollywood", Stummfilmzeit) | [berlin.de Highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
-| Brecht-Haus, Berliner Allee 185 | Wohnhaus Bertolt Brechts 1949–1953 (Gründung des Berliner Ensembles); unsaniert, nur von außen | [berlin.de Highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
-| Komponistenviertel | Altbauviertel zwischen Jüdischem Friedhof und Berliner Allee, Straßen nach Komponisten benannt (Bizet, Smetana …) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Berlin-Wei%C3%9Fensee) |
-| Kunsthalle am Hamburger Platz / weißensee kunsthochschule | Ausstellungen der Kunsthochschule (eigene Quelle) | [kh-berlin.de](https://kh-berlin.de/kalender) |
-| Bethanienkirche, Pfarrkirche Weißensee | Kirchen, teils mit Konzerten (Landeskalender) | OSM, Wikipedia (s. u.) |
-| Naturschutzgebiet Fauler See | s. "Natur und Parks" | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Fauler_See.html) |
+| Jüdischer Friedhof Berlin-Weißensee (Jewish cemetery), Herbert-Baum-Straße | By area the largest Jewish cemetery in Europe, opened in 1880, about 115,000 graves; listed historic garden, UNESCO World Heritage status sought | [berlin.de](https://www.berlin.de/sehenswuerdigkeiten/3560738-3558930-juedischer-friedhof-weissensee.html), [Landesdenkmalamt](https://www.berlin.de/landesdenkmalamt/denkmale/highlight-gartendenkmale/juedischer-friedhof-weissensee/) |
+| Park am Weißen See | Lake with fountain, park, Freilichtbühne, Milchhäuschen (see above) | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Weisse_See_Berlin.html) |
+| Theater im Delphi (formerly the Delphi silent film cinema), Gustav-Adolf-Straße 2 | Once the largest and most luxurious silent film cinema in Berlin (870 seats); filming location of the "Moka Efti" night club in "Babylon Berlin" | [berlin.de highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
+| Brotfabrik / Caligariplatz | Arts centre; the square commemorates Weißensee's film studios ("Little Hollywood", silent film era) | [berlin.de highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
+| Brecht-Haus, Berliner Allee 185 | Bertolt Brecht's home 1949–1953 (founding of the Berliner Ensemble); unrestored, exterior only | [berlin.de highlights](https://www.berlin.de/sehenswuerdigkeiten/ortsteile/7774896-8037629-weissensee.html) |
+| Komponistenviertel (composers' quarter) | Quarter of period buildings between the Jewish cemetery and Berliner Allee, with streets named after composers (Bizet, Smetana, …) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Berlin-Wei%C3%9Fensee) |
+| Kunsthalle am Hamburger Platz / weißensee kunsthochschule | Exhibitions of the art school (own source) | [kh-berlin.de](https://kh-berlin.de/kalender) |
+| Bethanienkirche, Pfarrkirche Weißensee | Churches, some with concerts (Berlin state events calendar) | OSM, Wikipedia (see below) |
+| Naturschutzgebiet Fauler See | See "Nature and parks" | [berlinstadtservice](https://www.berlinstadtservice.de/xinh/Fauler_See.html) |
 
-Weitere Hinweise: [Merian – Sehenswürdigkeiten Weißensee](https://www.merian.de/deutschland/berlin/sehenswuerdigkeiten-tipps-berlin-weissensee), [berlin.de – Sehenswürdigkeiten Pankow](https://www.berlin.de/sehenswuerdigkeiten/bezirk/pankow/).
+Further reading: [Merian – Sehenswürdigkeiten Weißensee](https://www.merian.de/deutschland/berlin/sehenswuerdigkeiten-tipps-berlin-weissensee), [berlin.de – Sehenswürdigkeiten Pankow](https://www.berlin.de/sehenswuerdigkeiten/bezirk/pankow/).
 
-### Sehenswertes aus OpenStreetMap
+### Sights from OpenStreetMap
 
-Zweite Overpass-Abfrage (`docs/osm/sehenswertes-weissensee.overpassql`):
+Second Overpass query (`docs/osm/sehenswertes-weissensee.overpassql`):
 `tourism=attraction|museum|artwork|viewpoint|gallery`, `historic=*`,
-`amenity=place_of_worship|theatre|cinema|arts_centre|fountain`, benannte
-Friedhöfe, Parks und Naturschutzgebiete. Daten © OpenStreetMap-Mitwirkende, ODbL.
+`amenity=place_of_worship|theatre|cinema|arts_centre|fountain`, and named
+cemeteries, parks and nature reserves. Data © OpenStreetMap contributors,
+ODbL.
 
-#### Friedhöfe (9)
+#### Cemeteries (9)
 
-| Name | Art | Lage | Links |
+| Name | Type | Location | Links |
 |---|---|---|---|
 | Jüdischer Friedhof Berlin-Weißensee |  | 52.54205, 13.46245 | [way/6197783](https://www.openstreetmap.org/way/6197783) · [Wikipedia](https://de.wikipedia.org/wiki/J%C3%BCdischer_Friedhof_Berlin-Wei%C3%9Fensee) |
 | Städtischer Friedhof Weißensee |  | 52.55639, 13.45292 | [way/25768161](https://www.openstreetmap.org/way/25768161) · [Wikipedia](https://de.wikipedia.org/wiki/Friedhof_Wei%C3%9Fensee) |
@@ -72,9 +74,9 @@ Friedhöfe, Parks und Naturschutzgebiete. Daten © OpenStreetMap-Mitwirkende, OD
 | Adass Jisroel Gemeindefriedhof |  | 52.55800, 13.47711 | [way/51316739](https://www.openstreetmap.org/way/51316739) · [Wikipedia](https://de.wikipedia.org/wiki/Adass-Jisroel-Friedhof) |
 | St.-Hedwigs-Friedhof |  | 52.54558, 13.45983 | [way/156138102](https://www.openstreetmap.org/way/156138102) |
 
-#### Kirchen und Gotteshäuser (14)
+#### Churches and places of worship (14)
 
-| Name | Art | Lage | Links |
+| Name | Type | Location | Links |
 |---|---|---|---|
 | Baptisten-Gemeinde | christian | 52.55269, 13.44040 | [node/1556403863](https://www.openstreetmap.org/node/1556403863) |
 | Jagannatha Tempel Berlin | hindu | 52.55688, 13.46666 | [node/3039050111](https://www.openstreetmap.org/node/3039050111) |
@@ -91,9 +93,9 @@ Friedhöfe, Parks und Naturschutzgebiete. Daten © OpenStreetMap-Mitwirkende, OD
 | C3.NYC Berlin | christian | 52.55169, 13.46770 | [way/326610460](https://www.openstreetmap.org/way/326610460) · [Wikipedia](https://de.wikipedia.org/wiki/Neuapostolische_Kirche_(Berlin-Wei%C3%9Fensee)) |
 | Kapelle | christian | 52.55780, 13.47865 | [way/378441390](https://www.openstreetmap.org/way/378441390) |
 
-#### Museen, Galerien, Kultur (11)
+#### Museums, galleries, culture (11)
 
-| Name | Art | Lage | Links |
+| Name | Type | Location | Links |
 |---|---|---|---|
 | Kino Toni & Tonino | cinema | 52.54882, 13.45093 | [node/281887442](https://www.openstreetmap.org/node/281887442) |
 | Brotfabrik | cinema | 52.55256, 13.43058 | [node/447078290](https://www.openstreetmap.org/node/447078290) |
@@ -107,9 +109,9 @@ Friedhöfe, Parks und Naturschutzgebiete. Daten © OpenStreetMap-Mitwirkende, OD
 | Brotfabrik | arts_centre | 52.55261, 13.43059 | [way/81127025](https://www.openstreetmap.org/way/81127025) · [Wikipedia](https://de.wikipedia.org/wiki/Brotfabrik_(Berlin)) |
 | Kunsthalle Berlin-Weißensee | museum | 52.55611, 13.43936 | [way/138516180](https://www.openstreetmap.org/way/138516180) |
 
-#### Kunst im öffentlichen Raum (25)
+#### Public art (25)
 
-| Name | Art | Lage | Links |
+| Name | Type | Location | Links |
 |---|---|---|---|
 | Emma T. |  | 52.55202, 13.43165 | [node/1486087545](https://www.openstreetmap.org/node/1486087545) |
 | Feuerwehrmann | statue | 52.55641, 13.45959 | [node/2927313833](https://www.openstreetmap.org/node/2927313833) |
@@ -137,9 +139,9 @@ Friedhöfe, Parks und Naturschutzgebiete. Daten © OpenStreetMap-Mitwirkende, OD
 | Triton | statue, Hans Schellhorn | 52.55537, 13.46196 | [node/13057790219](https://www.openstreetmap.org/node/13057790219) |
 | Triton | statue, Hans Schellhorn | 52.55531, 13.46176 | [node/13057790220](https://www.openstreetmap.org/node/13057790220) |
 
-#### Denkmäler und Gedenkorte (10)
+#### Monuments and memorials (10)
 
-| Name | Art | Lage | Links |
+| Name | Type | Location | Links |
 |---|---|---|---|
 | Herbert Baum | tomb | 52.54444, 13.45794 | [node/281756556](https://www.openstreetmap.org/node/281756556) |
 | Gedenkstein an die Erbauer des Parks | plaque | 52.55629, 13.46264 | [node/2607888430](https://www.openstreetmap.org/node/2607888430) |
@@ -152,11 +154,11 @@ Friedhöfe, Parks und Naturschutzgebiete. Daten © OpenStreetMap-Mitwirkende, OD
 | Carl James Bühring | plaque | 52.55242, 13.45117 | [node/12768039990](https://www.openstreetmap.org/node/12768039990) |
 | Erbbegräbnis Lewinsohn Netter | tomb | 52.54381, 13.46063 | [node/12785757520](https://www.openstreetmap.org/node/12785757520) |
 
-Dazu 28 Stolpersteine (OSM `memorial=stolperstein`), hier nicht einzeln aufgeführt.
+In addition, there are 28 Stolpersteine (OSM `memorial=stolperstein`), not listed individually here.
 
-#### Parks und Plätze (9)
+#### Parks and squares (9)
 
-| Name | Art | Lage | Links |
+| Name | Type | Location | Links |
 |---|---|---|---|
 | NSG Fauler See |  | 52.55410, 13.49141 | [way/4788729](https://www.openstreetmap.org/way/4788729) |
 | Solonplatz |  | 52.54919, 13.46249 | [way/25822455](https://www.openstreetmap.org/way/25822455) |
@@ -168,27 +170,27 @@ Dazu 28 Stolpersteine (OSM `memorial=stolperstein`), hier nicht einzeln aufgefü
 | Antonplatz |  | 52.54777, 13.45115 | [way/126559143](https://www.openstreetmap.org/way/126559143) · [Wikipedia](https://de.wikipedia.org/wiki/Antonplatz) |
 | Wohnungsnahe Grünanlage |  | 52.56013, 13.45395 | [way/1183858582](https://www.openstreetmap.org/way/1183858582) |
 
-#### Sonstiges (historisch, Brunnen, Industrie) (5)
+#### Other (historic, fountains, industry) (5)
 
-| Name | Art | Lage | Links |
+| Name | Type | Location | Links |
 |---|---|---|---|
 | VEB Isokond |  | 52.55050, 13.43846 | [node/2030883817](https://www.openstreetmap.org/node/2030883817) |
 | Seelöwe |  | 52.55539, 13.46130 | [node/3181885304](https://www.openstreetmap.org/node/3181885304) |
 | Seelöwe |  | 52.55546, 13.46125 | [node/10038850411](https://www.openstreetmap.org/node/10038850411) |
 | Motorwerk Berlin |  | 52.56359, 13.46177 | [way/288253333](https://www.openstreetmap.org/way/288253333) · [Wikipedia](https://de.wikipedia.org/wiki/Motorwerk) |
 | DGZ Brunnen |  | 52.55846, 13.44122 | [way/490757360](https://www.openstreetmap.org/way/490757360) |
-## Aus OpenStreetMap: Spiel, Sport, Märkte (21.11.2026)
+## From OpenStreetMap: play, sport, markets (21 November 2026)
 
-Abfrage über die Overpass-API, alle Objekte innerhalb der Ortsteilgrenze
-Weißensee (`admin_level=10`) mit `leisure=playground|pitch|sports_centre|
-stadium|fitness_station|track|swimming_pool|sports_hall|fitness_centre|…`,
-`amenity=marketplace|boat_rental` und Vereinen mit `sport=*`.
-Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
-(Breite, Länge).
+Query via the Overpass API (`docs/osm/orte-weissensee.overpassql`): all objects
+within the Weißensee locality boundary (`admin_level=10`) with
+`leisure=playground|pitch|sports_centre|stadium|fitness_station|track|swimming_pool|sports_hall|fitness_centre|…`,
+`amenity=marketplace|boat_rental` and clubs with `sport=*`. Data ©
+OpenStreetMap contributors, ODbL. "Location" is the centre point
+(latitude, longitude).
 
-### Spielplätze, öffentlich bzw. ohne Angabe (69)
+### Playgrounds, public or unspecified (69)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.56056, 13.44651 | [node/2091480495](https://www.openstreetmap.org/node/2091480495) |
 | – |  |  |  | 52.56116, 13.44542 | [node/2091489555](https://www.openstreetmap.org/node/2091489555) |
@@ -260,9 +262,9 @@ Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
 | – |  |  |  | 52.54930, 13.47830 | [way/1426253821](https://www.openstreetmap.org/way/1426253821) |
 | – |  |  |  | 52.54921, 13.47755 | [way/1426253822](https://www.openstreetmap.org/way/1426253822) |
 
-### Spielplätze, privat (Kita, Wohnanlage, Kunden) (13)
+### Playgrounds, private (nursery, housing estate, customers) (13)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.56104, 13.45457 | [node/2587373474](https://www.openstreetmap.org/node/2587373474) |
 | – |  |  |  | 52.54900, 13.46634 | [node/6499784792](https://www.openstreetmap.org/node/6499784792) |
@@ -278,9 +280,9 @@ Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
 | – |  |  |  | 52.54807, 13.45364 | [way/1042709234](https://www.openstreetmap.org/way/1042709234) |
 | – |  |  |  | 52.55829, 13.48468 | [way/1169861692](https://www.openstreetmap.org/way/1169861692) |
 
-### Fitnessstationen (6)
+### Outdoor fitness stations (6)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – | horizontal_bar;horizontal_ladder;wall_bars |  |  | 52.55595, 13.46133 | [node/11070826871](https://www.openstreetmap.org/node/11070826871) |
 | – | parallel_bars |  |  | 52.55590, 13.46140 | [node/12217013167](https://www.openstreetmap.org/node/12217013167) |
@@ -289,29 +291,29 @@ Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
 | – | push-up |  |  | 52.55593, 13.46128 | [node/12217013170](https://www.openstreetmap.org/node/12217013170) |
 | – |  |  | 24/7 | 52.55602, 13.46137 | [way/760138880](https://www.openstreetmap.org/way/760138880) |
 
-### Sportzentren, -hallen, Stadien (15)
+### Sports centres, sports halls, stadiums (15)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | Sportakademie Pankow |  |  |  | 52.55158, 13.44829 | [node/12770852376](https://www.openstreetmap.org/node/12770852376) |
 | – |  |  |  | 52.55510, 13.48794 | [way/4788730](https://www.openstreetmap.org/way/4788730) |
-| Strandbad Weißensee | Schwimmen | Berliner Allee 155 | 10:00-20:00 | 52.55393, 13.46548 | [way/20130679](https://www.openstreetmap.org/way/20130679) |
-| Sporthalle | verschiedene |  | Mo-Fr 08:00-22:00; Sa,Su 10:00-16:00; PH 10:00-13:00 | 52.55188, 13.46107 | [way/36810473](https://www.openstreetmap.org/way/36810473) |
-| Sporthalle Woelckpromenade 11 | verschiedene |  |  | 52.55374, 13.45513 | [way/36876896](https://www.openstreetmap.org/way/36876896) |
-| TCW SPORTS | Tennis | Roelckestraße 105 |  | 52.56533, 13.45900 | [way/37836532](https://www.openstreetmap.org/way/37836532) |
-| – | verschiedene |  |  | 52.55095, 13.47550 | [way/43887842](https://www.openstreetmap.org/way/43887842) |
-| Sporthalle Hagenbeck Schule | verschiedene |  |  | 52.55805, 13.44715 | [way/59431451](https://www.openstreetmap.org/way/59431451) |
-| – | verschiedene |  |  | 52.55874, 13.44862 | [way/59431535](https://www.openstreetmap.org/way/59431535) |
+| Strandbad Weißensee | swimming | Berliner Allee 155 | 10:00-20:00 | 52.55393, 13.46548 | [way/20130679](https://www.openstreetmap.org/way/20130679) |
+| Sporthalle | multi-sport |  | Mo-Fr 08:00-22:00; Sa,Su 10:00-16:00; PH 10:00-13:00 | 52.55188, 13.46107 | [way/36810473](https://www.openstreetmap.org/way/36810473) |
+| Sporthalle Woelckpromenade 11 | multi-sport |  |  | 52.55374, 13.45513 | [way/36876896](https://www.openstreetmap.org/way/36876896) |
+| TCW SPORTS | tennis | Roelckestraße 105 |  | 52.56533, 13.45900 | [way/37836532](https://www.openstreetmap.org/way/37836532) |
+| – | multi-sport |  |  | 52.55095, 13.47550 | [way/43887842](https://www.openstreetmap.org/way/43887842) |
+| Sporthalle Hagenbeck Schule | multi-sport |  |  | 52.55805, 13.44715 | [way/59431451](https://www.openstreetmap.org/way/59431451) |
+| – | multi-sport |  |  | 52.55874, 13.44862 | [way/59431535](https://www.openstreetmap.org/way/59431535) |
 | – |  |  |  | 52.55467, 13.47714 | [way/125226183](https://www.openstreetmap.org/way/125226183) |
-| Turnhalle der Picasso Grundschule | verschiedene |  |  | 52.54729, 13.46048 | [way/156138101](https://www.openstreetmap.org/way/156138101) |
-| Theresienturnhalle | verschiedene |  |  | 52.55165, 13.44589 | [way/234191552](https://www.openstreetmap.org/way/234191552) |
-| XXXL Die Schmiede | Fitness | Langhansstraße 123 | Mo-Fr 09:00-22:00; Sa 09:00-17:00 | 52.55068, 13.44359 | [way/288280972](https://www.openstreetmap.org/way/288280972) |
+| Turnhalle der Picasso Grundschule | multi-sport |  |  | 52.54729, 13.46048 | [way/156138101](https://www.openstreetmap.org/way/156138101) |
+| Theresienturnhalle | multi-sport |  |  | 52.55165, 13.44589 | [way/234191552](https://www.openstreetmap.org/way/234191552) |
+| XXXL Die Schmiede | fitness | Langhansstraße 123 | Mo-Fr 09:00-22:00; Sa 09:00-17:00 | 52.55068, 13.44359 | [way/288280972](https://www.openstreetmap.org/way/288280972) |
 | Sportkomplex Rennbahn |  |  |  | 52.56429, 13.45648 | [way/306663563](https://www.openstreetmap.org/way/306663563) |
 | Luisenhalle |  |  |  | 52.55410, 13.45544 | [way/474617810](https://www.openstreetmap.org/way/474617810) |
 
-### Fitnessstudios (kommerziell) (8)
+### Gyms (commercial) (8)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | BiSee Yoga |  | Bizetstraße 43 |  | 52.54786, 13.45343 | [node/9402426708](https://www.openstreetmap.org/node/9402426708) |
 | Fitbox |  | Berliner Allee 108 | Mo-Fr 10:00-21:00; Sa 10:00-16:00 | 52.55008, 13.45961 | [node/9431775959](https://www.openstreetmap.org/node/9431775959) |
@@ -322,26 +324,26 @@ Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
 | Yoga im Garten |  |  | Mo 18:00-19:30; We 18:00-19:30; Th 18:15-19:15; Fr 10:30-12:00; Sa 10:00-11:30 | 52.55501, 13.46607 | [node/14112265302](https://www.openstreetmap.org/node/14112265302) |
 | Soulstone Studio |  | Lehderstraße 26 |  | 52.54975, 13.44118 | [way/1557250679](https://www.openstreetmap.org/way/1557250679) |
 
-### Laufbahnen (9)
+### Running tracks (9)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – | running |  |  | 52.55403, 13.45583 | [way/174737170](https://www.openstreetmap.org/way/174737170) |
-| – | Leichtathletik |  |  | 52.55128, 13.44515 | [way/234191711](https://www.openstreetmap.org/way/234191711) |
-| – | Leichtathletik |  |  | 52.55153, 13.44525 | [way/234191712](https://www.openstreetmap.org/way/234191712) |
-| – | Leichtathletik |  |  | 52.55739, 13.49097 | [way/812902924](https://www.openstreetmap.org/way/812902924) |
-| – | Leichtathletik |  |  | 52.55743, 13.45105 | [way/1170506030](https://www.openstreetmap.org/way/1170506030) |
-| – | Leichtathletik |  |  | 52.55164, 13.47602 | [way/1222704099](https://www.openstreetmap.org/way/1222704099) |
-| – | Leichtathletik |  |  | 52.56360, 13.45592 | [relation/3593180](https://www.openstreetmap.org/relation/3593180) |
+| – | athletics |  |  | 52.55128, 13.44515 | [way/234191711](https://www.openstreetmap.org/way/234191711) |
+| – | athletics |  |  | 52.55153, 13.44525 | [way/234191712](https://www.openstreetmap.org/way/234191712) |
+| – | athletics |  |  | 52.55739, 13.49097 | [way/812902924](https://www.openstreetmap.org/way/812902924) |
+| – | athletics |  |  | 52.55743, 13.45105 | [way/1170506030](https://www.openstreetmap.org/way/1170506030) |
+| – | athletics |  |  | 52.55164, 13.47602 | [way/1222704099](https://www.openstreetmap.org/way/1222704099) |
+| – | athletics |  |  | 52.56360, 13.45592 | [relation/3593180](https://www.openstreetmap.org/relation/3593180) |
 | – |  |  |  | 52.55682, 13.49063 | [relation/5640419](https://www.openstreetmap.org/relation/5640419) |
-| – | Leichtathletik |  |  | 52.55430, 13.48554 | [relation/11170837](https://www.openstreetmap.org/relation/11170837) |
+| – | athletics |  |  | 52.55430, 13.48554 | [relation/11170837](https://www.openstreetmap.org/relation/11170837) |
 
-### Sportplätze (92), nach Sportart
+### Sports pitches (92), by sport
 
 
-#### Tischtennis (47)
+#### Table tennis (47)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.55164, 13.44505 | [node/1461097283](https://www.openstreetmap.org/node/1461097283) |
 | – |  |  |  | 52.55091, 13.45325 | [node/4389400313](https://www.openstreetmap.org/node/4389400313) |
@@ -391,9 +393,9 @@ Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
 | – |  |  |  | 52.54946, 13.47767 | [node/13110840890](https://www.openstreetmap.org/node/13110840890) |
 | – |  |  |  | 52.55726, 13.43443 | [way/234806826](https://www.openstreetmap.org/way/234806826) |
 
-#### Fußball (16)
+#### Football (16)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | Stadion Buschallee |  |  |  | 52.55433, 13.48565 | [way/26502253](https://www.openstreetmap.org/way/26502253) |
 | – |  |  |  | 52.55683, 13.49070 | [way/26502255](https://www.openstreetmap.org/way/26502255) |
@@ -414,7 +416,7 @@ Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
 
 #### Tennis (8)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.55314, 13.48595 | [way/45726980](https://www.openstreetmap.org/way/45726980) |
 | – |  |  |  | 52.55262, 13.48620 | [way/45726981](https://www.openstreetmap.org/way/45726981) |
@@ -427,16 +429,16 @@ Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
 
 #### Basketball (4)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.54640, 13.45396 | [node/4878788684](https://www.openstreetmap.org/node/4878788684) |
 | – |  |  |  | 52.55450, 13.45578 | [way/174737169](https://www.openstreetmap.org/way/174737169) |
 | – |  |  |  | 52.55443, 13.47744 | [way/344049307](https://www.openstreetmap.org/way/344049307) |
 | – |  |  |  | 52.55410, 13.47626 | [way/590539405](https://www.openstreetmap.org/way/590539405) |
 
-#### Leichtathletik (4)
+#### Athletics (4)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.55465, 13.45582 | [way/174737171](https://www.openstreetmap.org/way/174737171) |
 | – |  |  |  | 52.55455, 13.45537 | [way/174737172](https://www.openstreetmap.org/way/174737172) |
@@ -445,72 +447,72 @@ Daten © OpenStreetMap-Mitwirkende, ODbL. "Lage" ist der Mittelpunkt
 
 #### Baseball (2)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.56223, 13.45567 | [way/28721536](https://www.openstreetmap.org/way/28721536) |
 | – |  |  |  | 52.56483, 13.45691 | [way/306663560](https://www.openstreetmap.org/way/306663560) |
 
 #### Rugby (2)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.55478, 13.48685 | [way/51073882](https://www.openstreetmap.org/way/51073882) |
 | – |  |  |  | 52.55586, 13.49000 | [way/360656882](https://www.openstreetmap.org/way/360656882) |
 
-#### verschiedene (2)
+#### Multi-sport (2)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.55416, 13.45549 | [way/141225718](https://www.openstreetmap.org/way/141225718) |
 | – |  |  |  | 52.55355, 13.43733 | [way/1026538407](https://www.openstreetmap.org/way/1026538407) |
 
 #### Skateboard (2)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.56425, 13.45426 | [way/306663561](https://www.openstreetmap.org/way/306663561) |
 | – |  |  |  | 52.54639, 13.45405 | [way/1019783454](https://www.openstreetmap.org/way/1019783454) |
 
-#### Schach (1)
+#### Chess (1)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.54605, 13.45424 | [node/6657112477](https://www.openstreetmap.org/node/6657112477) |
 
 #### Rugby (League) (1)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.55552, 13.48908 | [way/46731442](https://www.openstreetmap.org/way/46731442) |
 
-#### Bogenschießen (1)
+#### Archery (1)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.56537, 13.45570 | [way/306663587](https://www.openstreetmap.org/way/306663587) |
 
-#### Fußball/Basketball (1)
+#### Football/basketball (1)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
-| – | privat |  |  | 52.54798, 13.46094 | [way/884231553](https://www.openstreetmap.org/way/884231553) |
+| – | private |  |  | 52.54798, 13.46094 | [way/884231553](https://www.openstreetmap.org/way/884231553) |
 
 #### Volleyball (1)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | – |  |  |  | 52.55712, 13.45060 | [way/1170506033](https://www.openstreetmap.org/way/1170506033) |
 
-### Vereine/Sport ohne Platz-Objekt (2)
+### Clubs/sport without a pitch object (2)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
-| German Neijiaquan Association - Verband für Innere Chinesische Kampfkunst | Kampfsport |  |  | 52.54780, 13.47910 | [node/1918497090](https://www.openstreetmap.org/node/1918497090) |
-| Rugby Klub 03 Berlin e.V. | Rugby | Hansastraße 190 |  | 52.55651, 13.48778 | [node/4955043266](https://www.openstreetmap.org/node/4955043266) |
+| German Neijiaquan Association - Verband für Innere Chinesische Kampfkunst | martial arts |  |  | 52.54780, 13.47910 | [node/1918497090](https://www.openstreetmap.org/node/1918497090) |
+| Rugby Klub 03 Berlin e.V. | rugby | Hansastraße 190 |  | 52.55651, 13.48778 | [node/4955043266](https://www.openstreetmap.org/node/4955043266) |
 
-### Märkte (2)
+### Markets (2)
 
-| Name | Art | Adresse | Öffnungszeiten (OSM) | Lage | OSM |
+| Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
 | Wochenmarkt Antonplatz |  |  | Tu,Fr 09:00-18:00; PH off | 52.54863, 13.45100 | [node/12356318726](https://www.openstreetmap.org/node/12356318726) |
 | HansaMarkt - Trödelmarkt Weißensee |  | Hansastraße 188 | Su 09:00-16:00 | 52.55550, 13.48572 | [way/505312521](https://www.openstreetmap.org/way/505312521) |
