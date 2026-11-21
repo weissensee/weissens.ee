@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:20:20.295172954Z",
+  "generatedAt": "2026-11-21T19:47:41.081398204Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-db64a6fd",
@@ -214,33 +214,6 @@
       "cancelled": false
     },
     {
-      "id": "romancero-del-baile-flamenco-e2c1ce04",
-      "title": "ROMANCERO DEL BAILE FLAMENCO",
-      "description": "Die renommierten Flamenco-Meister Mercedes Ruiz (Choreografie und Tanz) und Santiago Lara (Flamenco-Gitarre und Komposition) kehren mit ihrem neuen Stück „Romancero del Baile Flamenco“ („Balladen des Flamenco-Tanzes“), nach Berlin zurück. „One of the most exciting dancers working today\" (The New York Times)",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "15:30",
-      "endTime": "",
-      "location": {
-        "name": "Theater im Delphi",
-        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=535",
-      "source": "theater-im-delphi",
-      "sources": [
-        "theater-im-delphi"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "hiddensee-19174df2",
       "title": "Hiddensee",
       "description": "D 2026 | 119 min | Dokumentarfilm | R: Annekatrin Hendel | Hiddensee, ein nur 17 Kilometer langer Streifen Land in der Ostsee, geliebt als Sehnsuchtsort der Freiheit.",
@@ -369,33 +342,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-ad11d68c",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "20:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -3068,6 +3014,32 @@
       "cancelled": false
     },
     {
+      "id": "digital-zebra-4e54436b",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2026-11-26",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-4e54436b",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "initiative-faires-pankow-23022441",
       "title": "Initiative Faires.Pankow",
       "description": "Der Faire.Donnerstag ist ein neues wöchentliches Nachbarschaftsprojekt im Stadtteilzentrum Weißensee, das ökologische Nachhaltigkeit, soziale Teilhabe und gemeinschaftliches Handeln verbindet.\nImmer donnerstags wird das Haus zum Treffpunkt für alle, die teilen, helfen, tauschen oder einfach beisammen sein möchten.\n\nDas Herzstück ist das Fair.Café – immer von 14 bis 17 Uhr . Hier gibt es kostenlosen Kaffee, gerettete Lebensmittel, nette Gespräche und Raum für neue Ideen – ganz ohne Konsumzwang und Kostendruck, getragen vom Engagement Nachbarschaftsinitiative Faires.Pankow. Bringt gerne (Stoff)-Tüten, Dosen und andere lebensmittelsichere Behälter mit, um die geretteten Lebensmittel sicher zu transportieren. Achtung: Die geretteten Lebensmittel sind möglicherweise schon vor dem Ende der Veranstaltung vergriffen, je nach Menge und Rückfrage. Beginn der Ausgabe ist um 14 Uhr.\n\nIm Anschluss an das Fair.Café finden wechselnde Workshops, Aktionen und Veranstaltungen rund um Nachhaltigkeit, Reparatur, Upcycling oder Nachbarschaftsprojekte statt. Hier können sich alle einbringen, mitmachen oder selbst etwas auf die Beine stellen. Wie mitmachen? Komm vorbei – mit deiner Idee! Ob beim …",
@@ -3925,6 +3897,32 @@
       "cancelled": true
     },
     {
+      "id": "upcycling-workshop-mit-amina-a9c4d280",
+      "title": "Upcycling Workshop mit Amina",
+      "description": "In diesem Workshop habt ihr die Möglichkeit, individuelle Postkarten und Collagen zu gestalten. Mit einer breiten Auswahl an Zeitschriften, Kartons und alten Postkarten könnt ihr eigene Kunstwerke erschaffen und diese als Erinnerung behalten oder als Grußbotschaft versenden.\n\nOhne Anmeldung\nIn der KreativLounge (1. OG)\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=286582",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "11:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#upcycling-workshop-mit-amina-a9c4d280",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "vineta-kaula-a-mapping-the-954294a5",
       "title": "Vineta Kaulača – Mapping the View",
       "description": "16.10. – 29.11.26 | 11 – 20 Uhr | Eröffnung: 16.10. | 19 Uhr | Im Rahmen des Jahresprogramms „Mixta Affectus“ | Vineta Kaulača ist eine Künstlerin aus Lettland.",
@@ -3945,6 +3943,32 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "workshop-upcycling-postkarten-collagen-760ef62f",
+      "title": "Workshop Upcycling-Postkarten. Collagen",
+      "description": "*Aktionen „Reparieren statt wegwerfen!“*\n\nIn diesem Workshop haben Besucherinnen die Möglichkeit, individuelle Postkarten und Collagen zu gestalten. Mit einer breiten Auswahl an Zeitschriften, Kartons und alten Postkarten können sie eigene Kunstwerke schaffen und diese als Erinnerung behalten oder Grußbotschaft versenden. Allen Teilnehmenden soll ein kreativer Moment gewährt werden, in dem jede und jeder kurz in sich kehren und etwas schönes ausarbeiten kann.\n\nIm KreativLounge im 1. OG\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=295397",
+      "category": "Kultur",
+      "date": "2026-11-28",
+      "startTime": "11:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#workshop-upcycling-postkarten-collagen-760ef62f",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -4945,6 +4969,32 @@
       "cancelled": false
     },
     {
+      "id": "kamishibai-erzaehltheater-55bfeb1c",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2026-11-30",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-55bfeb1c",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "inklusiver-musikalischer-salon-48788303",
       "title": "Inklusiver Musikalischer Salon",
       "description": "",
@@ -5242,6 +5292,32 @@
       "cancelled": false
     },
     {
+      "id": "geschichten-kiste-7c05315a",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2026-12-01",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-7c05315a",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "inklusive-soundwerkstatt-919bed71",
       "title": "Inklusive Soundwerkstatt",
       "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\nmit Petra Schröck und Jörg Wesche",
@@ -5377,6 +5453,32 @@
       "cancelled": false
     },
     {
+      "id": "dialog-in-deutsch-33316d7f",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2026-12-01",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-33316d7f",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "wholetrain-04b2e00e",
       "title": "Wholetrain",
       "description": "D 2006 | 83 min | Spielfilm | R: Florian Gaag | OmeU | Florian Gaag erzählt seinem vielfach preisgekrönten Graffitifilmklassiker »Wholetrain« die Geschichte einer Crew von vier Graffiti-Writern",
@@ -5428,6 +5530,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "bilderbuchkino-24a7bbe1",
+      "title": "Bilderbuchkino",
+      "description": "Jeden 1. und 3. Mittwoch um 10:00 Uhr (außer im Juli + August) findet unser Bilderbuchkino für Kinder statt - empfohlen ab 4 Jahren.\nDas Bilderbuchkino wird gezeigt im Veranstaltungsraum der Bibliothek in der 3. Etage, Raum 310.\n\nFür einzelne Familien/Begleitpersonen mit Kind(ern) ist keine Anmeldung nötig, kommt gern einfach vorbei!\n\n*Gruppen (KiTas, Schulklassen...) melden sich bitte am 1. Werktag des Vormonats an* über (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*November\n04.11. \u0026 18.11.*\n*Das schönste Martinslicht* von Ursula Wölfel\nMartin ist so stolz auf seine Laterne, die er extra für den Umzug gebastelt hat. Da trifft er Thomas, der keine Laterne mehr hat und ziemlich traurig ist. Ob Martin etwas einfällt, um Thomas wieder aufzumuntern?\n\n*Dezember\n02.12. \u0026 16.12.*\n*Das Weihnachtswunschtraumbett* von Wolfram Hänel\nWas soll sich Marie nur wünschen? Egal was es ist, immer sagen ihre Eltern, dass es unmöglich wäre. Doch was hat Papa auf einmal für eine Idee?\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241912",
+      "category": "Kultur",
+      "date": "2026-12-02",
+      "startTime": "10:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#bilderbuchkino-24a7bbe1",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -5563,6 +5691,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "gemeinsam-stricken-59d4ee03",
+      "title": "Gemeinsam Stricken",
+      "description": "Wir treffen uns in der Bibliothek, um gemeinsam zu Stricken! Das Angebot richtet sich an *alle Altersgruppen*, für Anfänger_innen und Fortgeschrittene.\n\nGerne können eigene Materialien mitgebracht werden, ein Grundstock zum Einstieg ist vorhanden.\n\nWir Stricken in der KreativLounge in der 1. Etage\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=253708",
+      "category": "Kultur",
+      "date": "2026-12-02",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#gemeinsam-stricken-59d4ee03",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -5937,6 +6091,32 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "digital-zebra-473fc5ae",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2026-12-03",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-473fc5ae",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -6375,6 +6555,32 @@
       "cancelled": false
     },
     {
+      "id": "pokemon-nachmittag-34b150c0",
+      "title": "Pokémon-Nachmittag",
+      "description": "Ein Nachmittag, gemacht für alle Fans des Pokémon Franchise!\nKommt vorbei, tauscht untereinander eure Karten, spielt miteinander oder vernetzt euch.\nAuch, wenn ihr euch zum Pokémon Go! spielen verabreden wollt, findet ihr hierfür einen Platz.\nKeine Anmeldung nötig, kommt einfach vorbei!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=297266",
+      "category": "Kultur",
+      "date": "2026-12-04",
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#pokemon-nachmittag-34b150c0",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "schoene-seelen-84a44b65",
       "title": "Schöne Seelen",
       "description": "Sommer 1996. Der ewig jugendliche Tagelöhner Freddy, hangelt sich von einem Gelegenheitsjob zum nächsten.",
@@ -6503,6 +6709,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "originale-die-kunsthalle-am-hamburger-f1dbb193",
+      "title": "ORIGINALE – Die KUNSTHALLE am Hamburger Platz, 2010–2016",
+      "description": "Ausstellung über die Umwandlung der Kaufhalle in eine Kunsthalle\nKuratiert von Benjamin Althammer, Else Gabriel und Andreas Rost\n\n05.12.2026–15.01.2027\nEröffnung: 04.12.2026, 19 Uhr\nKunsthalle am Hamburger Platz\nGustav-Adolf-Straße 140, 13086 Berlin\nÖffnungszeiten folgen in Kürze\n\nEnde 2010 wurde in der ehemaligen DDR-Kaufhalle die KUNSTHALLE am Hamburger Platz gegründet, als Ort, dessen Programm über eine Hochschulgalerie hinaus ging. Unter dem Stichwort „Plot.Point.Praxis“ war einer der Schwerpunkte der Übergang vom Hochschulstudium in die freie künstlerische Praxis. Studierende und Alumni konnten Ausstellungen und Veranstaltungen organisieren und sich austauschen über Chancen und Schwierigkeiten nach dem Studium. Es entstand ein weitreichendes Netzwerk mit etlichen Kooperationen – national und international. Das Projekt wurde mehrfach finanziell gefördert und war u.a. Projektpartner der Art Week Berlin, 2013. Die zahlreichen Projekte und Ausstellungen sollen im Dezember 2026/Januar 2027 als Angebot für einen Neustart der KUNSTHALLE am Hamburger Platz mit damaligen Mitstreiter*innen und neuen Interessent*innen dokumentiert und diskutiert werden. Ein Katalog ist geplant.",
+      "category": "Kultur",
+      "date": "2026-12-05",
+      "startTime": "",
+      "endTime": "",
+      "location": {
+        "name": "Kunsthalle am Hamburger Platz",
+        "address": "Bühringstraße 20 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "weißensee kunsthochschule berlin",
+      "url": "https://kh-berlin.de/kalender/831",
+      "source": "kunsthochschule-weissensee",
+      "sources": [
+        "kunsthochschule-weissensee"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -7509,6 +7742,58 @@
       "cancelled": false
     },
     {
+      "id": "montags-spielrunde-d3377bed",
+      "title": "Montags-Spielrunde",
+      "description": "Hast du Lust auf einen gemütlichen Nachmittag in guter Gesellschaft? Egal ob Klassiker oder moderne Strategiespiele - bei uns kommen alle auf ihre Kosten!\n\n*Was euch erwartet:*\n- *für Erwachsene*: Spannende Gesellschaftsspiele und neue Kontakte\n- *für Familien und Kinder*: Pädagogisch wertvolle Spiele, die Spaß machen und fördern\n- *für alle Generationen*: Jung und alt spielen gemeinsam - für einen lebendigen Austausch\n\nUnser Angebot: Wir nutzen Spiele aus unserem vielfältigen Bibliotheksbestand. Gerne könnt ihr aber auch euer eigenes Lieblingsspiel mitbringen und mit anderen teilen!\n\nKommt einfach vorbei - wir freuen uns auf euch!\n\n*Jeden 1. und 3. Montag in der KreativLounge in der 1. Etage der Bibliothek*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=279082",
+      "category": "Kultur",
+      "date": "2026-12-07",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#montags-spielrunde-d3377bed",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kamishibai-erzaehltheater-87df3dee",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2026-12-07",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-87df3dee",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "im-umkreis-des-paradieses-5adb5063",
       "title": "Im Umkreis des Paradieses",
       "description": "D 2026 | 121 min | Dokumentarfilm | R: Yulia Lokshina | OmU | »Im Umkreis des Paradieses« kreist um eine Siedlung europäischer Aussteiger in einer der ärmsten Gegenden Paraguays.",
@@ -7779,6 +8064,32 @@
       "cancelled": false
     },
     {
+      "id": "geschichten-kiste-2db23758",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2026-12-08",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-2db23758",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "2m-wo-ist-dein-platz-e0969fc6",
       "title": "2m² – Wo ist dein Platz für die Ewigkeit",
       "description": "D/B/TR 2026 | 82 min | Dokumentarfilm | R: Volkan Üce | Tayfun, ein Bestatter für die belgisch-türkische Gemeinschaft, muss Familien dabei helfen, zu entscheiden, wo ihre Angehörigen beigesetzt werden sollen.",
@@ -7934,6 +8245,32 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "dialog-in-deutsch-7e3dc6ad",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2026-12-08",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-7e3dc6ad",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -8127,6 +8464,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "repair-cafe-537dd175",
+      "title": "Repair-Café",
+      "description": "*Hilfe zur Selbsthilfe bei der Reparatur kleiner Haushaltsgeräte*\nWer technische und handwerkliche Fähigkeiten hat, kann sie weitergeben – wer sie nicht hat, kann sich das Wissen der Expert_innen zunutze machen. Reparieren macht Spaß und ist oft einfacher, als man denkt! In lockerer Atmosphäre heißt es wieder gemeinsam Tüfteln, Reparieren oder sein Wissen weitergeben – darum geht es beim Repair-Café.\n\nWir helfen Ihnen das Problem zu finden und das defekte Gerät zu reparieren.\n\nDas Angebot richtet sich an alle Altersgruppen\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=267133",
+      "category": "Kultur",
+      "date": "2026-12-09",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#repair-cafe-537dd175",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -8446,6 +8809,32 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "digital-zebra-c271545e",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2026-12-10",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-c271545e",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -8907,6 +9296,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "pokemon-nachmittag-594aaece",
+      "title": "Pokémon-Nachmittag",
+      "description": "Ein Nachmittag, gemacht für alle Fans des Pokémon Franchise!\nKommt vorbei, tauscht untereinander eure Karten, spielt miteinander oder vernetzt euch.\nAuch, wenn ihr euch zum Pokémon Go! spielen verabreden wollt, findet ihr hierfür einen Platz.\nKeine Anmeldung nötig, kommt einfach vorbei!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=297266",
+      "category": "Kultur",
+      "date": "2026-12-11",
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#pokemon-nachmittag-594aaece",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -9774,6 +10189,32 @@
       "cancelled": false
     },
     {
+      "id": "digital-zebra-87f64eb1",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2026-12-14",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-87f64eb1",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "baby-massage-kurs-fdced14e",
       "title": "Baby-Massage-Kurs",
       "description": "Für Bezugspersonen mit Babys zwischen 6 Wochen und 5 Monaten Mit Anmeldung Im Baby-Massage-Kurs lernen Bezugspersonen mit Kindern im Alter von 6 Wochen bis 5 Monaten bei unserer erfahrenen …",
@@ -9855,6 +10296,32 @@
       "cancelled": false
     },
     {
+      "id": "coding-co-7365ae69",
+      "title": "Coding \u0026 Co.",
+      "description": "MINT-Workshops in der Bibliothek für Kinder - die Altersempfehlung richtet sich je nach Thema\n\n*Bitte meldet euch an*unter (030) 90295 3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow. berlin.de\n\nDie nächsten Termine:\n\n*23.11. Advents-Special*\n*30.11. Scratch mit Ozobots*\nab 8 Jahre\n*14.12. BlueBots*\nab 6 Jahre\n*21.12. Osmo*\nab 6 Jahre\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270247",
+      "category": "Kultur",
+      "date": "2026-12-14",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#coding-co-7365ae69",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kraeuterwerkstatt-im-stadtteilzentrum-2b70551d",
       "title": "Kräuterwerkstatt im Stadtteilzentrum",
       "description": "Die Kräuterpädagogin Claudia Scholz gibt in kleiner Runde ihr Kräuterwissen weiter, z. B. beim Kräuterspaziergang oder bei der Herstellung von Kräuterwasser, Kräutersalz und Reinigungsmittel. Dieses Mal wird ein duftendes Kräuterwasser für Raumduft und Kosmetik destilliert.\nDieses Mal: Wir stellen Räucherkerzen her und genießen Wildfruchtpunsch und Kräuterkekse.\n2. Montag des Monats (außer Juni, Juli und August)\nvon 16:00-18:00 Uhr im Gartensaal\nKursleiterin: Claudia Scholz, Kräuterpädagogin\nKosten: 15 € einschließlich Material und Snack\nAnmeldung/Kontakt: cla.h.scholz@gmail.com",
@@ -9875,6 +10342,32 @@
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kamishibai-erzaehltheater-611406d3",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2026-12-14",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-611406d3",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -10152,6 +10645,32 @@
       "cancelled": false
     },
     {
+      "id": "geschichten-kiste-10729bcc",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2026-12-15",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-10729bcc",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "inklusive-soundwerkstatt-82b3af85",
       "title": "Inklusive Soundwerkstatt",
       "description": "Jeden Dienstag: 16-18 Uhr | kostenlos\nmit Petra Schröck und Jörg Wesche",
@@ -10287,6 +10806,32 @@
       "cancelled": false
     },
     {
+      "id": "dialog-in-deutsch-ad98e242",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2026-12-15",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-ad98e242",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "la-bola-negra-a9b29da1",
       "title": "La bola negra",
       "description": "ES/F 2026 | 155 min | Spielfilm | R: Javier Ambrossi | Javier Calvo | DF + OmU | Drei Leben, drei miteinander verwobene Schicksale, ein gemeinsames Erbe: Die Jahre 1932, 1937 und 2017 umspannend",
@@ -10338,6 +10883,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "bilderbuchkino-3b8ac06c",
+      "title": "Bilderbuchkino",
+      "description": "Jeden 1. und 3. Mittwoch um 10:00 Uhr (außer im Juli + August) findet unser Bilderbuchkino für Kinder statt - empfohlen ab 4 Jahren.\nDas Bilderbuchkino wird gezeigt im Veranstaltungsraum der Bibliothek in der 3. Etage, Raum 310.\n\nFür einzelne Familien/Begleitpersonen mit Kind(ern) ist keine Anmeldung nötig, kommt gern einfach vorbei!\n\n*Gruppen (KiTas, Schulklassen...) melden sich bitte am 1. Werktag des Vormonats an* über (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*November\n04.11. \u0026 18.11.*\n*Das schönste Martinslicht* von Ursula Wölfel\nMartin ist so stolz auf seine Laterne, die er extra für den Umzug gebastelt hat. Da trifft er Thomas, der keine Laterne mehr hat und ziemlich traurig ist. Ob Martin etwas einfällt, um Thomas wieder aufzumuntern?\n\n*Dezember\n02.12. \u0026 16.12.*\n*Das Weihnachtswunschtraumbett* von Wolfram Hänel\nWas soll sich Marie nur wünschen? Egal was es ist, immer sagen ihre Eltern, dass es unmöglich wäre. Doch was hat Papa auf einmal für eine Idee?\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241912",
+      "category": "Kultur",
+      "date": "2026-12-16",
+      "startTime": "10:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#bilderbuchkino-3b8ac06c",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -10446,6 +11017,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "gemeinsam-stricken-a0ef135c",
+      "title": "Gemeinsam Stricken",
+      "description": "Wir treffen uns in der Bibliothek, um gemeinsam zu Stricken! Das Angebot richtet sich an *alle Altersgruppen*, für Anfänger_innen und Fortgeschrittene.\n\nGerne können eigene Materialien mitgebracht werden, ein Grundstock zum Einstieg ist vorhanden.\n\nWir Stricken in der KreativLounge in der 1. Etage\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=253708",
+      "category": "Kultur",
+      "date": "2026-12-16",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#gemeinsam-stricken-a0ef135c",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -10766,6 +11363,32 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "digital-zebra-6bd5e870",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2026-12-17",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-6bd5e870",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -11308,6 +11931,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "pokemon-nachmittag-534be2c6",
+      "title": "Pokémon-Nachmittag",
+      "description": "Ein Nachmittag, gemacht für alle Fans des Pokémon Franchise!\nKommt vorbei, tauscht untereinander eure Karten, spielt miteinander oder vernetzt euch.\nAuch, wenn ihr euch zum Pokémon Go! spielen verabreden wollt, findet ihr hierfür einen Platz.\nKeine Anmeldung nötig, kommt einfach vorbei!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=297266",
+      "category": "Kultur",
+      "date": "2026-12-18",
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#pokemon-nachmittag-534be2c6",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -12202,6 +12851,84 @@
       "cancelled": false
     },
     {
+      "id": "coding-co-72d5723f",
+      "title": "Coding \u0026 Co.",
+      "description": "MINT-Workshops in der Bibliothek für Kinder - die Altersempfehlung richtet sich je nach Thema\n\n*Bitte meldet euch an*unter (030) 90295 3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow. berlin.de\n\nDie nächsten Termine:\n\n*23.11. Advents-Special*\n*30.11. Scratch mit Ozobots*\nab 8 Jahre\n*14.12. BlueBots*\nab 6 Jahre\n*21.12. Osmo*\nab 6 Jahre\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270247",
+      "category": "Kultur",
+      "date": "2026-12-21",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#coding-co-72d5723f",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "montags-spielrunde-f0a97622",
+      "title": "Montags-Spielrunde",
+      "description": "Hast du Lust auf einen gemütlichen Nachmittag in guter Gesellschaft? Egal ob Klassiker oder moderne Strategiespiele - bei uns kommen alle auf ihre Kosten!\n\n*Was euch erwartet:*\n- *für Erwachsene*: Spannende Gesellschaftsspiele und neue Kontakte\n- *für Familien und Kinder*: Pädagogisch wertvolle Spiele, die Spaß machen und fördern\n- *für alle Generationen*: Jung und alt spielen gemeinsam - für einen lebendigen Austausch\n\nUnser Angebot: Wir nutzen Spiele aus unserem vielfältigen Bibliotheksbestand. Gerne könnt ihr aber auch euer eigenes Lieblingsspiel mitbringen und mit anderen teilen!\n\nKommt einfach vorbei - wir freuen uns auf euch!\n\n*Jeden 1. und 3. Montag in der KreativLounge in der 1. Etage der Bibliothek*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=279082",
+      "category": "Kultur",
+      "date": "2026-12-21",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#montags-spielrunde-f0a97622",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kamishibai-erzaehltheater-ba9ff29f",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2026-12-21",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-ba9ff29f",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "inklusiver-musikalischer-salon-68468061",
       "title": "Inklusiver Musikalischer Salon",
       "description": "",
@@ -12364,6 +13091,58 @@
       "cancelled": false
     },
     {
+      "id": "geschichten-kiste-b4704bff",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2026-12-22",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-b4704bff",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "dialog-in-deutsch-cc98151c",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2026-12-22",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-cc98151c",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-36642c3c",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
@@ -12388,6 +13167,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "repair-cafe-ca2dbe6f",
+      "title": "Repair-Café",
+      "description": "*Hilfe zur Selbsthilfe bei der Reparatur kleiner Haushaltsgeräte*\nWer technische und handwerkliche Fähigkeiten hat, kann sie weitergeben – wer sie nicht hat, kann sich das Wissen der Expert_innen zunutze machen. Reparieren macht Spaß und ist oft einfacher, als man denkt! In lockerer Atmosphäre heißt es wieder gemeinsam Tüfteln, Reparieren oder sein Wissen weitergeben – darum geht es beim Repair-Café.\n\nWir helfen Ihnen das Problem zu finden und das defekte Gerät zu reparieren.\n\nDas Angebot richtet sich an alle Altersgruppen\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=267133",
+      "category": "Kultur",
+      "date": "2026-12-23",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#repair-cafe-ca2dbe6f",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -12553,6 +13358,58 @@
       "cancelled": false
     },
     {
+      "id": "digital-zebra-338d0d5b",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2026-12-28",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-338d0d5b",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kamishibai-erzaehltheater-788e3254",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2026-12-28",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-788e3254",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-717c99f0",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
@@ -12577,6 +13434,58 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "geschichten-kiste-bda7d6cb",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2026-12-29",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-bda7d6cb",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "dialog-in-deutsch-83c2f1ad",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2026-12-29",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-83c2f1ad",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -13093,6 +14002,58 @@
       "cancelled": false
     },
     {
+      "id": "montags-spielrunde-2b5ef0c6",
+      "title": "Montags-Spielrunde",
+      "description": "Hast du Lust auf einen gemütlichen Nachmittag in guter Gesellschaft? Egal ob Klassiker oder moderne Strategiespiele - bei uns kommen alle auf ihre Kosten!\n\n*Was euch erwartet:*\n- *für Erwachsene*: Spannende Gesellschaftsspiele und neue Kontakte\n- *für Familien und Kinder*: Pädagogisch wertvolle Spiele, die Spaß machen und fördern\n- *für alle Generationen*: Jung und alt spielen gemeinsam - für einen lebendigen Austausch\n\nUnser Angebot: Wir nutzen Spiele aus unserem vielfältigen Bibliotheksbestand. Gerne könnt ihr aber auch euer eigenes Lieblingsspiel mitbringen und mit anderen teilen!\n\nKommt einfach vorbei - wir freuen uns auf euch!\n\n*Jeden 1. und 3. Montag in der KreativLounge in der 1. Etage der Bibliothek*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=279082",
+      "category": "Kultur",
+      "date": "2027-01-04",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#montags-spielrunde-2b5ef0c6",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kamishibai-erzaehltheater-9b859a54",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2027-01-04",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-9b859a54",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-5ece66c6",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
@@ -13120,6 +14081,32 @@
       "cancelled": false
     },
     {
+      "id": "geschichten-kiste-174caee5",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2027-01-05",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-174caee5",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kiezcafe-087bb85a",
       "title": "Kiezcafé",
       "description": "Unser wöchentliches Café ist ein offener Treffpunkt für alle aus der Nachbarschaft. Hier könnt ihr neue Leute kennenlernen, Freund*innen treffen oder einfach entspannt den Nachmittag genießen.\n\nVor Ort gibt es Kaffee und Kuchen in unserem gemütlichen Saal. Außerdem könnt Ihr Spiele für Groß und Klein ausleihen.\n\nKommt vorbei, wir freuen uns auf Euch!\n\nWann: Jeden Dienstag von 16 - 18 Uhr\n\nWo: Im Saal",
@@ -13140,6 +14127,32 @@
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "dialog-in-deutsch-9c7e2f8f",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2027-01-05",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-9c7e2f8f",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -13171,6 +14184,58 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "bilderbuchkino-6dece01d",
+      "title": "Bilderbuchkino",
+      "description": "Jeden 1. und 3. Mittwoch um 10:00 Uhr (außer im Juli + August) findet unser Bilderbuchkino für Kinder statt - empfohlen ab 4 Jahren.\nDas Bilderbuchkino wird gezeigt im Veranstaltungsraum der Bibliothek in der 3. Etage, Raum 310.\n\nFür einzelne Familien/Begleitpersonen mit Kind(ern) ist keine Anmeldung nötig, kommt gern einfach vorbei!\n\n*Gruppen (KiTas, Schulklassen...) melden sich bitte am 1. Werktag des Vormonats an* über (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*November\n04.11. \u0026 18.11.*\n*Das schönste Martinslicht* von Ursula Wölfel\nMartin ist so stolz auf seine Laterne, die er extra für den Umzug gebastelt hat. Da trifft er Thomas, der keine Laterne mehr hat und ziemlich traurig ist. Ob Martin etwas einfällt, um Thomas wieder aufzumuntern?\n\n*Dezember\n02.12. \u0026 16.12.*\n*Das Weihnachtswunschtraumbett* von Wolfram Hänel\nWas soll sich Marie nur wünschen? Egal was es ist, immer sagen ihre Eltern, dass es unmöglich wäre. Doch was hat Papa auf einmal für eine Idee?\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241912",
+      "category": "Kultur",
+      "date": "2027-01-06",
+      "startTime": "10:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#bilderbuchkino-6dece01d",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "gemeinsam-stricken-2f405397",
+      "title": "Gemeinsam Stricken",
+      "description": "Wir treffen uns in der Bibliothek, um gemeinsam zu Stricken! Das Angebot richtet sich an *alle Altersgruppen*, für Anfänger_innen und Fortgeschrittene.\n\nGerne können eigene Materialien mitgebracht werden, ein Grundstock zum Einstieg ist vorhanden.\n\nWir Stricken in der KreativLounge in der 1. Etage\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=253708",
+      "category": "Kultur",
+      "date": "2027-01-06",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#gemeinsam-stricken-2f405397",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -13252,6 +14317,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "digital-zebra-44ab4808",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2027-01-07",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-44ab4808",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -13444,6 +14535,84 @@
       "cancelled": false
     },
     {
+      "id": "digital-zebra-c21db3aa",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2027-01-11",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-c21db3aa",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "coding-co-99210140",
+      "title": "Coding \u0026 Co.",
+      "description": "MINT-Workshops in der Bibliothek für Kinder - die Altersempfehlung richtet sich je nach Thema\n\n*Bitte meldet euch an*unter (030) 90295 3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow. berlin.de\n\nDie nächsten Termine:\n\n*23.11. Advents-Special*\n*30.11. Scratch mit Ozobots*\nab 8 Jahre\n*14.12. BlueBots*\nab 6 Jahre\n*21.12. Osmo*\nab 6 Jahre\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270247",
+      "category": "Kultur",
+      "date": "2027-01-11",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#coding-co-99210140",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kamishibai-erzaehltheater-3137dfd6",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2027-01-11",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-3137dfd6",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-0e8ebe14",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
@@ -13468,6 +14637,58 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "geschichten-kiste-fa423973",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2027-01-12",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-fa423973",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "dialog-in-deutsch-91a65fbb",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2027-01-12",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-91a65fbb",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -13498,6 +14719,32 @@
       "cancelled": false
     },
     {
+      "id": "repair-cafe-500dcd40",
+      "title": "Repair-Café",
+      "description": "*Hilfe zur Selbsthilfe bei der Reparatur kleiner Haushaltsgeräte*\nWer technische und handwerkliche Fähigkeiten hat, kann sie weitergeben – wer sie nicht hat, kann sich das Wissen der Expert_innen zunutze machen. Reparieren macht Spaß und ist oft einfacher, als man denkt! In lockerer Atmosphäre heißt es wieder gemeinsam Tüfteln, Reparieren oder sein Wissen weitergeben – darum geht es beim Repair-Café.\n\nWir helfen Ihnen das Problem zu finden und das defekte Gerät zu reparieren.\n\nDas Angebot richtet sich an alle Altersgruppen\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=267133",
+      "category": "Kultur",
+      "date": "2027-01-13",
+      "startTime": "16:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#repair-cafe-500dcd40",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-92f1414c",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
@@ -13522,6 +14769,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "digital-zebra-382d79c6",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2027-01-14",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-382d79c6",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -13714,6 +14987,58 @@
       "cancelled": false
     },
     {
+      "id": "montags-spielrunde-fb74a270",
+      "title": "Montags-Spielrunde",
+      "description": "Hast du Lust auf einen gemütlichen Nachmittag in guter Gesellschaft? Egal ob Klassiker oder moderne Strategiespiele - bei uns kommen alle auf ihre Kosten!\n\n*Was euch erwartet:*\n- *für Erwachsene*: Spannende Gesellschaftsspiele und neue Kontakte\n- *für Familien und Kinder*: Pädagogisch wertvolle Spiele, die Spaß machen und fördern\n- *für alle Generationen*: Jung und alt spielen gemeinsam - für einen lebendigen Austausch\n\nUnser Angebot: Wir nutzen Spiele aus unserem vielfältigen Bibliotheksbestand. Gerne könnt ihr aber auch euer eigenes Lieblingsspiel mitbringen und mit anderen teilen!\n\nKommt einfach vorbei - wir freuen uns auf euch!\n\n*Jeden 1. und 3. Montag in der KreativLounge in der 1. Etage der Bibliothek*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=279082",
+      "category": "Kultur",
+      "date": "2027-01-18",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#montags-spielrunde-fb74a270",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kamishibai-erzaehltheater-e14b0d8e",
+      "title": "Kamishibai Erzähltheater",
+      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
+      "category": "Kultur",
+      "date": "2027-01-18",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#kamishibai-erzaehltheater-e14b0d8e",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "michael-curse-kurth-aaae7cb1",
       "title": "MICHAEL CURSE KURTH",
       "description": "BAD MEDIATORS CLUB - LIVE\n\nMit seinem neuen Buch lädt Bestsellerautor, Rapper, Coach und Buddhist Michael „Curse“ Kurth dazu ein, Meditation von einer anderen Seite kennenzulernen: undogmatisch, alltagstauglich und ohne Esoterik-Kitsch. Denn die gute Nachricht ist: Wir alle sind Bad Meditators. Und genau darin liegt der Schlüssel. Auf seiner Buchtour bringt Curse die Gedanken und Impulse seines Buches live auf die Bühne. Es geht um innere Unruhe, kreisende Gedanken und den Anspruch, immer alles richtig machen zu müssen – aber auch um die Frage, wie wir im Alltag mehr Klarheit, Gelassenheit und einen anderen Umgang mit uns selbst finden können. Mit Humor, persönlichen Einblicken und praktischen Perspektiven zeigt Curse, warum Meditation weder Perfektion noch besondere Fähigkeiten voraussetzt und wie sie auch dann funktionieren kann, wenn der Kopf mal wieder macht, was er will. Musikalisch begleitet wird der Abend von DJ Kool GQ. Dazu kommen ausgewählte Gäste, die in den jeweiligen Städten eigene Perspektiven und Impulse einbringen und jede Station der Tour zu einem besonderen Erlebnis machen. So wird der Bad Meditators Club mehr als eine klassische Lesung: ein Abend zwischen Buch …",
@@ -13768,6 +15093,32 @@
       "cancelled": false
     },
     {
+      "id": "geschichten-kiste-0136847e",
+      "title": "Geschichten-Kiste",
+      "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
+      "category": "Kultur",
+      "date": "2027-01-19",
+      "startTime": "15:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#geschichten-kiste-0136847e",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "buchvorstellung-ankommen-auf-dem-jakobsw-feb7a9d5",
       "title": "Buchvorstellung: Ankommen auf dem Jakobsweg",
       "description": "Buchvorstellung: Ankommen auf dem Jakobsweg\n\nIn einer abwechslungsreichen Mischung aus Lesung und persönlichem Reisebericht nimmt die Autorin Jana Krok das Publikum mit auf den Camino Francés. Aus ihrem Roman „Ankommen auf dem Jakobsweg“ erzählt sie von Mut, besonderen Begegnungen und persönlichen Erkenntnissen. Dazu teilt sie eigene Erfahrungen und gibt Einblicke in das Leben und die Herausforderungen des Pilgerns.",
@@ -13788,6 +15139,32 @@
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "dialog-in-deutsch-ba8a6ffb",
+      "title": "Dialog in Deutsch",
+      "description": "Wir treffen uns einmal pro Woche eine Stunde *online*, um deutsch zu sprechen. Wir, das sind Teilnehmer_innen aus aller Welt, meist junge Erwachsene, die in Deutschland leben und mehr deutsch sprechen wollen und ein bis zwei Moderator_innen mit Muttersprache Deutsch.\n\nUnsere Gesprächsthemen finden wir spontan während der Stunde, meist Alltagsthemen wie Essen, Reisen, Freizeitaktivitäten, Feiertage etc. Wir wollen ins Sprechen kommen; Ziel ist, dass wir uns verstehen, nicht, dass wir in Grammatik oder Ausdruck perfekt sind.\n\n*Bitte meldet euch an, wenn ihr zum ersten mal mitmachen möchtet:*\nPer Telefon unter (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*Wir suchen eine zweite Person für die Moderation der Gruppe!*\n\nKannst du gut zuhören und redest gerne mit Leuten? Dann mach mit bei Dialog in Deutsch!\nDu solltest Spaß daran haben, immer wieder mit unterschiedlichen Leuten über Alltagsthemen in einfachen Sätzen zu sprechen und die Gruppe zu moderieren. Du kannst gut zuhören und gehst offen auf die Teilnehmer*innen aus verschiedenen Nationen zu. Dein Ziel ist, sie zum Sprechen zu bringen, du musst nicht selbst viel erzählen.\nKlingt das …",
+      "category": "Kultur",
+      "date": "2027-01-19",
+      "startTime": "19:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#dialog-in-deutsch-ba8a6ffb",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -13819,6 +15196,58 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "bilderbuchkino-d88ce24f",
+      "title": "Bilderbuchkino",
+      "description": "Jeden 1. und 3. Mittwoch um 10:00 Uhr (außer im Juli + August) findet unser Bilderbuchkino für Kinder statt - empfohlen ab 4 Jahren.\nDas Bilderbuchkino wird gezeigt im Veranstaltungsraum der Bibliothek in der 3. Etage, Raum 310.\n\nFür einzelne Familien/Begleitpersonen mit Kind(ern) ist keine Anmeldung nötig, kommt gern einfach vorbei!\n\n*Gruppen (KiTas, Schulklassen...) melden sich bitte am 1. Werktag des Vormonats an* über (030) 90295-3867 oder per Mail an wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\n*November\n04.11. \u0026 18.11.*\n*Das schönste Martinslicht* von Ursula Wölfel\nMartin ist so stolz auf seine Laterne, die er extra für den Umzug gebastelt hat. Da trifft er Thomas, der keine Laterne mehr hat und ziemlich traurig ist. Ob Martin etwas einfällt, um Thomas wieder aufzumuntern?\n\n*Dezember\n02.12. \u0026 16.12.*\n*Das Weihnachtswunschtraumbett* von Wolfram Hänel\nWas soll sich Marie nur wünschen? Egal was es ist, immer sagen ihre Eltern, dass es unmöglich wäre. Doch was hat Papa auf einmal für eine Idee?\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241912",
+      "category": "Kultur",
+      "date": "2027-01-20",
+      "startTime": "10:00",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#bilderbuchkino-d88ce24f",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "gemeinsam-stricken-e534e3a8",
+      "title": "Gemeinsam Stricken",
+      "description": "Wir treffen uns in der Bibliothek, um gemeinsam zu Stricken! Das Angebot richtet sich an *alle Altersgruppen*, für Anfänger_innen und Fortgeschrittene.\n\nGerne können eigene Materialien mitgebracht werden, ein Grundstock zum Einstieg ist vorhanden.\n\nWir Stricken in der KreativLounge in der 1. Etage\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=253708",
+      "category": "Kultur",
+      "date": "2027-01-20",
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#gemeinsam-stricken-e534e3a8",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
