@@ -8,7 +8,8 @@
   "extract": {
     "link": {
       "selector": "a",
-      "attr": "href"
+      "attr": "href",
+      "regex": "^(.*?/film/[^/]+)"
     },
     "time": {
       "selector": "a",
@@ -51,7 +52,7 @@
   },
   "daysAhead": 120,
   "status": {
-    "lastAttempt": "2026-11-21T11:07:58Z",
-    "lastSuccess": "2026-11-21T11:07:58Z"
+    "lastAttempt": "2026-11-21T11:12:31Z",
+    "lastSuccess": "2026-11-21T11:12:31Z"
   }
 }
