@@ -5,5 +5,6 @@
   "baseUrl": "https://weissens.ee",
   "timezone": "Europe/Berlin",
   "language": "de",
-  "themeColor": "#17383D"
+  "themeColor": "#17383D",
+  "issuesUrl": "https://github.com/weissensee/weissens.ee/issues"
 }

@@ -1,0 +1,33 @@
+name: Fehler melden
+description: Ein Termin, eine Quelle oder ein Ort auf weissens.ee stimmt nicht.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke fürs Melden! Fehler in der Software selbst (Bedienung,
+        Darstellung) bitte bei
+        [openLitfass](https://github.com/schreibtischhelden/openlitfass/issues/new/choose).
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Worum geht es?
+      options:
+        - Termin falsch (Zeit, Ort, Beschreibung)
+        - Termin doppelt oder abgesagt
+        - Quelle liefert keine oder falsche Termine
+        - Ort falsch (Adresse, Name, Karte)
+        - Etwas anderes
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link zum Termin oder Ort
+      placeholder: https://weissens.ee/#…
+  - type: textarea
+    id: what
+    attributes:
+      label: Was stimmt nicht – und wie wäre es richtig?
+    validations:
+      required: true

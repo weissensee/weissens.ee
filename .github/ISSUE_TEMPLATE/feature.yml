@@ -1,0 +1,15 @@
+name: Idee vorschlagen
+description: Eine neue Quelle, ein Ort oder ein Wunsch für weissens.ee.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Was schlägst du vor?
+      description: Zum Beispiel eine Website oder einen Kalender, aus dem weissens.ee Termine übernehmen sollte.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link (falls vorhanden)

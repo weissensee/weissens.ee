@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Fehler in der Software (openLitfass)
+    url: https://github.com/schreibtischhelden/openlitfass/issues/new/choose
+    about: Bedienung, Darstellung, Technik – alles, was nicht an den Inhalten von weissens.ee liegt.
