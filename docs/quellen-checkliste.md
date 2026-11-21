@@ -39,6 +39,18 @@ siehe `docs/source-discovery.md` im Kern-Repo openLitfass.
 | pankow-weissensee-prenzlauerberg.berlin/de/events (TIC Berlin) | 21.11.2026 | Nur ein Iframe auf **visitberlin.de/de/events-pankow** (ganzer Bezirk, ~67 Orte). Per Postleitzahl geprüft: in Weißensee (13086/13088) nur Brotfabrik, Theater im Delphi, KuBiZ (haben wir) und die Wolfdietrich-Schnurre-Bibliothek (jetzt eigene Quelle). "Familienzentrum Parkstraße" ist 13187 Pankow. |
 | Fever, `feverup.com/de/berlin/venue/freilichtbuhne-weissensee`, Abschnitt "Veranstaltungsorte nahe Freilichtbühne Weißensee" | 21.11.2026 | Ticketplattform. Die nahen Orte: Theater im Delphi (2,2 km, haben wir), Colosseum (Gleimstraße), Käthe-Kollwitz-Denkmal, Berlin on Bike (Kulturbrauerei), Frannz-Club, Cosmic Comedy Club (alle Prenzlauer Berg), Computerspielemuseum (Friedrichshain), Weltzeituhr / Hop-on-Hop-off (Alexanderplatz) – außer dem Delphi keiner in Weißensee, also nichts Neues. Das Delphi-Angebot auf Fever ("Ballet of Lights: Cinderella") ist über unsere Delphi-Quelle schon drin. |
 
+## Websuche 21.11.2026 – Kandidaten
+
+| Kandidat | Befund | Aufwand |
+|---|---|---|
+| Landeskalender, weitere Weißenseer Orte | Orte mit Terminen (Ortsauswahl auf `berlin.de/land/kalender`): Immanuel-Kapelle `v_ort=40648` (Weihnachtskonzert 11.12.), Musikschule Béla Bartók Standort Weißensee `44135` (Schnuppertag 23.1.), Pfarrkirche Weißensee `44527` ("Alte Musik" 22.11.), Rathaus Weißensee `33144` (Rathauskonzerte Kammerorchester Weißensee). Je Ort ein iCal (`?ics&v_ort=…`), mehrere Orte pro Abfrage gehen nicht. Wenige Termine, aber echt. | gering: je Ort eine `ical`-Datei wie die Bibliothek |
+| weißensee kunsthochschule berlin (`kh-berlin.de/kalender`) | TYPO3, kein Feed; Kalender als hCalendar-Mikroformat (`.vevent`, `.dtstart`, `.summary`, `.location`, Kategorie) mit 12 Einträgen. Mischt Termine am Campus/Kunsthalle am Hamburger Platz (Gustav-Adolf-Str. 140) mit externen Orten (z. B. Deutsche Kinemathek) und mehrmonatigen Ausstellungen; kein Enddatum im Markup. | mittel: `html`, bräuchte Ortsfilter |
+| Rugby Klub 03 Berlin (Stadion Buschallee, Hansastraße 190) | Kalender `/de/calendar/` (Next.js) zeigt Heimspiele "in der Buschallee", Termine werden aber per JavaScript nachgeladen, nicht im HTML/RSC-Datenstrom. Kein iCal gefunden. | offen: Verein nach Export fragen |
+| Weißenseer FC (Stadion Buschallee) | Eigene Seite ist ein fast leeres WordPress. Spielpläne liegen bei fussball.de (Vereins-/Mannschaftsseiten mit Spielplan-Export), Vereins-ID noch nicht gefunden. | mittel |
+| Strandbad Weißensee | Saisonbetrieb (Mai–Sept.), Öffnungszeiten je nach Quelle widersprüchlich, keine Betreiberseite mit Terminen gefunden. | im Frühjahr prüfen |
+| Tommys turbulente Tobewelt (Indoor-Spielplatz) | Kommerziell, nur Öffnungszeiten. | ggf. wie Knirpsenfarm als `repeat`-Inbox |
+| Ev. Kirchengemeinde Weißensee (Bethanienkirche) | Keine Website mit Terminen gefunden. | offen |
+
 ## Noch zu prüfen
 
 Kandidaten, die laut Discovery-Playbook (Vereine, Kirchengemeinden, Schulen,
