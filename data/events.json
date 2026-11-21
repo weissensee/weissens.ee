@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:22:54.97993851Z",
+  "generatedAt": "2026-11-21T22:41:15.465961012Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-db64a6fd",
@@ -234,33 +234,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "romancero-del-baile-flamenco-808f3be2",
-      "title": "ROMANCERO DEL BAILE FLAMENCO",
-      "description": "Die renommierten Flamenco-Meister Mercedes Ruiz (Choreografie und Tanz) und Santiago Lara (Flamenco-Gitarre und Komposition) kehren mit ihrem neuen Stück „Romancero del Baile Flamenco“ („Balladen des Flamenco-Tanzes“), nach Berlin zurück. „One of the most exciting dancers working today\" (The New York Times)",
-      "category": "Theater",
-      "date": "2026-11-21",
-      "startTime": "18:30",
-      "endTime": "",
-      "location": {
-        "name": "Theater im Delphi",
-        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=535",
-      "source": "theater-im-delphi",
-      "sources": [
-        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,

@@ -1,65 +1,65 @@
 {
-  "generatedAt": "2026-11-21T22:22:54.985820986Z",
+  "generatedAt": "2026-11-21T22:41:15.473057983Z",
   "sources": [
     {
       "name": "brotfabrik",
       "label": "Brotfabrik",
       "homepage": "https://brotfabrik-berlin.de",
-      "lastSuccess": "2026-11-21T22:22:41Z"
+      "lastSuccess": "2026-11-21T22:41:03Z"
     },
     {
       "name": "familienzentrum-weissensee",
       "label": "Familienzentrum Weißensee",
       "homepage": "https://www.familienzentrum-weissensee.de",
-      "lastSuccess": "2026-11-21T22:22:44Z"
+      "lastSuccess": "2026-11-21T22:41:06Z"
     },
     {
       "name": "freilichtbuehne-weissensee",
       "label": "Freilichtbühne Weißensee",
       "homepage": "https://freilichtbuehne-weissensee.de",
-      "lastSuccess": "2026-11-21T22:22:47Z"
+      "lastSuccess": "2026-11-21T22:41:07Z"
     },
     {
       "name": "kino-toni",
       "label": "Kino Toni",
       "homepage": "https://kino-toni.de",
-      "lastSuccess": "2026-11-21T22:22:48Z"
+      "lastSuccess": "2026-11-21T22:41:09Z"
     },
     {
       "name": "kubiz-wallenberg",
       "label": "KuBiZ Raoul Wallenberg",
       "homepage": "https://www.kubiz-wallenberg.de",
-      "lastSuccess": "2026-11-21T22:22:49Z"
+      "lastSuccess": "2026-11-21T22:41:10Z"
     },
     {
       "name": "kunsthochschule-weissensee",
       "label": "weißensee kunsthochschule berlin",
       "homepage": "https://kh-berlin.de",
-      "lastSuccess": "2026-11-21T22:22:50Z"
+      "lastSuccess": "2026-11-21T22:41:10Z"
     },
     {
       "name": "peter-edel",
       "label": "Peter Edel",
       "homepage": "https://www.peteredel.de",
-      "lastSuccess": "2026-11-21T22:22:51Z"
+      "lastSuccess": "2026-11-21T22:41:11Z"
     },
     {
       "name": "stadtteilzentrum-weissensee",
       "label": "Stadtteilzentrum Weißensee",
       "homepage": "https://www.stz-weissensee.de",
-      "lastSuccess": "2026-11-21T22:22:52Z"
+      "lastSuccess": "2026-11-21T22:41:12Z"
     },
     {
       "name": "theater-im-delphi",
       "label": "Theater im Delphi",
       "homepage": "https://theater-im-delphi.de",
-      "lastSuccess": "2026-11-21T22:22:53Z"
+      "lastSuccess": "2026-11-21T22:41:13Z"
     },
     {
       "name": "wolfdietrich-schnurre-bibliothek",
       "label": "Wolfdietrich-Schnurre-Bibliothek",
       "homepage": "https://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/",
-      "lastSuccess": "2026-11-21T22:22:54Z"
+      "lastSuccess": "2026-11-21T22:41:15Z"
     },
     {
       "name": "inbox",
