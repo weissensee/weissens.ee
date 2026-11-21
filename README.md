@@ -22,8 +22,15 @@ Container-Image kommen aus dem Kern-Repo (Aufbau einer Instanz:
 Im Ordner dieses Repos, mit gebautem oder gezogenem Kern-Image:
 
 ```sh
-docker run -d --name weissens --restart unless-stopped -v "$PWD:/instance" -p 8080:8080 openlitfass
+docker run -d --name weissens --restart unless-stopped -v "$PWD:/instance" -p 8080:8080 \
+  -e OL_STATIC_PAGES=true -e OL_SITEMAP_GENERATOR=true openlitfass
 ```
+
+weissens.ee nutzt beide SEO-Extras des Kerns (dort standardmäßig aus):
+`OL_STATIC_PAGES` (statische Terminseiten unter `termine/`, heutige
+Termine schon im HTML der Startseite) und `OL_SITEMAP_GENERATOR`
+(`sitemap.xml`, `robots.txt`). Dieselben Werte stehen im Workflow
+`.forgejo/workflows/update-events.yml`.
 
 Dann <http://localhost:8080>. Der Container ruft alle 6 Stunden ab und baut
 neu; Zustand unter <http://localhost:8080/healthz>. Er schreibt dabei in

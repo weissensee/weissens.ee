@@ -34,6 +34,11 @@ jobs:
       # workflows/update-events.yml instead.
       # Pin a commit tag instead of :latest for reproducible runs.
       image: ghcr.io/OWNER/openlitfass:latest
+    env:
+      # weissens.ee nutzt die SEO-Extras (im Kern standardmäßig aus):
+      # statische Terminseiten + vorgerenderte Startseite, Sitemap.
+      OL_STATIC_PAGES: "true"
+      OL_SITEMAP_GENERATOR: "true"
     steps:
       - name: Checkout
         uses: https://code.forgejo.org/actions/checkout@v4
