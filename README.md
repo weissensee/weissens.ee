@@ -32,6 +32,10 @@ Termine schon im HTML der Startseite) und `OL_SITEMAP_GENERATOR`
 (`sitemap.xml`, `robots.txt`). Dieselben Werte stehen im Workflow
 `.github/workflows/update-events.yml`.
 
+Öffentlich: Der Workflow `.github/workflows/update-events.yml` baut alle 6
+Stunden und schreibt die fertige Seite in den Branch `pages` (GitHub Pages,
+Domain `weissens.ee` per `CNAME`).
+
 Dann <http://localhost:8080>. Der Container ruft alle 6 Stunden ab und baut
 neu; Zustand unter <http://localhost:8080/healthz>. Er schreibt dabei in
 `data/`, die `status`-Felder in `sources/` und löscht abgelaufene

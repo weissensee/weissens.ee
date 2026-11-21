@@ -3,14 +3,13 @@ name: Update events
 # Runs the openLitfass image against this instance repository:
 #   fetch       -> data/events.json, categories.json, sources.json; status
 #                  fields in sources/*.json; removes past inbox/ files
-#   build-site  -> public/ (complete static site; not committed - publish
-#                  it from here once hosting is decided)
-# and commits the changed data back into the repository.
+#   build-site  -> public/ (complete static site, not committed on main)
+# commits the changed data back into the repository and publishes public/
+# to the branch "pages" (GitHub Pages, custom domain weissens.ee).
 #
 # The image is started with `docker run` on a normal Ubuntu runner rather
 # than as a job container: GitHub's JavaScript actions (checkout) don't run
-# inside Alpine containers. The same workflow also works on Forgejo/Gitea
-# runners that provide Docker.
+# inside Alpine containers.
 on:
   schedule:
     - cron: '0 */6 * * *'   # every 6 hours
@@ -28,6 +27,11 @@ on:
 permissions:
   contents: write
 
+# Never two runs at once (schedule + push): they would race on main/pages.
+concurrency:
+  group: update-events
+  cancel-in-progress: false
+
 env:
   # The openLitfass image. Pin a tag (e.g. :sha-abc1234 or :1.0)
   # instead of :latest for reproducible runs.
@@ -36,6 +40,8 @@ env:
   # Terminseiten + vorgerenderte Startseite, Sitemap.
   OL_STATIC_PAGES: "true"
   OL_SITEMAP_GENERATOR: "true"
+  # Custom domain for GitHub Pages (written as CNAME into the pages branch).
+  PAGES_DOMAIN: weissens.ee
 
 jobs:
   update:
@@ -60,3 +66,18 @@ jobs:
             git commit -m "chore: update events data"
             git push
           fi
+
+      # The pages branch holds only the built site, as a single commit that
+      # is replaced on every run (no history of generated files).
+      - name: Publish to branch pages
+        run: |
+          cd public
+          rm -f .openlitfass-build
+          touch .nojekyll
+          echo "$PAGES_DOMAIN" > CNAME
+          git init -q -b pages
+          git config user.name "weissens-bot"
+          git config user.email "bot@weissens.ee"
+          git add -A
+          git commit -q -m "Site build ${GITHUB_SHA::7} ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" pages
