@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:36:19.4037153Z",
+  "generatedAt": "2026-11-21T10:45:45.4311228Z",
   "events": [
     {
       "id": "vineta-kaula-a-mapping-the-15170751",
@@ -130,6 +130,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "21-11-26-jazz-im-27f294c4",
+      "title": "21.11.26 jazz im kubiz: HERMETO PASCOAL TRIBUTE",
+      "description": "20 Uhr, Aula\n\nAus der Reihe „Hot Tropical Nights“:\n\nHERMETO PASCOAL TRIBUTE\n\nSteffen Schorn – flute, sax, clarinet\nDaniel Glatzel – clarinet, sax\nJohannes Böhmer – trumpet\nBertram Burkert – guitar\nJohannes Lauer – fender rhodes, trombone, percussion\nThiago Duarte – bass\nFelix Astor – drums\n\n***\nMit diesem Konzert erinnert Hot Tropical Nights an den 2025 verstorbenen brasilianischen Komponisten, Multiinstrumentalisten und\nImprovisationskünstler Hermeto Pascoal (1936–2025), einen der visionärsten Musiker der internationalen Jazzgeschichte.\nAusgehend von den Traditionen des Samba-Jazz und der brasilianischen Instrumentalmusik entwickelte Hermeto Pascoal eine unverwechselbare Klangsprache, in der Jazz, Folklore, freie Improvisation und ungewöhnliche Klänge zu etwas völlig Neuem verschmolzen. Miles Davis bezeichnete ihn als „den beeindruckendsten Musiker der Welt“.\n\nFür dieses Tribute-Konzert haben sich einige der profiliertesten Musiker der Berliner Jazzszene zusammengefunden, um Hermeto Pascoals außergewöhnliches Werk neu zu interpretieren. Ein Abend voller überraschender Klangfarben und eine Würdigung an einen Künstler, der die Grenzen des Jazz immer wieder neu definiert hat.\n*** …",
+      "category": "Kultur",
+      "date": "2026-11-21",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "KuBiZ, Aula",
+        "address": "Bernkasteler Str. 78, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "KuBiZ Raoul Wallenberg",
+      "url": "https://www.kubiz-wallenberg.de/?p=9283",
+      "source": "kubiz-wallenberg",
+      "sources": [
+        "kubiz-wallenberg"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
