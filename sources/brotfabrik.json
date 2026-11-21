@@ -49,20 +49,20 @@
   },
   "daysAhead": 30,
   "categoryMap": {
-    "Ausstellung": "Kultur",
+    "Ausstellung": "Kunst",
     "Bühne": "Theater",
-    "Galerie": "Kultur",
+    "Galerie": "Kunst",
     "Kino": "Kino",
-    "Konzert": "Kultur",
+    "Konzert": "Musik",
     "Kurs": "Kultur",
     "Lesung": "Kultur",
     "Literatur": "Kultur",
-    "Musik": "Kultur",
+    "Musik": "Musik",
     "Theater": "Theater",
     "Workshop": "Kultur"
   },
   "status": {
-    "lastAttempt": "2026-11-21T19:50:51Z",
-    "lastSuccess": "2026-11-21T19:50:51Z"
+    "lastAttempt": "2026-11-21T20:02:40Z",
+    "lastSuccess": "2026-11-21T20:02:40Z"
   }
 }

@@ -29,7 +29,7 @@
       "path": "description"
     },
     "category": {
-      "default": "Kultur"
+      "default": "Kunst"
     },
     "organizer": {
       "default": "weißensee kunsthochschule berlin"
@@ -67,7 +67,7 @@
     }
   ],
   "status": {
-    "lastAttempt": "2026-11-21T19:47:36Z",
-    "lastSuccess": "2026-11-21T19:47:36Z"
+    "lastAttempt": "2026-11-21T20:02:47Z",
+    "lastSuccess": "2026-11-21T20:02:47Z"
   }
 }

@@ -13,12 +13,12 @@
     "Kabarett": "Kultur",
     "Kinder": "Kultur",
     "Kino": "Kino",
-    "Konzert": "Kultur",
+    "Konzert": "Musik",
     "Lesung": "Kultur",
     "Theater": "Theater"
   },
   "status": {
-    "lastAttempt": "2026-11-21T19:50:54Z",
-    "lastSuccess": "2026-11-21T19:50:54Z"
+    "lastAttempt": "2026-11-21T20:02:45Z",
+    "lastSuccess": "2026-11-21T20:02:45Z"
   }
 }
