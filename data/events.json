@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:23:27.054635194Z",
+  "generatedAt": "2026-11-21T18:38:17.969162673Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-db64a6fd",
@@ -56,33 +56,6 @@
       "cancelled": false
     },
     {
-      "id": "wild-horse-nine-f0d99ef0",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "13:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "upcycling-naehwerkstatt-f2799168",
       "title": "Upcycling Nähwerkstatt",
       "description": "Jeden Samstag | 14 – 18 Uhr | Upcycling Nähwerkstatt mit Stefanie Schulz. Bringt Eure Kleidungsstücke mit. Unter fachgerechter Anleitung könnt ihr Eure Kleidung ändern, upcyclen oder umgestalten.",
@@ -103,33 +76,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "die-gangster-gang-2-0958bb92",
-      "title": "Die Gangster Gang 2",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "15:00",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/die-gangster-gang-2",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -164,33 +110,6 @@
       "cancelled": false
     },
     {
-      "id": "der-frechste-troll-der-welt-8294b5d2",
-      "title": "Der frechste Troll der Welt",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "16:00",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "hiddensee-19174df2",
       "title": "Hiddensee",
       "description": "D 2026 | 119 min | Dokumentarfilm | R: Annekatrin Hendel | Hiddensee, ein nur 17 Kilometer langer Streifen Land in der Ostsee, geliebt als Sehnsuchtsort der Freiheit.",
@@ -211,60 +130,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "biermann-c520bdca",
-      "title": "Biermann",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "17:15",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/biermann",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-3f053f60",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-21",
-      "startTime": "18:00",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
