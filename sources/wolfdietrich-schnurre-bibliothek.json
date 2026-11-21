@@ -1,0 +1,16 @@
+{
+  "label": "Wolfdietrich-Schnurre-Bibliothek",
+  "homepage": "https://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/",
+  "type": "ical",
+  "url": "https://www.berlin.de/land/kalender/index.php?ics&v_ort=40313",
+  "daysAhead": 60,
+  "organizer": "Stadtbibliothek Pankow",
+  "locationDefault": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin",
+  "categoryMap": {
+    "": "Kultur"
+  },
+  "status": {
+    "lastAttempt": "2026-11-21T19:18:53Z",
+    "lastSuccess": "2026-11-21T19:18:53Z"
+  }
+}
