@@ -1,0 +1,21 @@
+{
+  "title": "Kinderbauernhof Knirpsenfarm geöffnet",
+  "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
+  "category": "Natur",
+  "startTime": "09:00",
+  "endTime": "16:30",
+  "location": {
+    "name": "Kinderbauernhof Knirpsenfarm",
+    "address": "Malchower Chaussee 2, 13051 Berlin"
+  },
+  "price": { "free": false },
+  "organizer": "Malchower Grashüpfer e.V.",
+  "url": "https://knirpsenfarm-berlin.de/",
+  "familyFriendly": true,
+  "repeat": {
+    "weekdays": ["mo", "di", "mi", "do", "fr"],
+    "from": "2026-10-01",
+    "until": "2027-03-31",
+    "except": ["2026-12-25", "2027-01-01", "2027-03-08", "2027-03-26", "2027-03-29"]
+  }
+}
