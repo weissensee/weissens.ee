@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:42:53.823316901Z",
+  "generatedAt": "2026-11-22T04:48:12.012157362Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-d0756107",
@@ -15090,6 +15090,58 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "digital-zebra-ea5ee40c",
+      "title": "Digital-Zebra",
+      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
+      "category": "Kultur",
+      "date": "2027-01-21",
+      "startTime": "13:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#digital-zebra-ea5ee40c",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "schach-fuer-alle-719fc5d8",
+      "title": "Schach für alle!",
+      "description": "*Aufruf: Hast du auch Lust ab und zu die Schachgruppe zu leiten? Melde dich gern bei uns, wir suchen noch ehrenamtliche Unterstützung!*\n\nAngebot für Anfänger_innen und Fortgeschrittene *aller Altersgruppen*\n\nWir treffen uns in der Bibliothek um spannende Partien gegeneinander zu spielen und Neues zu lernen.\nDas Angebot hat einen ehrenamtlichen Leiter der gerne seine Expertise mit euch teilt. Gespielt wird in der LernLounge in der 2. Etage der Bibliothek\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=253702",
+      "category": "Kultur",
+      "date": "2027-01-21",
+      "startTime": "16:30",
+      "endTime": "",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#schach-fuer-alle-719fc5d8",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
