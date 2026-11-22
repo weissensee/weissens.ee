@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:56:59.845715335Z",
+  "generatedAt": "2026-11-22T19:29:31.577076829Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-d0756107",
@@ -1076,6 +1076,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "wochenmarkt-antonplatz-2570883a",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-11-24",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -2850,6 +2876,32 @@
       "cancelled": false
     },
     {
+      "id": "wochenmarkt-antonplatz-980c92ad",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-11-27",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "singen-mit-baby-c1b1a6c0",
       "title": "Singen mit Baby",
       "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
@@ -4567,6 +4619,32 @@
       "cancelled": false
     },
     {
+      "id": "wochenmarkt-antonplatz-afaf3140",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-12-01",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "familienfruehstueck-b4926769",
       "title": "Familienfrühstück",
       "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
@@ -5800,6 +5878,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "wochenmarkt-antonplatz-093c3ae5",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-12-04",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -7339,6 +7443,32 @@
       "cancelled": false
     },
     {
+      "id": "wochenmarkt-antonplatz-6fad035a",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-12-08",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "familienfruehstueck-353f8b19",
       "title": "Familienfrühstück",
       "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
@@ -8517,6 +8647,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "wochenmarkt-antonplatz-0824cde4",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-12-11",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -9920,6 +10076,32 @@
       "cancelled": false
     },
     {
+      "id": "wochenmarkt-antonplatz-11ed3bac",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-12-15",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "familienfruehstueck-bc8a7684",
       "title": "Familienfrühstück",
       "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
@@ -11098,6 +11280,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "wochenmarkt-antonplatz-5bc22a67",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-12-18",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -12501,6 +12709,32 @@
       "cancelled": false
     },
     {
+      "id": "wochenmarkt-antonplatz-a0ba3fc4",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-12-22",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "familienfruehstueck-1e6e8ca4",
       "title": "Familienfrühstück",
       "description": "Das Familienfrühstück ist ein offenes Frühstücksformat in gemütlicher Atmosphäre.",
@@ -13033,6 +13267,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "wochenmarkt-antonplatz-a105fc8f",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2026-12-29",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -13680,6 +13940,32 @@
       "cancelled": false
     },
     {
+      "id": "wochenmarkt-antonplatz-5c2e006e",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2027-01-05",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "geschichten-kiste-174caee5",
       "title": "Geschichten-Kiste",
       "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
@@ -14026,6 +14312,32 @@
       "cancelled": false
     },
     {
+      "id": "wochenmarkt-antonplatz-e1fb135d",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2027-01-08",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-8c4e5c34",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -14239,6 +14551,32 @@
       "cancelled": false
     },
     {
+      "id": "wochenmarkt-antonplatz-1efc7780",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2027-01-12",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "geschichten-kiste-fa423973",
       "title": "Geschichten-Kiste",
       "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
@@ -14421,6 +14759,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "wochenmarkt-antonplatz-bd082235",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2027-01-15",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -14689,6 +15053,32 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "wochenmarkt-antonplatz-17d5ba7e",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2027-01-19",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
       "cancelled": false
     },
     {
