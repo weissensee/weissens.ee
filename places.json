@@ -6,7 +6,8 @@
     { "name": "Kultur & Bühne", "icon": ["M12 21a9 9 0 0 1 0 -18c4.97 0 9 3.582 9 8c0 1.06 -.474 2.078 -1.318 2.828c-.844 .75 -1.989 1.172 -3.182 1.172h-2.5a2 2 0 0 0 -1 3.75a1.3 1.3 0 0 1 -1 2.25", "M7.5 10.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0", "M11.5 7.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0", "M15.5 10.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"] },
     { "name": "Treffpunkte", "icon": ["M8 9l5 5v7h-5v-4m0 4h-5v-7l5 -5m1 1v-6a1 1 0 0 1 1 -1h10a1 1 0 0 1 1 1v17h-8", "M13 7l0 .01", "M17 7l0 .01", "M17 11l0 .01", "M17 15l0 .01"] },
     { "name": "Märkte", "icon": ["M6.331 8h11.339a2 2 0 0 1 1.977 2.304l-1.255 8.152a3 3 0 0 1 -2.966 2.544h-6.852a3 3 0 0 1 -2.965 -2.544l-1.255 -8.152a2 2 0 0 1 1.977 -2.304", "M9 11v-5a3 3 0 0 1 6 0v5"] },
-    { "name": "Tiere & Spiel", "icon": ["M14.7 13.5c-1.1 -2 -1.441 -2.5 -2.7 -2.5c-1.259 0 -1.736 .755 -2.836 2.747c-.942 1.703 -2.846 1.845 -3.321 3.291c-.097 .265 -.145 .677 -.143 .962c0 1.176 .787 2 1.8 2c1.259 0 3 -1 4.5 -1s3.241 1 4.5 1c1.013 0 1.8 -.823 1.8 -2c0 -.285 -.049 -.697 -.146 -.962c-.475 -1.451 -2.512 -1.835 -3.454 -3.538z", "M20.188 8.082a1.039 1.039 0 0 0 -.406 -.082h-.015c-.735 .012 -1.56 .75 -1.993 1.866c-.519 1.335 -.28 2.7 .538 3.052c.129 .055 .267 .082 .406 .082c.739 0 1.575 -.742 2.011 -1.866c.516 -1.335 .273 -2.7 -.54 -3.052z", "M9.474 9c.055 0 .109 0 .163 -.011c.944 -.128 1.533 -1.346 1.32 -2.722c-.203 -1.297 -1.047 -2.267 -1.932 -2.267c-.055 0 -.109 0 -.163 .011c-.944 .128 -1.533 1.346 -1.32 2.722c.204 1.293 1.048 2.267 1.933 2.267z", "M16.456 6.733c.214 -1.376 -.375 -2.594 -1.32 -2.722a1.164 1.164 0 0 0 -.162 -.011c-.885 0 -1.728 .97 -1.93 2.267c-.214 1.376 .375 2.594 1.32 2.722c.054 .007 .108 .011 .162 .011c.885 0 1.73 -.974 1.93 -2.267z", "M5.69 12.918c.816 -.352 1.054 -1.719 .536 -3.052c-.436 -1.124 -1.271 -1.866 -2.009 -1.866c-.14 0 -.277 .027 -.407 .082c-.816 .352 -1.054 1.719 -.536 3.052c.436 1.124 1.271 1.866 2.009 1.866c.14 0 .277 -.027 .407 -.082z"] }
+    { "name": "Tiere & Spiel", "icon": ["M14.7 13.5c-1.1 -2 -1.441 -2.5 -2.7 -2.5c-1.259 0 -1.736 .755 -2.836 2.747c-.942 1.703 -2.846 1.845 -3.321 3.291c-.097 .265 -.145 .677 -.143 .962c0 1.176 .787 2 1.8 2c1.259 0 3 -1 4.5 -1s3.241 1 4.5 1c1.013 0 1.8 -.823 1.8 -2c0 -.285 -.049 -.697 -.146 -.962c-.475 -1.451 -2.512 -1.835 -3.454 -3.538z", "M20.188 8.082a1.039 1.039 0 0 0 -.406 -.082h-.015c-.735 .012 -1.56 .75 -1.993 1.866c-.519 1.335 -.28 2.7 .538 3.052c.129 .055 .267 .082 .406 .082c.739 0 1.575 -.742 2.011 -1.866c.516 -1.335 .273 -2.7 -.54 -3.052z", "M9.474 9c.055 0 .109 0 .163 -.011c.944 -.128 1.533 -1.346 1.32 -2.722c-.203 -1.297 -1.047 -2.267 -1.932 -2.267c-.055 0 -.109 0 -.163 .011c-.944 .128 -1.533 1.346 -1.32 2.722c.204 1.293 1.048 2.267 1.933 2.267z", "M16.456 6.733c.214 -1.376 -.375 -2.594 -1.32 -2.722a1.164 1.164 0 0 0 -.162 -.011c-.885 0 -1.728 .97 -1.93 2.267c-.214 1.376 .375 2.594 1.32 2.722c.054 .007 .108 .011 .162 .011c.885 0 1.73 -.974 1.93 -2.267z", "M5.69 12.918c.816 -.352 1.054 -1.719 .536 -3.052c-.436 -1.124 -1.271 -1.866 -2.009 -1.866c-.14 0 -.277 .027 -.407 .082c-.816 .352 -1.054 1.719 -.536 3.052c.436 1.124 1.271 1.866 2.009 1.866c.14 0 .277 -.027 .407 -.082z"] },
+    { "name": "Spielplätze", "icon": ["M3 21l3 -16h12l3 16", "M10 5v9", "M14 5v9", "M9 14h6"] }
   ],
   "places": [
     {
@@ -227,6 +228,338 @@
       "url": "https://knirpsenfarm-berlin.de/",
       "openingHours": "April–September Mo–Fr 9–17:30, Oktober–März Mo–Fr 9–16:30, Wochenende und Feiertage 9–16 Uhr",
       "match": ["Knirpsenfarm"]
+    },
+    {
+      "id": "spielplatz-park-am-weissen-see-1",
+      "name": "Spielplatz im Park am Weißen See (1)",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz im Park am Weißen See, rollstuhlgerecht.",
+      "address": "Berliner Allee 125–165, 13088 Berlin",
+      "lat": 52.55201, "lon": 13.46357
+    },
+    {
+      "id": "spielplatz-park-am-weissen-see-2",
+      "name": "Spielplatz im Park am Weißen See (2)",
+      "type": "Spielplätze",
+      "description": "Zweiter öffentlicher Spielplatz im Park am Weißen See, rollstuhlgerecht.",
+      "lat": 52.55549, "lon": 13.46086
+    },
+    {
+      "id": "spielplatz-amalienstrasse",
+      "name": "Spielplatz Amalienstraße (Goldfischteichspielplatz)",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz mit Sand, nahe Parkstraße; dazu ein Sandkasten nebenan.",
+      "lat": 52.55434, "lon": 13.45632
+    },
+    {
+      "id": "spielplatz-gruener-hering",
+      "name": "Spielplatz Grüner Hering",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage, rollstuhlgerecht.",
+      "address": "Tassostraße 18, 13086 Berlin",
+      "lat": 52.54967, "lon": 13.45190
+    },
+    {
+      "id": "spielplatz-tassostrasse",
+      "name": "Spielplatz Tassostraße",
+      "type": "Spielplätze",
+      "description": "Spielplatz für ältere Kinder und Jugendliche, gegenüber Tassostraße 12–14; rollstuhlgerecht.",
+      "lat": 52.55092, "lon": 13.45337
+    },
+    {
+      "id": "kreuzpfuhlspielplatz",
+      "name": "Kreuzpfuhlspielplatz",
+      "type": "Spielplätze",
+      "description": "Spielplatz für ältere Kinder und Jugendliche, hinter Schönstraße 9–10.",
+      "lat": 52.55349, "lon": 13.45170
+    },
+    {
+      "id": "spielplatz-woelckpromenade",
+      "name": "Spielplatz Woelckpromenade",
+      "type": "Spielplätze",
+      "description": "Sandspielplätze an der Woelckpromenade und an der Schönstraße; rollstuhlgerecht.",
+      "lat": 52.55487, "lon": 13.45427
+    },
+    {
+      "id": "spielplatz-schoenstrasse-65",
+      "name": "Spielplatz Schönstraße 65",
+      "type": "Spielplätze",
+      "description": "Kinderspielplatz in einer geschützten Grünanlage; Hunde nicht erlaubt.",
+      "lat": 52.55701, "lon": 13.45670
+    },
+    {
+      "id": "spielplatz-kirchgasse",
+      "name": "Spielplatz Kirchgasse",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz nahe der Kirchgasse.",
+      "lat": 52.55279, "lon": 13.45836
+    },
+    {
+      "id": "spielplatz-grosse-seestrasse-sued",
+      "name": "Spielplatz Große Seestraße (Süd)",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz an der Großen Seestraße.",
+      "lat": 52.55695, "lon": 13.45898
+    },
+    {
+      "id": "spielplatz-grosse-seestrasse-nord",
+      "name": "Spielplatz Große Seestraße (Nord)",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz am nördlichen Ende der Großen Seestraße.",
+      "lat": 52.56046, "lon": 13.45315
+    },
+    {
+      "id": "spielplatz-lemgoer-strasse",
+      "name": "Spielplatz Lemgoer Straße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Sandspielplatz.",
+      "lat": 52.55758, "lon": 13.46268
+    },
+    {
+      "id": "spielplatz-schmohlstrasse",
+      "name": "Spielplatz Schmohlstraße",
+      "type": "Spielplätze",
+      "description": "Öffentliche Spielplätze an der Schmohlstraße.",
+      "lat": 52.56056, "lon": 13.44651
+    },
+    {
+      "id": "spielplatz-preunelstrasse",
+      "name": "Spielplatz Preunelstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz.",
+      "lat": 52.56159, "lon": 13.44302
+    },
+    {
+      "id": "spielplatz-guenter-litfin-strasse",
+      "name": "Spielplatz Günter-Litfin-Straße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage.",
+      "lat": 52.56102, "lon": 13.44728
+    },
+    {
+      "id": "spielplatz-wigandstaler-strasse",
+      "name": "Spielplatz Wigandstaler Straße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz.",
+      "lat": 52.55975, "lon": 13.44058
+    },
+    {
+      "id": "spielplatz-gustav-adolf-strasse",
+      "name": "Spielplatz Gustav-Adolf-Straße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz.",
+      "lat": 52.55788, "lon": 13.44356
+    },
+    {
+      "id": "spielplatz-johannes-itten-strasse",
+      "name": "Spielplatz Johannes-Itten-Straße",
+      "type": "Spielplätze",
+      "description": "Spielplatz an der Johannes-Itten-Straße.",
+      "lat": 52.55750, "lon": 13.44141
+    },
+    {
+      "id": "spielplatz-frieda-seidlitz-strasse",
+      "name": "Spielplatz Frieda-Seidlitz-Straße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage.",
+      "lat": 52.55648, "lon": 13.43982
+    },
+    {
+      "id": "spielplatz-pistoriusstrasse",
+      "name": "Spielplatz Pistoriusstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Sandspielplatz des Bezirksamts Pankow, eröffnet im Dezember 2020.",
+      "lat": 52.55572, "lon": 13.43706
+    },
+    {
+      "id": "spielplatz-am-steinberg-pistoriusstrasse",
+      "name": "Spielplatz Am Steinberg / Pistoriusstraße",
+      "type": "Spielplätze",
+      "description": "Zwei Sandspielflächen zwischen Am Steinberg und Pistoriusstraße.",
+      "lat": 52.55743, "lon": 13.43453
+    },
+    {
+      "id": "spielplatz-am-steinberg",
+      "name": "Sandspielplätze Am Steinberg",
+      "type": "Spielplätze",
+      "description": "Drei Sandkästen dicht beieinander an der Straße Am Steinberg.",
+      "lat": 52.55684, "lon": 13.43184
+    },
+    {
+      "id": "spielplatz-langhansstrasse",
+      "name": "Sandspielplatz Langhansstraße",
+      "type": "Spielplätze",
+      "description": "Sandkasten an der Langhansstraße.",
+      "lat": 52.55477, "lon": 13.43107
+    },
+    {
+      "id": "jugendspielplatz-heinersdorfer-strasse",
+      "name": "Jugendspielplatz Heinersdorfer Straße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz für Jugendliche von 12 bis 18 Jahren.",
+      "lat": 52.55592, "lon": 13.43251
+    },
+    {
+      "id": "spielplatz-goethestrasse",
+      "name": "Spielplatz Goethestraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz, rund um die Uhr zugänglich.",
+      "lat": 52.55089, "lon": 13.43518
+    },
+    {
+      "id": "spielplatz-lehderstrasse-nord",
+      "name": "Spielplatz Lehderstraße (Nord)",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage.",
+      "lat": 52.55122, "lon": 13.43373
+    },
+    {
+      "id": "spielplatz-lehderstrasse-sued",
+      "name": "Spielplätze Lehderstraße (Süd)",
+      "type": "Spielplätze",
+      "description": "Zwei Spielplätze nah beieinander am südlichen Ende der Lehderstraße.",
+      "lat": 52.54880, "lon": 13.44347
+    },
+    {
+      "id": "spielplatz-guertelstrasse",
+      "name": "Spielplatz Gürtelstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz.",
+      "lat": 52.54634, "lon": 13.45012
+    },
+    {
+      "id": "spielplatz-meyerbeerstrasse-borodinstrasse",
+      "name": "Spielplatz Meyerbeerstraße / Borodinstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage, eingeschränkt rollstuhlgerecht.",
+      "address": "Meyerbeerstraße 18 / Borodinstraße 12, 13088 Berlin",
+      "lat": 52.54625, "lon": 13.45203
+    },
+    {
+      "id": "spielplatz-meyerbeerstrasse",
+      "name": "Spielplatz Meyerbeerstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage, am östlichen Teil der Meyerbeerstraße.",
+      "lat": 52.54801, "lon": 13.45794
+    },
+    {
+      "id": "spielplatz-mahlerstrasse",
+      "name": "Spielplätze Mahlerstraße",
+      "type": "Spielplätze",
+      "description": "Zwei Spielplätze (Mahlerstraße 27 und 30) und ein bespielbarer Straßenabschnitt für ältere Kinder und Jugendliche; rollstuhlgerecht.",
+      "lat": 52.54633, "lon": 13.45405
+    },
+    {
+      "id": "spielplatz-gounodstrasse",
+      "name": "Spielplatz Gounodstraße 37–39",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage.",
+      "lat": 52.54664, "lon": 13.45625
+    },
+    {
+      "id": "kleinkinderspielplatz-gounodstrasse",
+      "name": "Kleinkinderspielplatz Gounodstraße 58",
+      "type": "Spielplätze",
+      "description": "Spielplatz für kleine Kinder auf dem Gelände einer ehemaligen Kita; rollstuhlgerecht.",
+      "lat": 52.54671, "lon": 13.45928
+    },
+    {
+      "id": "spielplatz-otto-brahm-strasse",
+      "name": "Spielplätze Otto-Brahm-Straße",
+      "type": "Spielplätze",
+      "description": "Zwei öffentliche Spielplätze, einer gegenüber Otto-Brahm-Straße 17; rollstuhlgerecht.",
+      "lat": 52.54670, "lon": 13.46290
+    },
+    {
+      "id": "spielplatz-solonplatz",
+      "name": "Spielplatz Solonplatz",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz an der Lindenallee.",
+      "lat": 52.54924, "lon": 13.46247
+    },
+    {
+      "id": "spielplatz-labyrinth",
+      "name": "Spielplatz Labyrinth",
+      "type": "Spielplätze",
+      "description": "Kiesspielplatz mit Labyrinth und ein weiterer Spielplatz direkt daneben, zwischen Chopinstraße und Indira-Gandhi-Straße.",
+      "lat": 52.54715, "lon": 13.46662
+    },
+    {
+      "id": "spielplatz-hansastrasse-gartenstrasse",
+      "name": "Spielplatz Hansastraße / Gartenstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz zwischen Gartenstraße 6 und Hansastraße 151, südlich der Else-Jahn-Straße.",
+      "lat": 52.55109, "lon": 13.47425
+    },
+    {
+      "id": "spielplatz-hansastrasse-sued",
+      "name": "Spielplätze Hansastraße (Süd)",
+      "type": "Spielplätze",
+      "description": "Mehrere Spielflächen im Grün östlich der Hansastraße.",
+      "lat": 52.54900, "lon": 13.47870
+    },
+    {
+      "id": "spielplatz-suermondtstrasse",
+      "name": "Spielplatz Suermondtstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz, rollstuhlgerecht.",
+      "lat": 52.55178, "lon": 13.49163
+    },
+    {
+      "id": "spielplatz-falkenberger-strasse-buschallee",
+      "name": "Spielplatz Falkenberger Straße / Buschallee",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz bei Falkenberger Straße 5–12.",
+      "lat": 52.55436, "lon": 13.47182
+    },
+    {
+      "id": "spielplatz-buschallee",
+      "name": "Spielplatz Buschallee",
+      "type": "Spielplätze",
+      "description": "Spielplatz an der Buschallee.",
+      "lat": 52.55443, "lon": 13.46931
+    },
+    {
+      "id": "spielplatz-buschallee-87",
+      "name": "Spielplatz Buschallee 87",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz aus drei Teilflächen.",
+      "lat": 52.55476, "lon": 13.47572
+    },
+    {
+      "id": "spielplatz-bernkasteler-strasse",
+      "name": "Spielplätze Bernkasteler Straße",
+      "type": "Spielplätze",
+      "description": "Mehrere Spielplätze und Sandkästen im Wohngebiet zwischen Falkenberger Straße und Bernkasteler Straße, teils in geschützten Grünanlagen.",
+      "lat": 52.55660, "lon": 13.47420
+    },
+    {
+      "id": "spielplatz-wittlicher-strasse",
+      "name": "Spielplatz Wittlicher Straße",
+      "type": "Spielplätze",
+      "description": "Spielplatz an der Wittlicher Straße.",
+      "lat": 52.55624, "lon": 13.47683
+    },
+    {
+      "id": "spielplatz-piesporter-strasse",
+      "name": "Spielplatz Piesporter Straße",
+      "type": "Spielplätze",
+      "description": "Spielplatz an der Piesporter Straße.",
+      "lat": 52.55869, "lon": 13.47731
+    },
+    {
+      "id": "spielplatz-giersstrasse",
+      "name": "Spielplätze Giersstraße",
+      "type": "Spielplätze",
+      "description": "Zwei Spielplätze zwischen Giersstraße und Falkenberger Straße.",
+      "lat": 52.55705, "lon": 13.48083
+    },
+    {
+      "id": "spielplatz-liebermannstrasse",
+      "name": "Spielplatz Liebermannstraße",
+      "type": "Spielplätze",
+      "description": "Spielplatz an der Liebermannstraße.",
+      "lat": 52.55811, "lon": 13.48909
     }
   ]
 }
