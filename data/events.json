@@ -1,330 +1,6 @@
 {
-  "generatedAt": "2026-11-22T19:37:07.907258581Z",
+  "generatedAt": "2026-11-22T23:10:02.351169415Z",
   "events": [
-    {
-      "id": "kinderbauernhof-knirpsenfarm-geoeffnet-d0756107",
-      "title": "Kinderbauernhof Knirpsenfarm geöffnet",
-      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
-      "category": "Natur",
-      "date": "2026-11-22",
-      "startTime": "09:00",
-      "endTime": "16:00",
-      "location": {
-        "name": "Kinderbauernhof Knirpsenfarm",
-        "address": "Malchower Chaussee 2, 13051 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Malchower Grashüpfer e.V.",
-      "url": "https://knirpsenfarm-berlin.de/",
-      "source": "inbox",
-      "sources": [
-        "inbox"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "vineta-kaula-a-mapping-the-9c192a18",
-      "title": "Vineta Kaulača – Mapping the View",
-      "description": "16.10. – 29.11.26 | 11 – 20 Uhr | Eröffnung: 16.10. | 19 Uhr | Im Rahmen des Jahresprogramms „Mixta Affectus“ | Vineta Kaulača ist eine Künstlerin aus Lettland.",
-      "category": "Kunst",
-      "date": "2026-11-22",
-      "startTime": "11:00",
-      "endTime": "20:00",
-      "location": {
-        "name": "GALERIE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-22/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "das-land-in-dem-ich-37ad172f",
-      "title": "Das Land, in dem ich geboren bin",
-      "description": "D 2001 | 77 min | Dokumentarfilm | R: Marc Becker | Hansi Breier | OmU | Ein Film über Rumänien, über den Osten und den Westen, über Gott und die Welt, über zwei Mönche und vier Rumänen.",
-      "category": "Kino",
-      "date": "2026-11-22",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/das-land-in-dem-ich-geboren-bin-2/2026-11-22/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "entfaellt-tanztee-fuer-alle-b375b5e6",
-      "title": "ENTFÄLLT - Tanztee für alle",
-      "description": "Von Oktober bis Dezember entfällt leider unser beliebtes Angebot \"Tanztee für alle\" .\n\nIm Januar geht es wieder weiter- dann wieder mit gesundem Schwung ins neue Jahr!",
-      "category": "Kultur",
-      "date": "2026-11-22",
-      "startTime": "16:00",
-      "endTime": "19:00",
-      "location": {
-        "name": "Stadtteilzentrum Weißensee",
-        "address": "Pistoriusstraße 23, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
-      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
-      "source": "stadtteilzentrum-weissensee",
-      "sources": [
-        "stadtteilzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": true
-    },
-    {
-      "id": "sonntagsschoen-a841a60f",
-      "title": "SONNTAGSSCHÖN [Achtung: Terminverschiebung!]",
-      "description": "Terminverschiebung auf 29.11.2026 !\nIndie \u0026 Wave Tanzcafé - mit DJ Iron Henning\n\nBeginn \u0026 Einlass: 16:00 Uhr\nTickets: 10 Euro - Online \u0026 beim Ticketshop vor Ort (inkl. VVK-Gebühr) | 10 Euro (Abendkasse)\n\nUnbestuhlt Keine Sitzplatzgarantie",
-      "category": "Kultur",
-      "date": "2026-11-22",
-      "startTime": "16:00",
-      "endTime": "",
-      "location": {
-        "name": "Peter Edel",
-        "address": "Berliner Allee 125, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 10
-      },
-      "organizer": "Bildungs- und Kulturzentrum Peter Edel",
-      "url": "https://www.peteredel.de/events/sonntagsschoen/",
-      "source": "peter-edel",
-      "sources": [
-        "peter-edel"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "langsam-langsam-oder-die-schnellste-e74fafa6",
-      "title": "„Langsam Langsam! – oder die schnellste Schnecke der Welt“",
-      "description": "Schauspiel mit Figuren für Kinder ab vier Jahren | Spiel/Stückentwicklung: Martin Heesch | Regie/Stückentwicklung: Andreas Mihan",
-      "category": "Theater",
-      "date": "2026-11-22",
-      "startTime": "16:00",
-      "endTime": "18:00",
-      "location": {
-        "name": "BÜHNE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 5
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/langsam-langsam-oder-die-schnellste-schnecke-der-welt/2026-11-22/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "helene-weigel-revolutionaerin-im-rampenl-45b6ed6f",
-      "title": "Helene Weigel – Revolutionärin im Rampenlicht",
-      "description": "D/A 2026 | 102 min | Dokumentarfilm | R: Maria Wischnewski | Bis heute bedeutet sie die Welt für jene Bretter, die die Welt bedeuten.",
-      "category": "Kino",
-      "date": "2026-11-22",
-      "startTime": "16:30",
-      "endTime": "18:30",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/helene-weigel-revoltionaerin-im-rampenlicht/2026-11-22/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "donna-the-show-e2cbc1ee",
-      "title": "Donna The Show",
-      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
-      "category": "Theater",
-      "date": "2026-11-22",
-      "startTime": "18:00",
-      "endTime": "",
-      "location": {
-        "name": "Theater im Delphi",
-        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
-      "source": "theater-im-delphi",
-      "sources": [
-        "theater-im-delphi"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "chornichants-a-cappella-songs-gegen-859f3e3e",
-      "title": "\"Chornichants\" A-cappella-Songs gegen den Herbstblues",
-      "description": "Der Herbst wird musikalisch! Die Chornichants laden zu einem stimmungsvollen Abend mit A-cappella-Gesang ins Stadtteilzentrum Weißensee ein. Mit ihren Stimmen und jeder Menge guter Laune sorgen sie für musikalische Wärme an grauen Herbsttagen und vertreiben gemeinsam mit euch den Herbstblues.\n\nWann: Sonntag, 22. November 2026, um 18:30 Uhr\nWo: Stadtteilzentrum Weißensee, Pistoriusstraße 23, 13086 Berlin\nEintritt: Frei",
-      "category": "Kultur",
-      "date": "2026-11-22",
-      "startTime": "18:30",
-      "endTime": "",
-      "location": {
-        "name": "Stadtteilzentrum Weißensee",
-        "address": "Pistoriusstraße 23, 13086 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
-      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
-      "source": "stadtteilzentrum-weissensee",
-      "sources": [
-        "stadtteilzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "uebergang-1438aabf",
-      "title": "Übergang",
-      "description": "D 2026 | 120 min | Dokumentarfilm | R: Peter Badel \u0026 Chris Wright | Ende 2023 begann Thomas Heise die Arbeit an seinem letzten Dokumentarfilm, der nach dem Tod des vielfach preisgekrönten Regisseurs im Mai 2024",
-      "category": "Kino",
-      "date": "2026-11-22",
-      "startTime": "18:30",
-      "endTime": "20:30",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/uebergang/2026-11-22/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "donna-the-show-46be8b06",
-      "title": "Donna The Show",
-      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
-      "category": "Theater",
-      "date": "2026-11-22",
-      "startTime": "20:30",
-      "endTime": "",
-      "location": {
-        "name": "Theater im Delphi",
-        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
-      "source": "theater-im-delphi",
-      "sources": [
-        "theater-im-delphi"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "hiddensee-78df1775",
-      "title": "Hiddensee",
-      "description": "D 2026 | 119 min | Dokumentarfilm | R: Annekatrin Hendel | Hiddensee, ein nur 17 Kilometer langer Streifen Land in der Ostsee, geliebt als Sehnsuchtsort der Freiheit.",
-      "category": "Kino",
-      "date": "2026-11-22",
-      "startTime": "20:45",
-      "endTime": "23:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/hiddensee/2026-11-22/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
     {
       "id": "babysprechstunde-8c67432d",
       "title": "Babysprechstunde",
@@ -13003,6 +12679,114 @@
       "cancelled": false
     },
     {
+      "id": "krabbelgruppe-764124b8",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-12-23",
+      "startTime": "10:00",
+      "endTime": "10:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2/?wcs_timestamp=1798020000",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "krabbelgruppe-1d7a11e3",
+      "title": "Krabbelgruppe",
+      "description": "Für Familien mit Kindern zwischen 3 Monaten und 1,5 Jahren Ohne Anmeldung In der Krabbelgruppe könnt ihr euch zum Spielen, Entdecken und Musizieren treffen und gemeinsam …",
+      "category": "Sport",
+      "date": "2026-12-23",
+      "startTime": "11:00",
+      "endTime": "11:45",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/krabbelgruppe-fuer-kinder-mit-besonderen-beduerfnissen-2-2-2-2/?wcs_timestamp=1798023600",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "soft-opening-b81b9bcc",
+      "title": "SOFT OPENING",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "category": "Kunst",
+      "date": "2026-12-23",
+      "startTime": "11:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "GALERIE Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-23/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "telefon-beratung-e4329b4e",
+      "title": "Telefon-Beratung",
+      "description": "Für alle die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-23",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Bewegungsraum",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht-2/?wcs_timestamp=1798034400",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
       "id": "repair-cafe-ca2dbe6f",
       "title": "Repair-Café",
       "description": "*Hilfe zur Selbsthilfe bei der Reparatur kleiner Haushaltsgeräte*\nWer technische und handwerkliche Fähigkeiten hat, kann sie weitergeben – wer sie nicht hat, kann sich das Wissen der Expert_innen zunutze machen. Reparieren macht Spaß und ist oft einfacher, als man denkt! In lockerer Atmosphäre heißt es wieder gemeinsam Tüfteln, Reparieren oder sein Wissen weitergeben – darum geht es beim Repair-Café.\n\nWir helfen Ihnen das Problem zu finden und das defekte Gerät zu reparieren.\n\nDas Angebot richtet sich an alle Altersgruppen\n\n*Anmeldung erwünscht* unter (030) 90295-3867 oder wolfdietrich-schnurre-bibliothek@ba-pankow.berlin.de\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=267133",
@@ -13022,6 +12806,114 @@
       "source": "wolfdietrich-schnurre-bibliothek",
       "sources": [
         "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "queer-cafe-1335eb8c",
+      "title": "Queer Café",
+      "description": "Für queere Menschen in Familien und in Familienplanung Ohne Anmeldung Das Queer Café ist ein offener Treff und ein safer space für queere …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-23",
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "location": {
+        "name": "Café",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/queer-cafe/?wcs_timestamp=1798043410",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "broken-english-f8ad0a8f",
+      "title": "Broken English",
+      "description": "GB 2025 | 98 min | Dokumentarfilm | R: Jane Pollard und Iain Forsyth | OmU | Eine außergewöhnliche Künstlerin bekommt eine außergewöhnliche Doku: »Broken English« über und mit der Musikerin und Schauspielerin Marianne Faithful",
+      "category": "Kino",
+      "date": "2026-12-23",
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/broken-english/2026-12-23/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "zwischen-den-welten-2dec576a",
+      "title": "Zwischen den Welten",
+      "description": "D 2026 | 103 min | Spielfilm | R: Nader Saeivar | Murad lebt mit seiner Frau Leyla und dem gemeinsamen Sohn in Berlin.",
+      "category": "Kino",
+      "date": "2026-12-23",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/zwischen-den-welten/2026-12-23/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "nur-getraeumt-1fad4a18",
+      "title": "Nur geträumt",
+      "description": "F 2026 | 119 min | Spielfilm | R: Olivier Nakache | Éric Toledano | DF | 1985, ein Vorort von Paris: Bei Familie Dayan herrscht der ganz normale Wahnsinn.",
+      "category": "Kino",
+      "date": "2026-12-23",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-23/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -13135,6 +13027,33 @@
       "registrationRequired": false,
       "familyFriendly": true,
       "cancelled": false
+    },
+    {
+      "id": "entfaellt-tanztee-fuer-alle-9a732824",
+      "title": "ENTFÄLLT - Tanztee für alle",
+      "description": "Von Oktober bis Dezember entfällt leider unser beliebtes Angebot \"Tanztee für alle\" .\n\nIm Januar geht es wieder weiter- dann wieder mit gesundem Schwung ins neue Jahr!",
+      "category": "Kultur",
+      "date": "2026-12-27",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "sources": [
+        "stadtteilzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": true
     },
     {
       "id": "sonntagsschoen-f0d4246c",
@@ -15312,6 +15231,59 @@
       "source": "wolfdietrich-schnurre-bibliothek",
       "sources": [
         "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kinderbauernhof-knirpsenfarm-geoeffnet-22f6cdd6",
+      "title": "Kinderbauernhof Knirpsenfarm geöffnet",
+      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
+      "category": "Natur",
+      "date": "2027-01-22",
+      "startTime": "09:00",
+      "endTime": "16:30",
+      "location": {
+        "name": "Kinderbauernhof Knirpsenfarm",
+        "address": "Malchower Chaussee 2, 13051 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Malchower Grashüpfer e.V.",
+      "url": "https://knirpsenfarm-berlin.de/",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "wochenmarkt-antonplatz-ded690b6",
+      "title": "Wochenmarkt Antonplatz",
+      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+      "category": "Markt",
+      "date": "2027-01-22",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Wochenmarkt Antonplatz",
+        "address": "Antonplatz, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "url": "https://www.openstreetmap.org/node/12356318726",
+      "source": "inbox",
+      "sources": [
+        "inbox"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
