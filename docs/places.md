@@ -5,7 +5,9 @@ and markets. This file is the full **collection**. A curated selection is in
 the app: [`../places.json`](../places.json) feeds the "Orte" tab (place pages
 with the upcoming events held there; see the core's docs/instance.md,
 "Places"). Since 21 November 2026 it holds 23 hand-picked places; since
-22 November 2026 also 47 public playgrounds (type "Spielplätze", see below).
+22 November 2026 also playgrounds (type "Spielplätze"): the 33 official public
+playgrounds from the Berlin Geoportal first, then 20 further playgrounds that
+are only in OpenStreetMap (see the two sections below).
 Pitches and fitness stations from OpenStreetMap are not in the app yet.
 Places with opening hours (for example the lido, boat hire or markets) could
 additionally be brought into the calendar as recurring inbox entries, as was
@@ -183,6 +185,63 @@ In addition, there are 28 Stolpersteine (OSM `memorial=stolperstein`), not liste
 | Seelöwe |  | 52.55546, 13.46125 | [node/10038850411](https://www.openstreetmap.org/node/10038850411) |
 | Motorwerk Berlin |  | 52.56359, 13.46177 | [way/288253333](https://www.openstreetmap.org/way/288253333) · [Wikipedia](https://de.wikipedia.org/wiki/Motorwerk) |
 | DGZ Brunnen |  | 52.55846, 13.44122 | [way/490757360](https://www.openstreetmap.org/way/490757360) |
+
+## From the Berlin Geoportal: public playgrounds (22 November 2026)
+
+Official source for the playgrounds in the app: "Grünanlagenbestand Berlin
+(einschließlich der öffentlichen Spielplätze)", WFS layer
+`gruenanlagen:spielplaetze` at `https://gdi.berlin.de/services/wfs/gruenanlagen`
+([field description](https://gdi.berlin.de/data/gruenanlagen/docs/Datenformatbeschreibung_Gruenanlagen_Spielplaetze.pdf)),
+licence Datenlizenz Deutschland – Zero 2.0. Filtered to `ortstlname = Weißensee`:
+33 public playgrounds. Example request (GeoJSON, WGS 84):
+
+```
+https://gdi.berlin.de/services/wfs/gruenanlagen?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&TYPENAMES=gruenanlagen:spielplaetze&OUTPUTFORMAT=application/json&SRSNAME=EPSG:4326&BBOX=52.538,13.420,52.568,13.500,urn:ogc:def:crs:EPSG::4326
+```
+
+Rules for `places.json` (issue #3): the official data takes precedence - one
+place per Geoportal playground, official name and address, sorted by net play
+area (largest first). OpenStreetMap only adds what the Geoportal lacks
+(wheelchair access, age range) from OSM playgrounds within 45 m. OSM
+playgrounds without an official counterpart follow after the official ones,
+marked "nur in OpenStreetMap eingetragen" (see the next section).
+
+| Object | Name | Net play area m² | Plot m² | Built | Renovated | Location |
+|---|---|---|---|---|---|---|
+| 70160 | Falkenberger Str. 151 bis 155 (östl. Bernkasteler Str. 24 A) | 4801 | 8323 |  | 2021 | 52.55688, 13.48082 |
+| 78981 | Tassostr. 18 ("Grüner Hering") | 3347 | 4992 | 2006 |  | 52.54967, 13.45191 |
+| 70173 | Wigandstaler Str. 39 A - Spielplatz | 3094 | 3848 | 1996 | 2020 | 52.55966, 13.44026 |
+| 70508 | Park Am Weißen See - Spielplatz 1 (Berliner Allee zw. 125 und 165) | 1683 | 2963 | 1999 | 2017 | 52.55201, 13.46357 |
+| 70155 | Otto-Brahm-Str. zw. 7 und 11 | 1537 | 2335 | 1992 | 2019 | 52.54648, 13.46194 |
+| 70177 | Gartenstr. 6, Hansastr. 151- Spielplatz (südl. Else-Jahn-Str., westl Hansastr.) | 1410 | 1552 | 1994 |  | 52.55109, 13.47427 |
+| 70180 | Falkenberger Str. 5-12/ Buschallee | 1318 | 2114 | 1996 | 2018 | 52.55436, 13.47180 |
+| 77860 | Gounodstr. 58 | 1298 | 1942 | 2012 |  | 52.54671, 13.45928 |
+| 70509 | Park Am Weißen See - Spielplatz 2 (Plansche) | 1183 | 6945 | 1992 |  | 52.55549, 13.46086 |
+| 70149 | Frieda-Seidlitz-Str. (ggü 54D) | 1178 | 1412 |  |  | 52.55648, 13.43980 |
+| 70154 | Schönstr. 65 (zw. Schönstr. 64 und 66) | 1064 | 1572 | 1992 |  | 52.55701, 13.45670 |
+| 77799 | Mahlerstr. 30 | 1042 | 1735 | 2004 |  | 52.54631, 13.45363 |
+| 70159 | Bernkasteler Str. 73 a (zwischen Nr. 73 und 75) | 1032 | 1629 | 1996 |  | 52.55741, 13.47363 |
+| 70114 | Günter-Litfin-Str. 19, 21 (zw. Nr. 17 und 23) | 966 | 1358 |  | 2020 | 52.56101, 13.44728 |
+| 70502 | Park am Faulen See - Spielplatz (Am NSG "Fauler See") | 900 | 1647 |  |  | 52.55182, 13.49205 |
+| 70190 | Mahlerstr.  27 | 875 | 1451 | 2005 |  | 52.54647, 13.45438 |
+| 70181 | Buschallee 87 - Spielplatz 1 (Falkenberger Straße 27-30) | 872 | 1506 | 2004 |  | 52.55471, 13.47590 |
+| 70158 | Bernkasteler Str. 15-16 A (Wittlicher Str. 5-7) | 835 | 1175 | 1995 |  | 52.55679, 13.47545 |
+| 70171 | Bühringstr. neben 25 | 807 | 982 |  |  | 52.55862, 13.43788 |
+| 78861 | Lehderstr. 68 | 718 | 989 | 2012 |  | 52.55122, 13.43373 |
+| 70106 | Meyerbeerstr. 18/ Borodinstr. 12 | 718 | 1118 | 1993 |  | 52.54625, 13.45203 |
+| 70511 | Gounodstr. 37-39 | 631 | 1115 | 2002 |  | 52.54664, 13.45625 |
+| 70161 | Meyerbeerstr. 65-67 | 588 | 1235 | 1992 |  | 52.54801, 13.45797 |
+| 70504 | Werner-Klemke-Park (Goldfischteich) - Spielplatz (Parkstr./Amalienstr./hinter Hotel) | 527 | 1076 | 1999 | 2020 | 52.55434, 13.45632 |
+| 77865 | Mahlerstr. (bespielbarer Straßenabschnitt) | 501 | 510 | 2005 |  | 52.54623, 13.45412 |
+| 70175 | Otto-Brahm-Str. ggü. 17 | 412 | 742 | 1992 |  | 52.54692, 13.46384 |
+| 70506 | Kreuzpfuhl - Spielplatz (hinter Schönstr. 9, 10) | 411 | 737 | 2001 |  | 52.55347, 13.45167 |
+| 78941 | Goethestr. 9, 11 / Lehderstr. 73 | 304 | 1577 |  |  | 52.55087, 13.43516 |
+| 70103 | Tassostr. ggü. 12-14 | 303 | 634 | 1995 |  | 52.55092, 13.45337 |
+| 78520 | Charlottenburger Str 75 | 276 | 405 |  |  | 52.55590, 13.43251 |
+| 70117 | Solonplatz - Spielplatz | 240 | 572 | 1999 | 2020 | 52.54923, 13.46247 |
+| 70973 | Pistoriusstr. 95 (Spielplatz) | 213 | 1085 |  |  | 52.55573, 13.43707 |
+| 77863 | Buschallee 87 - Spielplatz 2 (Falkenberger Straße 27-30) | 99 | 284 | 2004 |  | 52.55412, 13.47623 |
+
 ## From OpenStreetMap: play, sport, markets (21 November 2026)
 
 Query via the Overpass API (`docs/osm/orte-weissensee.overpassql`): all objects
@@ -194,12 +253,11 @@ OpenStreetMap contributors, ODbL. "Location" is the centre point
 
 ### Playgrounds, public or unspecified (69)
 
-In the app: the 69 public playground areas below became 47 places in
-`places.json` (type "Spielplätze"). Neighbouring areas (several sandpits,
-parts of one playground) were merged into one place; unnamed playgrounds are
-named after the nearest street (from OSM street geometry). OSM names,
-descriptions, wheelchair and age information went into the description.
-Private playgrounds (next section) are left out.
+In the app (since issue #3): areas within 45 m of a Geoportal playground are
+covered by the official entry (above). The remaining areas became 20 places
+listed after the official ones, marked "nur in OpenStreetMap eingetragen";
+neighbouring areas were merged and unnamed ones named after the nearest
+street. Private playgrounds (next section) are left out.
 
 | Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|

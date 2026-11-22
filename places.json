@@ -230,336 +230,406 @@
       "match": ["Knirpsenfarm"]
     },
     {
-      "id": "spielplatz-park-am-weissen-see-1",
-      "name": "Spielplatz im Park am Weißen See (1)",
+      "id": "spielplatz-falkenberger-strasse-151-155",
+      "name": "Spielplatz Falkenberger Straße 151–155",
       "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz im Park am Weißen See, rollstuhlgerecht.",
-      "address": "Berliner Allee 125–165, 13088 Berlin",
-      "lat": 52.55201, "lon": 13.46357
-    },
-    {
-      "id": "spielplatz-park-am-weissen-see-2",
-      "name": "Spielplatz im Park am Weißen See (2)",
-      "type": "Spielplätze",
-      "description": "Zweiter öffentlicher Spielplatz im Park am Weißen See, rollstuhlgerecht.",
-      "lat": 52.55549, "lon": 13.46086
-    },
-    {
-      "id": "spielplatz-amalienstrasse",
-      "name": "Spielplatz Amalienstraße (Goldfischteichspielplatz)",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz mit Sand, nahe Parkstraße; dazu ein Sandkasten nebenan.",
-      "lat": 52.55434, "lon": 13.45632
+      "description": "Öffentlicher Spielplatz, östlich Bernkasteler Straße 24 A. Spielfläche rund 4.801 m² (Grundstück 8.323 m²). Zuletzt saniert 2021. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70160.",
+      "address": "Falkenberger Straße 151–155, Berlin",
+      "lat": 52.55710, "lon": 13.48078
     },
     {
       "id": "spielplatz-gruener-hering",
       "name": "Spielplatz Grüner Hering",
       "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage, rollstuhlgerecht.",
-      "address": "Tassostraße 18, 13086 Berlin",
-      "lat": 52.54967, "lon": 13.45190
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 3.347 m² (Grundstück 4.992 m²). Gebaut 2006. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 78981.",
+      "address": "Tassostraße 18, Berlin",
+      "lat": 52.54968, "lon": 13.45180
     },
     {
-      "id": "spielplatz-tassostrasse",
-      "name": "Spielplatz Tassostraße",
+      "id": "spielplatz-wigandstaler-strasse-39-a",
+      "name": "Spielplatz Wigandstaler Straße 39 A",
       "type": "Spielplätze",
-      "description": "Spielplatz für ältere Kinder und Jugendliche, gegenüber Tassostraße 12–14; rollstuhlgerecht.",
-      "lat": 52.55092, "lon": 13.45337
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 3.094 m² (Grundstück 3.848 m²). Gebaut 1996, zuletzt saniert 2020. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70173.",
+      "address": "Wigandstaler Straße 39 A, Berlin",
+      "lat": 52.55970, "lon": 13.44026
     },
     {
-      "id": "kreuzpfuhlspielplatz",
-      "name": "Kreuzpfuhlspielplatz",
+      "id": "spielplatz-im-park-am-weissen-see-1",
+      "name": "Spielplatz im Park am Weißen See (1)",
       "type": "Spielplätze",
-      "description": "Spielplatz für ältere Kinder und Jugendliche, hinter Schönstraße 9–10.",
-      "lat": 52.55349, "lon": 13.45170
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 1.683 m² (Grundstück 2.963 m²). Gebaut 1999, zuletzt saniert 2017. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70508.",
+      "address": "Berliner Allee 125–165, Berlin",
+      "lat": 52.55198, "lon": 13.46356
     },
     {
-      "id": "spielplatz-woelckpromenade",
-      "name": "Spielplatz Woelckpromenade",
+      "id": "spielplatz-otto-brahm-strasse-7-11",
+      "name": "Spielplatz Otto-Brahm-Straße 7–11",
       "type": "Spielplätze",
-      "description": "Sandspielplätze an der Woelckpromenade und an der Schönstraße; rollstuhlgerecht.",
-      "lat": 52.55487, "lon": 13.45427
+      "description": "Öffentlicher Spielplatz, zwischen Nr. 7 und 11. Spielfläche rund 1.537 m² (Grundstück 2.335 m²). Gebaut 1992, zuletzt saniert 2019. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70155.",
+      "address": "Otto-Brahm-Straße 7–11, Berlin",
+      "lat": 52.54650, "lon": 13.46193
+    },
+    {
+      "id": "spielplatz-gartenstrasse-hansastrasse",
+      "name": "Spielplatz Gartenstraße / Hansastraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz, südlich der Else-Jahn-Straße, westlich der Hansastraße. Spielfläche rund 1.410 m² (Grundstück 1.552 m²). Gebaut 1994. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70177.",
+      "address": "Gartenstraße 6 / Hansastraße 151, Berlin",
+      "lat": 52.55109, "lon": 13.47427
+    },
+    {
+      "id": "spielplatz-falkenberger-strasse-buschallee",
+      "name": "Spielplatz Falkenberger Straße / Buschallee",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 1.318 m² (Grundstück 2.114 m²). Gebaut 1996, zuletzt saniert 2018. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70180.",
+      "address": "Falkenberger Straße 5–12 / Buschallee, Berlin",
+      "lat": 52.55443, "lon": 13.47193
+    },
+    {
+      "id": "spielplatz-gounodstrasse-58",
+      "name": "Spielplatz Gounodstraße 58",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 1.298 m² (Grundstück 1.942 m²). Gebaut 2012. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 77860.",
+      "address": "Gounodstraße 58, Berlin",
+      "lat": 52.54675, "lon": 13.45928
+    },
+    {
+      "id": "spielplatz-im-park-am-weissen-see-2-mit-plansche",
+      "name": "Spielplatz im Park am Weißen See (2) mit Plansche",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz, mit Plansche. Spielfläche rund 1.183 m² (Grundstück 6.945 m²). Gebaut 1992. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70509.",
+      "lat": 52.55550, "lon": 13.46086
+    },
+    {
+      "id": "spielplatz-frieda-seidlitz-strasse",
+      "name": "Spielplatz Frieda-Seidlitz-Straße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 1.178 m² (Grundstück 1.412 m²). Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70149.",
+      "address": "Frieda-Seidlitz-Straße, gegenüber Nr. 54 D, Berlin",
+      "lat": 52.55649, "lon": 13.43981
     },
     {
       "id": "spielplatz-schoenstrasse-65",
       "name": "Spielplatz Schönstraße 65",
       "type": "Spielplätze",
-      "description": "Kinderspielplatz in einer geschützten Grünanlage; Hunde nicht erlaubt.",
+      "description": "Öffentlicher Spielplatz, zwischen Nr. 64 und 66. Spielfläche rund 1.064 m² (Grundstück 1.572 m²). Gebaut 1992. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70154.",
+      "address": "Schönstraße 65, Berlin",
       "lat": 52.55701, "lon": 13.45670
     },
     {
-      "id": "spielplatz-kirchgasse",
-      "name": "Spielplatz Kirchgasse",
+      "id": "spielplatz-mahlerstrasse-30",
+      "name": "Spielplatz Mahlerstraße 30",
       "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz nahe der Kirchgasse.",
-      "lat": 52.55279, "lon": 13.45836
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 1.042 m² (Grundstück 1.735 m²). Gebaut 2004. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 77799.",
+      "address": "Mahlerstraße 30, Berlin",
+      "lat": 52.54631, "lon": 13.45365
     },
     {
-      "id": "spielplatz-grosse-seestrasse-sued",
-      "name": "Spielplatz Große Seestraße (Süd)",
+      "id": "spielplatz-bernkasteler-strasse-73-a",
+      "name": "Spielplatz Bernkasteler Straße 73 A",
       "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz an der Großen Seestraße.",
-      "lat": 52.55695, "lon": 13.45898
+      "description": "Öffentlicher Spielplatz, zwischen Nr. 73 und 75. Spielfläche rund 1.032 m² (Grundstück 1.629 m²). Gebaut 1996. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70159.",
+      "address": "Bernkasteler Straße 73 A, Berlin",
+      "lat": 52.55741, "lon": 13.47363
+    },
+    {
+      "id": "spielplatz-guenter-litfin-strasse-19-21",
+      "name": "Spielplatz Günter-Litfin-Straße 19/21",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz, zwischen Nr. 17 und 23. Spielfläche rund 966 m² (Grundstück 1.358 m²). Zuletzt saniert 2020. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70114.",
+      "address": "Günter-Litfin-Straße 19/21, Berlin",
+      "lat": 52.56101, "lon": 13.44728
+    },
+    {
+      "id": "spielplatz-im-park-am-faulen-see",
+      "name": "Spielplatz im Park am Faulen See",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz, am Naturschutzgebiet Fauler See. Spielfläche rund 900 m² (Grundstück 1.647 m²). Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70502.",
+      "lat": 52.55183, "lon": 13.49207
+    },
+    {
+      "id": "spielplatz-mahlerstrasse-27",
+      "name": "Spielplatz Mahlerstraße 27",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 875 m² (Grundstück 1.451 m²). Gebaut 2005. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70190.",
+      "address": "Mahlerstraße 27, Berlin",
+      "lat": 52.54647, "lon": 13.45438
+    },
+    {
+      "id": "spielplatz-buschallee-87-1",
+      "name": "Spielplatz Buschallee 87 (1)",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 872 m² (Grundstück 1.506 m²). Gebaut 2004. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70181.",
+      "address": "Buschallee 87 / Falkenberger Straße 27–30, Berlin",
+      "lat": 52.55469, "lon": 13.47571
+    },
+    {
+      "id": "spielplatz-bernkasteler-strasse-15-16-a",
+      "name": "Spielplatz Bernkasteler Straße 15–16 A",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 835 m² (Grundstück 1.175 m²). Gebaut 1995. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70158.",
+      "address": "Bernkasteler Straße 15–16 A / Wittlicher Straße 5–7, Berlin",
+      "lat": 52.55679, "lon": 13.47545
+    },
+    {
+      "id": "spielplatz-buehringstrasse",
+      "name": "Spielplatz Bühringstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 807 m² (Grundstück 982 m²). Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70171.",
+      "address": "Bühringstraße, neben Nr. 25, Berlin",
+      "lat": 52.55862, "lon": 13.43788
+    },
+    {
+      "id": "spielplatz-lehderstrasse-68",
+      "name": "Spielplatz Lehderstraße 68",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 718 m² (Grundstück 989 m²). Gebaut 2012. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 78861.",
+      "address": "Lehderstraße 68, Berlin",
+      "lat": 52.55121, "lon": 13.43373
+    },
+    {
+      "id": "spielplatz-meyerbeerstrasse-borodinstrasse",
+      "name": "Spielplatz Meyerbeerstraße / Borodinstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 718 m² (Grundstück 1.118 m²). Gebaut 1993. Laut OpenStreetMap eingeschränkt rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70106.",
+      "address": "Meyerbeerstraße 18 / Borodinstraße 12, Berlin",
+      "lat": 52.54625, "lon": 13.45203
+    },
+    {
+      "id": "spielplatz-gounodstrasse-37-39",
+      "name": "Spielplatz Gounodstraße 37–39",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 631 m² (Grundstück 1.115 m²). Gebaut 2002. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70511.",
+      "address": "Gounodstraße 37–39, Berlin",
+      "lat": 52.54665, "lon": 13.45625
+    },
+    {
+      "id": "spielplatz-meyerbeerstrasse-65-67",
+      "name": "Spielplatz Meyerbeerstraße 65–67",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 588 m² (Grundstück 1.235 m²). Gebaut 1992. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70161.",
+      "address": "Meyerbeerstraße 65–67, Berlin",
+      "lat": 52.54801, "lon": 13.45797
+    },
+    {
+      "id": "spielplatz-im-werner-klemke-park-goldfischteich",
+      "name": "Spielplatz im Werner-Klemke-Park (Goldfischteich)",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz, hinter dem Hotel. Spielfläche rund 527 m² (Grundstück 1.076 m²). Gebaut 1999, zuletzt saniert 2020. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70504.",
+      "address": "Parkstraße / Amalienstraße, Berlin",
+      "lat": 52.55436, "lon": 13.45635
+    },
+    {
+      "id": "spielstrasse-mahlerstrasse",
+      "name": "Spielstraße Mahlerstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz, bespielbarer Straßenabschnitt. Spielfläche rund 501 m² (Grundstück 510 m²). Gebaut 2005. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 77865.",
+      "address": "Mahlerstraße, Berlin",
+      "lat": 52.54622, "lon": 13.45412
+    },
+    {
+      "id": "spielplatz-otto-brahm-strasse-17",
+      "name": "Spielplatz Otto-Brahm-Straße 17",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 412 m² (Grundstück 742 m²). Gebaut 1992. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70175.",
+      "address": "Otto-Brahm-Straße, gegenüber Nr. 17, Berlin",
+      "lat": 52.54693, "lon": 13.46385
+    },
+    {
+      "id": "kreuzpfuhlspielplatz",
+      "name": "Kreuzpfuhlspielplatz",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 411 m² (Grundstück 737 m²). Gebaut 2001. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70506.",
+      "address": "hinter Schönstraße 9–10, Berlin",
+      "lat": 52.55347, "lon": 13.45167
+    },
+    {
+      "id": "spielplatz-goethestrasse-lehderstrasse",
+      "name": "Spielplatz Goethestraße / Lehderstraße",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 304 m² (Grundstück 1.577 m²). Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 78941.",
+      "address": "Goethestraße 9–11 / Lehderstraße 73, Berlin",
+      "lat": 52.55087, "lon": 13.43515
+    },
+    {
+      "id": "spielplatz-tassostrasse-12-14",
+      "name": "Spielplatz Tassostraße 12–14",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 303 m² (Grundstück 634 m²). Gebaut 1995. Laut OpenStreetMap rollstuhlgerecht. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70103.",
+      "address": "Tassostraße, gegenüber Nr. 12–14, Berlin",
+      "lat": 52.55093, "lon": 13.45334
+    },
+    {
+      "id": "spielplatz-charlottenburger-strasse-75",
+      "name": "Spielplatz Charlottenburger Straße 75",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 276 m² (Grundstück 405 m²). Laut OpenStreetMap für 12 bis 18 Jahre. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 78520.",
+      "address": "Charlottenburger Straße 75, Berlin",
+      "lat": 52.55589, "lon": 13.43250
+    },
+    {
+      "id": "spielplatz-solonplatz",
+      "name": "Spielplatz Solonplatz",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 240 m² (Grundstück 572 m²). Gebaut 1999, zuletzt saniert 2020. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70117.",
+      "address": "Solonplatz, Berlin",
+      "lat": 52.54923, "lon": 13.46247
+    },
+    {
+      "id": "spielplatz-pistoriusstrasse-95",
+      "name": "Spielplatz Pistoriusstraße 95",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 213 m² (Grundstück 1.085 m²). Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 70973.",
+      "address": "Pistoriusstraße 95, Berlin",
+      "lat": 52.55573, "lon": 13.43707
+    },
+    {
+      "id": "spielplatz-buschallee-87-2",
+      "name": "Spielplatz Buschallee 87 (2)",
+      "type": "Spielplätze",
+      "description": "Öffentlicher Spielplatz. Spielfläche rund 99 m² (Grundstück 284 m²). Gebaut 2004. Quelle: Grünanlagenbestand Berlin (Geoportal), Objekt 77863.",
+      "address": "Buschallee 87 / Falkenberger Straße 27–30, Berlin",
+      "lat": 52.55412, "lon": 13.47623
+    },
+    {
+      "id": "spielplatz-langhansstrasse",
+      "name": "Sandspielplatz Langhansstraße",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Sandkasten an der Langhansstraße.",
+      "lat": 52.55477, "lon": 13.43107
+    },
+    {
+      "id": "spielplatz-am-steinberg",
+      "name": "Sandspielplätze Am Steinberg",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Drei Sandkästen dicht beieinander an der Straße Am Steinberg.",
+      "lat": 52.55684, "lon": 13.43184
+    },
+    {
+      "id": "spielplatz-am-steinberg-pistoriusstrasse",
+      "name": "Spielplatz Am Steinberg / Pistoriusstraße",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Zwei Sandspielflächen zwischen Am Steinberg und Pistoriusstraße.",
+      "lat": 52.55743, "lon": 13.43453
+    },
+    {
+      "id": "spielplatz-buschallee",
+      "name": "Spielplatz Buschallee",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Spielplatz an der Buschallee.",
+      "lat": 52.55443, "lon": 13.46931
     },
     {
       "id": "spielplatz-grosse-seestrasse-nord",
       "name": "Spielplatz Große Seestraße (Nord)",
       "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz am nördlichen Ende der Großen Seestraße.",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Öffentlicher Spielplatz am nördlichen Ende der Großen Seestraße.",
       "lat": 52.56046, "lon": 13.45315
     },
     {
-      "id": "spielplatz-lemgoer-strasse",
-      "name": "Spielplatz Lemgoer Straße",
+      "id": "spielplatz-grosse-seestrasse-sued",
+      "name": "Spielplatz Große Seestraße (Süd)",
       "type": "Spielplätze",
-      "description": "Öffentlicher Sandspielplatz.",
-      "lat": 52.55758, "lon": 13.46268
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Öffentlicher Spielplatz an der Großen Seestraße.",
+      "lat": 52.55695, "lon": 13.45898
     },
     {
-      "id": "spielplatz-schmohlstrasse",
-      "name": "Spielplatz Schmohlstraße",
+      "id": "spielplatz-guertelstrasse",
+      "name": "Spielplatz Gürtelstraße",
       "type": "Spielplätze",
-      "description": "Öffentliche Spielplätze an der Schmohlstraße.",
-      "lat": 52.56056, "lon": 13.44651
-    },
-    {
-      "id": "spielplatz-preunelstrasse",
-      "name": "Spielplatz Preunelstraße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz.",
-      "lat": 52.56159, "lon": 13.44302
-    },
-    {
-      "id": "spielplatz-guenter-litfin-strasse",
-      "name": "Spielplatz Günter-Litfin-Straße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage.",
-      "lat": 52.56102, "lon": 13.44728
-    },
-    {
-      "id": "spielplatz-wigandstaler-strasse",
-      "name": "Spielplatz Wigandstaler Straße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz.",
-      "lat": 52.55975, "lon": 13.44058
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Öffentlicher Spielplatz.",
+      "lat": 52.54634, "lon": 13.45012
     },
     {
       "id": "spielplatz-gustav-adolf-strasse",
       "name": "Spielplatz Gustav-Adolf-Straße",
       "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz.",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Öffentlicher Spielplatz.",
       "lat": 52.55788, "lon": 13.44356
     },
     {
       "id": "spielplatz-johannes-itten-strasse",
       "name": "Spielplatz Johannes-Itten-Straße",
       "type": "Spielplätze",
-      "description": "Spielplatz an der Johannes-Itten-Straße.",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Spielplatz an der Johannes-Itten-Straße.",
       "lat": 52.55750, "lon": 13.44141
     },
     {
-      "id": "spielplatz-frieda-seidlitz-strasse",
-      "name": "Spielplatz Frieda-Seidlitz-Straße",
+      "id": "spielplatz-kirchgasse",
+      "name": "Spielplatz Kirchgasse",
       "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage.",
-      "lat": 52.55648, "lon": 13.43982
-    },
-    {
-      "id": "spielplatz-pistoriusstrasse",
-      "name": "Spielplatz Pistoriusstraße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Sandspielplatz des Bezirksamts Pankow, eröffnet im Dezember 2020.",
-      "lat": 52.55572, "lon": 13.43706
-    },
-    {
-      "id": "spielplatz-am-steinberg-pistoriusstrasse",
-      "name": "Spielplatz Am Steinberg / Pistoriusstraße",
-      "type": "Spielplätze",
-      "description": "Zwei Sandspielflächen zwischen Am Steinberg und Pistoriusstraße.",
-      "lat": 52.55743, "lon": 13.43453
-    },
-    {
-      "id": "spielplatz-am-steinberg",
-      "name": "Sandspielplätze Am Steinberg",
-      "type": "Spielplätze",
-      "description": "Drei Sandkästen dicht beieinander an der Straße Am Steinberg.",
-      "lat": 52.55684, "lon": 13.43184
-    },
-    {
-      "id": "spielplatz-langhansstrasse",
-      "name": "Sandspielplatz Langhansstraße",
-      "type": "Spielplätze",
-      "description": "Sandkasten an der Langhansstraße.",
-      "lat": 52.55477, "lon": 13.43107
-    },
-    {
-      "id": "jugendspielplatz-heinersdorfer-strasse",
-      "name": "Jugendspielplatz Heinersdorfer Straße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz für Jugendliche von 12 bis 18 Jahren.",
-      "lat": 52.55592, "lon": 13.43251
-    },
-    {
-      "id": "spielplatz-goethestrasse",
-      "name": "Spielplatz Goethestraße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz, rund um die Uhr zugänglich.",
-      "lat": 52.55089, "lon": 13.43518
-    },
-    {
-      "id": "spielplatz-lehderstrasse-nord",
-      "name": "Spielplatz Lehderstraße (Nord)",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage.",
-      "lat": 52.55122, "lon": 13.43373
-    },
-    {
-      "id": "spielplatz-lehderstrasse-sued",
-      "name": "Spielplätze Lehderstraße (Süd)",
-      "type": "Spielplätze",
-      "description": "Zwei Spielplätze nah beieinander am südlichen Ende der Lehderstraße.",
-      "lat": 52.54880, "lon": 13.44347
-    },
-    {
-      "id": "spielplatz-guertelstrasse",
-      "name": "Spielplatz Gürtelstraße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz.",
-      "lat": 52.54634, "lon": 13.45012
-    },
-    {
-      "id": "spielplatz-meyerbeerstrasse-borodinstrasse",
-      "name": "Spielplatz Meyerbeerstraße / Borodinstraße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage, eingeschränkt rollstuhlgerecht.",
-      "address": "Meyerbeerstraße 18 / Borodinstraße 12, 13088 Berlin",
-      "lat": 52.54625, "lon": 13.45203
-    },
-    {
-      "id": "spielplatz-meyerbeerstrasse",
-      "name": "Spielplatz Meyerbeerstraße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage, am östlichen Teil der Meyerbeerstraße.",
-      "lat": 52.54801, "lon": 13.45794
-    },
-    {
-      "id": "spielplatz-mahlerstrasse",
-      "name": "Spielplätze Mahlerstraße",
-      "type": "Spielplätze",
-      "description": "Zwei Spielplätze (Mahlerstraße 27 und 30) und ein bespielbarer Straßenabschnitt für ältere Kinder und Jugendliche; rollstuhlgerecht.",
-      "lat": 52.54633, "lon": 13.45405
-    },
-    {
-      "id": "spielplatz-gounodstrasse",
-      "name": "Spielplatz Gounodstraße 37–39",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz in einer geschützten Grünanlage.",
-      "lat": 52.54664, "lon": 13.45625
-    },
-    {
-      "id": "kleinkinderspielplatz-gounodstrasse",
-      "name": "Kleinkinderspielplatz Gounodstraße 58",
-      "type": "Spielplätze",
-      "description": "Spielplatz für kleine Kinder auf dem Gelände einer ehemaligen Kita; rollstuhlgerecht.",
-      "lat": 52.54671, "lon": 13.45928
-    },
-    {
-      "id": "spielplatz-otto-brahm-strasse",
-      "name": "Spielplätze Otto-Brahm-Straße",
-      "type": "Spielplätze",
-      "description": "Zwei öffentliche Spielplätze, einer gegenüber Otto-Brahm-Straße 17; rollstuhlgerecht.",
-      "lat": 52.54670, "lon": 13.46290
-    },
-    {
-      "id": "spielplatz-solonplatz",
-      "name": "Spielplatz Solonplatz",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz an der Lindenallee.",
-      "lat": 52.54924, "lon": 13.46247
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Öffentlicher Spielplatz nahe der Kirchgasse.",
+      "lat": 52.55279, "lon": 13.45836
     },
     {
       "id": "spielplatz-labyrinth",
       "name": "Spielplatz Labyrinth",
       "type": "Spielplätze",
-      "description": "Kiesspielplatz mit Labyrinth und ein weiterer Spielplatz direkt daneben, zwischen Chopinstraße und Indira-Gandhi-Straße.",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Kiesspielplatz mit Labyrinth und ein weiterer Spielplatz direkt daneben, zwischen Chopinstraße und Indira-Gandhi-Straße.",
       "lat": 52.54715, "lon": 13.46662
     },
     {
-      "id": "spielplatz-hansastrasse-gartenstrasse",
-      "name": "Spielplatz Hansastraße / Gartenstraße",
+      "id": "spielplatz-lemgoer-strasse",
+      "name": "Spielplatz Lemgoer Straße",
       "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz zwischen Gartenstraße 6 und Hansastraße 151, südlich der Else-Jahn-Straße.",
-      "lat": 52.55109, "lon": 13.47425
-    },
-    {
-      "id": "spielplatz-hansastrasse-sued",
-      "name": "Spielplätze Hansastraße (Süd)",
-      "type": "Spielplätze",
-      "description": "Mehrere Spielflächen im Grün östlich der Hansastraße.",
-      "lat": 52.54900, "lon": 13.47870
-    },
-    {
-      "id": "spielplatz-suermondtstrasse",
-      "name": "Spielplatz Suermondtstraße",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz, rollstuhlgerecht.",
-      "lat": 52.55178, "lon": 13.49163
-    },
-    {
-      "id": "spielplatz-falkenberger-strasse-buschallee",
-      "name": "Spielplatz Falkenberger Straße / Buschallee",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz bei Falkenberger Straße 5–12.",
-      "lat": 52.55436, "lon": 13.47182
-    },
-    {
-      "id": "spielplatz-buschallee",
-      "name": "Spielplatz Buschallee",
-      "type": "Spielplätze",
-      "description": "Spielplatz an der Buschallee.",
-      "lat": 52.55443, "lon": 13.46931
-    },
-    {
-      "id": "spielplatz-buschallee-87",
-      "name": "Spielplatz Buschallee 87",
-      "type": "Spielplätze",
-      "description": "Öffentlicher Spielplatz aus drei Teilflächen.",
-      "lat": 52.55476, "lon": 13.47572
-    },
-    {
-      "id": "spielplatz-bernkasteler-strasse",
-      "name": "Spielplätze Bernkasteler Straße",
-      "type": "Spielplätze",
-      "description": "Mehrere Spielplätze und Sandkästen im Wohngebiet zwischen Falkenberger Straße und Bernkasteler Straße, teils in geschützten Grünanlagen.",
-      "lat": 52.55660, "lon": 13.47420
-    },
-    {
-      "id": "spielplatz-wittlicher-strasse",
-      "name": "Spielplatz Wittlicher Straße",
-      "type": "Spielplätze",
-      "description": "Spielplatz an der Wittlicher Straße.",
-      "lat": 52.55624, "lon": 13.47683
-    },
-    {
-      "id": "spielplatz-piesporter-strasse",
-      "name": "Spielplatz Piesporter Straße",
-      "type": "Spielplätze",
-      "description": "Spielplatz an der Piesporter Straße.",
-      "lat": 52.55869, "lon": 13.47731
-    },
-    {
-      "id": "spielplatz-giersstrasse",
-      "name": "Spielplätze Giersstraße",
-      "type": "Spielplätze",
-      "description": "Zwei Spielplätze zwischen Giersstraße und Falkenberger Straße.",
-      "lat": 52.55705, "lon": 13.48083
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Öffentlicher Sandspielplatz.",
+      "lat": 52.55758, "lon": 13.46268
     },
     {
       "id": "spielplatz-liebermannstrasse",
       "name": "Spielplatz Liebermannstraße",
       "type": "Spielplätze",
-      "description": "Spielplatz an der Liebermannstraße.",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Spielplatz an der Liebermannstraße.",
       "lat": 52.55811, "lon": 13.48909
+    },
+    {
+      "id": "spielplatz-piesporter-strasse",
+      "name": "Spielplatz Piesporter Straße",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Spielplatz an der Piesporter Straße.",
+      "lat": 52.55869, "lon": 13.47731
+    },
+    {
+      "id": "spielplatz-preunelstrasse",
+      "name": "Spielplatz Preunelstraße",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Öffentlicher Spielplatz.",
+      "lat": 52.56159, "lon": 13.44302
+    },
+    {
+      "id": "spielplatz-schmohlstrasse",
+      "name": "Spielplatz Schmohlstraße",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Öffentliche Spielplätze an der Schmohlstraße.",
+      "lat": 52.56056, "lon": 13.44651
+    },
+    {
+      "id": "spielplatz-wittlicher-strasse",
+      "name": "Spielplatz Wittlicher Straße",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Spielplatz an der Wittlicher Straße.",
+      "lat": 52.55624, "lon": 13.47683
+    },
+    {
+      "id": "spielplatz-woelckpromenade",
+      "name": "Spielplatz Woelckpromenade",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Sandspielplätze an der Woelckpromenade und an der Schönstraße; rollstuhlgerecht.",
+      "lat": 52.55487, "lon": 13.45427
+    },
+    {
+      "id": "spielplatz-hansastrasse-sued",
+      "name": "Spielplätze Hansastraße (Süd)",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Mehrere Spielflächen im Grün östlich der Hansastraße.",
+      "lat": 52.54900, "lon": 13.47870
+    },
+    {
+      "id": "spielplatz-lehderstrasse-sued",
+      "name": "Spielplätze Lehderstraße (Süd)",
+      "type": "Spielplätze",
+      "description": "Nicht im amtlichen Verzeichnis der öffentlichen Spielplätze, nur in OpenStreetMap eingetragen. Zwei Spielplätze nah beieinander am südlichen Ende der Lehderstraße.",
+      "lat": 52.54880, "lon": 13.44347
     }
   ]
 }
