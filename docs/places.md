@@ -1,14 +1,15 @@
 # Places in Weißensee (collection)
 
 Places without fixed dates: playgrounds, sports facilities, nature, bathing
-and markets. This file is the full **collection**. A curated selection of
-23 places is in the app since 21 November 2026: [`../places.json`](../places.json)
-feeds the "Orte" tab (place pages with the upcoming events held there; see
-the core's docs/instance.md, "Places"). Playgrounds, pitches and fitness
-stations from OpenStreetMap are not in the app yet - they need a map rather
-than a list. Places with opening hours (for example the lido, boat hire or
-markets) could additionally be brought into the calendar as recurring inbox
-entries, as was done for the Knirpsenfarm.
+and markets. This file is the full **collection**. A curated selection is in
+the app: [`../places.json`](../places.json) feeds the "Orte" tab (place pages
+with the upcoming events held there; see the core's docs/instance.md,
+"Places"). Since 21 November 2026 it holds 23 hand-picked places; since
+22 November 2026 also 47 public playgrounds (type "Spielplätze", see below).
+Pitches and fitness stations from OpenStreetMap are not in the app yet.
+Places with opening hours (for example the lido, boat hire or markets) could
+additionally be brought into the calendar as recurring inbox entries, as was
+done for the Knirpsenfarm.
 
 ## Collected by hand
 
@@ -192,6 +193,13 @@ OpenStreetMap contributors, ODbL. "Location" is the centre point
 (latitude, longitude).
 
 ### Playgrounds, public or unspecified (69)
+
+In the app: the 69 public playground areas below became 47 places in
+`places.json` (type "Spielplätze"). Neighbouring areas (several sandpits,
+parts of one playground) were merged into one place; unnamed playgrounds are
+named after the nearest street (from OSM street geometry). OSM names,
+descriptions, wheelchair and age information went into the description.
+Private playgrounds (next section) are left out.
 
 | Name | Type | Address | Opening hours (OSM) | Location | OSM |
 |---|---|---|---|---|---|
