@@ -1,0 +1,18 @@
+{
+  "title": "Wochenmarkt Antonplatz",
+  "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
+  "category": "Markt",
+  "startTime": "09:00",
+  "endTime": "18:00",
+  "location": {
+    "name": "Wochenmarkt Antonplatz",
+    "address": "Antonplatz, 13086 Berlin"
+  },
+  "url": "https://www.openstreetmap.org/node/12356318726",
+  "repeat": {
+    "weekdays": ["di", "fr"],
+    "from": "2026-11-22",
+    "until": "2027-12-31",
+    "except": ["2026-12-25", "2027-01-01", "2027-03-26"]
+  }
+}
