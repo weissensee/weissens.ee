@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:57:55.938795826Z",
+  "generatedAt": "2026-11-22T17:39:54.432658158Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-d0756107",
@@ -164,33 +164,6 @@
       "cancelled": false
     },
     {
-      "id": "biermann-dbc83435",
-      "title": "Biermann",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-22",
-      "startTime": "16:15",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/biermann",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "helene-weigel-revolutionaerin-im-rampenl-45b6ed6f",
       "title": "Helene Weigel – Revolutionärin im Rampenlicht",
       "description": "D/A 2026 | 102 min | Dokumentarfilm | R: Maria Wischnewski | Bis heute bedeutet sie die Welt für jene Bretter, die die Welt bedeuten.",
@@ -211,33 +184,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-0d08c8d4",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-22",
-      "startTime": "17:00",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
