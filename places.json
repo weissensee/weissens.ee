@@ -5,6 +5,7 @@
     { "name": "Baden", "icon": ["M16 9m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0", "M6 11l4 -2l3.5 3l-1.5 2", "M3 16.75a2.4 2.4 0 0 0 1 .25a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 1 -.25"] },
     { "name": "Kultur & Bühne", "icon": ["M12 21a9 9 0 0 1 0 -18c4.97 0 9 3.582 9 8c0 1.06 -.474 2.078 -1.318 2.828c-.844 .75 -1.989 1.172 -3.182 1.172h-2.5a2 2 0 0 0 -1 3.75a1.3 1.3 0 0 1 -1 2.25", "M7.5 10.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0", "M11.5 7.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0", "M15.5 10.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"] },
     { "name": "Treffpunkte", "icon": ["M8 9l5 5v7h-5v-4m0 4h-5v-7l5 -5m1 1v-6a1 1 0 0 1 1 -1h10a1 1 0 0 1 1 1v17h-8", "M13 7l0 .01", "M17 7l0 .01", "M17 11l0 .01", "M17 15l0 .01"] },
+    { "name": "Werkstätten", "icon": ["M7 10h3v-3l-3.5 -3.5a6 6 0 0 1 8 8l6 6a2 2 0 0 1 -3 3l-6 -6a6 6 0 0 1 -8 -8l3.5 3.5"] },
     { "name": "Märkte", "icon": ["M6.331 8h11.339a2 2 0 0 1 1.977 2.304l-1.255 8.152a3 3 0 0 1 -2.966 2.544h-6.852a3 3 0 0 1 -2.965 -2.544l-1.255 -8.152a2 2 0 0 1 1.977 -2.304", "M9 11v-5a3 3 0 0 1 6 0v5"] },
     { "name": "Tiere & Spiel", "icon": ["M14.7 13.5c-1.1 -2 -1.441 -2.5 -2.7 -2.5c-1.259 0 -1.736 .755 -2.836 2.747c-.942 1.703 -2.846 1.845 -3.321 3.291c-.097 .265 -.145 .677 -.143 .962c0 1.176 .787 2 1.8 2c1.259 0 3 -1 4.5 -1s3.241 1 4.5 1c1.013 0 1.8 -.823 1.8 -2c0 -.285 -.049 -.697 -.146 -.962c-.475 -1.451 -2.512 -1.835 -3.454 -3.538z", "M20.188 8.082a1.039 1.039 0 0 0 -.406 -.082h-.015c-.735 .012 -1.56 .75 -1.993 1.866c-.519 1.335 -.28 2.7 .538 3.052c.129 .055 .267 .082 .406 .082c.739 0 1.575 -.742 2.011 -1.866c.516 -1.335 .273 -2.7 -.54 -3.052z", "M9.474 9c.055 0 .109 0 .163 -.011c.944 -.128 1.533 -1.346 1.32 -2.722c-.203 -1.297 -1.047 -2.267 -1.932 -2.267c-.055 0 -.109 0 -.163 .011c-.944 .128 -1.533 1.346 -1.32 2.722c.204 1.293 1.048 2.267 1.933 2.267z", "M16.456 6.733c.214 -1.376 -.375 -2.594 -1.32 -2.722a1.164 1.164 0 0 0 -.162 -.011c-.885 0 -1.728 .97 -1.93 2.267c-.214 1.376 .375 2.594 1.32 2.722c.054 .007 .108 .011 .162 .011c.885 0 1.73 -.974 1.93 -2.267z", "M5.69 12.918c.816 -.352 1.054 -1.719 .536 -3.052c-.436 -1.124 -1.271 -1.866 -2.009 -1.866c-.14 0 -.277 .027 -.407 .082c-.816 .352 -1.054 1.719 -.536 3.052c.436 1.124 1.271 1.866 2.009 1.866c.14 0 .277 -.027 .407 -.082z"] },
     { "name": "Spielplätze", "icon": ["M3 21l3 -16h12l3 16", "M10 5v9", "M14 5v9", "M9 14h6"] }
@@ -205,6 +206,38 @@
       "lat": 52.54774, "lon": 13.45284,
       "url": "https://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/",
       "match": ["Wolfdietrich-Schnurre"]
+    },
+    {
+      "id": "bike-kitchen-north-east",
+      "name": "Bike Kitchen North East",
+      "type": "Werkstätten",
+      "description": "Fahrradselbsthilfewerkstatt im KuBiZ: Hier reparierst du dein Rad selbst – mit Werkzeug, gebrauchten Ersatzteilen und Unterstützung. Auch Raum für Fahrrad-Workshops.",
+      "address": "Bernkasteler Straße 78, 13088 Berlin",
+      "lat": 52.5572292, "lon": 13.4700652,
+      "match": ["Bike Kitchen"],
+      "refs": ["vow:5809"]
+    },
+    {
+      "id": "holzwerkstaettin",
+      "name": "Holzwerkstättin im KuBiZ",
+      "type": "Werkstätten",
+      "description": "Offene Holzwerkstatt im KuBiZ mit Werkbänken, Maschinen und Starkstrom, gegen Spende. Möbel reparieren, eigene Projekte bauen, auf Wunsch mit fachlicher Beratung; Räume auch für Workshops.",
+      "address": "Bernkasteler Straße 78, 13088 Berlin",
+      "lat": 52.55728, "lon": 13.46987,
+      "url": "https://www.kubiz-wallenberg.de/?page_id=262",
+      "openingHours": "Nach Vereinbarung per E-Mail",
+      "match": ["Holzwerkstättin"],
+      "refs": ["vow:989"]
+    },
+    {
+      "id": "wirfoerdern-werkstatt",
+      "name": "Offene Werkstatt WIRfördern",
+      "type": "Werkstätten",
+      "description": "Ehrenamtlich betriebene Gemeinschaftswerkstatt des WIRfördern e.V. im Quartier WIR: gemeinsam herstellen, reparieren und gestalten, Werkzeug ausleihen, Kurse und Beratung. Offen für alle, Mitgliedschaft nicht nötig.",
+      "address": "Brodenbacher Weg 34, 13088 Berlin",
+      "lat": 52.55899, "lon": 13.476113,
+      "match": ["WIRfördern"],
+      "refs": ["vow:3390"]
     },
     {
       "id": "wochenmarkt-antonplatz",

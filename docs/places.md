@@ -8,6 +8,8 @@ with the upcoming events held there; see the core's docs/instance.md,
 22 November 2026 also playgrounds (type "Spielplätze"): the 33 official public
 playgrounds from the Berlin Geoportal first, then 20 further playgrounds that
 are only in OpenStreetMap (see the two sections below).
+Since 23 November 2026 also open workshops (type "Werkstätten") from
+offene-werkstaetten.org, see the section below.
 Pitches and fitness stations from OpenStreetMap are not in the app yet.
 Places with opening hours (for example the lido, boat hire or markets) could
 additionally be brought into the calendar as recurring inbox entries, as was
@@ -185,6 +187,27 @@ In addition, there are 28 Stolpersteine (OSM `memorial=stolperstein`), not liste
 | Seelöwe |  | 52.55546, 13.46125 | [node/10038850411](https://www.openstreetmap.org/node/10038850411) |
 | Motorwerk Berlin |  | 52.56359, 13.46177 | [way/288253333](https://www.openstreetmap.org/way/288253333) · [Wikipedia](https://de.wikipedia.org/wiki/Motorwerk) |
 | DGZ Brunnen |  | 52.55846, 13.44122 | [way/490757360](https://www.openstreetmap.org/way/490757360) |
+
+## From offene-werkstaetten.org: open workshops (23 November 2026)
+
+The directory of the Verbund Offener Werkstätten e.V.
+([workshop search](https://www.offene-werkstaetten.org/de/werkstatt-suche))
+lists three workshops in Weißensee (postcode 13088). All three are in the app
+with type "Werkstätten". Name, address and coordinates are taken from the
+directory; the descriptions are our own summaries, as the directory states no
+licence for its texts. Each place carries the directory id as ref
+(`vow:<id>`, see the core's docs/instance.md, "Places"), so events can be
+linked to it explicitly and a later import does not create duplicates.
+
+| Workshop | Address | What | Directory |
+|---|---|---|---|
+| Bike Kitchen North East | Bernkasteler Straße 78 (KuBiZ) | Bicycle self-help workshop | [vow:5809](https://www.offene-werkstaetten.org/werkstatt/bike-kitchen-north-east) |
+| Holzwerkstättin im KuBiZ | Bernkasteler Straße 78 (KuBiZ) | Woodworking, by donation, times by arrangement via e-mail | [vow:989](https://www.offene-werkstaetten.org/werkstatt/holzwerkstaettin-kubiz-wallenberg) |
+| Offene Werkstatt WIRfördern | Brodenbacher Weg 34 | Community workshop run by volunteers | [vow:3390](https://www.offene-werkstaetten.org/werkstatt/wirfoerdern-e-v-offene-werkstatt) |
+
+The two workshops in the KuBiZ are separate places next to the KuBiZ place;
+their match terms ("Bike Kitchen", "Holzwerkstättin") are narrow, so KuBiZ
+events stay with the KuBiZ.
 
 ## From the Berlin Geoportal: public playgrounds (22 November 2026)
 
