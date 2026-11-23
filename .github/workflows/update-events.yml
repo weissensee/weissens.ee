@@ -64,7 +64,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "no data changes"
           else
-            git commit -m "chore: update events data"
+            git commit -m "chore(data): update events data"
             git push
           fi
 
