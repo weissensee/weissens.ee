@@ -5,7 +5,7 @@ The events calendar for Berlin-Weißensee, an instance of
 
 This repository contains only content and styling. Code, front end and
 container image come from the core repository (instance layout: see
-[Setting up an instance](https://github.com/schreibtischhelden/openlitfass/blob/main/docs/instance.md)
+[Setting up an instance](https://docs.openlitfass.org/?page=setup)
 there).
 
 | File/folder | Contents |
@@ -41,7 +41,7 @@ hours and rebuilds the site; its state is available at
 <http://localhost:8080/healthz>. While running, it writes to `data/` and the
 `status` fields in `sources/`, and deletes expired `inbox/` files; commit
 these changes as needed. Details:
-[Operation](https://github.com/schreibtischhelden/openlitfass/blob/main/docs/instance.md#operation-one-instance-per-container)
+[Operation](https://docs.openlitfass.org/?page=setup#run-as-a-container)
 in the core documentation.
 
 weissens.ee uses both of the core's SEO features (which are disabled by
@@ -55,4 +55,4 @@ events already in the HTML of the start page) and `OL_SITEMAP_GENERATOR`
 The workflow [`.github/workflows/update-events.yml`](.github/workflows/update-events.yml)
 builds the site every six hours and writes it to the `pages` branch (GitHub
 Pages, domain `weissens.ee` via `CNAME`). For the DNS set-up, see
-[GitHub Pages with a custom domain](https://github.com/schreibtischhelden/openlitfass/blob/main/docs/pages.md).
+[GitHub Pages with a custom domain](https://docs.openlitfass.org/?page=github-pages).

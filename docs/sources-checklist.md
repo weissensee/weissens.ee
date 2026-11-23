@@ -2,7 +2,7 @@
 
 This is an honest record of the current state, not a wish list. For the
 location-independent approach, see
-[Finding sources](https://github.com/schreibtischhelden/openlitfass/blob/main/docs/source-discovery.md)
+[Finding sources](https://docs.openlitfass.org/?page=source-discovery)
 in the openLitfass core repository.
 
 ## Active
