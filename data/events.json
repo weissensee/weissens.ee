@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:45:49.599351493Z",
+  "generatedAt": "2026-11-23T20:23:40.014293003Z",
   "events": [
     {
       "id": "babysprechstunde-8c67432d",
@@ -478,60 +478,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "heimsuchung-eine-jahrhundertgeschichte-be37afdd",
-      "title": "Heimsuchung - Eine Jahrhundertgeschichte",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "19:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/heimsuchung",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-5c451caf",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "20:00",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
