@@ -186,6 +186,7 @@
       "type": "Treffpunkte",
       "description": "Offener Treffpunkt für Familien mit Kursen und Beratung.",
       "address": "Mahlerstraße 4, 13088 Berlin",
+      "lat": 52.54821, "lon": 13.45270,
       "url": "https://www.familienzentrum-weissensee.de",
       "match": ["Familienzentrum Weißensee", "Mahlerstraße 4"]
     },
