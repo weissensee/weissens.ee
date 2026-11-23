@@ -15,6 +15,6 @@
     "weekdays": ["mo", "di", "mi", "do", "fr"],
     "from": "2027-04-01",
     "until": "2027-09-30",
-    "except": ["2027-05-06", "2027-05-17"]
+    "except": ["feiertage"]
   }
 }
