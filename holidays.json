@@ -1,0 +1,5 @@
+{
+  "ostern": ["easter-2", "easter+1"],
+  "pfingsten": ["easter+39", "easter+50"],
+  "feiertage": ["01-01", "03-08", "05-01", "10-03", "12-25", "12-26", "ostern", "pfingsten"]
+}
