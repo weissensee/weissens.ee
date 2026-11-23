@@ -26,7 +26,7 @@ on:
       - '.github/workflows/update-events.yml'
 
 permissions:
-  contents: write
+  contents: read
 
 # Never two runs at once (schedule + push): they would race on main/pages.
 concurrency:
@@ -47,8 +47,13 @@ env:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # commit data/ back, push the pages branch
     steps:
-      - uses: actions/checkout@v7
+      # Pinned to a commit SHA: a tag can be moved to other code, and this job
+      # can write to the repository. Dependabot updates SHA and comment.
+      # Keeps the token in .git/config on purpose: the commit step pushes.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 # zizmor: ignore[artipacked]
 
       - name: Fetch events
         run: docker run --rm -v "$PWD:/instance" -w /instance --user "$(id -u):$(id -g)" "$IMAGE" fetch .

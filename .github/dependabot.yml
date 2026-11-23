@@ -1,0 +1,19 @@
+# Keeps the pinned GitHub Actions up to date (SHA and version comment), as
+# weekly pull requests. Built into GitHub: no token, no third-party app.
+#
+# cooldown: a new release is proposed only after 7 days, so a compromised
+# release is usually found and pulled before it reaches us.
+#
+# The openLitfass image is not managed here: the instance deliberately
+# follows ghcr.io/schreibtischhelden/openlitfass:latest.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 7
+    commit-message:
+      prefix: chore
+      include: scope
