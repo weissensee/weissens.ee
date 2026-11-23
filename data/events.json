@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T12:52:21.03110366Z",
+  "generatedAt": "2026-11-23T16:39:32.053810705Z",
   "events": [
     {
       "id": "babysprechstunde-8c67432d",
@@ -10,8 +10,8 @@
       "startTime": "08:00",
       "endTime": "14:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -64,8 +64,8 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -145,8 +145,8 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -279,8 +279,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -298,33 +298,6 @@
       "cancelled": false
     },
     {
-      "id": "der-frechste-troll-der-welt-9e0c81d5",
-      "title": "Der frechste Troll der Welt",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "14:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "kreative-holzwerkstatt-286fe943",
       "title": "Kreative Holzwerkstatt",
       "description": "Für Kinder ab 4 Jahren in Begleitung einer erwachsenen Person Ohne Anmeldung Kosten : Solidarische Materialkostenspende 1-5€",
@@ -333,8 +306,8 @@
       "startTime": "15:00",
       "endTime": "18:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -360,8 +333,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -376,33 +349,6 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "emil-und-die-detektive-9934d1f0",
-      "title": "Emil und die Detektive",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "15:15",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -458,33 +404,6 @@
       "cancelled": false
     },
     {
-      "id": "biermann-58bd0084",
-      "title": "Biermann",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "16:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/biermann",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "inklusiver-musikalischer-salon-e53ba335",
       "title": "Inklusiver Musikalischer Salon",
       "description": "",
@@ -532,33 +451,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-78b913f4",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "17:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -709,8 +601,8 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -762,8 +654,8 @@
       "startTime": "10:00",
       "endTime": "12:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -816,8 +708,8 @@
       "startTime": "10:30",
       "endTime": "12:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -1139,8 +1031,8 @@
       "startTime": "18:30",
       "endTime": "19:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -1380,8 +1272,8 @@
       "startTime": "10:00",
       "endTime": "10:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -1407,8 +1299,8 @@
       "startTime": "11:00",
       "endTime": "11:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -1515,8 +1407,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -1675,8 +1567,8 @@
       "startTime": "16:30",
       "endTime": "18:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -1972,8 +1864,8 @@
       "startTime": "10:00",
       "endTime": "11:30",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -1999,8 +1891,8 @@
       "startTime": "10:00",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -2214,8 +2106,8 @@
       "startTime": "16:00",
       "endTime": "17:30",
       "location": {
-        "name": "Kreativwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Kreativwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -2241,8 +2133,8 @@
       "startTime": "16:00",
       "endTime": "17:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -2453,7 +2345,8 @@
       "startTime": "18:00",
       "endTime": "19:00",
       "location": {
-        "name": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -2694,8 +2587,8 @@
       "startTime": "10:00",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -2721,8 +2614,8 @@
       "startTime": "10:45",
       "endTime": "11:15",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -2748,8 +2641,8 @@
       "startTime": "11:00",
       "endTime": "16:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -2910,8 +2803,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -4629,8 +4522,8 @@
       "startTime": "08:00",
       "endTime": "14:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -4683,8 +4576,8 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -4791,8 +4684,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -4845,8 +4738,8 @@
       "startTime": "15:00",
       "endTime": "18:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -4872,8 +4765,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -5248,8 +5141,8 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -5301,8 +5194,8 @@
       "startTime": "10:00",
       "endTime": "12:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -5355,8 +5248,8 @@
       "startTime": "10:30",
       "endTime": "12:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -5651,8 +5544,8 @@
       "startTime": "18:30",
       "endTime": "19:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -5892,8 +5785,8 @@
       "startTime": "10:00",
       "endTime": "10:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -5946,8 +5839,8 @@
       "startTime": "11:00",
       "endTime": "11:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -6054,8 +5947,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -6188,8 +6081,8 @@
       "startTime": "16:30",
       "endTime": "18:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -6512,8 +6405,8 @@
       "startTime": "10:00",
       "endTime": "11:30",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -6539,8 +6432,8 @@
       "startTime": "10:00",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -6673,8 +6566,8 @@
       "startTime": "16:00",
       "endTime": "17:30",
       "location": {
-        "name": "Kreativwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Kreativwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -6700,8 +6593,8 @@
       "startTime": "16:00",
       "endTime": "17:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -6781,7 +6674,8 @@
       "startTime": "18:00",
       "endTime": "19:00",
       "location": {
-        "name": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -6995,8 +6889,8 @@
       "startTime": "10:00",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -7022,8 +6916,8 @@
       "startTime": "10:45",
       "endTime": "11:15",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -7049,8 +6943,8 @@
       "startTime": "11:00",
       "endTime": "16:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -7103,8 +6997,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -7408,6 +7302,33 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/upcycling-naehwerkstatt/2026-12-05/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "berliner-literaturwerkstatt-queer-vol-4-3d841801",
+      "title": "Berliner Literaturwerkstatt QUEER Vol. 4",
+      "description": "05.12.26 | 15 Uhr | Roter Salon | Nach dem großen Erfolg im letzten Jahr wird die Berliner Literaturwerkstatt QUEER 2026 fortgesetzt.",
+      "category": "Kultur",
+      "date": "2026-12-05",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "ROTER SALON Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/berliner-literaturwerkstatt-queer-vol-4/",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7958,33 +7879,6 @@
       "cancelled": false
     },
     {
-      "id": "donna-the-show-f4d46ff1",
-      "title": "Donna The Show",
-      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
-      "category": "Theater",
-      "date": "2026-12-06",
-      "startTime": "18:30",
-      "endTime": "",
-      "location": {
-        "name": "Theater im Delphi",
-        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
-      "source": "theater-im-delphi",
-      "sources": [
-        "theater-im-delphi"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "ein-bus-voller-leben-4956ae93",
       "title": "Ein Bus voller Leben",
       "description": "Andrés (Dani Rovira) ist Musiklehrer in Madrid und träumt noch immer davon, selbst auf der Bühne zu stehen.",
@@ -8074,8 +7968,8 @@
       "startTime": "08:00",
       "endTime": "14:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8128,8 +8022,8 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8182,8 +8076,8 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8236,8 +8130,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8263,8 +8157,8 @@
       "startTime": "15:00",
       "endTime": "18:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8290,8 +8184,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8504,8 +8398,8 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8557,8 +8451,8 @@
       "startTime": "10:00",
       "endTime": "12:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8584,8 +8478,8 @@
       "startTime": "10:30",
       "endTime": "12:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8799,8 +8693,8 @@
       "startTime": "18:30",
       "endTime": "19:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8960,8 +8854,8 @@
       "startTime": "10:00",
       "endTime": "10:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -8987,8 +8881,8 @@
       "startTime": "11:00",
       "endTime": "11:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9041,8 +8935,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9094,8 +8988,8 @@
       "startTime": "16:30",
       "endTime": "18:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9220,6 +9114,33 @@
       "cancelled": false
     },
     {
+      "id": "donna-the-show-611fd518",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Theater",
+      "date": "2026-12-09",
+      "startTime": "18:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "ein-bus-voller-leben-310ee264",
       "title": "Ein Bus voller Leben",
       "description": "Andrés (Dani Rovira) ist Musiklehrer in Madrid und träumt noch immer davon, selbst auf der Bühne zu stehen.",
@@ -9309,8 +9230,8 @@
       "startTime": "10:00",
       "endTime": "11:30",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9336,8 +9257,8 @@
       "startTime": "10:00",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9443,8 +9364,8 @@
       "startTime": "16:00",
       "endTime": "17:30",
       "location": {
-        "name": "Kreativwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Kreativwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9496,8 +9417,8 @@
       "startTime": "16:00",
       "endTime": "17:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9550,7 +9471,8 @@
       "startTime": "18:00",
       "endTime": "19:00",
       "location": {
-        "name": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9764,8 +9686,8 @@
       "startTime": "10:00",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9791,8 +9713,8 @@
       "startTime": "10:45",
       "endTime": "11:15",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9845,8 +9767,8 @@
       "startTime": "11:00",
       "endTime": "16:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -9899,8 +9821,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -10681,8 +10603,8 @@
       "startTime": "08:00",
       "endTime": "14:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -10735,8 +10657,8 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -10842,8 +10764,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -10869,8 +10791,8 @@
       "startTime": "15:00",
       "endTime": "18:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -10896,8 +10818,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11137,8 +11059,8 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11190,8 +11112,8 @@
       "startTime": "10:00",
       "endTime": "12:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11217,8 +11139,8 @@
       "startTime": "10:30",
       "endTime": "12:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11378,8 +11300,8 @@
       "startTime": "18:30",
       "endTime": "19:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11565,8 +11487,8 @@
       "startTime": "10:00",
       "endTime": "10:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11592,8 +11514,8 @@
       "startTime": "11:00",
       "endTime": "11:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11646,8 +11568,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11726,8 +11648,8 @@
       "startTime": "16:30",
       "endTime": "18:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11915,8 +11837,8 @@
       "startTime": "10:00",
       "endTime": "11:30",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -11942,8 +11864,8 @@
       "startTime": "10:00",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -12049,8 +11971,8 @@
       "startTime": "16:00",
       "endTime": "17:30",
       "location": {
-        "name": "Kreativwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Kreativwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -12076,8 +11998,8 @@
       "startTime": "16:00",
       "endTime": "17:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -12210,8 +12132,8 @@
       "startTime": "18:00",
       "endTime": "19:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -12237,7 +12159,8 @@
       "startTime": "18:00",
       "endTime": "19:00",
       "location": {
-        "name": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -12424,8 +12347,8 @@
       "startTime": "10:00",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -12451,8 +12374,8 @@
       "startTime": "10:45",
       "endTime": "11:15",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -12478,8 +12401,8 @@
       "startTime": "11:00",
       "endTime": "16:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -12586,8 +12509,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13314,8 +13237,8 @@
       "startTime": "08:00",
       "endTime": "14:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13368,8 +13291,8 @@
       "startTime": "09:30",
       "endTime": "10:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13395,8 +13318,8 @@
       "startTime": "10:30",
       "endTime": "11:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13449,8 +13372,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13476,8 +13399,8 @@
       "startTime": "15:00",
       "endTime": "18:00",
       "location": {
-        "name": "Holzwerkstatt (Untergeschoss)",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13503,8 +13426,8 @@
       "startTime": "15:00",
       "endTime": "17:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13770,8 +13693,8 @@
       "startTime": "09:00",
       "endTime": "10:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13823,8 +13746,8 @@
       "startTime": "10:00",
       "endTime": "12:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13850,8 +13773,8 @@
       "startTime": "10:30",
       "endTime": "12:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -13957,8 +13880,8 @@
       "startTime": "18:30",
       "endTime": "19:30",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -14091,8 +14014,8 @@
       "startTime": "10:00",
       "endTime": "10:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -14118,8 +14041,8 @@
       "startTime": "11:00",
       "endTime": "11:45",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -14172,8 +14095,8 @@
       "startTime": "14:00",
       "endTime": "15:00",
       "location": {
-        "name": "Bewegungsraum",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
@@ -14225,8 +14148,8 @@
       "startTime": "16:30",
       "endTime": "18:00",
       "location": {
-        "name": "Café",
-        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
       },
       "price": {
         "free": true,
