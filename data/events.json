@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:39:32.053810705Z",
+  "generatedAt": "2026-11-23T17:08:37.31582343Z",
   "events": [
     {
       "id": "babysprechstunde-8c67432d",
@@ -3924,6 +3924,33 @@
       "cancelled": false
     },
     {
+      "id": "hansamarkt-troedelmarkt-weissensee-ede32795",
+      "title": "HansaMarkt – Trödelmarkt Weißensee",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr.",
+      "category": "Markt",
+      "date": "2026-11-29",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "HansaMarkt – Trödelmarkt Weißensee",
+        "address": "Hansastraße 188, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "HansaMarkt",
+      "url": "https://www.hansamarkt.de/",
+      "source": "hansamarkt",
+      "sources": [
+        "hansamarkt"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-d59a95f8",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -7609,6 +7636,33 @@
       "cancelled": false
     },
     {
+      "id": "hansamarkt-troedelmarkt-weissensee-58f57a90",
+      "title": "HansaMarkt – Trödelmarkt Weißensee",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr.",
+      "category": "Markt",
+      "date": "2026-12-06",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "HansaMarkt – Trödelmarkt Weißensee",
+        "address": "Hansastraße 188, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "HansaMarkt",
+      "url": "https://www.hansamarkt.de/",
+      "source": "hansamarkt",
+      "sources": [
+        "hansamarkt"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-20ddc7c3",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -10264,6 +10318,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "hansamarkt-troedelmarkt-weissensee-ab7ad6a7",
+      "title": "HansaMarkt – Trödelmarkt Weißensee",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr.",
+      "category": "Markt",
+      "date": "2026-12-13",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "HansaMarkt – Trödelmarkt Weißensee",
+        "address": "Hansastraße 188, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "HansaMarkt",
+      "url": "https://www.hansamarkt.de/",
+      "source": "hansamarkt",
+      "sources": [
+        "hansamarkt"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -12986,6 +13067,33 @@
       "cancelled": false
     },
     {
+      "id": "hansamarkt-troedelmarkt-weissensee-2a0a5106",
+      "title": "HansaMarkt – Trödelmarkt Weißensee",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr.",
+      "category": "Markt",
+      "date": "2026-12-20",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "HansaMarkt – Trödelmarkt Weißensee",
+        "address": "Hansastraße 188, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "HansaMarkt",
+      "url": "https://www.hansamarkt.de/",
+      "source": "hansamarkt",
+      "sources": [
+        "hansamarkt"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-14fcedda",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -14329,6 +14437,33 @@
       "cancelled": false
     },
     {
+      "id": "hansamarkt-troedelmarkt-weissensee-8a954a88",
+      "title": "HansaMarkt – Trödelmarkt Weißensee",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr.",
+      "category": "Markt",
+      "date": "2026-12-27",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "HansaMarkt – Trödelmarkt Weißensee",
+        "address": "Hansastraße 188, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "HansaMarkt",
+      "url": "https://www.hansamarkt.de/",
+      "source": "hansamarkt",
+      "sources": [
+        "hansamarkt"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-d2b823be",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -14938,6 +15073,33 @@
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "hansamarkt-troedelmarkt-weissensee-cc9be30b",
+      "title": "HansaMarkt – Trödelmarkt Weißensee",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr.",
+      "category": "Markt",
+      "date": "2027-01-03",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "HansaMarkt – Trödelmarkt Weißensee",
+        "address": "Hansastraße 188, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "HansaMarkt",
+      "url": "https://www.hansamarkt.de/",
+      "source": "hansamarkt",
+      "sources": [
+        "hansamarkt"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -15638,6 +15800,33 @@
       "cancelled": false
     },
     {
+      "id": "hansamarkt-troedelmarkt-weissensee-4aa148dd",
+      "title": "HansaMarkt – Trödelmarkt Weißensee",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr.",
+      "category": "Markt",
+      "date": "2027-01-10",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "HansaMarkt – Trödelmarkt Weißensee",
+        "address": "Hansastraße 188, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "HansaMarkt",
+      "url": "https://www.hansamarkt.de/",
+      "source": "hansamarkt",
+      "sources": [
+        "hansamarkt"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-869417cd",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -16135,6 +16324,33 @@
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "hansamarkt-troedelmarkt-weissensee-39376b60",
+      "title": "HansaMarkt – Trödelmarkt Weißensee",
+      "description": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr.",
+      "category": "Markt",
+      "date": "2027-01-17",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "HansaMarkt – Trödelmarkt Weißensee",
+        "address": "Hansastraße 188, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "HansaMarkt",
+      "url": "https://www.hansamarkt.de/",
+      "source": "hansamarkt",
+      "sources": [
+        "hansamarkt"
       ],
       "ticketRequired": false,
       "registrationRequired": false,

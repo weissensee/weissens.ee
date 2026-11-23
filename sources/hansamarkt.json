@@ -40,5 +40,9 @@
       "template": "{datum} 16:00"
     }
   },
-  "daysAhead": 60
+  "daysAhead": 60,
+  "status": {
+    "lastAttempt": "2026-11-23T17:08:27Z",
+    "lastSuccess": "2026-11-23T17:08:27Z"
+  }
 }
