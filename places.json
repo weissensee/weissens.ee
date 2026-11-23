@@ -224,7 +224,7 @@
       "address": "Hansastraße 188, 13088 Berlin",
       "lat": 52.55550, "lon": 13.48572,
       "url": "https://www.hansamarkt.de/",
-      "openingHours": "sonntags; Uhrzeit je nach Quelle verschieden (OpenStreetMap: 9–16 Uhr)",
+      "openingHours": "sonntags 9–16 Uhr",
       "match": ["HansaMarkt"]
     },
     {

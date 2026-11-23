@@ -37,7 +37,7 @@ done for the Knirpsenfarm.
 
 | Market | Times | Notes |
 |---|---|---|
-| HansaMarkt – Trödelmarkt Weißensee (flea market), Hansastraße 188 (Fressnapf car park) | Every Sunday; time unclear (sources say 8–16, 9–16, 10–16 or 10–18; some also Saturdays) | No website of its own found. Operator according to a directory: Hansamarkt GmbH & Co. KG. Clarify the times before adding it. OSM [way/505312521](https://www.openstreetmap.org/way/505312521) |
+| HansaMarkt – Trödelmarkt Weißensee (flea market), Hansastraße 188 (Fressnapf car park) | Every Sunday, visitors 9:00–16:00 (traders set up from 7:00 in summer, from 8:00 November to end of March) | Times from the market's own website [hansamarkt.de](https://www.hansamarkt.de/). Operator according to a directory: Hansamarkt GmbH & Co. KG. OSM [way/505312521](https://www.openstreetmap.org/way/505312521) |
 | Wochenmarkt Antonplatz (weekly market) | According to OSM Tue and Fri 9:00–18:00 | Not confirmed (no other source found). OSM [node/12356318726](https://www.openstreetmap.org/node/12356318726) |
 
 Not included: Tommys turbulente Tobewelt (purely commercial).
