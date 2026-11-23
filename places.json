@@ -76,6 +76,7 @@
       "type": "Natur & Parks",
       "description": "See mit Wasserturm, knapp außerhalb Weißensees in Alt-Hohenschönhausen.",
       "address": "Obersee, 13053 Berlin",
+      "lat": 52.54856, "lon": 13.48925,
       "match": ["Obersee"]
     },
     {
@@ -114,6 +115,7 @@
       "type": "Kultur & Bühne",
       "description": "Kulturzentrum mit Konzerten, Partys, Tanztee, Lesungen und Kursen.",
       "address": "Berliner Allee 125, 13088 Berlin",
+      "lat": 52.55092, "lon": 13.46157,
       "url": "https://www.peteredel.de",
       "match": ["Peter Edel"]
     },
@@ -133,6 +135,7 @@
       "type": "Sehenswürdigkeit",
       "description": "Wohnhaus Bertolt Brechts von 1949 bis 1953, in der Zeit der Gründung des Berliner Ensembles. Unsaniert, nur von außen zu sehen.",
       "address": "Berliner Allee 185, 13088 Berlin",
+      "lat": 52.55485, "lon": 13.46725,
       "match": ["Brecht-Haus", "Berliner Allee 185"]
     },
     {
@@ -141,6 +144,7 @@
       "type": "Sehenswürdigkeit",
       "description": "Altbauviertel zwischen Jüdischem Friedhof und Berliner Allee; die Straßen sind nach Komponisten benannt (Bizet, Smetana, Mahler …).",
       "address": "Komponistenviertel, Berlin-Weißensee",
+      "lat": 52.54832, "lon": 13.45765,
       "match": ["Komponistenviertel"]
     },
     {
@@ -168,6 +172,7 @@
       "type": "Treffpunkte",
       "description": "Kultur- und Bildungszentrum mit Jazzkonzerten, Filmabenden, Fahrradwerkstatt, Umsonstladen und offenem Garten.",
       "address": "Bernkasteler Straße 78, 13088 Berlin",
+      "lat": 52.55725, "lon": 13.46987,
       "url": "https://www.kubiz-wallenberg.de",
       "match": ["KuBiZ"]
     },
@@ -177,6 +182,7 @@
       "type": "Treffpunkte",
       "description": "Nachbarschaftszentrum des FreiZeitHaus e.V. mit Kursen, Beratung, Tanz und Festen.",
       "address": "Pistoriusstraße 23, 13086 Berlin",
+      "lat": 52.55247, "lon": 13.45215,
       "url": "https://www.stz-weissensee.de",
       "match": ["Stadtteilzentrum Weißensee", "Pistoriusstraße 23"]
     },
@@ -196,6 +202,7 @@
       "type": "Treffpunkte",
       "description": "Stadtteilbibliothek der Stadtbibliothek Pankow mit Lesungen, Workshops und Angeboten für Kinder.",
       "address": "Bizetstraße 41, 13088 Berlin",
+      "lat": 52.54774, "lon": 13.45284,
       "url": "https://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/",
       "match": ["Wolfdietrich-Schnurre"]
     },
@@ -226,6 +233,7 @@
       "type": "Tiere & Spiel",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden. In Malchow, knapp außerhalb Weißensees.",
       "address": "Malchower Chaussee 2, 13051 Berlin",
+      "lat": 52.57190, "lon": 13.48496,
       "url": "https://knirpsenfarm-berlin.de/",
       "openingHours": "April–September Mo–Fr 9–17:30, Oktober–März Mo–Fr 9–16:30, Wochenende und Feiertage 9–16 Uhr",
       "match": ["Knirpsenfarm"]
