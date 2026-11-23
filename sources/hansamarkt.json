@@ -1,0 +1,44 @@
+{
+  "label": "HansaMarkt",
+  "homepage": "https://www.hansamarkt.de/",
+  "type": "html",
+  "url": "https://www.hansamarkt.de/termine-und-buchung/",
+  "itemSelector": "span[style*=color]",
+  "extract": {
+    "datum": {
+      "regex": "([0-9]{2}[.][0-9]{2}[.][0-9]{4})"
+    }
+  },
+  "mapping": {
+    "title": {
+      "default": "HansaMarkt – Trödelmarkt Weißensee"
+    },
+    "description": {
+      "default": "Trödel- und Flohmarkt auf dem Parkplatz an der Hansastraße. Für Besucher 9–16 Uhr."
+    },
+    "category": {
+      "default": "Markt"
+    },
+    "organizer": {
+      "default": "HansaMarkt"
+    },
+    "url": {
+      "default": "https://www.hansamarkt.de/"
+    },
+    "locationName": {
+      "default": "HansaMarkt – Trödelmarkt Weißensee"
+    },
+    "locationAddress": {
+      "default": "Hansastraße 188, 13088 Berlin"
+    },
+    "start": {
+      "format": "02.01.2006 15:04",
+      "template": "{datum} 09:00"
+    },
+    "end": {
+      "format": "02.01.2006 15:04",
+      "template": "{datum} 16:00"
+    }
+  },
+  "daysAhead": 60
+}
