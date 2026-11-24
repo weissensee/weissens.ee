@@ -18,5 +18,13 @@
     "bewegung": "Sport",
     "kreatives": "Kultur"
   },
+<<<<<<< HEAD
   "familyFriendly": true
+=======
+  "familyFriendly": true,
+  "status": {
+    "lastAttempt": "2026-11-24T16:54:30Z",
+    "lastSuccess": "2026-11-24T16:54:30Z"
+  }
+>>>>>>> 20e90438e484d90b72b3193b4bdd1033475d1ee2
 }
