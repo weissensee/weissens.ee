@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:44:47.195251777Z",
+  "generatedAt": "2026-11-24T16:54:41.435327211Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-ba66ded5",
@@ -217,33 +217,6 @@
       "cancelled": false
     },
     {
-      "id": "der-frechste-troll-der-welt-57df0aff",
-      "title": "Der frechste Troll der Welt",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-24",
-      "startTime": "14:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "geschichten-kiste-a72e6fa0",
       "title": "Geschichten-Kiste",
       "description": "Jeden Dienstag um 15 Uhr öffnen wir unsere Geschichten-Kiste für euch!\nEinfach hinsetzen, lauschen und schöne Illustrationen anschauen.\nWir freuen uns auf euch!\n\nFür Kinder. Keine Anmeldung nötig\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=270517",
@@ -263,33 +236,6 @@
       "source": "wolfdietrich-schnurre-bibliothek",
       "sources": [
         "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "emil-und-die-detektive-2aed4820",
-      "title": "Emil und die Detektive",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-24",
-      "startTime": "15:15",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -378,33 +324,6 @@
       "cancelled": false
     },
     {
-      "id": "biermann-8d3cef0d",
-      "title": "Biermann",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-24",
-      "startTime": "16:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/biermann",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "naza-0547ea09",
       "title": "Naza",
       "description": "UK 2026 | 80 min | Dokumentarfilm | R: Yuval Abraham \u0026 Rachel Szor | OmU | Über drei Jahre hinweg sprachen die Filmemacher Abraham und Szor mit Angehörigen des israelischen Militärs und der Geheimdienste.",
@@ -425,33 +344,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-774f92b2",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-24",
-      "startTime": "17:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -12195,7 +12087,7 @@
         "amount": null
       },
       "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=533",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=575",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -12276,7 +12168,7 @@
         "amount": null
       },
       "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=533",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=575",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -14734,7 +14626,7 @@
     {
       "id": "100-jahre-stan-ollie-fc4ef48b",
       "title": "100 Jahre Stan \u0026 Ollie",
-      "description": "Filmkonzert mit dem METROPOLIS ORCHESTER BERLIN und Knut Elstermann. Richard Siedhoff und Manuel Rösler komponierten brandneue und witzige Musiken exklusiv für dieses Konzert.",
+      "description": "Filmkonzert mit dem METROPOLIS ORCHESTER BERLIN und Knut Elstermann. Richard Siedhoff und Manuel Rösler komponierten brandneue und witzige Musiken exklusiv für dieses Konzert. Die Moderation liegt wie immer in den kundigen Händen des großartigen Knut Elstermann, der am 2. Januar mit Filmpate Stefan Jürgens über die beiden bedeutenden Komiker sprechen wird. Swing-Party mit Let it Swing School am 3. Januar.",
       "category": "Theater",
       "date": "2027-01-02",
       "startTime": "19:30",
@@ -14815,7 +14707,7 @@
     {
       "id": "100-jahre-stan-ollie-6b51c9e2",
       "title": "100 Jahre Stan \u0026 Ollie",
-      "description": "Filmkonzert mit dem METROPOLIS ORCHESTER BERLIN und Knut Elstermann. Richard Siedhoff und Manuel Rösler komponierten brandneue und witzige Musiken exklusiv für dieses Konzert.",
+      "description": "Filmkonzert mit dem METROPOLIS ORCHESTER BERLIN und Knut Elstermann. Richard Siedhoff und Manuel Rösler komponierten brandneue und witzige Musiken exklusiv für dieses Konzert. Die Moderation liegt wie immer in den kundigen Händen des großartigen Knut Elstermann, der am 2. Januar mit Filmpate Stefan Jürgens über die beiden bedeutenden Komiker sprechen wird. Swing-Party mit Let it Swing School am 3. Januar.",
       "category": "Theater",
       "date": "2027-01-03",
       "startTime": "16:00",
