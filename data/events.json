@@ -1,516 +1,6 @@
 {
-  "generatedAt": "2026-11-23T20:37:46.68194899Z",
+  "generatedAt": "2026-11-24T03:44:47.195251777Z",
   "events": [
-    {
-      "id": "babysprechstunde-8c67432d",
-      "title": "Babysprechstunde",
-      "description": "Für Familien mit Babys und Kleinkindern bis 1,5 Jahre Mit Anmeldung Euer Baby schreit sehr viel oder schläft sehr wenig?​",
-      "category": "Unkategorisiert",
-      "date": "2026-11-23",
-      "startTime": "08:00",
-      "endTime": "14:00",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/babysprechstunde/?wcs_timestamp=1795420815",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "kinderbauernhof-knirpsenfarm-geoeffnet-9a8c322f",
-      "title": "Kinderbauernhof Knirpsenfarm geöffnet",
-      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
-      "category": "Natur",
-      "date": "2026-11-23",
-      "startTime": "09:00",
-      "endTime": "16:30",
-      "location": {
-        "name": "Kinderbauernhof Knirpsenfarm",
-        "address": "Malchower Chaussee 2, 13051 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Malchower Grashüpfer e.V.",
-      "url": "https://knirpsenfarm-berlin.de/",
-      "source": "inbox",
-      "sources": [
-        "inbox"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "offene-beratung-7536f08d",
-      "title": "Offene Beratung",
-      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
-      "category": "Unkategorisiert",
-      "date": "2026-11-23",
-      "startTime": "09:30",
-      "endTime": "10:30",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung-2/?wcs_timestamp=1795426200",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "indoorspielplatz-0-bis-3-jaehrige-68f4ad75",
-      "title": "Indoorspielplatz (0- bis 3-Jährige)",
-      "description": "Kinder wollen sich bewegen, toben und unter Kindern sein – auch bei schlechtem Wetter oder mal in einem kleinen, geschützten Raum. Unser Indoorspielplatz bietet den Kleinsten die Möglichkeit, sich in geschützter Umgebung auszutoben, zu spielen und neue Freund*innen kennenzulernen. Kommt vorbei und genießt gemeinsam mit euren Kindern eine fröhliche Spielzeit drinnen, warm und wetterunabhängig. Kinderwägen können parkseitig am hinteren Eingang abgestellt und abgeschlossen werden.\nMontag, 10 – 13 Uhr im Bewegungsraum (UG)\nAnmeldung: nicht erforderlich\nKosten: 2 € pro Treffen als Spende erwünscht",
-      "category": "Unkategorisiert",
-      "date": "2026-11-23",
-      "startTime": "10:00",
-      "endTime": "13:00",
-      "location": {
-        "name": "Stadtteilzentrum Weißensee",
-        "address": "Pistoriusstraße 23, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 2
-      },
-      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
-      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
-      "source": "stadtteilzentrum-weissensee",
-      "sources": [
-        "stadtteilzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "langsam-langsam-oder-die-schnellste-823e4107",
-      "title": "„Langsam Langsam! – oder die schnellste Schnecke der Welt“",
-      "description": "Schauspiel mit Figuren für Kinder ab vier Jahren | Spiel/Stückentwicklung: Martin Heesch | Regie/Stückentwicklung: Andreas Mihan",
-      "category": "Theater",
-      "date": "2026-11-23",
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "location": {
-        "name": "BÜHNE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 5
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/langsam-langsam-oder-die-schnellste-schnecke-der-welt/2026-11-23/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "unser-dorf-192f4dd1",
-      "title": "Unser Dorf",
-      "description": "Austauschgruppe für Eltern und Bezugspersonen von Babys, die viel Begleitung brauchen Ohne Anmeldung Dein Baby weint viel, schläft schlecht oder lässt sich schwer …",
-      "category": "Unkategorisiert",
-      "date": "2026-11-23",
-      "startTime": "10:30",
-      "endTime": "11:30",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/regulations-gruppe/?wcs_timestamp=1795429800",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "vineta-kaula-a-mapping-the-aa3f1213",
-      "title": "Vineta Kaulača – Mapping the View",
-      "description": "16.10. – 29.11.26 | 11 – 20 Uhr | Eröffnung: 16.10. | 19 Uhr | Im Rahmen des Jahresprogramms „Mixta Affectus“ | Vineta Kaulača ist eine Künstlerin aus Lettland.",
-      "category": "Kunst",
-      "date": "2026-11-23",
-      "startTime": "11:00",
-      "endTime": "20:00",
-      "location": {
-        "name": "GALERIE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-23/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "mittagstisch-fuer-alle-3be4cabe",
-      "title": "Mittagstisch für alle",
-      "description": "Kommen Sie vorbei und genießen Sie eine warme Suppe. Wir laden alle Nachbar*innen zum Mittagstisch ein.\nMontag von 12 - 13.30 Uhr im Saal (OG)\nKostenbeitrag: 1 €, Ermäßigung möglich\nAnmeldung: nicht erforderlich",
-      "category": "Unkategorisiert",
-      "date": "2026-11-23",
-      "startTime": "12:00",
-      "endTime": "13:30",
-      "location": {
-        "name": "Stadtteilzentrum Weißensee",
-        "address": "Pistoriusstraße 23, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 1
-      },
-      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
-      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
-      "source": "stadtteilzentrum-weissensee",
-      "sources": [
-        "stadtteilzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "digital-zebra-c9ba60b1",
-      "title": "Digital-Zebra",
-      "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
-      "category": "Kultur",
-      "date": "2026-11-23",
-      "startTime": "13:00",
-      "endTime": "16:00",
-      "location": {
-        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtbibliothek Pankow",
-      "url": "https://weissens.ee/#digital-zebra-c9ba60b1",
-      "source": "wolfdietrich-schnurre-bibliothek",
-      "sources": [
-        "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "karten-und-brettspiele-fuer-alle-4862c436",
-      "title": "Karten- und Brettspiele für alle",
-      "description": "Wöchentlich findet unser geselliger Spiele-Nachmittag mit Hauscafé im Stadtteilzentrum statt.\nSchauen Sie gerne einfach vorbei, ob allein oder mit anderen Spielern im Gepäck.\nWann: Montag, 13.00 – 18.00 Uhr im Saal\nKosten: 2 € (1,50 €)",
-      "category": "Unkategorisiert",
-      "date": "2026-11-23",
-      "startTime": "13:00",
-      "endTime": "18:00",
-      "location": {
-        "name": "Stadtteilzentrum Weißensee",
-        "address": "Pistoriusstraße 23, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 2
-      },
-      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
-      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
-      "source": "stadtteilzentrum-weissensee",
-      "sources": [
-        "stadtteilzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "baby-massage-kurs-0eaf4efd",
-      "title": "Baby-Massage-Kurs",
-      "description": "Für Bezugspersonen mit Babys zwischen 6 Wochen und 5 Monaten Mit Anmeldung Im Baby-Massage-Kurs lernen Bezugspersonen mit Kindern im Alter von 6 Wochen bis 5 Monaten bei unserer erfahrenen …",
-      "category": "Unkategorisiert",
-      "date": "2026-11-23",
-      "startTime": "14:00",
-      "endTime": "15:00",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/selbstorganisierter-babytreff/?wcs_timestamp=1795442400",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "kreative-holzwerkstatt-286fe943",
-      "title": "Kreative Holzwerkstatt",
-      "description": "Für Kinder ab 4 Jahren in Begleitung einer erwachsenen Person Ohne Anmeldung Kosten : Solidarische Materialkostenspende 1-5€",
-      "category": "Kultur",
-      "date": "2026-11-23",
-      "startTime": "15:00",
-      "endTime": "18:00",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/winterliches-werken-und-gestalten/?wcs_timestamp=1795446000",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "strick-cafe-4c623d3e",
-      "title": "Strick-Café",
-      "description": "Für alle, die Freude am Stricken haben Ohne Anmeldung Hast du Freude am Stricken und suchst Gleichgesinnte? Liegt bei dir zu Hause vielleicht ein angefangenes …",
-      "category": "Kultur",
-      "date": "2026-11-23",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/strickcafe/?wcs_timestamp=1795446000",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "montags-spielrunde-c1419912",
-      "title": "Montags-Spielrunde",
-      "description": "Hast du Lust auf einen gemütlichen Nachmittag in guter Gesellschaft? Egal ob Klassiker oder moderne Strategiespiele - bei uns kommen alle auf ihre Kosten!\n\n*Was euch erwartet:*\n- *für Erwachsene*: Spannende Gesellschaftsspiele und neue Kontakte\n- *für Familien und Kinder*: Pädagogisch wertvolle Spiele, die Spaß machen und fördern\n- *für alle Generationen*: Jung und alt spielen gemeinsam - für einen lebendigen Austausch\n\nUnser Angebot: Wir nutzen Spiele aus unserem vielfältigen Bibliotheksbestand. Gerne könnt ihr aber auch euer eigenes Lieblingsspiel mitbringen und mit anderen teilen!\n\nKommt einfach vorbei - wir freuen uns auf euch!\n\n*Jeden 1. und 3. Montag in der KreativLounge in der 1. Etage der Bibliothek*\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=279082",
-      "category": "Kultur",
-      "date": "2026-11-23",
-      "startTime": "16:00",
-      "endTime": "18:00",
-      "location": {
-        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtbibliothek Pankow",
-      "url": "https://weissens.ee/#montags-spielrunde-c1419912",
-      "source": "wolfdietrich-schnurre-bibliothek",
-      "sources": [
-        "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "kamishibai-erzaehltheater-264e60d3",
-      "title": "Kamishibai Erzähltheater",
-      "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
-      "category": "Kultur",
-      "date": "2026-11-23",
-      "startTime": "16:30",
-      "endTime": "",
-      "location": {
-        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtbibliothek Pankow",
-      "url": "https://weissens.ee/#kamishibai-erzaehltheater-264e60d3",
-      "source": "wolfdietrich-schnurre-bibliothek",
-      "sources": [
-        "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "inklusiver-musikalischer-salon-e53ba335",
-      "title": "Inklusiver Musikalischer Salon",
-      "description": "",
-      "category": "Kultur",
-      "date": "2026-11-23",
-      "startTime": "17:00",
-      "endTime": "19:00",
-      "location": {
-        "name": "Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/inklusiver-musikalischer-salon-2-2-2/2026-11-23/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "naza-adbddd77",
-      "title": "Naza",
-      "description": "UK 2026 | 80 min | Dokumentarfilm | R: Yuval Abraham \u0026 Rachel Szor | OmU | Über drei Jahre hinweg sprachen die Filmemacher Abraham und Szor mit Angehörigen des israelischen Militärs und der Geheimdienste.",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "17:00",
-      "endTime": "19:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/naza/2026-11-23/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "uebergang-25b70d5a",
-      "title": "Übergang",
-      "description": "D 2026 | 120 min | Dokumentarfilm | R: Peter Badel \u0026 Chris Wright | Ende 2023 begann Thomas Heise die Arbeit an seinem letzten Dokumentarfilm, der nach dem Tod des vielfach preisgekrönten Regisseurs im Mai 2024",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "18:30",
-      "endTime": "20:30",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/uebergang/2026-11-23/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "die-blutgraefin-2836f45a",
-      "title": "Die Blutgräfin",
-      "description": "L/A/D 2026 | 119 min | Spielfilm | R: Ulrike Ottinger | Jahrhunderte nach ihrem mysteriösen Verschwinden taucht die Blutgräfin (Isabelle Huppert) im heutigen Wien wieder auf.",
-      "category": "Kino",
-      "date": "2026-11-23",
-      "startTime": "20:45",
-      "endTime": "23:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/die-blutgraefin/2026-11-23/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-ba66ded5",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
@@ -4568,6 +4058,33 @@
       "cancelled": false
     },
     {
+      "id": "indoorspielplatz-0-bis-3-jaehrige-4d5c54f4",
+      "title": "Indoorspielplatz (0- bis 3-Jährige)",
+      "description": "Kinder wollen sich bewegen, toben und unter Kindern sein – auch bei schlechtem Wetter oder mal in einem kleinen, geschützten Raum. Unser Indoorspielplatz bietet den Kleinsten die Möglichkeit, sich in geschützter Umgebung auszutoben, zu spielen und neue Freund*innen kennenzulernen. Kommt vorbei und genießt gemeinsam mit euren Kindern eine fröhliche Spielzeit drinnen, warm und wetterunabhängig. Kinderwägen können parkseitig am hinteren Eingang abgestellt und abgeschlossen werden.\nMontag, 10 – 13 Uhr im Bewegungsraum (UG)\nAnmeldung: nicht erforderlich\nKosten: 2 € pro Treffen als Spende erwünscht",
+      "category": "Unkategorisiert",
+      "date": "2026-11-30",
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 2
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "sources": [
+        "stadtteilzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "weihnachten-im-hexenwald-df640296",
       "title": "Weihnachten im Hexenwald",
       "description": "30.11. – 3.12. | 10 Uhr | 3 – 8 Jahre / Dauer ca. 40 Min. | Von Beatrice Ellinger | Der Weihnachtsmann ist viel zu spät dran, um die Geschenke rechtzeitig zu den Kindern zu bringen.",
@@ -4595,6 +4112,33 @@
       "cancelled": false
     },
     {
+      "id": "mittagstisch-fuer-alle-c49d5878",
+      "title": "Mittagstisch für alle",
+      "description": "Kommen Sie vorbei und genießen Sie eine warme Suppe. Wir laden alle Nachbar*innen zum Mittagstisch ein.\nMontag von 12 - 13.30 Uhr im Saal (OG)\nKostenbeitrag: 1 €, Ermäßigung möglich\nAnmeldung: nicht erforderlich",
+      "category": "Unkategorisiert",
+      "date": "2026-11-30",
+      "startTime": "12:00",
+      "endTime": "13:30",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 1
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "sources": [
+        "stadtteilzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "wie-verhext-4f19c11f",
       "title": "Wie verhext",
       "description": "",
@@ -4615,6 +4159,33 @@
       "source": "kino-toni",
       "sources": [
         "kino-toni"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "karten-und-brettspiele-fuer-alle-402767f2",
+      "title": "Karten- und Brettspiele für alle",
+      "description": "Wöchentlich findet unser geselliger Spiele-Nachmittag mit Hauscafé im Stadtteilzentrum statt.\nSchauen Sie gerne einfach vorbei, ob allein oder mit anderen Spielern im Gepäck.\nWann: Montag, 13.00 – 18.00 Uhr im Saal\nKosten: 2 € (1,50 €)",
+      "category": "Unkategorisiert",
+      "date": "2026-11-30",
+      "startTime": "13:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 2
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "sources": [
+        "stadtteilzentrum-weissensee"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -14329,6 +13900,168 @@
       "cancelled": false
     },
     {
+      "id": "baby-cafe-99f16b80",
+      "title": "Baby-Café",
+      "description": "Für Menschen mit Babys in allen Familienkonstellationen Ohne Anmeldung Das Babycafé ist ein offenes Austauschformat für frisch gewordene oder werdende Eltern. Hier …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-24",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/baby-cafe/?wcs_timestamp=1798106400",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "singen-mit-kleinkind-64bb9f77",
+      "title": "Singen mit Kleinkind",
+      "description": "Für Erwachsene mit Kleinkindern von 1-2 Jahren Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Es gibt klingendes Spielzeug und Percussion-Instrumente. Noten und Texte sind vorhanden, bringt aber gerne eure Liedideen mit.",
+      "category": "Kultur",
+      "date": "2026-12-24",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-2/?wcs_timestamp=1798106430",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "soft-opening-fa7bb6d9",
+      "title": "SOFT OPENING",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "category": "Kunst",
+      "date": "2026-12-24",
+      "startTime": "11:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "GALERIE Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-24/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "aus-der-tonne-4f4da5ae",
+      "title": "Aus der Tonne",
+      "description": "Ein Upcycling- und Kreativangebot für Kinder ab 4 Jahren und Bezugspersonen Ohne Anmeldung Holt euren Müll, Rammsch und Schrott aus der Tonne! Gemeinsam machen wir …",
+      "category": "Kultur",
+      "date": "2026-12-24",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Kreativwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/sprechstunde-familienrecht/?wcs_timestamp=1798128000",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "offene-beratung-bd6c750d",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-24",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung/?wcs_timestamp=1798128000",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "schwangerengruppe-7731087c",
+      "title": "Schwangerengruppe",
+      "description": "Austausch und Impulse für alle schwangere Menschen Mit Anmeldung Kostenfrei Die Schwangerengruppe bietet …",
+      "category": "Unkategorisiert",
+      "date": "2026-12-24",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/schwangerengruppe/?wcs_timestamp=1798135200",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-21d279dc",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
@@ -16777,6 +16510,33 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kinderbauernhof-knirpsenfarm-geoeffnet-2c18e9b4",
+      "title": "Kinderbauernhof Knirpsenfarm geöffnet",
+      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWochenende und Feiertage ganzjährig 9–16 Uhr.",
+      "category": "Natur",
+      "date": "2027-01-23",
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "location": {
+        "name": "Kinderbauernhof Knirpsenfarm",
+        "address": "Malchower Chaussee 2, 13051 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Malchower Grashüpfer e.V.",
+      "url": "https://knirpsenfarm-berlin.de/",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
       "cancelled": false
     },
     {
