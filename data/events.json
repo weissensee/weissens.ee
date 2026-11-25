@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T01:52:10.720623957Z",
+  "generatedAt": "2026-11-25T16:42:40.651611578Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-2996db5a",
@@ -136,60 +136,6 @@
       "cancelled": false
     },
     {
-      "id": "der-frechste-troll-der-welt-916c4ccd",
-      "title": "Der frechste Troll der Welt",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-25",
-      "startTime": "12:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "alte-liebe-241c890e",
-      "title": "Alte Liebe",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-25",
-      "startTime": "13:15",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/alte-liebe",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "telefon-beratung-e0f569cd",
       "title": "Telefon-Beratung",
       "description": "Für alle die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
@@ -214,60 +160,6 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "biermann-aa828d78",
-      "title": "Biermann",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-25",
-      "startTime": "14:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/biermann",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "emil-und-die-detektive-9cc6029e",
-      "title": "Emil und die Detektive",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-25",
-      "startTime": "15:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
       "cancelled": false
     },
     {
@@ -397,33 +289,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-9376acb0",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-25",
-      "startTime": "17:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -5646,6 +5511,33 @@
       "cancelled": false
     },
     {
+      "id": "buchpremiere-auf-der-buehne-tentakel-84d2c32c",
+      "title": "Buchpremiere auf der Bühne: »Tentakel ausbilden«. Mit Alexander Graeff \u0026 Nadine Kube",
+      "description": "Das Team der Bühne hat anlässlich des Erscheinens des neuen Buches von Brotfabrik Literaturkurator Alexander Graeff den Autor eingeladen.",
+      "category": "Theater",
+      "date": "2026-12-03",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "location": {
+        "name": "BÜHNE Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 5
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/buchpremiere-auf-der-buehne-alexander-graeff-tentakel-ausbilden/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "tentakel-ausbilden-buchpremiere-mit-alex-fe65abbf",
       "title": "»Tentakel ausbilden« – Buchpremiere mit Alexander Graeff \u0026 Nadine Kube",
       "description": "In »Tentakel ausbilden. Plädoyer für queeres Denken« (Gans Verlag, 2026) verknüpft Alexander Graeff persönliche Erfahrungen aus Dorfkindheit, queerer Selbstfindung und Literaturbetrieb.",
@@ -5663,33 +5555,6 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/tentakel-ausbilden-buchpremiere-mit-alexander-graeff-nadine-kube/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "buchpremiere-auf-der-buehne-alexander-d0cd34ea",
-      "title": "Buchpremiere auf der Bühne // Alexander Graeff :Tentakel ausbilden.",
-      "description": "Das Team der Bühne hat anlässlich des Erscheinens des neuen Buches von Brotfabrik Literaturkurator Alexander Graeff den Autor eingeladen.",
-      "category": "Theater",
-      "date": "2026-12-03",
-      "startTime": "20:00",
-      "endTime": "22:00",
-      "location": {
-        "name": "BÜHNE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 5
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/buchpremiere-auf-der-buehne-alexander-graeff-tentakel-ausbilden/",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11051,6 +10916,32 @@
       "cancelled": false
     },
     {
+      "id": "workshop-gestaltung-und-herstellung-von-90540ae0",
+      "title": "Workshop „Gestaltung und Herstellung von Spielen“ mit Silvia Lamaison",
+      "description": "In diesem Workshop werden Spiele gestaltet und hergestellt, die Kreativität, Lernen und Unterhaltung miteinander verbinden.\nDie Teilnehmenden stellen ihr eigenes Spiel im Rahmen einer kreativen Bastelaktivität her. Nach Fertigstellung können sie es direkt vor Ort ausprobieren und nach Hause nehmen.\n\nFür Familien mit Kindern ab 4 Jahren\n\n*Wir beginnen um 16:00 Uhr in der KreativLounge im 1. Stock der Bibliothek*\n\nDiese Veranstaltung findet statt in Kooperation mit Frei Zeit Haus Berlin Weißensee\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=299354",
+      "category": "Kultur",
+      "date": "2026-12-17",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "location": {
+        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtbibliothek Pankow",
+      "url": "https://weissens.ee/#workshop-gestaltung-und-herstellung-von-90540ae0",
+      "source": "wolfdietrich-schnurre-bibliothek",
+      "sources": [
+        "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "advents-umzug-mit-hirsch-heinrich-c4589906",
       "title": "Advents-Umzug mit Hirsch Heinrich",
       "description": "Hirsch Heinrich führt einen langen Lieder-Zug von der Wolfdietrich-Schnurre-Bibliothek zum Antonplatz an. Gemeinsam mit Bläserensemble und Kinderchor der Musikschule und dem Bläserensemble der Ev. Gemeinde lädt er alle Weißenseerinnen und Weißenseer zum Adventssingen ein.\n\n16:30 Uhr Umzug von der Wolfdietrich-Schnurre-Bibliothek zum Antonplatz\n17:00 Uhr Adventssingen auf dem Antonplatz\n\nBarrierefreier Zugang.",
@@ -15097,6 +14988,33 @@
       "source": "inbox",
       "sources": [
         "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "fruehstueck-fuer-frauen-mit-den-2e7310ab",
+      "title": "Frühstück für Frauen mit den Stadtteilmüttern Pankow",
+      "description": "Die Stadtteilmütter laden Euch herzlich zu einem Frühstück im Stadtteilzentrum ein. Es gibt viele Köstlichkeiten! Die Stadtteilmütter sprechen Arabisch und Kurdisch und helfen bei Fragen des Alltags, der Erziehung, Kita und Schule und Integration. Spielmöglichkeiten für Kinder sind vorhanden.\n\nNächster Termin: 05.02.27 immer 10 - 12 Uhr\nWeitere Termine folgen\n\nWo: Bei gutem Wetter i m Garten, sonst im Gartensaal\n\nAnmeldung / Kosten: Ohne Anmeldung und k ostenlos.",
+      "category": "Unkategorisiert",
+      "date": "2027-01-08",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "sources": [
+        "stadtteilzentrum-weissensee"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
