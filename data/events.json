@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:29:26.723359643Z",
+  "generatedAt": "2026-11-26T16:17:06.021248078Z",
   "events": [
     {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-e0a4f194",
@@ -163,33 +163,6 @@
       "cancelled": false
     },
     {
-      "id": "emil-und-die-detektive-c53c828b",
-      "title": "Emil und die Detektive",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-26",
-      "startTime": "13:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/emil-und-die-detektive-2026",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "initiative-faires-pankow-23022441",
       "title": "Initiative Faires.Pankow",
       "description": "Der Faire.Donnerstag ist ein neues wöchentliches Nachbarschaftsprojekt im Stadtteilzentrum Weißensee, das ökologische Nachhaltigkeit, soziale Teilhabe und gemeinschaftliches Handeln verbindet.\nImmer donnerstags wird das Haus zum Treffpunkt für alle, die teilen, helfen, tauschen oder einfach beisammen sein möchten.\n\nDas Herzstück ist das Fair.Café – immer von 14 bis 17 Uhr . Hier gibt es kostenlosen Kaffee, gerettete Lebensmittel, nette Gespräche und Raum für neue Ideen – ganz ohne Konsumzwang und Kostendruck, getragen vom Engagement Nachbarschaftsinitiative Faires.Pankow. Bringt gerne (Stoff)-Tüten, Dosen und andere lebensmittelsichere Behälter mit, um die geretteten Lebensmittel sicher zu transportieren. Achtung: Die geretteten Lebensmittel sind möglicherweise schon vor dem Ende der Veranstaltung vergriffen, je nach Menge und Rückfrage. Beginn der Ausgabe ist um 14 Uhr.\n\nIm Anschluss an das Fair.Café finden wechselnde Workshops, Aktionen und Veranstaltungen rund um Nachhaltigkeit, Reparatur, Upcycling oder Nachbarschaftsprojekte statt. Hier können sich alle einbringen, mitmachen oder selbst etwas auf die Beine stellen. Wie mitmachen? Komm vorbei – mit deiner Idee! Ob beim …",
@@ -210,60 +183,6 @@
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wie-verhext-fdbf6807",
-      "title": "Wie verhext",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-26",
-      "startTime": "14:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wie-verhext",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "der-frechste-troll-der-welt-6f7de936",
-      "title": "Der frechste Troll der Welt",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-26",
-      "startTime": "15:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/der-frechste-troll-der-welt",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -423,33 +342,6 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wie-verhext-57abd4df",
-      "title": "Wie verhext",
-      "description": "",
-      "category": "Kino",
-      "date": "2026-11-26",
-      "startTime": "17:00",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wie-verhext",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -7476,6 +7368,33 @@
       "cancelled": false
     },
     {
+      "id": "kleidertausch-fuer-frauen-6c7c6569",
+      "title": "Kleidertausch für Frauen",
+      "description": "Du hast Kleidung, Schmuck oder Accessoires im Schrank, die du nicht mehr trägst, die aber viel zu schade zum Wegwerfen sind? Dann mach mit bei unserer Kleidertauschbörse nur für Frauen!\n\nSchenke deinen aussortierten Lieblingsstücken ein neues Zuhause und entdecke selbst tolle neue Schätze. Ganz ohne Geld auszugeben, kannst du deinen Kleiderschrank auffrischen und gleichzeitig etwas für die Nachhaltigkeit tun.\n\nBei uns stehen Nachhaltigkeit, Gemeinschaft und die Freude am Teilen im Mittelpunkt.\n\nEine Spende ist herzlich willkommen! Mit deinem freiwilligen Beitrag unterstützt du unsere Veranstaltung und hilfst dabei, solche Aktionen auch in Zukunft möglich zu machen.\n\nKomm vorbei, bring deine Schrankhüter mit und lass dich überraschen!\n\nWir freuen uns auf dich!",
+      "category": "Unkategorisiert",
+      "date": "2026-12-09",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "Stadtteilzentrum Weißensee",
+        "address": "Pistoriusstraße 23, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
+      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "source": "stadtteilzentrum-weissensee",
+      "sources": [
+        "stadtteilzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "toni-filmclub-wege-in-die-370f5b1d",
       "title": "Toni Filmclub: Wege in die Nacht",
       "description": "",
@@ -7503,33 +7422,6 @@
       "cancelled": false
     },
     {
-      "id": "donna-the-show-611fd518",
-      "title": "Donna The Show",
-      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
-      "category": "Theater",
-      "date": "2026-12-09",
-      "startTime": "18:30",
-      "endTime": "",
-      "location": {
-        "name": "Theater im Delphi",
-        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
-      "source": "theater-im-delphi",
-      "sources": [
-        "theater-im-delphi"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
       "id": "ein-bus-voller-leben-310ee264",
       "title": "Ein Bus voller Leben",
       "description": "Andrés (Dani Rovira) ist Musiklehrer in Madrid und träumt noch immer davon, selbst auf der Bühne zu stehen.",
@@ -7550,6 +7442,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "donna-the-show-fa0a3dcc",
+      "title": "Donna The Show",
+      "description": "Entstanden aus dem Drang, etwas Wagemutiges und Gegenwärtiges auf die Bühne zu bringen, lässt Donna The Show das Revue-Theater des 20. Jahrhundert in einer ungefilterten, sinnlichen und experimentierfreudigen Form neu aufleben.",
+      "category": "Theater",
+      "date": "2026-12-09",
+      "startTime": "20:00",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -10667,6 +10586,33 @@
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "siki-tut-tuerkischsprachige-schwarze-kom-53484736",
+      "title": "SIKI TUT - Türkischsprachige schwarze Komödie",
+      "description": "SIKI TUT“ ist eine rasante schwarze Komödie von Uğur Karabulut\n\nEin eigentlich ganz normaler Tag im Leben von Aslı und Zafer gerät völlig außer Kontrolle, als ein bewaffneter Fremder die Wohnung betritt.",
+      "category": "Theater",
+      "date": "2026-12-17",
+      "startTime": "19:30",
+      "endTime": "",
+      "location": {
+        "name": "Theater im Delphi",
+        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": null
+      },
+      "organizer": "Theater im Delphi",
+      "url": "https://theater-im-delphi.de/programm/index.php?prod=576",
+      "source": "theater-im-delphi",
+      "sources": [
+        "theater-im-delphi"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
