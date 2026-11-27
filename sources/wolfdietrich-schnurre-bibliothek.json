@@ -10,8 +10,7 @@
     "": "Kultur"
   },
   "status": {
-    "lastAttempt": "2026-11-27T09:37:09Z",
-    "lastSuccess": "2026-11-27T01:27:30Z",
-    "lastError": "fetch https://www.berlin.de/land/kalender/index.php?ics&v_ort=40313: unexpected status 429 Too Many Requests"
+    "lastAttempt": "2026-11-27T16:01:40Z",
+    "lastSuccess": "2026-11-27T16:01:40Z"
   }
 }
