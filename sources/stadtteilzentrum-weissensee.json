@@ -2,9 +2,11 @@
   "label": "Stadtteilzentrum Weißensee",
   "homepage": "https://www.stz-weissensee.de",
   "type": "html",
+  "images": true,
   "url": "https://www.stz-weissensee.de/veranstaltungen.html",
   "itemSelector": "#jevents_body .schatten",
   "extract": {
+    "image": { "selector": "img.jev_image1", "attr": "src" },
     "category": "a.ev_link_cat",
     "day": ".neulandeventDate .day",
     "description": {
@@ -31,6 +33,7 @@
     "year": ".neulandeventDate .year"
   },
   "mapping": {
+    "image": { "path": "image" },
     "title": {
       "path": "title"
     },
@@ -71,12 +74,17 @@
     "Bühne": "Kultur",
     "Feste": "Kultur",
     "Markt": "Markt",
-    "Nachbarschaftstreffen": "Unkategorisiert",
-    "Spielen": "Unkategorisiert",
-    "Tanz": "Kultur",
+    "Nachbarschaftstreffen": "Nachbarschaft",
+    "Spielen": "Spielen",
+    "Tanz": "Tanz",
     "Vorträge": "Kultur",
     "Workshops": "Kultur"
   },
+  "categoryRules": [
+    { "field": "title", "regex": "(?i)blutspende", "category": "Blutspende" },
+    { "field": "title", "regex": "(?i)konzert|\\bsingen\\b|\\bchor\\b", "category": "Musik" },
+    { "field": "title", "regex": "(?i)arbeitskreis|\\binitiative\\b", "category": "Beratung" }
+  ],
   "status": {
     "lastAttempt": "2026-11-28T00:59:53Z",
     "lastSuccess": "2026-11-28T00:59:53Z"

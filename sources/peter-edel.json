@@ -2,9 +2,11 @@
   "label": "Peter Edel",
   "homepage": "https://www.peteredel.de",
   "type": "html",
+  "images": true,
   "url": "https://www.peteredel.de/events/",
   "itemSelector": ".box-rc-dark-grey",
   "extract": {
+    "image": { "selector": "img", "attr": "src" },
     "beginn": {
       "selector": ".row > div:nth-of-type(2)",
       "regex": "Beginn[^0-9]{0,15}(\\d{1,2}:\\d{2})"
@@ -33,6 +35,7 @@
     "title": ".row > div:nth-of-type(2) h3"
   },
   "mapping": {
+    "image": { "path": "image" },
     "title": {
       "path": "title"
     },

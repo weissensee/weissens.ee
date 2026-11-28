@@ -2,6 +2,7 @@
   "label": "Freilichtbühne Weißensee",
   "homepage": "https://freilichtbuehne-weissensee.de",
   "type": "ical",
+  "images": true,
   "url": "https://freilichtbuehne-weissensee.de/events.ics",
   "daysAhead": 270,
   "organizer": "Freilichtbühne Weißensee",
