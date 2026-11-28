@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>weissens.ee – Events in Weißensee</title>
+<meta name="description" content="Der Event-Kalender für Berlin-Weißensee. Finde Märkte, Konzerte, Workshops und mehr in deinem Kiez.">
+<meta name="theme-color" content="#17383D">
+<link rel="canonical" href="https://weissens.ee/">
+<meta property="og:url" content="https://weissens.ee/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="weissens.ee">
+<meta property="og:title" content="weissens.ee – Events in Weißensee">
+<meta property="og:description" content="Der Event-Kalender für Berlin-Weißensee. Finde Märkte, Konzerte, Workshops und mehr in deinem Kiez.">
+<meta property="og:locale" content="de_DE">
+<meta name="twitter:card" content="summary">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+
+<script>try{var s=JSON.parse(localStorage.getItem("openlitfass:settings")||"{}"),t=s&&s.theme||localStorage.getItem("openlitfass:theme");if(t==="dark"||t==="light")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<link rel="stylesheet" href="css/tokens.css">
+
+<link rel="stylesheet" href="css/theme.css">
+<link rel="stylesheet" href="css/style.css">
+
+
+</head>
+<body>
+<div class="app">
+
+  <header class="app-header">
+    <div class="app-header__inner">
+      <a class="logo" href="#">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" class="logo-mark" viewBox="0 0 24 24" width="26" height="26" aria-hidden="true">
+  <rect x="2.5" y="2.5" width="19" height="19" rx="5" fill="none" stroke="currentColor" stroke-width="2"/>
+  <path d="M8 1v3M16 1v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="8" cy="10.5" r="1.3" fill="currentColor"/>
+  <circle cx="12" cy="10.5" r="1.3" fill="currentColor"/>
+  <circle cx="16" cy="10.5" r="1.3" fill="currentColor"/>
+  <circle cx="8" cy="15" r="1.3" fill="currentColor"/>
+  <circle cx="12" cy="15" r="1.3" fill="currentColor"/>
+  <circle cx="16" cy="15" r="1.3" class="logo-mark__accent"/>
+</svg>
+
+        <span>weissens.ee</span>
+      </a>
+      <div class="header-actions">
+        <button class="icon-btn" id="themeToggle" type="button" aria-label="Dunkles Farbschema" aria-pressed="false">
+          <svg class="theme-icon theme-icon--moon" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z"/></svg>
+          <svg class="theme-icon theme-icon--sun" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 12a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"/><path d="M3 12h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7"/></svg>
+        </button>
+        <button class="icon-btn" id="searchToggle" type="button" aria-label="Suche öffnen" aria-expanded="false" aria-controls="searchBar">
+          <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M21 21l-6 -6"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="search-bar" id="searchBar" hidden>
+      <input type="search" id="searchInput" placeholder="Ort, Art oder Name …" aria-label="Events durchsuchen" autocomplete="off"
+             role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="searchSuggest">
+      
+      <ul class="search-suggest" id="searchSuggest" role="listbox" aria-label="Suchvorschläge" hidden></ul>
+    </div>
+  </header>
+
+  
+  <div class="toolbar" id="toolbar">
+    <nav class="date-nav" id="dateNav" aria-label="Zeitraum und Filter"></nav>
+    <div class="filter-panel" id="filterPanel" hidden>
+      <section class="fp-group" aria-labelledby="fpPeriodHead">
+        <div class="fp-head"><h2 id="fpPeriodHead">Zeitraum</h2></div>
+        <div class="fp-chips" id="periodMenu" role="group" aria-labelledby="fpPeriodHead"></div>
+      </section>
+      <section class="fp-group" aria-labelledby="fpCatHead">
+        <div class="fp-head"><h2 id="fpCatHead">Kategorien</h2><span id="catClearSlot"></span></div>
+        <div class="fp-chips" id="categoryMenu" role="group" aria-labelledby="fpCatHead"></div>
+      </section>
+      <section class="fp-group" aria-labelledby="fpAttrHead">
+        <div class="fp-head"><h2 id="fpAttrHead">Merkmale</h2><span id="attrClearSlot"></span></div>
+        <div class="fp-chips" id="quickFilters" role="group" aria-labelledby="fpAttrHead"></div>
+      </section>
+    </div>
+  </div>
+
+  <main class="content" id="main" tabindex="-1">
+    
+    <noscript><p class="noscript">Der interaktive Kalender braucht JavaScript.
+      <a href="termine/">Alle Termine als einfache Liste</a></p></noscript>
+    <section id="viewList" class="view" aria-labelledby="listHeading">
+      <h1 class="sr-only" id="listHeading">Termine</h1>
+      <p class="result-count" id="resultCount" role="status"></p>
+      
+      <div id="eventGroups">
+        <h2 class="day-heading">Heute · Samstag, 28. November 2026</h2>
+        <ul class="event-list">
+          <li><a class="event-card" href="termine/kinderphilharmonie-klassik-fuer-kleine-0-5b0c6326.html">
+            <div class="event-card__time">09:00</div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">KINDERPHILHARMONIE - Klassik für Kleine (0-18 Monate)</h3>
+              <p class="event-card__meta"><span>Peter Edel</span><span>14,50 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/kinderbauernhof-knirpsenfarm-geoeffnet-48c54fe1.html">
+            <div class="event-card__time">09:00<small>– 16:00</small></div>
+            <div class="event-card__body"><span class="category-label">Natur</span>
+              <h3 class="event-card__title">Kinderbauernhof Knirpsenfarm geöffnet</h3>
+              <p class="event-card__meta"><span>Kinderbauernhof Knirpsenfarm</span><span>kostenlos</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/kinderphilharmonie-klassik-fuer-kleine-1-94f52e1a.html">
+            <div class="event-card__time">10:00</div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">KINDERPHILHARMONIE - Klassik für Kleine (1 - 3 Jahre)</h3>
+              <p class="event-card__meta"><span>Peter Edel</span><span>14,50 €</span></p>
+            </div>
+          </a></li><li><a class="event-card event-card--cancelled" href="termine/podcast-mit-paul-01cfd9ce.html">
+            <div class="event-card__time">10:30</div>
+            <div class="event-card__body"><span class="cancelled-badge">Abgesagt</span>
+              <h3 class="event-card__title">Podcast mit Paul [ABGESAGT]</h3>
+              <p class="event-card__meta"><span>Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/upcycling-workshop-mit-amina-a9c4d280.html">
+            <div class="event-card__time">11:00</div>
+            <div class="event-card__body">
+              <h3 class="event-card__title">Upcycling Workshop mit Amina</h3>
+              <p class="event-card__meta"><span>Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/vineta-kaula-a-mapping-the-954294a5.html">
+            <div class="event-card__time">11:00<small>– 20:00</small></div>
+            <div class="event-card__body"><span class="category-label">Kunst</span>
+              <h3 class="event-card__title">Vineta Kaulača – Mapping the View</h3>
+              <p class="event-card__meta"><span>GALERIE Brotfabrik</span><span>kostenlos</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/workshop-upcycling-postkarten-collagen-760ef62f.html">
+            <div class="event-card__time">11:00</div>
+            <div class="event-card__body">
+              <h3 class="event-card__title">Workshop Upcycling-Postkarten. Collagen</h3>
+              <p class="event-card__meta"><span>Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/kinderphilharmonie-klassik-fuer-kleine-3-985584be.html">
+            <div class="event-card__time">11:15</div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">KINDERPHILHARMONIE - Klassik für Kleine (3 - 7 Jahre)</h3>
+              <p class="event-card__meta"><span>Peter Edel</span><span>14,50 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/kinderphilharmonie-klassik-fuer-kleine-0-48e5deef.html">
+            <div class="event-card__time">12:30</div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">KINDERPHILHARMONIE - Klassik für Kleine (0 - 18 Monate)</h3>
+              <p class="event-card__meta"><span>Peter Edel</span><span>14,50 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/filzen-fuer-gross-und-klein-c5d344d8.html">
+            <div class="event-card__time">13:00<small>– 18:00</small></div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">Filzen für Groß und Klein</h3>
+              <p class="event-card__meta"><span>Stadtteilzentrum Weißensee</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/emil-und-die-detektive-fe93a6ac.html">
+            <div class="event-card__time">13:30</div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Emil und die Detektive</h3>
+              <p class="event-card__meta"><span>Kino Toni</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/kinderphilharmonie-klassik-fuer-kleine-1-fc09e599.html">
+            <div class="event-card__time">14:00</div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">KINDERPHILHARMONIE - Klassik für Kleine (1 - 3 Jahre)</h3>
+              <p class="event-card__meta"><span>Peter Edel</span><span>14,50 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/upcycling-naehwerkstatt-f3215cd4.html">
+            <div class="event-card__time">14:00<small>– 18:00</small></div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">Upcycling Nähwerkstatt</h3>
+              <p class="event-card__meta"><span>ATELIER Brotfabrik</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/wie-verhext-d8ee3488.html">
+            <div class="event-card__time">14:00</div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Wie verhext</h3>
+              <p class="event-card__meta"><span>Kino Toni</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/ach-mein-sohn-eine-spurensuche-a57c7592.html">
+            <div class="event-card__time">14:00</div>
+            <div class="event-card__body">
+              <h3 class="event-card__title">„Ach mein Sohn...&#34; – Eine Spurensuche - Vorlese-Ensemble präsentiert</h3>
+              <p class="event-card__meta"><span>Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/kinderphilharmonie-klassik-fuer-kleine-3-ad6889f8.html">
+            <div class="event-card__time">15:30</div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">KINDERPHILHARMONIE - Klassik für Kleine (3 - 7 Jahre)</h3>
+              <p class="event-card__meta"><span>Peter Edel</span><span>14,50 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/naza-9efef799.html">
+            <div class="event-card__time">15:30<small>– 17:30</small></div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Naza</h3>
+              <p class="event-card__meta"><span>KINO Brotfabrik</span><span>7 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/der-frechste-troll-der-welt-76af64c4.html">
+            <div class="event-card__time">15:45</div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Der frechste Troll der Welt</h3>
+              <p class="event-card__meta"><span>Kino Toni</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/wie-verhext-4f9b0621.html">
+            <div class="event-card__time">16:45</div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Wie verhext</h3>
+              <p class="event-card__meta"><span>Kino Toni</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/helene-weigel-revolutionaerin-im-rampenl-56bb4b38.html">
+            <div class="event-card__time">17:00<small>– 19:00</small></div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Helene Weigel – Revolutionärin im Rampenlicht</h3>
+              <p class="event-card__meta"><span>KINO Brotfabrik</span><span>7 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/wild-horse-nine-653b197f.html">
+            <div class="event-card__time">17:45</div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Wild Horse Nine</h3>
+              <p class="event-card__meta"><span>Kino Toni</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/the-luxorium-grand-variete-6aecd473.html">
+            <div class="event-card__time">18:00</div>
+            <div class="event-card__body"><span class="category-label">Theater</span>
+              <h3 class="event-card__title">The Luxorium – Grand Varieté</h3>
+              <p class="event-card__meta"><span>Theater im Delphi</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/berlin-ben-berlin-aus-diesem-f58982b0.html">
+            <div class="event-card__time">19:00<small>– 21:00</small></div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">BErliN (Ben Berlin) – Aus diesem Tralala kommst du nicht raus</h3>
+              <p class="event-card__meta"><span>KINO Brotfabrik</span><span>7 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/wie-verhext-993eda94.html">
+            <div class="event-card__time">19:30</div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Wie verhext</h3>
+              <p class="event-card__meta"><span>Kino Toni</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/prachtworte-spezial-707161d4.html">
+            <div class="event-card__time">20:00</div>
+            <div class="event-card__body"><span class="category-label">Kultur</span>
+              <h3 class="event-card__title">PRACHTWORTE SPEZIAL</h3>
+              <p class="event-card__meta"><span>Peter Edel</span><span>18,90 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/suche-zimmer-auch-ohne-anmeldung-4fde9eb1.html">
+            <div class="event-card__time">20:00<small>– 22:00</small></div>
+            <div class="event-card__body"><span class="category-label">Theater</span>
+              <h3 class="event-card__title">Suche Zimmer, auch ohne Anmeldung vom Theater Schichtwechsel</h3>
+              <p class="event-card__meta"><span>BÜHNE Brotfabrik</span><span>12 €</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/wild-horse-nine-9e29bbde.html">
+            <div class="event-card__time">20:15</div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Wild Horse Nine</h3>
+              <p class="event-card__meta"><span>Kino Toni</span></p>
+            </div>
+          </a></li><li><a class="event-card" href="termine/schoene-seelen-0e8f63d7.html">
+            <div class="event-card__time">21:00<small>– 23:00</small></div>
+            <div class="event-card__body"><span class="category-label">Kino</span>
+              <h3 class="event-card__title">Schöne Seelen</h3>
+              <p class="event-card__meta"><span>KINO Brotfabrik</span><span>7 €</span></p>
+            </div>
+          </a></li>
+        </ul>
+        <p class="static-more"><a href="termine/">Alle weiteren 564 Termine</a></p>
+      </div>
+      <div class="empty-state" id="emptyState" hidden></div>
+    </section>
+
+    <article id="viewDetail" class="view detail" hidden></article>
+
+    
+    <section id="viewPlaces" class="view places" aria-labelledby="placesHeading" hidden></section>
+    <article id="viewPlace" class="view detail" hidden></article>
+
+    <section id="viewAbout" class="view about" hidden></section>
+
+    
+    <section id="viewSettings" class="view settings" hidden></section>
+
+    <footer class="site-footer" id="siteFooter"></footer>
+  </main>
+
+  <nav class="bottom-nav" aria-label="Ansicht">
+    <a class="bottom-nav__item" href="#" data-view="list">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12"/><path d="M16 3v4"/><path d="M8 3v4"/><path d="M4 11h16"/></svg>
+      <span>Termine</span>
+    </a>
+    <a class="bottom-nav__item" href="#orte" data-view="places" id="navPlaces" hidden>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0"/><path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0"/></svg>
+      <span>Orte</span>
+    </a>
+    <a class="bottom-nav__item" href="#gemerkt" data-view="saved">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 17.75l-6.172 3.245l1.179 -6.873l-5 -4.867l6.9 -1l3.086 -6.253l3.086 6.253l6.9 1l-5 4.867l1.179 6.873l-6.158 -3.245"/></svg>
+      <span>Gemerkt <span class="badge" id="savedCount" hidden></span></span>
+    </a>
+    <a class="bottom-nav__item" href="#ueber" data-view="about">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0"/><path d="M12 9h.01"/><path d="M11 12h1v4h1"/></svg>
+      <span>Über</span>
+    </a>
+  </nav>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+</div>
+
+<script src="js/settings.js" defer></script>
+<script src="js/map.js" defer></script>
+<script src="js/image.js" defer></script>
+<script src="js/app.js" defer></script>
+</body>
+</html>

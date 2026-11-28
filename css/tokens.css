@@ -1,0 +1,75 @@
+/* openLitfass — neutrales Standard-Farbsystem
+   Jede Instanz überschreibt diese Tokens über ihr eigenes css/theme.css
+   (<instance>/site/css/theme.css). Die Variablennamen sind die
+   Schnittstelle: style.css nutzt nur die hier definierten Namen. */
+
+:root {
+  /* Primary — Schiefer */
+  --color-primary-50: #E6E9EC;
+  --color-primary-200: #A3ACB6;
+  --color-primary-500: #2F3E4E;
+  --color-primary-700: #222E3A;
+  --color-primary-900: #151D25;
+
+  /* Neutrale */
+  --color-neutral-0: #FFFFFF;
+  --color-neutral-50: #F4F4F2;
+  --color-neutral-200: #4A4A48;
+  --color-neutral-400: #868684;
+  --color-neutral-600: #BDBDBB;
+  --color-neutral-900: #1C1C1B;
+
+  /* Akzent (Preis, aktive Filter, Hervorhebungen) */
+  --color-accent-500: #B4532A;
+
+  /* Semantisch */
+  --color-erfolg-100: #E2EBE4;
+  --color-erfolg-500: #4B8058;
+  --color-erfolg-text-on-500: #FFFFFF;
+  --color-warnung-100: #F6ECDE;
+  --color-warnung-500: #C98A2E;
+  --color-warnung-text-on-500: #1C1C1B;
+  --color-fehler-100: #F5DFDD;
+  --color-fehler-500: #C1392B;
+  --color-fehler-text-on-500: #FFFFFF;
+  --color-info-100: #E0EAEE;
+  --color-info-500: #3B7A94;
+  --color-info-text-on-500: #FFFFFF;
+
+  /* Theme-Tokens (Hell, Standard) */
+  --bg-page: var(--color-neutral-50);
+  --bg-surface: var(--color-neutral-0);
+  --text-primary: var(--color-neutral-900);
+  --text-secondary: #707070;
+  --border-color: #DFDFDF;
+  --accent-primary: var(--color-primary-500);
+  --accent-primary-text: #FFFFFF;
+  --focus-ring: var(--color-info-500);
+  --focus-ring-text: #FFFFFF;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg-page: var(--color-primary-900);
+    --bg-surface: var(--color-primary-700);
+    --text-primary: var(--color-neutral-50);
+    --text-secondary: var(--color-primary-200);
+    --border-color: #34414E;
+    --accent-primary: var(--color-primary-200);
+    --accent-primary-text: var(--color-primary-900);
+    --focus-ring: #93B6C4;
+    --focus-ring-text: var(--color-primary-900);
+  }
+}
+
+[data-theme="dark"] {
+  --bg-page: var(--color-primary-900);
+  --bg-surface: var(--color-primary-700);
+  --text-primary: var(--color-neutral-50);
+  --text-secondary: var(--color-primary-200);
+  --border-color: #34414E;
+  --accent-primary: var(--color-primary-200);
+  --accent-primary-text: var(--color-primary-900);
+  --focus-ring: #93B6C4;
+  --focus-ring-text: var(--color-primary-900);
+}

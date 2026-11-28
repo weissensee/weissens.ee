@@ -1,0 +1,989 @@
+/* ---------------------------------------------------------
+   openLitfass – Layout & Komponenten
+   Mobile-first, App-Shell-Layout (vorbereitet für PWA-Ausbau)
+--------------------------------------------------------- */
+:root {
+  --color-bg: #f6f5f1;
+  --color-surface: #ffffff;
+  /* Primary/Accent kommen aus dem
+     Farbsystem (css/tokens.css, von der Instanz per css/theme.css
+     überschreibbar): Primärfarbe + Warm-Akzent (--color-accent-500).
+     Bewusst als Bridge auf die bestehenden Variablennamen, statt jede
+     Regel in dieser Datei einzeln umzuschreiben. */
+  --color-primary: var(--color-primary-500, #17383D);
+  --color-primary-mid: var(--color-primary-700, #112A2E);
+  --color-primary-light: var(--color-primary-50, #E3E7E8);
+  --color-accent: var(--color-accent-500, #B5502F);
+  /* Für Text/Icons in Markenfarbe direkt auf --color-surface (Preis,
+     "Zurücksetzen"-Link, aktiver Bottom-Nav-Eintrag): bewusst getrennt
+     von --color-primary, weil --color-primary im Dark Mode absichtlich
+     dunkel bleibt (Header/Menü-Hintergrund) und als Text auf einer
+     ebenfalls dunklen Karte unlesbar wäre. tokens.css liefert dafür
+     bereits die passende, hell/dunkel-abhängige --accent-primary. */
+  --color-primary-text: var(--accent-primary, var(--color-primary-500, #17383D));
+  --color-text: #232323;
+  --color-text-muted: #6b6b6b;
+  --color-border: #e4e2db;
+
+  --radius-s: 8px;
+  --radius-m: 14px;
+  --radius-pill: 999px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+
+  --header-h: 56px;
+
+  --bottom-nav-h: 60px;
+
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* ---------- Dark Mode ----------
+   Nutzt die bereits im Farbsystem definierten Dark-Tokens aus
+   tokens.css (--bg-page/--bg-surface/--text-primary/... unter
+   [data-theme="dark"] bzw. prefers-color-scheme). Header und
+   Kategorie-Menü bleiben bewusst unverändert dunkel (--color-primary/
+   -mid sind schon dunkles Petrol) - nur Seite, Karten und Text wechseln.
+   --color-primary-light wird auf ein helleres Petrol umgemappt, damit
+   das Datums-Badge auf der Event-Karte weiterhin lesbar bleibt (dunkler
+   Text auf hellerem Chip statt dunkel-auf-dunkel). */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-bg: var(--bg-page, #0A1B1E);
+    --color-surface: var(--bg-surface, #112A2E);
+    --color-primary-light: var(--color-primary-200, #9EABAE);
+    --color-text: var(--text-primary, #F3ECDD);
+    --color-text-muted: var(--text-secondary, #9EABAE);
+    --color-border: var(--border-color, #2B4448);
+  }
+}
+[data-theme="dark"] {
+  --color-bg: var(--bg-page, #0A1B1E);
+  --color-surface: var(--bg-surface, #112A2E);
+  --color-primary-light: var(--color-primary-200, #9EABAE);
+  --color-text: var(--text-primary, #F3ECDD);
+  --color-text-muted: var(--text-secondary, #9EABAE);
+  --color-border: var(--border-color, #2B4448);
+}
+
+* { box-sizing: border-box; }
+
+/* Platz für die Scrollleiste immer freihalten: sonst rückt der Kopf auf
+   dem Desktop um ihre Breite, wenn ein Tag nur wenige Termine hat. */
+html { scrollbar-gutter: stable; }
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.45;
+  -webkit-tap-highlight-color: transparent;
+}
+
+a { color: var(--color-primary-text); }
+button { font: inherit; }
+[hidden] { display: none !important; }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+:focus-visible { outline: 2px solid var(--focus-ring, var(--color-accent)); outline-offset: 2px; }
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+/* ---------- Header ---------- */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--color-primary);
+  color: #fff;
+  padding-top: var(--safe-top);
+}
+.app-header__inner {
+  height: var(--header-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--space-4);
+  max-width: 960px;
+  margin: 0 auto;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+}
+.logo-mark { flex: 0 0 auto; color: #fff; }
+.logo-mark__accent { fill: var(--color-accent); }
+
+.icon-btn {
+  background: transparent;
+  border: none;
+  color: inherit;
+  padding: var(--space-2);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+}
+.icon-btn:hover { background: rgba(127,127,127,0.15); }
+.icon-btn svg { width: 22px; height: 22px; }
+.header-actions { display: flex; align-items: center; gap: 2px; }
+/* Farbschema-Schalter: Mond = zu dunkel wechseln, Sonne = zu hell */
+#themeToggle .theme-icon--sun { display: none; }
+#themeToggle.is-dark .theme-icon--sun { display: block; }
+#themeToggle.is-dark .theme-icon--moon { display: none; }
+
+.search-bar { padding: 0 var(--space-4) var(--space-3); max-width: 960px; margin: 0 auto; }
+.search-bar input {
+  width: 100%;
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: var(--space-3) var(--space-4);
+  font-size: 1rem;
+  background: rgba(255,255,255,0.94);
+  color: #1c1c1b;
+}
+
+.chip {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 34px;
+  padding: 4px 12px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.chip svg { width: 18px; height: 18px; flex: 0 0 auto; }
+.chip:hover { border-color: var(--color-primary-text); }
+.chip.is-active {
+  background: var(--accent-primary, var(--color-primary));
+  border-color: var(--accent-primary, var(--color-primary));
+  color: var(--accent-primary-text, #fff);
+}
+
+/* ---------- Content ---------- */
+.content {
+  flex: 1;
+  padding: var(--space-4);
+  padding-bottom: calc(var(--bottom-nav-h) + var(--safe-bottom) + var(--space-4));
+  max-width: 760px;
+  width: 100%;
+  margin: 0 auto;
+  outline: none;
+}
+
+.result-count {
+  margin: 0 0 var(--space-2);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+/* Tagesgruppen */
+.day-group { margin-bottom: var(--space-4); }
+.day-heading {
+  position: sticky;
+  top: calc(var(--hdr, calc(var(--header-h) + var(--safe-top))) + var(--tb, 53px));
+  z-index: 5;
+  margin: 0 calc(-1 * var(--space-4)) var(--space-2);
+  padding: var(--space-2) var(--space-4);
+  background: var(--color-bg);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-primary-text);
+}
+/* minmax(0, 1fr): lange Wörter im Titel ("KINDERPHILHARMONIE") dürfen
+   die Liste nicht breiter als den Bildschirm machen - sonst wird die ganze
+   Seite samt Kopf auf dem Handy je nach Tag unterschiedlich breit. */
+.event-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-2); }
+
+/* Event-Karte (ganze Karte ist ein Link auf die Detailansicht) */
+.event-card {
+  display: flex;
+  gap: var(--space-3);
+  padding: var(--space-3);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-m);
+  color: inherit;
+  text-decoration: none;
+}
+.event-card:hover { border-color: var(--color-primary-text); }
+.event-card__time {
+  flex: 0 0 54px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--color-primary-text);
+  font-variant-numeric: tabular-nums;
+}
+.event-card__time small { display: block; font-weight: 400; font-size: 0.78rem; color: var(--color-text-muted); }
+.event-card__body { flex: 1; min-width: 0; }
+.event-card__title { margin: 2px 0; font-size: 1rem; line-height: 1.3; overflow-wrap: anywhere; }
+.event-card__meta {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px 8px;
+}
+.event-card__meta svg { width: 15px; height: 15px; vertical-align: -3px; }
+/* Merken-Stern: eigener Knopf über der rechten oberen Kartenecke (nicht im
+   Link, damit Antippen nicht die Detailansicht öffnet). Grau = nicht
+   gemerkt, gefüllt in Akzentfarbe = gemerkt. */
+.event-item { position: relative; }
+.event-item .event-card { padding-right: 44px; }
+.card-star {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--color-text-muted);
+  opacity: 0.6;
+  cursor: pointer;
+}
+.card-star svg { width: 20px; height: 20px; }
+.card-star:hover { opacity: 1; color: var(--color-accent); }
+.card-star.is-active { opacity: 1; color: var(--color-accent); }
+.card-star.is-active svg { fill: currentColor; }
+
+.category-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.category-label svg { width: 14px; height: 14px; }
+
+/* Leerzustand */
+.empty-state {
+  text-align: center;
+  padding: var(--space-5) var(--space-4);
+  color: var(--color-text-muted);
+}
+.empty-state strong { display: block; color: var(--color-text); font-size: 1.05rem; margin-bottom: var(--space-1); }
+.empty-state .btn { margin-top: var(--space-3); }
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 42px;
+  padding: 8px 14px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-s);
+  background: var(--color-surface);
+  color: var(--color-primary-text);
+  font-weight: 600;
+  font-size: 0.92rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn:hover { border-color: var(--color-primary-text); }
+.btn svg { width: 18px; height: 18px; }
+.btn--primary { background: var(--accent-primary, var(--color-primary)); border-color: var(--accent-primary, var(--color-primary)); color: var(--accent-primary-text, #fff); }
+.btn--primary:hover { filter: brightness(1.1); }
+.btn-row { display: flex; gap: var(--space-2); flex-wrap: wrap; }
+.btn-row .btn { flex: 1 1 140px; }
+
+/* ---------- Detailansicht ---------- */
+.detail__bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: calc(-1 * var(--space-2)) 0 var(--space-3);
+}
+/* Waagerechtes Wischen blättert: in der Detailansicht durch die Termine, in
+   der Liste durch die Zeiträume (app.js bindSwipe). Zoomen bleibt möglich;
+   hineingezoomt (.is-zoomed) verschiebt Wischen wieder den Ausschnitt. Die
+   beim Wischen verschobene Ansicht erzeugt keinen waagerechten Scrollbalken. */
+#viewList, .view.detail { touch-action: pan-y pinch-zoom; }
+.is-zoomed #viewList, .is-zoomed .view.detail { touch-action: auto; }
+.content:has(> .is-sliding) { overflow-x: clip; }
+.detail__actions { display: flex; align-items: center; gap: var(--space-1); }
+.detail__nav { color: var(--color-primary-text); }
+.detail__nav:disabled { color: var(--color-text-muted); opacity: 0.4; cursor: default; background: transparent; }
+.detail__back { display: inline-flex; align-items: center; gap: 4px; padding: 6px 8px 6px 0; border: none; background: none; color: var(--color-primary-text); font-weight: 600; cursor: pointer; }
+.detail__back svg { width: 20px; height: 20px; }
+.star-btn { color: var(--color-text-muted); border: 1px solid var(--color-border); background: var(--color-surface); }
+.star-btn.is-active { color: var(--color-accent); border-color: var(--color-accent); }
+.star-btn.is-active svg { fill: currentColor; }
+.detail__title { margin: var(--space-1) 0 var(--space-3); font-size: 1.45rem; line-height: 1.25; }
+.facts { list-style: none; margin: 0 0 var(--space-4); padding: 0; display: grid; gap: var(--space-2); }
+.facts li { display: flex; gap: var(--space-2); align-items: flex-start; }
+.facts svg { width: 20px; height: 20px; flex: 0 0 auto; color: var(--color-primary-text); margin-top: 1px; }
+.facts small { display: block; color: var(--color-text-muted); }
+.detail__desc { white-space: pre-line; margin: 0 0 var(--space-4); }
+.detail__source { margin-top: var(--space-4); font-size: 0.8rem; color: var(--color-text-muted); text-align: center; }
+
+/* ---------- Über-Seite ---------- */
+.about h1 { font-size: 1.45rem; margin: 0 0 var(--space-3); }
+.about h2 { font-size: 1rem; margin: var(--space-5) 0 var(--space-2); }
+.about p { margin: 0 0 var(--space-3); }
+.source-list { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--color-border); }
+.source-list li { display: flex; justify-content: space-between; gap: var(--space-3); padding: var(--space-2) 0; border-bottom: 1px solid var(--color-border); font-size: 0.92rem; }
+.source-list small { color: var(--color-text-muted); white-space: nowrap; }
+.feedback h3 { font-size: 0.92rem; font-weight: 600; margin: var(--space-3) 0 var(--space-1); }
+.feedback p { display: flex; flex-wrap: wrap; gap: var(--space-1) var(--space-4); font-size: 0.92rem; }
+
+/* ---------- Einstellungen (app.js renderSettings) ---------- */
+.settings h1 { font-size: 1.45rem; margin: 0 0 var(--space-3); }
+.settings h2 { font-size: 1rem; margin: var(--space-5) 0 var(--space-2); }
+.settings p { margin: 0 0 var(--space-3); }
+.setting { border: 0; padding: 0; margin: 0 0 var(--space-4); min-width: 0; }
+.setting legend { padding: 0; font-weight: 600; font-size: 0.92rem; margin-bottom: var(--space-1); }
+.setting .setting__hint { margin: 0 0 var(--space-2); font-size: 0.8rem; color: var(--color-text-muted); }
+.setting .fp-chips { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.setting .chip:focus-within { outline: 2px solid var(--focus-ring, var(--color-accent)); outline-offset: 2px; }
+.setting .chip:has(input:disabled) { cursor: default; opacity: 0.7; }
+.setting__warn { padding: var(--space-2) var(--space-3); border: 1px solid var(--color-border); border-radius: var(--radius-s); background: var(--color-surface); }
+.local-data li { align-items: center; }
+.local-data small { white-space: normal; }
+.local-data code { font-size: 0.75rem; word-break: break-all; }
+.btn--small { min-height: 32px; padding: 4px 12px; font-size: 0.85rem; flex: 0 0 auto; }
+
+/* ---------- Footer ---------- */
+.site-footer {
+  margin-top: var(--space-5);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: var(--space-1) var(--space-3);
+}
+.site-footer a { color: inherit; }
+
+/* ---------- Bottom-Nav ---------- */
+.bottom-nav {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 30;
+  height: calc(var(--bottom-nav-h) + var(--safe-bottom));
+  padding-bottom: var(--safe-bottom);
+  display: flex;
+  justify-content: space-around;
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-border);
+}
+.bottom-nav__item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+  text-decoration: none;
+}
+.bottom-nav__item svg { width: 22px; height: 22px; }
+.bottom-nav__item.is-active { color: var(--color-primary-text); font-weight: 700; }
+.badge {
+  display: inline-block;
+  min-width: 18px;
+  padding: 0 5px;
+  border-radius: var(--radius-pill);
+  background: var(--color-accent);
+  color: #fff;
+  font-size: 0.68rem;
+  line-height: 18px;
+  text-align: center;
+}
+
+/* ---------- Toast ---------- */
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--bottom-nav-h) + var(--safe-bottom) + var(--space-3));
+  transform: translateX(-50%);
+  z-index: 40;
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-pill);
+  background: var(--color-text);
+  color: var(--color-bg);
+  font-size: 0.88rem;
+}
+
+.noscript { padding: var(--space-4); text-align: center; }
+
+/* ---------- Breite Bildschirme ---------- */
+@media (min-width: 900px) {
+  .content { max-width: 820px; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .event-card, .chip, .btn { transition: border-color .15s, background-color .15s; }
+}
+
+/* ---------- Löschen-Buttons je Filterzeile ----------
+   Nur sichtbar, solange in der jeweiligen Zeile etwas gesetzt ist
+   (siehe syncFilterButtons in app.js). */
+.search-bar { position: relative; }
+.search-bar input { padding-right: 48px; }
+.search-bar input::-webkit-search-cancel-button { -webkit-appearance: none; display: none; }
+.search-clear {
+  position: absolute;
+  top: 3px;
+  right: calc(var(--space-4) + 4px);
+  color: #1c1c1b;
+}
+.search-clear:hover { background: rgba(0,0,0,0.08); }
+.search-bar .search-clear svg { width: 20px; height: 20px; }
+
+/* ---------- Abgesagte Termine ----------
+   Bleiben sichtbar, sind aber eindeutig markiert: Text-Etikett (nicht nur
+   Farbe, für Screenreader und Farbfehlsichtige), durchgestrichener Titel,
+   gedämpfte Karte. Farben aus den Fehler-Tokens (tokens.css). */
+.cancelled-badge {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 1px 7px;
+  border-radius: var(--radius-pill);
+  background: var(--color-fehler-500, #C1392B);
+  color: var(--color-fehler-text-on-500, #fff);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  vertical-align: 1px;
+}
+.event-card--cancelled { background: var(--color-bg); border-style: dashed; }
+.event-card--cancelled .event-card__title,
+.detail__title.is-cancelled {
+  text-decoration: line-through;
+  text-decoration-thickness: 2px;
+  color: var(--color-text-muted);
+}
+.event-card--cancelled .event-card__time,
+.event-card--cancelled .category-label { opacity: 0.7; }
+
+.cancelled-notice {
+  margin: 0 0 var(--space-3);
+  padding: var(--space-3);
+  border-radius: var(--radius-s);
+  border-left: 4px solid var(--color-fehler-500, #C1392B);
+  background: var(--color-fehler-100, #F5DFDD);
+  color: #5a1a13;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .cancelled-notice { background: #3a1d1a; color: #f5dfdd; }
+}
+[data-theme="dark"] .cancelled-notice { background: #3a1d1a; color: #f5dfdd; }
+
+/* ---------- Datumsleiste: [‹] [Datum 📅] [›] [Tag|WE|Woche] ----------
+   Bleibt beim Scrollen oben (unter dem Kategorie-Menü). Eine Zeile bis
+   herunter auf 320 px: Pfeile und Zeitraum-Umschalter haben feste Breiten,
+   das Datum nimmt den Rest und kürzt notfalls mit "…". */
+.date-nav {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: var(--space-2) var(--space-4);
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+}
+.date-step,
+.date-label {
+  height: 36px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-primary-text);
+  border-radius: var(--radius-s);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.date-step { flex: 0 0 36px; padding: 0; }
+.date-step:disabled { opacity: 0.35; cursor: default; }
+.date-step svg { width: 20px; height: 20px; }
+.date-label {
+  position: relative;
+  flex: 0 0 auto; /* nie kürzen: gesetzte Filter weichen zuerst */
+  min-width: 0;
+  gap: 5px;
+  padding: 0 6px;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+/* Feste Breite für die längste Beschriftung ("tt.mm.–tt.mm."), damit
+   Pfeile und Knöpfe beim Blättern und Umschalten an ihrem Platz bleiben. */
+.date-label__text {
+  width: 6.6em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.date-label svg { width: 16px; height: 16px; flex: 0 0 auto; }
+/* Sehr schmale Handys: Kalendersymbol im Datum weglassen, die Breite
+   reicht sonst nicht für die feste Beschriftung. */
+@media (max-width: 359px) {
+  .date-label svg { display: none; }
+}
+/* Unsichtbares natives Datumsfeld über der Beschriftung: Browser ohne
+   showPicker() öffnen den Picker über den direkten Klick darauf. */
+.date-input {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+.date-nav.is-searching .date-label { color: var(--color-text-muted); cursor: default; }
+.date-nav.is-searching .date-input { pointer-events: none; }
+.date-step:not(:disabled):hover, .date-label:hover { border-color: var(--color-primary-text); }
+
+.link-btn {
+  border: 0;
+  background: none;
+  padding: 0;
+  color: var(--color-primary-text);
+  font: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* ---------- Werkzeugzeile + Filter-Panel ----------
+   Kopf und Werkzeugzeile bleiben beim Scrollen oben; das Panel klappt
+   darunter auf und gehört zum festen Block, damit Filter beim Scrollen
+   erreichbar bleiben. */
+.toolbar {
+  position: sticky;
+  top: var(--hdr, calc(var(--header-h) + var(--safe-top)));
+  z-index: 19;
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+}
+.toolbar .date-nav { border-bottom: 0; }
+
+/* Gesetzte Filter: kleine Symbole zwischen Zeitraum und Filter-Knopf,
+   rechtsbündig; was nicht passt, wird abgeschnitten (die Anzahl steht am
+   Filter-Knopf). */
+.active-filters {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  justify-content: flex-end;
+  gap: 2px;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 12px);
+  mask-image: linear-gradient(to right, transparent, #000 12px);
+  padding-left: 12px;
+}
+.active-filter {
+  flex: 0 0 auto;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius-pill);
+  /* Wie ein aktiver Chip im Panel: dasselbe Farbpaar, das in Hell und
+     Dunkel zueinander kontrastiert (primary-light/-text sind im Dunkeln
+     beide helles Petrol - das Symbol war unsichtbar). */
+  background: var(--accent-primary, var(--color-primary));
+  color: var(--accent-primary-text, #fff);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.active-filter svg { width: 16px; height: 16px; }
+.active-filter:hover { background: var(--color-accent); color: #fff; }
+
+.filter-toggle {
+  position: relative;
+  flex: 0 0 36px;
+  height: 36px;
+  padding: 0;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-s);
+  background: var(--color-surface);
+  color: var(--color-primary-text);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.filter-toggle svg { width: 20px; height: 20px; }
+.filter-toggle.has-filters { border-color: var(--color-accent); color: var(--color-accent); }
+.filter-toggle.is-active {
+  background: var(--accent-primary, var(--color-primary));
+  border-color: var(--accent-primary, var(--color-primary));
+  color: var(--accent-primary-text, #fff);
+}
+.filter-toggle .badge {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+}
+
+.filter-panel {
+  max-height: 60vh;
+  overflow-y: auto;
+  padding: var(--space-1) var(--space-4) var(--space-3);
+  border-top: 1px solid var(--color-border);
+  max-width: 960px;
+  margin: 0 auto;
+}
+.fp-group + .fp-group { margin-top: var(--space-3); }
+.fp-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: var(--space-2) 0 var(--space-2);
+}
+.fp-head h2 {
+  margin: 0;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+}
+.fp-head .link-btn { font-size: 0.82rem; }
+.fp-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+
+/* Kopf, Suche, Werkzeugzeile und Filter-Panel haben je Bildschirmgröße
+   eine feste Breite, unabhängig von der Ansicht: unter 900 px volle
+   Breite, darüber bis 1960 px (so breit wie die Spaltenansicht). Sonst
+   springt der Kopf beim Wechsel Tag ↔ Woche zwischen 960 und 1960 px. */
+@media (min-width: 900px) {
+  .app-header__inner,
+  .search-bar,
+  .filter-panel,
+  .toolbar .date-nav { max-width: 1960px; margin: 0 auto; }
+}
+
+
+/* ---------- Zeitstatus (nur Termine von heute) ----------
+   Laufende Termine: grün getönt + Etikett "Läuft" (Text, nicht nur Farbe).
+   Beendete Termine: stärker abgestuft, bleiben aber lesbar und antippbar.
+   color-mix tönt die jeweilige Kartenfläche, passt also hell wie dunkel. */
+.event-card--running {
+  background: color-mix(in srgb, var(--color-erfolg-500) 12%, var(--color-surface));
+  border-color: color-mix(in srgb, var(--color-erfolg-500) 45%, var(--color-border));
+  box-shadow: inset 4px 0 0 var(--color-erfolg-500);
+}
+.running-badge {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 1px 7px;
+  border-radius: var(--radius-pill);
+  background: var(--color-erfolg-500);
+  color: var(--color-erfolg-text-on-500, #fff);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  vertical-align: 1px;
+}
+/* Beendet: Fläche wie die Seite, Farben entsättigt, Text gedämpft. Nicht
+   nur über opacity - im Dunkelmodus liegen Seite und Karte so nah
+   beieinander, dass das allein kaum sichtbar ist. */
+.event-card--ended {
+  background: var(--color-bg);
+  border-style: dashed;
+  filter: grayscale(1);
+  opacity: 0.5;
+}
+.event-card--ended .event-card__time,
+.event-card--ended .event-card__title { color: var(--color-text-muted); font-weight: 400; }
+.event-card--ended:hover { opacity: 0.8; }
+.event-card--ended + .card-star:not(.is-active) { opacity: 0.35; }
+
+/* Externe Links: Symbol hinter dem Text (wie bei "Zur Veranstaltung") */
+.ext-icon { display: inline-block; margin-left: 0.2em; white-space: nowrap; }
+.ext-icon svg { width: 0.9em; height: 0.9em; vertical-align: -0.1em; }
+.btn .ext-icon svg { width: 18px; height: 18px; vertical-align: -3px; }
+.detail__desc a { overflow-wrap: anywhere; }
+
+/* Native Bedienelemente (Datumsauswahl, Scrollbalken) folgen dem Schema */
+:root { color-scheme: light dark; }
+:root[data-theme="light"] { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
+
+/* ---------- Statische Seiten (termine/, ohne JavaScript) ---------- */
+.static-page .content { padding-bottom: var(--space-5); }
+.static-page .day-heading { position: static; margin-top: var(--space-4); }
+.static-page .site-footer { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--space-2) var(--space-4); }
+.static-title { margin: 0 0 var(--space-2); font-size: 1.45rem; }
+.static-back { margin: 0 0 var(--space-3); }
+.static-facts li { display: block; }
+.static-more { margin: var(--space-4) 0; text-align: center; }
+
+/* ---------- Suchvorschläge (Combobox unter dem Suchfeld) ---------- */
+.search-suggest {
+  position: absolute;
+  top: calc(100% - var(--space-2));
+  left: var(--space-4);
+  right: var(--space-4);
+  z-index: 40;
+  margin: 0;
+  padding: 4px 0;
+  list-style: none;
+  max-height: min(60vh, 420px);
+  overflow-y: auto;
+  background: var(--color-surface);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-m);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.sg-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 14px;
+  cursor: pointer;
+}
+.sg-item svg { width: 18px; height: 18px; flex: 0 0 auto; color: var(--color-text-muted); }
+.sg-item:hover, .sg-item.is-active { background: color-mix(in srgb, var(--color-primary-text) 10%, var(--color-surface)); }
+.sg-label { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sg-label mark { background: none; color: inherit; font-weight: 700; }
+.sg-type { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--color-text-muted); }
+.sg-count {
+  min-width: 1.8em;
+  padding: 1px 6px;
+  border-radius: var(--radius-pill);
+  background: var(--color-bg);
+  font-size: 0.75rem;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-text-muted);
+}
+
+/* ---------- Kategorie-Gruppen im Filterpanel ----------
+   Oberkategorie + Sparten in einem gemeinsamen Rahmen. Ist die Gruppe
+   gewählt, erscheinen die Sparten als "mitgemeint" (gedämpft gefüllt). */
+.chip-group {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  padding: 3px;
+  border: 1px dashed color-mix(in srgb, var(--color-text-muted) 60%, transparent);
+  border-radius: calc(var(--radius-pill) + 4px);
+}
+.chip--sub { min-height: 30px; padding: 2px 10px; font-size: 0.8rem; }
+.chip--sub svg { width: 16px; height: 16px; }
+.chip.is-implied {
+  background: color-mix(in srgb, var(--accent-primary, var(--color-primary)) 35%, var(--color-surface));
+  border-color: var(--accent-primary, var(--color-primary));
+  border-style: dashed;
+  color: var(--color-text);
+}
+
+/* ---------- Spalten: mehrere Tage nebeneinander ----------
+   app.js (updateColumns) setzt --cols und .is-columns/.is-wide je nach
+   Breite (mind. 260 px je Spalte). Die Seite wird dann breiter; Detail-
+   und Über-Seite bleiben lesbar schmal. */
+.is-wide .content { max-width: 1960px; }
+.is-wide .view.detail,
+.is-wide .view.about,
+.is-wide .view.settings,
+.is-wide .site-footer { max-width: 760px; margin-left: auto; margin-right: auto; }
+
+#eventGroups.is-columns {
+  display: grid;
+  grid-template-columns: repeat(var(--cols, 1), minmax(0, 1fr));
+  gap: var(--space-2) 16px;
+  align-items: start;
+}
+.is-columns .day-heading {
+  margin: 0 0 var(--space-2);
+  padding: var(--space-2) 2px;
+}
+
+/* Kompakte Karte: Zeit, "Läuft", Kategorie in einer Zeile, darunter Titel
+   und Ort. Die Zeit fließt links, der Titel beginnt darunter. */
+.is-columns .event-card {
+  display: block;
+  padding: var(--space-2) var(--space-3);
+  padding-right: 40px;
+}
+.is-columns .event-card__time {
+  float: left;
+  margin-right: 8px;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+.is-columns .event-card__time small { display: inline; margin-left: 2px; }
+.is-columns .event-card__body { line-height: 1.45; }
+.is-columns .event-card__title { clear: both; margin-top: 2px; font-size: 0.95rem; }
+.is-columns .event-card__meta { font-size: 0.78rem; }
+
+/* Lange Termine von heute (#42, #50): Überschrift und Leiste kleben
+   gemeinsam. Die Leiste schwebt durchsichtig über der Liste, nur die
+   Einträge haben einen Hintergrund; sie erscheinen erst, wenn ihre Karte
+   unter die Überschrift gescrollt ist. */
+.day-sticky {
+  position: sticky;
+  top: calc(var(--hdr, calc(var(--header-h) + var(--safe-top))) + var(--tb, 53px));
+  z-index: 5;
+  margin: 0 calc(-1 * var(--space-4)) var(--space-2);
+}
+.day-sticky > .day-heading { position: static; margin: 0; }
+.long-strip {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  list-style: none;
+  margin: 0;
+  padding: 4px var(--space-4) 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 4px;
+  pointer-events: none;
+}
+.long-strip li { pointer-events: auto; }
+.long-strip__item {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  padding: 4px 10px;
+  border-radius: var(--radius-s);
+  background: color-mix(in srgb, var(--color-erfolg-500) 12%, var(--color-surface));
+  box-shadow: inset 3px 0 0 var(--color-erfolg-500), 0 2px 6px rgb(0 0 0 / 0.18);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+.long-strip__time {
+  flex: none;
+  font-weight: 700;
+  color: var(--color-primary-text);
+  font-variant-numeric: tabular-nums;
+}
+.long-strip__title { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.is-columns .day-sticky { margin: 0 0 var(--space-2); }
+.is-columns .day-sticky > .day-heading { margin: 0; }
+.is-columns .long-strip { padding: 4px 0 0; }
+.is-columns .card-star { top: 2px; right: 2px; width: 36px; height: 36px; }
+
+/* ---------- Orte (data/places.json) ----------
+   Liste nach Art, Karten im Raster (schmal: eine Spalte, breit: mehrere,
+   min. 260 px wie die Tagesspalten). Ortsseite wie die Termindetails. */
+.place-types { margin: 0 0 var(--space-3); }
+.place-types .chip.is-active,
+.place-types .chip[aria-pressed="true"] {
+  background: var(--accent-primary, var(--color-primary));
+  border-color: var(--accent-primary, var(--color-primary));
+  color: var(--accent-primary-text, #fff);
+}
+.place-group + .place-group { margin-top: var(--space-4); }
+.place-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--space-2);
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.place-card { height: 100%; }
+.place-count {
+  padding: 0 7px;
+  border-radius: var(--radius-pill);
+  background: var(--color-bg);
+  font-variant-numeric: tabular-nums;
+}
+.place-events-heading {
+  margin: var(--space-5) 0 var(--space-2);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-primary-text);
+}
+.place-none { color: var(--color-text-muted); }
+.is-wide .view.places { max-width: 1960px; }
+.is-wide #viewPlace { max-width: 760px; margin-left: auto; margin-right: auto; }
+
+/* ---------- Bild zum Termin (js/image.js) ----------
+   Erst ein Knopf (Einstellung "images"), dann das Bild von der Quelle. */
+.event-image { margin: 0 0 var(--space-4); max-width: 720px; }
+.event-image img {
+  display: block; width: 100%; height: auto; max-height: 420px; object-fit: contain;
+  border: 1px solid var(--color-border); border-radius: var(--radius-s); background: var(--color-surface);
+}
+.event-image__load svg { width: 18px; height: 18px; }
+.event-image__note { margin: var(--space-1) 0 0; font-size: 0.8rem; color: var(--color-text-muted); }
+.event-image__credit { margin: 2px 0 0; font-size: 0.75rem; color: var(--color-text-muted); text-align: right; }
+
+/* ---------- Kartenausschnitt (js/map.js) ----------
+   Erst ein Knopf, nach dem Klick 5 x 3 OSM-Kacheln, deren Mitte der
+   Punkt ist; der Rahmen schneidet zu. */
+.map-snippet { margin: 0 0 var(--space-4); max-width: 720px; }
+.map-snippet__note { margin: var(--space-1) 0 0; font-size: 0.8rem; color: var(--color-text-muted); }
+.map-snippet__map {
+  position: relative;
+  height: 220px;
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-s);
+  background: var(--color-surface);
+}
+.map-snippet__tiles { position: absolute; left: 50%; top: 50%; }
+.map-snippet__tiles img { position: absolute; width: 256px; height: 256px; max-width: none; user-select: none; }
+.map-snippet__pin {
+  position: absolute; left: 50%; top: 50%;
+  width: 34px; height: 34px;
+  transform: translate(-50%, -92%);
+  fill: var(--accent-primary, var(--color-primary)); stroke: #fff; stroke-width: 1.5;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.4));
+}
+.map-snippet__pin circle { fill: #fff; stroke: none; }
+.map-snippet__credit { margin: 2px 0 0; font-size: 0.75rem; color: var(--color-text-muted); text-align: right; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .map-snippet__tiles img { filter: brightness(0.85) contrast(0.95); }
+}
+[data-theme="dark"] .map-snippet__tiles img { filter: brightness(0.85) contrast(0.95); }

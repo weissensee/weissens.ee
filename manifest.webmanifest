@@ -1,0 +1,18 @@
+{
+  "background_color": "#17383D",
+  "description": "Der Event-Kalender für Berlin-Weißensee. Finde Märkte, Konzerte, Workshops und mehr in deinem Kiez.",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "de",
+  "name": "weissens.ee – Events in Weißensee",
+  "scope": ".",
+  "short_name": "weissens.ee",
+  "start_url": ".",
+  "theme_color": "#17383D"
+}
