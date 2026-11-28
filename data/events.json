@@ -1,511 +1,6 @@
 {
-  "generatedAt": "2026-11-27T16:01:40.515531921Z",
+  "generatedAt": "2026-11-28T00:59:55.089611907Z",
   "events": [
-    {
-      "id": "kinderbauernhof-knirpsenfarm-geoeffnet-19f5b057",
-      "title": "Kinderbauernhof Knirpsenfarm geöffnet",
-      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
-      "category": "Natur",
-      "categories": [
-        "Natur"
-      ],
-      "date": "2026-11-27",
-      "startTime": "09:00",
-      "endTime": "16:30",
-      "location": {
-        "name": "Kinderbauernhof Knirpsenfarm",
-        "address": "Malchower Chaussee 2, 13051 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Malchower Grashüpfer e.V.",
-      "url": "https://knirpsenfarm-berlin.de/",
-      "source": "inbox",
-      "sources": [
-        "inbox"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "wochenmarkt-antonplatz-980c92ad",
-      "title": "Wochenmarkt Antonplatz",
-      "description": "Wochenmarkt auf dem Antonplatz, dienstags und freitags. An Feiertagen kein Markt.\n\nÖffnungszeiten laut OpenStreetMap (nicht weiter bestätigt).",
-      "category": "Markt",
-      "categories": [
-        "Markt"
-      ],
-      "date": "2026-11-27",
-      "startTime": "09:00",
-      "endTime": "18:00",
-      "location": {
-        "name": "Wochenmarkt Antonplatz",
-        "address": "Antonplatz, 13086 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "url": "https://www.openstreetmap.org/node/12356318726",
-      "source": "inbox",
-      "sources": [
-        "inbox"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "singen-mit-baby-c1b1a6c0",
-      "title": "Singen mit Baby",
-      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
-      "category": "Kultur",
-      "categories": [
-        "Kultur"
-      ],
-      "date": "2026-11-27",
-      "startTime": "10:00",
-      "endTime": "10:30",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2/?wcs_timestamp=1795773630",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "singen-mit-baby-859e51d8",
-      "title": "Singen mit Baby",
-      "description": "Für Erwachsene mit Babys von 0-12 Monaten Wir treffen uns im Bewegungsraum zum gemeinschaftlichen Singen mit Ukulele Begleitung. Für die Kleinen gibt es klingendes Spielzeug auf der Krabbelmatte. Noten und Texte sind vorhanden, eure eigenen Lied-Ideen …",
-      "category": "Kultur",
-      "categories": [
-        "Kultur"
-      ],
-      "date": "2026-11-27",
-      "startTime": "10:45",
-      "endTime": "11:15",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/singen-klingen-2-3/?wcs_timestamp=1795776330",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "kita-sprechstunde-c0729710",
-      "title": "Kita-Sprechstunde",
-      "description": "Für alle Menschen mit Fragen und Sorgen rund um Kita, Eingewöhnung und Einschulung Mit Anmeldung Ihr habt Sorgen oder Unsicherheiten rund um das Thema …",
-      "category": "Beratung",
-      "categories": [
-        "Beratung"
-      ],
-      "date": "2026-11-27",
-      "startTime": "11:00",
-      "endTime": "16:00",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/kita-sprechstunde/?wcs_timestamp=1795777200",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "vineta-kaula-a-mapping-the-0f51e69e",
-      "title": "Vineta Kaulača – Mapping the View",
-      "description": "16.10. – 29.11.26 | 11 – 20 Uhr | Eröffnung: 16.10. | 19 Uhr | Im Rahmen des Jahresprogramms „Mixta Affectus“ | Vineta Kaulača ist eine Künstlerin aus Lettland.",
-      "category": "Kunst",
-      "categories": [
-        "Kunst"
-      ],
-      "date": "2026-11-27",
-      "startTime": "11:00",
-      "endTime": "20:00",
-      "location": {
-        "name": "GALERIE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-27/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "blutspende-des-drk-11effa28",
-      "title": "Blutspende des DRK",
-      "description": "Blutspendeaktion des DRK-Blutspendedienstes.\nAnmeldung: www.drk-blutspende.de",
-      "category": "Unkategorisiert",
-      "categories": [
-        "Unkategorisiert"
-      ],
-      "date": "2026-11-27",
-      "startTime": "13:30",
-      "endTime": "18:00",
-      "location": {
-        "name": "Stadtteilzentrum Weißensee",
-        "address": "Pistoriusstraße 23, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
-      "url": "https://www.stz-weissensee.de/veranstaltungen.html",
-      "source": "stadtteilzentrum-weissensee",
-      "sources": [
-        "stadtteilzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "kreative-holzwerkstatt-0ca6261b",
-      "title": "Kreative Holzwerkstatt",
-      "description": "für Kinder (ab 4 Jahren) mit Eltern Ob Sägen, Feilen, Hämmern oder Schleifen…in der kreativen Holzwerkstatt können Familien das Material Holz entdecken, Formen finden und gestalten. Unter pädagogischer Anleitung könnt ihr kleine oder auch größere Objekte bauen. Als Familie könnt ihr entweder gemeinsam werkeln, oder Bezugspersonen begleiten und unterstützen ihre Kinder bei der Umsetzung ihrer Ideen. Im Vordergrund steht die Freude am Ausprobieren. Auch andere Materialen wie zum Beispiel Stoff und Farbe dürfen ergänzend zum Einsatz kommen. Dabei entstehen überraschende Werke wie Roboter, Raketen, Lolis oder Fantasiewesen.",
-      "category": "Kultur",
-      "categories": [
-        "Kultur"
-      ],
-      "date": "2026-11-27",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "location": {
-        "name": "Familienzentrum Weißensee",
-        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
-      },
-      "price": {
-        "free": true,
-        "amount": null
-      },
-      "organizer": "Familienzentrum Weißensee",
-      "url": "https://www.familienzentrum-weissensee.de/class/offene-holzwerkstatt/?wcs_timestamp=1795791600",
-      "source": "familienzentrum-weissensee",
-      "sources": [
-        "familienzentrum-weissensee"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": true,
-      "cancelled": false
-    },
-    {
-      "id": "pokemon-nachmittag-8a00c539",
-      "title": "Pokémon-Nachmittag",
-      "description": "Ein Nachmittag, gemacht für alle Fans des Pokémon Franchise!\nKommt vorbei, tauscht untereinander eure Karten, spielt miteinander oder vernetzt euch.\nAuch, wenn ihr euch zum Pokémon Go! spielen verabreden wollt, findet ihr hierfür einen Platz.\nKeine Anmeldung nötig, kommt einfach vorbei!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=297266",
-      "category": "",
-      "date": "2026-11-27",
-      "startTime": "15:30",
-      "endTime": "17:30",
-      "location": {
-        "name": "Wolfdietrich-Schnurre-Bibliothek, Bizetstraße 41, 13088 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Stadtbibliothek Pankow",
-      "url": "https://weissens.ee/#pokemon-nachmittag-8a00c539",
-      "source": "wolfdietrich-schnurre-bibliothek",
-      "sources": [
-        "wolfdietrich-schnurre-bibliothek"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "helene-weigel-revolutionaerin-im-rampenl-8ee693fc",
-      "title": "Helene Weigel – Revolutionärin im Rampenlicht",
-      "description": "D/A 2026 | 102 min | Dokumentarfilm | R: Maria Wischnewski | Bis heute bedeutet sie die Welt für jene Bretter, die die Welt bedeuten.",
-      "category": "Kino",
-      "categories": [
-        "Kino"
-      ],
-      "date": "2026-11-27",
-      "startTime": "17:00",
-      "endTime": "19:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/helene-weigel-revoltionaerin-im-rampenlicht/2026-11-27/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-338429ee",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kino",
-      "categories": [
-        "Kino"
-      ],
-      "date": "2026-11-27",
-      "startTime": "17:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "bike-the-line-80-jahre-a5cecf25",
-      "title": "Bike the Line – 80 Jahre danach entlang der Demarkationslinie von 1945",
-      "description": "D 2026 | 95 min | Dokumentarfilm | R: Robert Tomschke | Sechs Familienväter machen sich auf den Weg. Nicht, um Rekorde zu brechen, sondern um Geschichte erfahrbar zu machen.",
-      "category": "Kino",
-      "categories": [
-        "Kino"
-      ],
-      "date": "2026-11-27",
-      "startTime": "19:00",
-      "endTime": "21:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/bike-the-line-80-jahre-danach-entlang-der-demarkationslinie-von-1945-2/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "the-luxorium-grand-variete-faa36a3a",
-      "title": "The Luxorium – Grand Varieté",
-      "description": "Auf der Bühne entfaltet sich ein wahres Feuerwerk der Artistik, von meisterhafter Jonglage und Kraft raubender Handstandakrobatik bis hin zu wirbelnden Diabolos und rasanten Hula Hoops. Eine Liveband sorgt für den perfekten musikalischen Herzschlag.",
-      "category": "Theater",
-      "categories": [
-        "Theater"
-      ],
-      "date": "2026-11-27",
-      "startTime": "19:00",
-      "endTime": "",
-      "location": {
-        "name": "Theater im Delphi",
-        "address": "Gustav-Adolf-Straße 2, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Theater im Delphi",
-      "url": "https://theater-im-delphi.de/programm/index.php?prod=553",
-      "source": "theater-im-delphi",
-      "sources": [
-        "theater-im-delphi"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wie-verhext-bbea98e6",
-      "title": "Wie verhext",
-      "description": "",
-      "category": "Kino",
-      "categories": [
-        "Kino"
-      ],
-      "date": "2026-11-27",
-      "startTime": "19:45",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wie-verhext",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "suche-zimmer-auch-ohne-anmeldung-36b11de2",
-      "title": "Suche Zimmer, auch ohne Anmeldung vom Theater Schichtwechsel",
-      "description": "Eine Geschichte über Armut, Wohnungslosigkeit und Klassismus. Armut lebt im Flur einer Berliner Wohngemeinschaft und kann nicht schlafen.",
-      "category": "Theater",
-      "categories": [
-        "Theater"
-      ],
-      "date": "2026-11-27",
-      "startTime": "20:00",
-      "endTime": "22:00",
-      "location": {
-        "name": "BÜHNE Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 12
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/suche-ein-zimmer-auch-ohne-anmeldung-vom-schichtwechseltheater/2026-11-27/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wild-horse-nine-ef5e73f2",
-      "title": "Wild Horse Nine",
-      "description": "",
-      "category": "Kino",
-      "categories": [
-        "Kino"
-      ],
-      "date": "2026-11-27",
-      "startTime": "20:15",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wild-horse-nine",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "schoene-seelen-124e82d5",
-      "title": "Schöne Seelen",
-      "description": "D/A/ES 2026 | 117 min | Spielfilm | R: Tom Schreiber | Sommer 1996. Der ewig jugendliche Tagelöhner Freddy, hangelt sich von einem Gelegenheitsjob zum nächsten.",
-      "category": "Kino",
-      "categories": [
-        "Kino"
-      ],
-      "date": "2026-11-27",
-      "startTime": "21:00",
-      "endTime": "23:00",
-      "location": {
-        "name": "KINO Brotfabrik",
-        "address": "Caligariplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": 7
-      },
-      "organizer": "Brotfabrik Berlin",
-      "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen/2026-11-27/",
-      "source": "brotfabrik",
-      "sources": [
-        "brotfabrik"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
     {
       "id": "kinderphilharmonie-klassik-fuer-kleine-0-5b0c6326",
       "title": "KINDERPHILHARMONIE - Klassik für Kleine (0-18 Monate)",
@@ -10924,7 +10419,7 @@
     {
       "id": "siki-tut-tuerkischsprachige-schwarze-kom-53484736",
       "title": "SIKI TUT - Türkischsprachige schwarze Komödie",
-      "description": "SIKI TUT“ ist eine rasante schwarze Komödie von Uğur Karabulut\n\nEin eigentlich ganz normaler Tag im Leben von Aslı und Zafer gerät völlig außer Kontrolle, als ein bewaffneter Fremder die Wohnung betritt.",
+      "description": "SIKI TUT ist eine rasante schwarze Komödie von Uğur Karabulut. Ein eigentlich ganz normaler Tag im Leben von Aslı und Zafer gerät völlig außer Kontrolle, als ein bewaffneter Fremder die Wohnung betritt.",
       "category": "Theater",
       "categories": [
         "Theater"
@@ -14162,6 +13657,36 @@
       "cancelled": false
     },
     {
+      "id": "babysprechstunde-b8cdd30d",
+      "title": "Babysprechstunde",
+      "description": "Für Familien mit Babys und Kleinkindern bis 1,5 Jahre Mit Anmeldung Euer Baby schreit sehr viel oder schläft sehr wenig?​",
+      "category": "Beratung",
+      "categories": [
+        "Beratung"
+      ],
+      "date": "2026-12-28",
+      "startTime": "08:00",
+      "endTime": "14:00",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/babysprechstunde/?wcs_timestamp=1798444815",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
       "id": "kinderbauernhof-knirpsenfarm-geoeffnet-8e6da17b",
       "title": "Kinderbauernhof Knirpsenfarm geöffnet",
       "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
@@ -14192,6 +13717,66 @@
       "cancelled": false
     },
     {
+      "id": "offene-beratung-9e86d6b4",
+      "title": "Offene Beratung",
+      "description": "Für alle, die vor Herausforderungen stehen und sich Unterstützung wünschen Mit oder ohne Anmeldung Du hast eine Frage, ein Problem oder ein Anliegen, …",
+      "category": "Beratung",
+      "categories": [
+        "Beratung"
+      ],
+      "date": "2026-12-28",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/offene-beratung-2/?wcs_timestamp=1798450200",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "soft-opening-74c92d4e",
+      "title": "SOFT OPENING",
+      "description": "3.12.26 | 14 – 20 Uhr\nGeräusche. Töne. Klänge. Malerei | Inklusives Soundprojekt der BrotfabrikGalerie 2024 – 2026 | Abschlusspräsentation | 3. Dezember 2026 – 10. Januar 2027",
+      "category": "Kunst",
+      "categories": [
+        "Kunst"
+      ],
+      "date": "2026-12-28",
+      "startTime": "11:00",
+      "endTime": "20:00",
+      "location": {
+        "name": "GALERIE Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-28/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
       "id": "digital-zebra-338d0d5b",
       "title": "Digital-Zebra",
       "description": "Probleme mit dem Smartphone, dem Internet oder mit digitalen Formularen?\nDann kommen Sie zum Digital-Zebra!\nIch unterstütze Sie ohne Voranmeldung und kostenfrei.\n\nMeine Servicezeiten in der Wolfdietrich-Schnurre-Bibliothek:\n\n*jeden Donnerstag* von 13.00 - 16.00 Uhr\n*jeden 2. und 4. Montag* von 13.00 - 16.00 Uhr\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=294835",
@@ -14218,6 +13803,96 @@
       "cancelled": false
     },
     {
+      "id": "baby-massage-kurs-b581672b",
+      "title": "Baby-Massage-Kurs",
+      "description": "Für Bezugspersonen mit Babys zwischen 6 Wochen und 5 Monaten Mit Anmeldung Im Baby-Massage-Kurs lernen Bezugspersonen mit Kindern im Alter von 6 Wochen bis 5 Monaten bei unserer erfahrenen …",
+      "category": "Beratung",
+      "categories": [
+        "Beratung"
+      ],
+      "date": "2026-12-28",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Bewegungsraum, Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/selbstorganisierter-babytreff/?wcs_timestamp=1798466400",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "kreative-holzwerkstatt-0f7b9d41",
+      "title": "Kreative Holzwerkstatt",
+      "description": "Für Kinder ab 4 Jahren in Begleitung einer erwachsenen Person Ohne Anmeldung Kosten : Solidarische Materialkostenspende 1-5€",
+      "category": "Kultur",
+      "categories": [
+        "Kultur"
+      ],
+      "date": "2026-12-28",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Holzwerkstatt (Untergeschoss), Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/winterliches-werken-und-gestalten/?wcs_timestamp=1798470000",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
+      "id": "strick-cafe-bf6a9cdf",
+      "title": "Strick-Café",
+      "description": "Für alle, die Freude am Stricken haben Ohne Anmeldung Hast du Freude am Stricken und suchst Gleichgesinnte? Liegt bei dir zu Hause vielleicht ein angefangenes …",
+      "category": "Kultur",
+      "categories": [
+        "Kultur"
+      ],
+      "date": "2026-12-28",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": {
+        "name": "Familienzentrum Weißensee",
+        "address": "Familienzentrum Weißensee, Café, Mahlerstraße 4, 13088 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Familienzentrum Weißensee",
+      "url": "https://www.familienzentrum-weissensee.de/class/strickcafe/?wcs_timestamp=1798470000",
+      "source": "familienzentrum-weissensee",
+      "sources": [
+        "familienzentrum-weissensee"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
+      "cancelled": false
+    },
+    {
       "id": "kamishibai-erzaehltheater-788e3254",
       "title": "Kamishibai Erzähltheater",
       "description": "Immer montags (außer in den Sommerferien) um 16:30 in der Kinderbibliothek am Podest\nWir haben viele spannende und lustige Geschichten für neugierige Kinder parat - abwechselnd auf Deutsch (jeden 1. und 3. Montag des Monats) und *auch mehrsprachig* (jeden 2. und 4. Montag des Monats)\n\nEine Anmeldung ist nicht nötig, kommt einfach vorbei - wir freuen uns auf euch!\n\nAlle weiteren Veranstaltungsdetails finden Sie hier:\nhttps://www.berlin.de/land/kalender/index.php?c=22\u0026detail=241924",
@@ -14237,6 +13912,96 @@
       "source": "wolfdietrich-schnurre-bibliothek",
       "sources": [
         "wolfdietrich-schnurre-bibliothek"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "nur-getraeumt-e72fb508",
+      "title": "Nur geträumt",
+      "description": "F 2026 | 119 min | Spielfilm | R: Olivier Nakache | Éric Toledano | DF | 1985, ein Vorort von Paris: Bei Familie Dayan herrscht der ganz normale Wahnsinn.",
+      "category": "Kino",
+      "categories": [
+        "Kino"
+      ],
+      "date": "2026-12-28",
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-28/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "folies-die-lust-mit-der-90129a27",
+      "title": "Folies – Die Lust mit der Liebe",
+      "description": "KA 2025 | 101 min | Spielfilm | R: Alexandre Auger | Eric K. Boulianne | OmU | 16 Jahre, zwei Kinder, ein perfektes Team. Und im Bett? Ist die Luft raus.",
+      "category": "Kino",
+      "categories": [
+        "Kino"
+      ],
+      "date": "2026-12-28",
+      "startTime": "18:45",
+      "endTime": "21:00",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/folies-die-lust-mit-der-liebe/2026-12-28/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "we-are-all-strangers-6d1eefff",
+      "title": "We Are All Strangers",
+      "description": "SG 2026 | 157 min | Spielfilm | R: Anthony Chen | OmU | Im heutigen Singapur lebt der 21-jährige Junyang in jugendlicher Leichtigkeit, während sein Vater darum kämpft ihr bescheidenes Leben zusammenzuhalten.",
+      "category": "Kino",
+      "categories": [
+        "Kino"
+      ],
+      "date": "2026-12-28",
+      "startTime": "20:45",
+      "endTime": "23:00",
+      "location": {
+        "name": "KINO Brotfabrik",
+        "address": "Caligariplatz 1, 13086 Berlin"
+      },
+      "price": {
+        "free": false,
+        "amount": 7
+      },
+      "organizer": "Brotfabrik Berlin",
+      "url": "https://brotfabrik-berlin.de/veranstaltung/we-are-all-strangers/2026-12-28/",
+      "source": "brotfabrik",
+      "sources": [
+        "brotfabrik"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -17117,6 +16882,36 @@
       "ticketRequired": false,
       "registrationRequired": false,
       "familyFriendly": false,
+      "cancelled": false
+    },
+    {
+      "id": "kinderbauernhof-knirpsenfarm-geoeffnet-0c5e7150",
+      "title": "Kinderbauernhof Knirpsenfarm geöffnet",
+      "description": "Rund 100 Haus- und Bauernhoftiere und manche Exoten hautnah erleben. Ein Projekt des Malchower Grashüpfer e.V., finanziert über Spenden.\n\nWinterzeit (Oktober bis März): Montag bis Freitag 9–16:30 Uhr, Wochenende und Feiertage 9–16 Uhr.",
+      "category": "Natur",
+      "categories": [
+        "Natur"
+      ],
+      "date": "2027-01-27",
+      "startTime": "09:00",
+      "endTime": "16:30",
+      "location": {
+        "name": "Kinderbauernhof Knirpsenfarm",
+        "address": "Malchower Chaussee 2, 13051 Berlin"
+      },
+      "price": {
+        "free": true,
+        "amount": null
+      },
+      "organizer": "Malchower Grashüpfer e.V.",
+      "url": "https://knirpsenfarm-berlin.de/",
+      "source": "inbox",
+      "sources": [
+        "inbox"
+      ],
+      "ticketRequired": false,
+      "registrationRequired": false,
+      "familyFriendly": true,
       "cancelled": false
     },
     {
