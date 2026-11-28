@@ -2,8 +2,10 @@
   "label": "KuBiZ Raoul Wallenberg",
   "homepage": "https://www.kubiz-wallenberg.de",
   "type": "rss",
+  "images": true,
   "url": "https://www.kubiz-wallenberg.de/?feed=rss2",
   "mapping": {
+    "image": { "template": "{encoded}", "regex": "<img[^>]+src=\"(https://[^\"]+)\"" },
     "sourceId": {
       "path": "guid"
     },

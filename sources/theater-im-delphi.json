@@ -2,10 +2,12 @@
   "label": "Theater im Delphi",
   "homepage": "https://theater-im-delphi.de",
   "type": "html",
+  "images": true,
   "url": "https://theater-im-delphi.de/programm/",
   "itemSelector": "table.program_table tr",
   "sectionSelector": "h2.month",
   "extract": {
+    "image": { "selector": "img.listBild", "attr": "src" },
     "category": ".eventLabel span",
     "day": ".eventHeader h3 big",
     "description": {
@@ -23,6 +25,7 @@
     "title": "h3.eventTitel a"
   },
   "mapping": {
+    "image": { "path": "image" },
     "title": {
       "path": "title"
     },
