@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:59:55.089611907Z",
+  "generatedAt": "2026-11-28T12:01:09.480538234Z",
   "events": [
     {
       "id": "kinderphilharmonie-klassik-fuer-kleine-0-5b0c6326",
@@ -22,6 +22,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/benito-bauses-liederwelt-das-familien-spezial-bildungs-und-kulturzentrum-peter-edel-20261128-crT69/",
+      "image": "https://www.peteredel.de/media/2729/kinderphilharmonie1.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -82,6 +83,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/benito-bauses-liederwelt-das-familien-spezial-bildungs-und-kulturzentrum-peter-edel-20261128-K9qOw/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "image": "https://www.peteredel.de/media/2730/kinderphilharmonie2.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -116,36 +118,6 @@
       "registrationRequired": false,
       "familyFriendly": false,
       "cancelled": true
-    },
-    {
-      "id": "alte-liebe-9b08e400",
-      "title": "Alte Liebe",
-      "description": "",
-      "category": "Kino",
-      "categories": [
-        "Kino"
-      ],
-      "date": "2026-11-28",
-      "startTime": "11:00",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/alte-liebe",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
     },
     {
       "id": "upcycling-workshop-mit-amina-a9c4d280",
@@ -194,6 +166,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/09/1.-V.Kaulaa_Shifting-Trajectories-of-Reflections.-In-Between_200-X150CM_oil-on-canvas_2026.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -250,39 +223,10 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/benito-bauses-liederwelt-das-familien-spezial-bildungs-und-kulturzentrum-peter-edel-20261128-9DPfu/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "image": "https://www.peteredel.de/media/2731/kinderphilharmonie3.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
-      ],
-      "ticketRequired": false,
-      "registrationRequired": false,
-      "familyFriendly": false,
-      "cancelled": false
-    },
-    {
-      "id": "wie-verhext-aab48a1d",
-      "title": "Wie verhext",
-      "description": "",
-      "category": "Kino",
-      "categories": [
-        "Kino"
-      ],
-      "date": "2026-11-28",
-      "startTime": "11:30",
-      "endTime": "",
-      "location": {
-        "name": "Kino Toni",
-        "address": "Antonplatz 1, 13086 Berlin"
-      },
-      "price": {
-        "free": false,
-        "amount": null
-      },
-      "organizer": "Kino Toni",
-      "url": "https://kino-toni.de/film/wie-verhext",
-      "source": "kino-toni",
-      "sources": [
-        "kino-toni"
       ],
       "ticketRequired": false,
       "registrationRequired": false,
@@ -310,6 +254,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/duo-nominka-musik-von-piaf-bis-pipapo-bildungs-und-kulturzentrum-peter-edel-20261128-pZHY7/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "image": "https://www.peteredel.de/media/2732/kinderphilharmonie4.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -340,6 +285,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/2026_10_11_filzen.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -400,6 +346,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/duo-nominka-musik-von-piaf-bis-pipapo-bildungs-und-kulturzentrum-peter-edel-20261128-H01gy/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "image": "https://www.peteredel.de/media/2733/kinderphilharmonie5.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -430,6 +377,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/upcycling-naehwerkstatt/2026-11-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/08/web_Upcycling.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -516,6 +464,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/duo-nominka-musik-von-piaf-bis-pipapo-bildungs-und-kulturzentrum-peter-edel-20261128-lDXDI/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true\u0026venue=f5388cc8-646d-425a-b018-cb776a4ac777",
+      "image": "https://www.peteredel.de/media/2734/kinderphilharmonie6.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -546,6 +495,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/naza/2026-11-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Naza_Copyright.IMMERGUTEFILME.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -636,6 +586,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/helene-weigel-revoltionaerin-im-rampenlicht/2026-11-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Helene-Weigel_copyright.Neue-Visionen-Filmverleih-GmbH.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -696,6 +647,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=553",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/The.Luxorium.Grand.Variete.2.PhotobyFoxxedUPPhotography.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -726,6 +678,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/berlin-ben-berlin-aus-diesem-tralala-kommst-du-nicht-raus/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/BErliN_copyright.Partisan-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -786,6 +739,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://rausgegangen.de/events/best-of-poetry-slam-229/",
+      "image": "https://www.peteredel.de/media/2735/best-of-prachtworte-poetry-slam.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -816,6 +770,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/suche-ein-zimmer-auch-ohne-anmeldung-vom-schichtwechseltheater/2026-11-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Suche-Zimmer.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -876,6 +831,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen/2026-11-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -996,6 +952,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/vineta-kaulaca-mapping-the-view/2026-11-29/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/09/1.-V.Kaulaa_Shifting-Trajectories-of-Reflections.-In-Between_200-X150CM_oil-on-canvas_2026.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -1112,6 +1069,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/musikinstrumente-bauen-fuer-kinder-4/2026-11-29/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/Musikinstrumente-bauen.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -1280,6 +1238,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/jeder-acker-jede-fabrik-ideen-fuer-eine-notwendige-revolution-3/2026-11-29/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/08/Jeder-Acker_Filmstill_copyright.labournet_tv.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -1310,6 +1269,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/sonntagsschoen/",
+      "image": "https://www.peteredel.de/media/2606/peter-edel-sonntagsscho-n-1.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -1340,6 +1300,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/hiddensee/2026-11-29/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Hiddensee_copyright.IT-WORKS_PeterBrune.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -1430,6 +1391,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=553",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/The.Luxorium.Grand.Variete.2.PhotobyFoxxedUPPhotography.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -1460,6 +1422,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/unversoehnliche-erinnerungen/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Unversoehnliche-Erinnerungen_copyright.Deutsche-Kinemathek.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -1550,6 +1513,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen/2026-11-29/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -1653,9 +1617,9 @@
       "id": "indoorspielplatz-0-bis-3-jaehrige-4d5c54f4",
       "title": "Indoorspielplatz (0- bis 3-Jährige)",
       "description": "Kinder wollen sich bewegen, toben und unter Kindern sein – auch bei schlechtem Wetter oder mal in einem kleinen, geschützten Raum. Unser Indoorspielplatz bietet den Kleinsten die Möglichkeit, sich in geschützter Umgebung auszutoben, zu spielen und neue Freund*innen kennenzulernen. Kommt vorbei und genießt gemeinsam mit euren Kindern eine fröhliche Spielzeit drinnen, warm und wetterunabhängig. Kinderwägen können parkseitig am hinteren Eingang abgestellt und abgeschlossen werden.\nMontag, 10 – 13 Uhr im Bewegungsraum (UG)\nAnmeldung: nicht erforderlich\nKosten: 2 € pro Treffen als Spende erwünscht",
-      "category": "Unkategorisiert",
+      "category": "Spielen",
       "categories": [
-        "Unkategorisiert"
+        "Spielen"
       ],
       "date": "2026-11-30",
       "startTime": "10:00",
@@ -1670,6 +1634,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/winterspielplatz-pexels-goumbik.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -1700,6 +1665,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/weihnachten-im-hexenwald/2026-11-30/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Weihnachten-im-Hexenwlad.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -1713,9 +1679,9 @@
       "id": "mittagstisch-fuer-alle-c49d5878",
       "title": "Mittagstisch für alle",
       "description": "Kommen Sie vorbei und genießen Sie eine warme Suppe. Wir laden alle Nachbar*innen zum Mittagstisch ein.\nMontag von 12 - 13.30 Uhr im Saal (OG)\nKostenbeitrag: 1 €, Ermäßigung möglich\nAnmeldung: nicht erforderlich",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2026-11-30",
       "startTime": "12:00",
@@ -1730,6 +1696,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/mittagstisch.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -1773,9 +1740,9 @@
       "id": "karten-und-brettspiele-fuer-alle-402767f2",
       "title": "Karten- und Brettspiele für alle",
       "description": "Wöchentlich findet unser geselliger Spiele-Nachmittag mit Hauscafé im Stadtteilzentrum statt.\nSchauen Sie gerne einfach vorbei, ob allein oder mit anderen Spielern im Gepäck.\nWann: Montag, 13.00 – 18.00 Uhr im Saal\nKosten: 2 € (1,50 €)",
-      "category": "Unkategorisiert",
+      "category": "Spielen",
       "categories": [
-        "Unkategorisiert"
+        "Spielen"
       ],
       "date": "2026-11-30",
       "startTime": "13:00",
@@ -1790,6 +1757,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/senioren._64b0fa38971df1.75369667.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -2052,6 +2020,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/inklusiver-musikalischer-salon-2-2-2/2026-11-30/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/08/Inklusiver_Musiksalon.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2112,6 +2081,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/uebergang/2026-11-30/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Uebergang_copyright.Ma_.ja_.de_.-Filmproduktion.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2172,6 +2142,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/das-land-in-dem-ich-geboren-bin-2/2026-11-30/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Das-Land-in-dem-ich-geboren-bin_%C2%A9Hansi-Breier.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2232,6 +2203,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=544",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/STILETTO%28%C2%A9Heike_Antocci.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -2292,6 +2264,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen/2026-11-30/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2441,6 +2414,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/weihnachten-im-hexenwald/2026-12-01/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Weihnachten-im-Hexenwlad.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2501,6 +2475,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/offenes-atelier-malen-nach-sound-2/2026-12-01/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/malen-nach-sound.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2647,6 +2622,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/inklusive-soundwerkstatt/2026-12-01/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/10/Foto_Soundwerkstatt.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2660,9 +2636,9 @@
       "id": "kiezcafe-9ece8891",
       "title": "Kiezcafé",
       "description": "Unser wöchentliches Café ist ein offener Treffpunkt für alle aus der Nachbarschaft. Hier könnt ihr neue Leute kennenlernen, Freund*innen treffen oder einfach entspannt den Nachmittag genießen.\n\nVor Ort gibt es Kaffee und Kuchen in unserem gemütlichen Saal. Außerdem könnt Ihr Spiele für Groß und Klein ausleihen.\n\nKommt vorbei, wir freuen uns auf Euch!\n\nWann: Jeden Dienstag von 16 - 18 Uhr\n\nWo: Im Saal",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2026-12-01",
       "startTime": "16:00",
@@ -2677,6 +2653,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/kiezcafe.jpg_67f3f62a434b30.47857496.jpeg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -2737,6 +2714,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/morgen-vor-langer-zeit/2026-12-01/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Morgen-vor-langer-Zeit_copyright.Grandfilm.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2857,6 +2835,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-01/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -2887,6 +2866,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/aktzeichnen/2026-12-01/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/akt2_web.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3003,6 +2983,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wholetrain-2/2026-12-01/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wholetrain_copyright.Florian-Gaag.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3119,6 +3100,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/weihnachten-im-hexenwald/2026-12-02/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Weihnachten-im-Hexenwlad.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3239,6 +3221,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/26nov_dez_feuerschalenmomente_mit_der_stadtnaturlotsin.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -3385,6 +3368,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/website_+_nebenan.de_mandala.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -3475,6 +3459,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/morgen-vor-langer-zeit/2026-12-02/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Morgen-vor-langer-Zeit_copyright.Grandfilm.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3535,6 +3520,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/atelierkurs-acrylmalen-malen-mit-malte-hagen-2/2026-12-02/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/01/Acrylmalen.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3548,9 +3534,9 @@
       "id": "tangogarten-weissensee-e6733bba",
       "title": "TangoGarten Weißensee",
       "description": "Im Saal des Stadtteilzentrums Weißensee finden regelmäßig Tango-Nächte statt. Dich erwarten hier 90m² gut gepflegtes Tanzparkett und eine kleine Bar. Vor jeder Milonga gibt es die Gelegenheit, den Tango Argentino zu erlernen oder das bereits vorhandenes Tango-Können zu verfeinern. Im Sommer auch im Garten am Kreuzpfuhl.\nWeitere Informationen finden Sie hier: https://tangogartenweissensee.de",
-      "category": "Kultur",
+      "category": "Tanz",
       "categories": [
-        "Kultur"
+        "Tanz"
       ],
       "date": "2026-12-02",
       "startTime": "18:00",
@@ -3565,6 +3551,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/tango.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -3595,6 +3582,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-02/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3655,6 +3643,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/notizen/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/NOTIZEN_.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3715,6 +3704,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wholetrain-2/2026-12-02/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wholetrain_copyright.Florian-Gaag.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3835,6 +3825,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/weihnachten-im-hexenwald/2026-12-03/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Weihnachten-im-Hexenwlad.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3865,6 +3856,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/offenes-atelier-malen-nach-sound-2/2026-12-03/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/malen-nach-sound.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3895,6 +3887,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-03/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -3934,9 +3927,9 @@
       "id": "initiative-faires-pankow-5df09e00",
       "title": "Initiative Faires.Pankow",
       "description": "Der Faire.Donnerstag ist ein neues wöchentliches Nachbarschaftsprojekt im Stadtteilzentrum Weißensee, das ökologische Nachhaltigkeit, soziale Teilhabe und gemeinschaftliches Handeln verbindet.\nImmer donnerstags wird das Haus zum Treffpunkt für alle, die teilen, helfen, tauschen oder einfach beisammen sein möchten.\n\nDas Herzstück ist das Fair.Café – immer von 14 bis 17 Uhr . Hier gibt es kostenlosen Kaffee, gerettete Lebensmittel, nette Gespräche und Raum für neue Ideen – ganz ohne Konsumzwang und Kostendruck, getragen vom Engagement Nachbarschaftsinitiative Faires.Pankow. Bringt gerne (Stoff)-Tüten, Dosen und andere lebensmittelsichere Behälter mit, um die geretteten Lebensmittel sicher zu transportieren. Achtung: Die geretteten Lebensmittel sind möglicherweise schon vor dem Ende der Veranstaltung vergriffen, je nach Menge und Rückfrage. Beginn der Ausgabe ist um 14 Uhr.\n\nIm Anschluss an das Fair.Café finden wechselnde Workshops, Aktionen und Veranstaltungen rund um Nachhaltigkeit, Reparatur, Upcycling oder Nachbarschaftsprojekte statt. Hier können sich alle einbringen, mitmachen oder selbst etwas auf die Beine stellen. Wie mitmachen? Komm vorbei – mit deiner Idee! Ob beim …",
-      "category": "Unkategorisiert",
+      "category": "Beratung",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2026-12-03",
       "startTime": "14:00",
@@ -3951,6 +3944,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/faircafe%CC%81.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -4041,6 +4035,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/einar-schleef-ich-habe-kein-deutschland-gefunden/2026-12-03/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Einar-Schleef_Foto-Boris-Klinge_copyright.Filmgalerie451.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4071,6 +4066,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/repariererei.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -4131,6 +4127,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/ein-bus-voller-leben/2026-12-03/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Ein-Bus-voller-Leben_Foto-David-Herranz_copyright.2026_24-Bilder-Film-GmbH.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4161,6 +4158,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/buchpremiere-auf-der-buehne-alexander-graeff-tentakel-ausbilden/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Tentakel-ausbilden.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4191,6 +4189,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/tentakel-ausbilden-buchpremiere-mit-alexander-graeff-nadine-kube/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Tentakel-ausbilden.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4251,6 +4250,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-03/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4430,6 +4430,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-04/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4546,6 +4547,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-04/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4576,6 +4578,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=561",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/ducttape-christmas-anytime-studios.png",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -4606,6 +4609,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/ein-bus-voller-leben/2026-12-04/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Ein-Bus-voller-Leben_Foto-David-Herranz_copyright.2026_24-Bilder-Film-GmbH.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4619,7 +4623,7 @@
       "id": "singen-macht-gluecklich-08687240",
       "title": "Singen macht glücklich",
       "description": "… zuhören, lauschen, mitsummen, dabei sein ebenso. SingSang mit Dörte, mit euch. Ganz ohne Noten.\n20:15 – 21.30 Uhr im Bewegungsraum (UG)\nLeitung: Dörte Badock. Musiktherapeutin, Musikgeragogin , Gitarre, Klanginstrumente\nAnmeldung/Information: SMS 0157 375 710 70\nKosten: 8–10 € / Termin",
-      "category": "Kultur",
+      "category": "Musik",
       "categories": [
         "Kultur"
       ],
@@ -4636,6 +4640,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/singenmachtgl%C3%BCcklich.jpg_682c8bc7635e01.61338692.jpeg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -4666,6 +4671,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-04/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4756,6 +4762,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-05/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4816,6 +4823,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/upcycling-naehwerkstatt/2026-12-05/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/08/web_Upcycling.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4846,6 +4854,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/berliner-literaturwerkstatt-queer-vol-4/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/09/Literaturwerkstatt_QUEER.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4906,6 +4915,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/2m%c2%b2-wo-ist-dein-platz-fuer-die-ewigkeit/2026-12-05/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/2m2_copyright.Menuetto2Pilotsfilmfaustmitrafilms2025.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4936,6 +4946,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/im-umkreis-des-paradieses/2026-12-05/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Im-Umkreis-des-Paradieses_copyright.Across-Nations.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -4996,6 +5007,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=561",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/ducttape-christmas-anytime-studios.png",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -5026,6 +5038,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/sipsmash/",
+      "image": "https://www.peteredel.de/media/2627/dude_small.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -5086,6 +5099,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/ein-bus-voller-leben/2026-12-05/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Ein-Bus-voller-Leben_Foto-David-Herranz_copyright.2026_24-Bilder-Film-GmbH.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5116,6 +5130,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/jazz-am-helmholzplatz-hot-tropical-nights-bossa-nova/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/08/Jazz.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5146,6 +5161,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-05/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5266,6 +5282,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-06/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5279,9 +5296,9 @@
       "id": "queer-bake-cake-6d8b2dcd",
       "title": "Queer Bake \u0026 Cake",
       "description": "Wir kommen sonntags in entspannter Atmosphäre zum crazy Backen und Kaffee-Klatschen zusammen. Dabei stehen Spaß und Austausch für die LGBTQ+ Community im Vordergrund.\nLeitung: Mike Falk, Emanzipatorische Selbsthilfe e.V.\nAnmeldung: queerbakeandcake@gmx.de oder über Instagram @queerbakeandcake.de",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2026-12-06",
       "startTime": "12:00",
@@ -5296,6 +5313,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/2.jpeg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -5356,6 +5374,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wintermarkt-brotfabrik/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wintermarkt-.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5386,6 +5405,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/2m%c2%b2-wo-ist-dein-platz-fuer-die-ewigkeit/2026-12-06/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/2m2_copyright.Menuetto2Pilotsfilmfaustmitrafilms2025.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5416,6 +5436,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/tanztee-im-peter-edel/",
+      "image": "https://www.peteredel.de/media/2199/tanztee-peter-edel.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -5476,6 +5497,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/frau-holle-2/2026-12-06/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/holle.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5506,6 +5528,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-06/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5536,6 +5559,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/ein-bus-voller-leben/2026-12-06/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Ein-Bus-voller-Leben_Foto-David-Herranz_copyright.2026_24-Bilder-Film-GmbH.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5566,6 +5590,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/die-letzten-kinder-der-ddr-beginn/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/06/Die-letzten-Kinder-der-DDR-1.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5596,6 +5621,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-06/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5716,6 +5742,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/frau-holle-2/2026-12-07/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/holle.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5776,6 +5803,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-07/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5948,6 +5976,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/im-umkreis-des-paradieses/2026-12-07/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Im-Umkreis-des-Paradieses_copyright.Across-Nations.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -5978,6 +6007,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/inklusiver-musikalischer-salon-2-2-2/2026-12-07/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/08/Inklusiver_Musiksalon.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6008,6 +6038,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/ein-bus-voller-leben/2026-12-07/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Ein-Bus-voller-Leben_Foto-David-Herranz_copyright.2026_24-Bilder-Film-GmbH.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6038,6 +6069,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-07/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6217,6 +6249,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/offenes-atelier-malen-nach-sound-2/2026-12-08/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/malen-nach-sound.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6247,6 +6280,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-08/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6260,9 +6294,9 @@
       "id": "kiezspaziergaenge-in-weissensee-e9f34ed8",
       "title": "Kiezspaziergänge in Weißensee",
       "description": "Gemeinsam statt allein unterwegs sein! Bei unseren Spaziergängen entdecken wir Weißensee, genießen die frische Luft und bleiben gemeinsam in Bewegung. In entspannter Atmosphäre ist Zeit für nette Gespräche, neue Begegnungen und kleine Entdeckungen im Kiez. Wer mag, kann den Nachmittag anschließend ab 16 Uhr bei Kaffee und Kuchen im Kiezcafé ausklingen lassen.\n\nWann: Jeden Dienstag, 14:30–15:30/15:45 Uhr\nTreffpunkt: 14:15 Uhr im Garten des Stadtteilzentrums\nOhne Anmeldung – einfach vorbeikommen!",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2026-12-08",
       "startTime": "14:30",
@@ -6277,6 +6311,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/website_+_nebenan.despazierg%C3%A4nge_durch_wei%C3%9Fensee.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -6333,6 +6368,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/2m%c2%b2-wo-ist-dein-platz-fuer-die-ewigkeit/2026-12-08/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/2m2_copyright.Menuetto2Pilotsfilmfaustmitrafilms2025.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6363,6 +6399,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/inklusive-soundwerkstatt/2026-12-08/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/10/Foto_Soundwerkstatt.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6393,6 +6430,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-08/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6423,6 +6461,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=569",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/tristano2.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -6483,6 +6522,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/aktzeichnen/2026-12-08/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/akt2_web.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6539,6 +6579,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2737/ggysi.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -6569,6 +6610,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/abwaerts-praesentiert-3-texte-filme-sensationen/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/08/abwaerts_copyright.Henning-Rabe.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6689,6 +6731,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-09/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6831,6 +6874,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/einar-schleef-ich-habe-kein-deutschland-gefunden/2026-12-09/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/Einar-Schleef_Foto-Boris-Klinge_copyright.Filmgalerie451.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6861,6 +6905,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/atelierkurs-acrylmalen-malen-mit-malte-hagen-2/2026-12-09/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/01/Acrylmalen.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6874,9 +6919,9 @@
       "id": "kleidertausch-fuer-frauen-6c7c6569",
       "title": "Kleidertausch für Frauen",
       "description": "Du hast Kleidung, Schmuck oder Accessoires im Schrank, die du nicht mehr trägst, die aber viel zu schade zum Wegwerfen sind? Dann mach mit bei unserer Kleidertauschbörse nur für Frauen!\n\nSchenke deinen aussortierten Lieblingsstücken ein neues Zuhause und entdecke selbst tolle neue Schätze. Ganz ohne Geld auszugeben, kannst du deinen Kleiderschrank auffrischen und gleichzeitig etwas für die Nachhaltigkeit tun.\n\nBei uns stehen Nachhaltigkeit, Gemeinschaft und die Freude am Teilen im Mittelpunkt.\n\nEine Spende ist herzlich willkommen! Mit deinem freiwilligen Beitrag unterstützt du unsere Veranstaltung und hilfst dabei, solche Aktionen auch in Zukunft möglich zu machen.\n\nKomm vorbei, bring deine Schrankhüter mit und lass dich überraschen!\n\nWir freuen uns auf dich!",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2026-12-09",
       "startTime": "18:00",
@@ -6891,6 +6936,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/191126_kleidertausch_f%C3%BCr_frauen_webseite.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -6951,6 +6997,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/ein-bus-voller-leben/2026-12-09/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Ein-Bus-voller-Leben_Foto-David-Herranz_copyright.2026_24-Bilder-Film-GmbH.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -6981,6 +7028,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/DonnaTheShow_Neu_Credit_TheaBarnwell.JPG",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -7011,6 +7059,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-09/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7131,6 +7180,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/offenes-atelier-malen-nach-sound-2/2026-12-10/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/malen-nach-sound.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7161,6 +7211,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-10/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7303,6 +7354,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/im-umkreis-des-paradieses/2026-12-10/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Im-Umkreis-des-Paradieses_copyright.Across-Nations.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7363,6 +7415,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/morgen-vor-langer-zeit/2026-12-10/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Morgen-vor-langer-Zeit_copyright.Grandfilm.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7393,6 +7446,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=519",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/JXF_Berlin_4x5.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -7423,6 +7477,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/originalausgabe-10-die-lesereihe-der-autorenschule-schreibhain-winterausgabe/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Originalausgabe10.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7483,6 +7538,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-10/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7692,6 +7748,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-11/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7778,6 +7835,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/szenario/2026-12-11/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Szenario_copyright.Salzgeber.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7808,6 +7866,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-11/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7838,6 +7897,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=527",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/William_Arcuri_Photo_Santino_Import_ApS.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -7868,6 +7928,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/theater-ohne-probe-durch-die-wand-2/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/08/Durch-die-Wand_Theater-ohne-Probe_c_Santiago-Engelhardt.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7898,6 +7959,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-11/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7958,6 +8020,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-12/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -7971,9 +8034,9 @@
       "id": "elvis-club-berlin-e-v-f3575ded",
       "title": "Elvis Club Berlin e.V.",
       "description": "Weihnachtsfeier - Der Club und seine Mitglieder setzen sich dafür ein, dass Elvis Presley – seine Musik und Filme – nicht in Vergessenheit geraten. Monatliche Clubtreffen, Vorstellung und Austausch von verschiedenen Neuerscheinungen, Büchern, DVD’s u. a.\n\nInformation: www.elvisclubberlin.de",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2026-12-12",
       "startTime": "14:00",
@@ -7988,6 +8051,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/elvis_pixabay.jpg_6750619c4ccab5.39938145.jpeg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -8018,6 +8082,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/upcycling-naehwerkstatt/2026-12-12/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/08/web_Upcycling.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8048,6 +8113,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-12/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8108,6 +8174,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/frauen-in-berlin-2/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/09/Frauen-in-Berlin_copyright.Filmuniversitaet-Babelsberg-Konrad-Wolf.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8138,6 +8205,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/die-improvisionaere-spielen-loriot-weihnachten-bei-familie-roeppenbrott/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Improvisionaere-DieBesteImproshowDerWelt-Rose.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8168,6 +8236,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2739/fil.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -8198,6 +8267,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-12/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8288,6 +8358,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://rausgegangen.de/events/1-day-chor-berlin-0/",
+      "image": "https://www.peteredel.de/media/2754/1daychor.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -8318,6 +8389,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-13/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8348,6 +8420,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/festeimstz._66e1505133ea74.47490236.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -8378,6 +8451,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/website_+_nebenan.de_weihnachtliches_basteln.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -8408,6 +8482,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wuerdevoll/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wuerdevoll_copyright.ElkeFrey.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8438,6 +8513,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/knusper-knusper/2026-12-13/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Knusper.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8468,6 +8544,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/morgen-vor-langer-zeit/2026-12-13/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Morgen-vor-langer-Zeit_copyright.Grandfilm.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8498,6 +8575,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=534",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/SHT_Berlin_Fotograf_Till_B._Copyright_SHT_Berlin_e.V..jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -8528,6 +8606,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/das-land-in-dem-ich-geboren-bin-2/2026-12-13/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Das-Land-in-dem-ich-geboren-bin_%C2%A9Hansi-Breier.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8558,6 +8637,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2739/fil.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -8588,6 +8668,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-13/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8708,6 +8789,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/knusper-knusper/2026-12-14/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Knusper.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8738,6 +8820,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-14/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8910,6 +8993,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/kr%C3%A4uter_pixabay.jpg_6654518206bdc4.57911534.jpeg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -8966,6 +9050,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/inklusiver-musikalischer-salon-2-2-2/2026-12-14/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/08/Inklusiver_Musiksalon.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -8996,6 +9081,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/szenario/2026-12-14/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Szenario_copyright.Salzgeber.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9026,6 +9112,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wholetrain-2/2026-12-14/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wholetrain_copyright.Florian-Gaag.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9056,6 +9143,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-14/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9235,6 +9323,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/offenes-atelier-malen-nach-sound-2/2026-12-15/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/malen-nach-sound.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9265,6 +9354,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-15/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9321,6 +9411,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/inklusive-soundwerkstatt/2026-12-15/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/10/Foto_Soundwerkstatt.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9351,6 +9442,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/2m%c2%b2-wo-ist-dein-platz-fuer-die-ewigkeit/2026-12-15/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/2m2_copyright.Menuetto2Pilotsfilmfaustmitrafilms2025.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9411,6 +9503,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wholetrain-2/2026-12-15/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wholetrain_copyright.Florian-Gaag.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9441,6 +9534,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/aktzeichnen/2026-12-15/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/akt2_web.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9497,6 +9591,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-15/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9643,6 +9738,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-16/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9729,6 +9825,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/weihnachten.jpg_673202c83d4b49.58316682.jpeg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -9789,6 +9886,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/schoene-seelen-2/2026-12-16/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Schoene-Seelen_copyright.Camino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9819,6 +9917,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/atelierkurs-acrylmalen-malen-mit-malte-hagen-2/2026-12-16/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/01/Acrylmalen.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9849,6 +9948,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wholetrain-2/2026-12-16/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wholetrain_copyright.Florian-Gaag.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -9879,6 +9979,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=545",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Widmann_J%C3%B6rg_c_Marco_Borggreve_4.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -9909,6 +10010,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/la-bola-negra/2026-12-16/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/La-bola-negra_copyright.Pandora-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10029,6 +10131,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/offenes-atelier-malen-nach-sound-2/2026-12-17/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/09/malen-nach-sound.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10059,6 +10162,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-17/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10257,6 +10361,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/broken-english/2026-12-17/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Broken-English.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10287,6 +10392,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/after-work-party/",
+      "image": "https://www.peteredel.de/media/2564/video-dome-thumbnail.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -10377,6 +10483,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/zwischen-den-welten/2026-12-17/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Zwischen-den-Welten_copyright.Neue-Visonen-Filmverleih.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10407,6 +10514,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/anarchisch-queer-tanzbar-hoerbuchpremiere-mit-else-buschheuer-moritz-hering/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Tango_ex@frau.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10437,6 +10545,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=576",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/SIKI_TUT.jpeg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -10467,6 +10576,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-17/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10556,6 +10666,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/mischkas-wundersame-reise/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Mischka.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10676,6 +10787,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-18/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10689,9 +10801,9 @@
       "id": "blutspende-des-drk-6259b034",
       "title": "Blutspende des DRK",
       "description": "Blutspendeaktion des DRK-Blutspendedienstes.\nAnmeldung: www.drk-blutspende.de",
-      "category": "Unkategorisiert",
+      "category": "Blutspende",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2026-12-18",
       "startTime": "13:30",
@@ -10706,6 +10818,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/drk._667d2ed8884ae7.88525127.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -10822,6 +10935,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/broken-english/2026-12-18/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Broken-English.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10852,6 +10966,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=575",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/FitBallet_Presents_A_Christmas_Paquita(c)Octavie_Escure_Barre_Arm_Extension.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -10882,6 +10997,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/zwischen-den-welten/2026-12-18/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Zwischen-den-Welten_copyright.Neue-Visonen-Filmverleih.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -10942,6 +11058,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=575",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/FitBallet_Presents_A_Christmas_Paquita(c)Octavie_Escure_Barre_Arm_Extension.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -10972,6 +11089,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-18/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11032,6 +11150,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-19/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11062,6 +11181,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/upcycling-naehwerkstatt/2026-12-19/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/08/web_Upcycling.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11092,6 +11212,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/das-land-in-dem-ich-geboren-bin-2/2026-12-19/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Das-Land-in-dem-ich-geboren-bin_%C2%A9Hansi-Breier.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11105,7 +11226,7 @@
       "id": "weihnachtskonzert-e72daa8a",
       "title": "Weihnachtskonzert",
       "description": "Der Chor \"Liedgut e. V.\" gibt ein Weihnachtskonzert im Stadtteilzentrum.\nEintritt: 10,00 € (Kinder 5,00 €).",
-      "category": "Kultur",
+      "category": "Musik",
       "categories": [
         "Kultur"
       ],
@@ -11122,6 +11243,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/weihnachtliches.jpg_67504ae0cdb5f3.08964555.jpeg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -11152,6 +11274,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/broken-english/2026-12-19/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Broken-English.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11182,6 +11305,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/zwischen-den-welten/2026-12-19/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Zwischen-den-Welten_copyright.Neue-Visonen-Filmverleih.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11212,6 +11336,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2741/winter-hop-high.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -11242,6 +11367,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/jazz-am-helmholzplatz-das-lustige-komponistinnen-quartett/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Jazz.2jpg.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11272,6 +11398,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-19/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11362,6 +11489,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2740/test.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -11392,6 +11520,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-20/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11452,6 +11581,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2397/peter-edel-rudelsingen.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -11482,6 +11612,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/broken-english/2026-12-20/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Broken-English.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11512,6 +11643,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/zwischen-den-welten/2026-12-20/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Zwischen-den-Welten_copyright.Neue-Visonen-Filmverleih.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11542,6 +11674,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=563",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Patrick_Wolf_Prince_of_The_Rose.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -11572,6 +11705,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-20/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11722,6 +11856,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-21/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11920,6 +12055,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/inklusiver-musikalischer-salon-2-2-2/2026-12-21/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2025/08/Inklusiver_Musiksalon.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11950,6 +12086,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/kurzfilmtag-weihnachten-auf-duennem-eis/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Kurzfilmtag_Weihnachtsfilme_copyright.Max-Christmann.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -11980,6 +12117,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2727/defa-ursula-werner-peter-edel.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -12010,6 +12148,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/kurzfilmtag-flip-001-berlin-indie-animation-serie-unabhaengige-animationen-aus-aller-welt/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Kurzfilmtag-flip.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12040,6 +12179,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-21/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12219,6 +12359,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-22/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12275,6 +12416,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/broken-english/2026-12-22/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Broken-English.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12361,6 +12503,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/zwischen-den-welten/2026-12-22/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Zwischen-den-Welten_copyright.Neue-Visonen-Filmverleih.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12391,6 +12534,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-22/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12511,6 +12655,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-23/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12627,6 +12772,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/broken-english/2026-12-23/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Broken-English.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12657,6 +12803,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/zwischen-den-welten/2026-12-23/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Zwischen-den-Welten_copyright.Neue-Visonen-Filmverleih.png",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12687,6 +12834,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-23/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -12807,6 +12955,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-24/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13047,6 +13196,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-25/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13077,6 +13227,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/das-land-in-dem-ich-geboren-bin-2/2026-12-25/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/07/Das-Land-in-dem-ich-geboren-bin_%C2%A9Hansi-Breier.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13137,6 +13288,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-25/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13167,6 +13319,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/folies-die-lust-mit-der-liebe/2026-12-25/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Follies_copyright.Filmperlen.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13197,6 +13350,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/we-are-all-strangers/2026-12-25/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/We-Are-All-Strangers_copyright.Rapid-Eye-Movies.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13257,6 +13411,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-26/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13287,6 +13442,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wholetrain-2/2026-12-26/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wholetrain_copyright.Florian-Gaag.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13317,6 +13473,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-26/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13347,6 +13504,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/folies-die-lust-mit-der-liebe/2026-12-26/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Follies_copyright.Filmperlen.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13377,6 +13535,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/we-are-all-strangers/2026-12-26/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/We-Are-All-Strangers_copyright.Rapid-Eye-Movies.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13467,6 +13626,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-27/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13497,6 +13657,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/wholetrain-2/2026-12-27/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Wholetrain_copyright.Florian-Gaag.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13510,9 +13671,9 @@
       "id": "entfaellt-tanztee-fuer-alle-9a732824",
       "title": "ENTFÄLLT - Tanztee für alle",
       "description": "Von Oktober bis Dezember entfällt leider unser beliebtes Angebot \"Tanztee für alle\" .\n\nIm Januar geht es wieder weiter- dann wieder mit gesundem Schwung ins neue Jahr!",
-      "category": "Kultur",
+      "category": "Tanz",
       "categories": [
-        "Kultur"
+        "Tanz"
       ],
       "date": "2026-12-27",
       "startTime": "16:00",
@@ -13527,6 +13688,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/tanztee_ent%C3%A4llt._6ad1f509d68171.92098266.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -13557,6 +13719,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/sonntagsschoen/",
+      "image": "https://www.peteredel.de/media/2606/peter-edel-sonntagsscho-n-1.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -13587,6 +13750,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-27/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13617,6 +13781,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/folies-die-lust-mit-der-liebe/2026-12-27/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Follies_copyright.Filmperlen.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13647,6 +13812,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/we-are-all-strangers/2026-12-27/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/We-Are-All-Strangers_copyright.Rapid-Eye-Movies.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13767,6 +13933,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/soft-opening/2026-12-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/10/SOFT-OPENING.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13939,6 +14106,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/nur-getraeumt/2026-12-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Nur-getrauumt_copyright.Weltkino-Filmverleih.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13969,6 +14137,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/folies-die-lust-mit-der-liebe/2026-12-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/Follies_copyright.Filmperlen.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -13999,6 +14168,7 @@
       },
       "organizer": "Brotfabrik Berlin",
       "url": "https://brotfabrik-berlin.de/veranstaltung/we-are-all-strangers/2026-12-28/",
+      "image": "https://brotfabrik-berlin.de/wp-content/uploads/2026/11/We-Are-All-Strangers_copyright.Rapid-Eye-Movies.jpg",
       "source": "brotfabrik",
       "sources": [
         "brotfabrik"
@@ -14170,6 +14340,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/der-winterwald-und-die-verlorene-melodie-bildungs-und-kulturzentrum-peter-edel-20261230-4HVgg/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "image": "https://www.peteredel.de/media/2742/kinderphilharmonie-dez-1.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -14200,6 +14371,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/der-winterwald-und-die-verlorene-melodie-bildungs-und-kulturzentrum-peter-edel-20261230-Qa6ad/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "image": "https://www.peteredel.de/media/2744/kinderphilharmonie-dez-2.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -14230,6 +14402,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/der-winterwald-und-die-verlorene-melodie-bildungs-und-kulturzentrum-peter-edel-20261230-QFwxI?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "image": "https://www.peteredel.de/media/2748/kinderphilharmonie-dez-0.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -14260,6 +14433,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/mit-glitzerswing-ins-neue-jahr-bildungs-und-kulturzentrum-peter-edel-20261230-DHFlE/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "image": "https://www.peteredel.de/media/2745/kinderphilharmonie-dez-3.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -14290,6 +14464,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/mit-glitzerswing-ins-neue-jahr-bildungs-und-kulturzentrum-peter-edel-20261230-j8oUS/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "image": "https://www.peteredel.de/media/2746/kinderphilharmonie-dez-4.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -14320,6 +14495,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/mit-glitzerswing-ins-neue-jahr-bildungs-und-kulturzentrum-peter-edel-20261230-aQnVW?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "image": "https://www.peteredel.de/media/2747/kinderphilharmonie-dez-5.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -14350,6 +14526,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://stagedates.com/events/mit-glitzerswing-ins-neue-jahr-bildungs-und-kulturzentrum-peter-edel-20261230-sSLIR/checkout/products?promoterId=175abf37-78ea-46d3-a74a-8a6ced671793\u0026embedded=true",
+      "image": "https://www.peteredel.de/media/2746/kinderphilharmonie-dez-4.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -14410,6 +14587,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=560",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/lautten_compagney_Eisfeldersommerkonzerte008_Foto_%C2%A9_Anna_Kristina_Bauer.JPG",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -14500,6 +14678,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=570",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Metropolis_Orchester_Stan\u0026Ollie.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -14590,6 +14769,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=570",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Metropolis_Orchester_Stan\u0026Ollie.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -14633,9 +14813,9 @@
       "id": "indoorspielplatz-0-bis-3-jaehrige-7ef81e59",
       "title": "Indoorspielplatz (0- bis 3-Jährige)",
       "description": "Kinder wollen sich bewegen, toben und unter Kindern sein – auch bei schlechtem Wetter oder mal in einem kleinen, geschützten Raum. Unser Indoorspielplatz bietet den Kleinsten die Möglichkeit, sich in geschützter Umgebung auszutoben, zu spielen und neue Freund*innen kennenzulernen. Kommt vorbei und genießt gemeinsam mit euren Kindern eine fröhliche Spielzeit drinnen, warm und wetterunabhängig. Kinderwägen können parkseitig am hinteren Eingang abgestellt und abgeschlossen werden.\nMontag, 10 – 13 Uhr im Bewegungsraum (UG)\nAnmeldung: nicht erforderlich\nKosten: 2 € pro Treffen als Spende erwünscht",
-      "category": "Unkategorisiert",
+      "category": "Spielen",
       "categories": [
-        "Unkategorisiert"
+        "Spielen"
       ],
       "date": "2027-01-04",
       "startTime": "10:00",
@@ -14650,6 +14830,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/winterspielplatz-pexels-goumbik.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -14663,9 +14844,9 @@
       "id": "mittagstisch-fuer-alle-df4d19da",
       "title": "Mittagstisch für alle",
       "description": "Kommen Sie vorbei und genießen Sie eine warme Suppe. Wir laden alle Nachbar*innen zum Mittagstisch ein.\nMontag von 12 - 13.30 Uhr im Saal (OG)\nKostenbeitrag: 1 €, Ermäßigung möglich\nAnmeldung: nicht erforderlich",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2027-01-04",
       "startTime": "12:00",
@@ -14680,6 +14861,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/mittagstisch.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -14693,9 +14875,9 @@
       "id": "karten-und-brettspiele-fuer-alle-5f319442",
       "title": "Karten- und Brettspiele für alle",
       "description": "Wöchentlich findet unser geselliger Spiele-Nachmittag mit Hauscafé im Stadtteilzentrum statt.\nSchauen Sie gerne einfach vorbei, ob allein oder mit anderen Spielern im Gepäck.\nWann: Montag, 13.00 – 18.00 Uhr im Saal\nKosten: 2 € (1,50 €)",
-      "category": "Unkategorisiert",
+      "category": "Spielen",
       "categories": [
-        "Unkategorisiert"
+        "Spielen"
       ],
       "date": "2027-01-04",
       "startTime": "13:00",
@@ -14710,6 +14892,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/senioren._64b0fa38971df1.75369667.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -14834,9 +15017,9 @@
       "id": "kiezspaziergaenge-in-weissensee-2425249c",
       "title": "Kiezspaziergänge in Weißensee",
       "description": "Gemeinsam statt allein unterwegs sein! Bei unseren Spaziergängen entdecken wir Weißensee, genießen die frische Luft und bleiben gemeinsam in Bewegung. In entspannter Atmosphäre ist Zeit für nette Gespräche, neue Begegnungen und kleine Entdeckungen im Kiez. Wer mag, kann den Nachmittag anschließend ab 16 Uhr bei Kaffee und Kuchen im Kiezcafé ausklingen lassen.\n\nWann: Jeden Dienstag, 14:30–15:30/15:45 Uhr\nTreffpunkt: 14:15 Uhr im Garten des Stadtteilzentrums\nOhne Anmeldung – einfach vorbeikommen!",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2027-01-05",
       "startTime": "14:30",
@@ -14851,6 +15034,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/website_+_nebenan.despazierg%C3%A4nge_durch_wei%C3%9Fensee.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -14890,9 +15074,9 @@
       "id": "kiezcafe-087bb85a",
       "title": "Kiezcafé",
       "description": "Unser wöchentliches Café ist ein offener Treffpunkt für alle aus der Nachbarschaft. Hier könnt ihr neue Leute kennenlernen, Freund*innen treffen oder einfach entspannt den Nachmittag genießen.\n\nVor Ort gibt es Kaffee und Kuchen in unserem gemütlichen Saal. Außerdem könnt Ihr Spiele für Groß und Klein ausleihen.\n\nKommt vorbei, wir freuen uns auf Euch!\n\nWann: Jeden Dienstag von 16 - 18 Uhr\n\nWo: Im Saal",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2027-01-05",
       "startTime": "16:00",
@@ -14907,6 +15091,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/kiezcafe.jpg_67f3f62a434b30.47857496.jpeg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -15045,6 +15230,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/website_+_nebenan.de_mandala.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -15075,6 +15261,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/tango.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -15144,9 +15331,9 @@
       "id": "initiative-faires-pankow-93bd0ad9",
       "title": "Initiative Faires.Pankow",
       "description": "Der Faire.Donnerstag ist ein neues wöchentliches Nachbarschaftsprojekt im Stadtteilzentrum Weißensee, das ökologische Nachhaltigkeit, soziale Teilhabe und gemeinschaftliches Handeln verbindet.\nImmer donnerstags wird das Haus zum Treffpunkt für alle, die teilen, helfen, tauschen oder einfach beisammen sein möchten.\n\nDas Herzstück ist das Fair.Café – immer von 14 bis 17 Uhr . Hier gibt es kostenlosen Kaffee, gerettete Lebensmittel, nette Gespräche und Raum für neue Ideen – ganz ohne Konsumzwang und Kostendruck, getragen vom Engagement Nachbarschaftsinitiative Faires.Pankow. Bringt gerne (Stoff)-Tüten, Dosen und andere lebensmittelsichere Behälter mit, um die geretteten Lebensmittel sicher zu transportieren. Achtung: Die geretteten Lebensmittel sind möglicherweise schon vor dem Ende der Veranstaltung vergriffen, je nach Menge und Rückfrage. Beginn der Ausgabe ist um 14 Uhr.\n\nIm Anschluss an das Fair.Café finden wechselnde Workshops, Aktionen und Veranstaltungen rund um Nachhaltigkeit, Reparatur, Upcycling oder Nachbarschaftsprojekte statt. Hier können sich alle einbringen, mitmachen oder selbst etwas auf die Beine stellen. Wie mitmachen? Komm vorbei – mit deiner Idee! Ob beim …",
-      "category": "Unkategorisiert",
+      "category": "Beratung",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2027-01-07",
       "startTime": "14:00",
@@ -15161,6 +15348,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/faircafe%CC%81.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -15191,6 +15379,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/repariererei.jpg",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -15263,9 +15452,9 @@
       "id": "fruehstueck-fuer-frauen-mit-den-2e7310ab",
       "title": "Frühstück für Frauen mit den Stadtteilmüttern Pankow",
       "description": "Die Stadtteilmütter laden Euch herzlich zu einem Frühstück im Stadtteilzentrum ein. Es gibt viele Köstlichkeiten! Die Stadtteilmütter sprechen Arabisch und Kurdisch und helfen bei Fragen des Alltags, der Erziehung, Kita und Schule und Integration. Spielmöglichkeiten für Kinder sind vorhanden.\n\nNächster Termin: 05.02.27 immer 10 - 12 Uhr\nWeitere Termine folgen\n\nWo: Bei gutem Wetter i m Garten, sonst im Gartensaal\n\nAnmeldung / Kosten: Ohne Anmeldung und k ostenlos.",
-      "category": "Unkategorisiert",
+      "category": "Nachbarschaft",
       "categories": [
-        "Unkategorisiert"
+        "Nachbarschaft"
       ],
       "date": "2027-01-08",
       "startTime": "10:00",
@@ -15280,6 +15469,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/2608_frauenfr%C3%BChst%C3%BCck.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -15340,6 +15530,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=558",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/SavoySatellites+Emil-film_web.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -15880,6 +16071,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=565",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Candlelight_by_fever.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -15910,6 +16102,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=565",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Candlelight_by_fever.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -16082,6 +16275,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2736/werwerpng.png",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -16197,6 +16391,7 @@
       },
       "organizer": "Stadtteilzentrum Weißensee (FreiZeitHaus e.V.)",
       "url": "https://www.stz-weissensee.de/veranstaltungen.html",
+      "image": "https://www.stz-weissensee.de/images/jevents/6000x450/website_+_nebenan.de2027_._buchvorstellung.png",
       "source": "stadtteilzentrum-weissensee",
       "sources": [
         "stadtteilzentrum-weissensee"
@@ -16506,6 +16701,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=562",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Dennis_und_Vanessa.jpeg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -16596,6 +16792,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=564",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Ballet_of_Lights_Berlin_Cinderella_Foto_Fever.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -16626,6 +16823,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=564",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Ballet_of_Lights_Berlin_Cinderella_Foto_Fever.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -16656,6 +16854,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2750/veronikafischer.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -16935,6 +17134,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/yannicks-salon/",
+      "image": "https://www.peteredel.de/media/1577/yannick.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -16965,6 +17165,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/DonnaTheShow_Neu_Credit_TheaBarnwell.JPG",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -16995,6 +17196,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/DonnaTheShow_Neu_Credit_TheaBarnwell.JPG",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -17055,6 +17257,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/DonnaTheShow_Neu_Credit_TheaBarnwell.JPG",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -17085,6 +17288,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=557",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/DonnaTheShow_Neu_Credit_TheaBarnwell.JPG",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -17115,6 +17319,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2738/fil.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17145,6 +17350,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=564",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Ballet_of_Lights_Berlin_Cinderella_Foto_Fever.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -17175,6 +17381,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=564",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Ballet_of_Lights_Berlin_Cinderella_Foto_Fever.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -17205,6 +17412,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2397/peter-edel-rudelsingen.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17235,6 +17443,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2737/ggysi.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17265,6 +17474,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2671/erika_europa_20271080x1350.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17295,6 +17505,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2710/eri-mantani.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17325,6 +17536,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2711/eri-mantani-und-angelika-laule-dimmling.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17355,6 +17567,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2712/katharina-treutler.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17385,6 +17598,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2713/nikolas-jeroma.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17415,6 +17629,7 @@
       },
       "organizer": "Bildungs- und Kulturzentrum Peter Edel",
       "url": "https://www.peteredel.de/events/",
+      "image": "https://www.peteredel.de/media/2714/florian-noack.jpg",
       "source": "peter-edel",
       "sources": [
         "peter-edel"
@@ -17445,6 +17660,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=566",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/MarkEitzel.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -17475,6 +17691,7 @@
       },
       "organizer": "Theater im Delphi",
       "url": "https://theater-im-delphi.de/programm/index.php?prod=567",
+      "image": "https://theater-im-delphi.de/wp-content/uploads/programm/bild/Frack_und_Spitzenho%CC%88schen_Die_gru%CC%88ne_Fee_Fotograf_Ronny_Zeisberg.jpg",
       "source": "theater-im-delphi",
       "sources": [
         "theater-im-delphi"
@@ -17505,6 +17722,7 @@
       },
       "organizer": "Freilichtbühne Weißensee",
       "url": "https://freilichtbuehne-weissensee.de/events/nach-haus-die-seilschaft/",
+      "image": "https://freilichtbuehne-weissensee.de/wp-content/uploads/2026/10/nach-haus-die-seilschaft-scaled.png",
       "source": "freilichtbuehne-weissensee",
       "sources": [
         "freilichtbuehne-weissensee"

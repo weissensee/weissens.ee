@@ -2,7 +2,6 @@
   "label": "Freilichtbühne Weißensee",
   "homepage": "https://freilichtbuehne-weissensee.de",
   "type": "ical",
-  "images": true,
   "url": "https://freilichtbuehne-weissensee.de/events.ics",
   "daysAhead": 270,
   "organizer": "Freilichtbühne Weißensee",
@@ -18,8 +17,9 @@
     "Lesung": "Kultur",
     "Theater": "Theater"
   },
+  "images": true,
   "status": {
-    "lastAttempt": "2026-11-28T00:59:45Z",
-    "lastSuccess": "2026-11-28T00:59:45Z"
+    "lastAttempt": "2026-11-28T12:01:01Z",
+    "lastSuccess": "2026-11-28T12:01:01Z"
   }
 }

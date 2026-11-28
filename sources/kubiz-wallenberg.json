@@ -2,10 +2,8 @@
   "label": "KuBiZ Raoul Wallenberg",
   "homepage": "https://www.kubiz-wallenberg.de",
   "type": "rss",
-  "images": true,
   "url": "https://www.kubiz-wallenberg.de/?feed=rss2",
   "mapping": {
-    "image": { "template": "{encoded}", "regex": "<img[^>]+src=\"(https://[^\"]+)\"" },
     "sourceId": {
       "path": "guid"
     },
@@ -23,6 +21,10 @@
     },
     "url": {
       "path": "link"
+    },
+    "image": {
+      "regex": "<img[^>]+src=\"(https://[^\"]+)\"",
+      "template": "{encoded}"
     },
     "locationName": {
       "regex": "(?s)^(KuBiZ) [|](?:.*?Uhr\\s*,\\s*([^<\\n]+))?",
@@ -44,8 +46,9 @@
     }
   },
   "daysAhead": 120,
+  "images": true,
   "status": {
-    "lastAttempt": "2026-11-28T00:59:49Z",
-    "lastSuccess": "2026-11-28T00:59:49Z"
+    "lastAttempt": "2026-11-28T12:01:04Z",
+    "lastSuccess": "2026-11-28T12:01:04Z"
   }
 }

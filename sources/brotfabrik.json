@@ -2,13 +2,11 @@
   "label": "Brotfabrik",
   "homepage": "https://brotfabrik-berlin.de",
   "type": "json",
-  "images": true,
   "url": "https://brotfabrik-berlin.de/wp-json/tribe/events/v1/events?per_page=50",
   "itemsPath": "events",
   "nextPath": "next_rest_url",
   "maxPages": 8,
   "mapping": {
-    "image": { "path": "image.url" },
     "sourceId": {
       "path": "id"
     },
@@ -27,6 +25,9 @@
     },
     "url": {
       "path": "url"
+    },
+    "image": {
+      "path": "image.url"
     },
     "locationName": {
       "path": "venue.venue",
@@ -63,8 +64,9 @@
     "Theater": "Theater",
     "Workshop": "Kultur"
   },
+  "images": true,
   "status": {
-    "lastAttempt": "2026-11-28T00:59:40Z",
-    "lastSuccess": "2026-11-28T00:59:40Z"
+    "lastAttempt": "2026-11-28T12:00:57Z",
+    "lastSuccess": "2026-11-28T12:00:57Z"
   }
 }

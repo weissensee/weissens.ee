@@ -2,11 +2,9 @@
   "label": "Stadtteilzentrum Weißensee",
   "homepage": "https://www.stz-weissensee.de",
   "type": "html",
-  "images": true,
   "url": "https://www.stz-weissensee.de/veranstaltungen.html",
   "itemSelector": "#jevents_body .schatten",
   "extract": {
-    "image": { "selector": "img.jev_image1", "attr": "src" },
     "category": "a.ev_link_cat",
     "day": ".neulandeventDate .day",
     "description": {
@@ -18,6 +16,10 @@
     "end": {
       "selector": ".headline p:nth-of-type(2)",
       "regex": "-\\s*(\\d{1,2}:\\d{2})"
+    },
+    "image": {
+      "selector": "img.jev_image1",
+      "attr": "src"
     },
     "month": ".neulandeventDate .month",
     "place": ".headline p:nth-of-type(3) strong",
@@ -33,7 +35,6 @@
     "year": ".neulandeventDate .year"
   },
   "mapping": {
-    "image": { "path": "image" },
     "title": {
       "path": "title"
     },
@@ -48,6 +49,9 @@
     },
     "url": {
       "default": "https://www.stz-weissensee.de/veranstaltungen.html"
+    },
+    "image": {
+      "path": "image"
     },
     "locationName": {
       "path": "place",
@@ -81,12 +85,25 @@
     "Workshops": "Kultur"
   },
   "categoryRules": [
-    { "field": "title", "regex": "(?i)blutspende", "category": "Blutspende" },
-    { "field": "title", "regex": "(?i)konzert|\\bsingen\\b|\\bchor\\b", "category": "Musik" },
-    { "field": "title", "regex": "(?i)arbeitskreis|\\binitiative\\b", "category": "Beratung" }
+    {
+      "field": "title",
+      "regex": "(?i)blutspende",
+      "category": "Blutspende"
+    },
+    {
+      "field": "title",
+      "regex": "(?i)konzert|\\bsingen\\b|\\bchor\\b",
+      "category": "Musik"
+    },
+    {
+      "field": "title",
+      "regex": "(?i)arbeitskreis|\\binitiative\\b",
+      "category": "Beratung"
+    }
   ],
+  "images": true,
   "status": {
-    "lastAttempt": "2026-11-28T00:59:53Z",
-    "lastSuccess": "2026-11-28T00:59:53Z"
+    "lastAttempt": "2026-11-28T12:01:07Z",
+    "lastSuccess": "2026-11-28T12:01:07Z"
   }
 }
